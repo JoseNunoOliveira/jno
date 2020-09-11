@@ -172,5 +172,18 @@ enos de um ano depois o mestre morria.
 1977 | 1980.5 | - Bravo! Maravilhoso!
 1982 | 1983 | - Marcelina!
 1984 | 1990.5 | - Sabem, o problema é que eu tenho xxx em gente |  nova. Não sei por que me fazem isto...
-1991.5 | 1992 | - Você é a segunda flauta? | - Uma delas (?) | - xxx
+1991.5 | 1992 | - Você é a segunda flauta? | - Uma delas (?) | 
+
+
+- sendo completamente incompreensível, indulgente, intransigente e odiando isso
+Como resultado, como agora se sabe, a noite de estreia de Fidelio foi um fracasso e um baque.
+36,52 Finalmente a noite de estreia
+37.4 no piso inferior o coro, que não é preciso durante quase todo o primeiro acto está a saborear na cantina uma última sopa goulash e cerveja
+mas lá em cima as coisas estão a andar rápido
+Pizarro está a tentar subornar Rocco
+Rocco fascina-se com o ouro em perspectiva 
+Mas não se dispõe a ir tão longe quanto um assassínio.
+Pizarro decide-se a ser ele a fazê-lo mas diz-lhe que precisa de ajuda para fazer uma cova
+Rocco pensa no prisioneiro faminto que sofre entre a vida e a morte
+E admite que a morte prematura de Florestan até pode ser uma benção 
 

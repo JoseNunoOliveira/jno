@@ -1,4 +1,4 @@
-2 | 7 | BERNSTEIN FALA SOBRE BEETHOVEN
+2 | 7 | BERNSTEIN |  | SOBRE |   |  BEETHOVEN
 12 | 15.5 | CELEBRAÇÃO  | EM VIENA | 
 22.3 | 27 | Isto é Viena, a cidade adoptiva de Beethoven | desde a sua juventude até à sua morte
 32 | 38.1 | Na Primavera de 1970 eu tive o privilégio | de participar aqui nas celebrações | do nascimento de Beethoven
@@ -169,28 +169,54 @@ enos de um ano depois o mestre morria.
 1912.1 | 1914 | - Não, eu não me importo!
 1914.1 | 1915.7 | - Eu acho que é importante fazê-lo.
 1916 | 1976 | xxx
-1977 | 1980.5 | - Bravo! Maravilhoso!
+1977 | 1980.5 | - "Grazie"! Maravilhoso!
 1982 | 1983 | - Marcelina!
-1984 | 1990.5 | - Sabem, o problema é que eu tenho xxx em gente |  nova. Não sei por que me fazem isto...
-1991.5 | 1992 | - Você é a segunda flauta? | - Uma delas (?) | 
-
-sendo completamente incompreensível, indulgente, intransigente e odiando isso
-Como resultado, como agora se sabe, a noite de estreia de Fidelio foi um fracasso e um baque.
-36,52 Finalmente a noite de estreia
-37.4 no piso inferior o coro, que não é preciso durante quase todo o primeiro acto está a saborear na cantina uma última sopa goulash e cerveja
-mas lá em cima as coisas estão a andar para a frente a bom ritmo.
-Pizarro está a tentar subornar Rocco
-Rocco fascina-se com o ouro em perspectiva 
-Mas não se dispõe a ir tão longe quanto um assassínio.
-Pizarro decide-se a ser ele a fazê-lo mas diz-lhe que precisa de ajuda para fazer uma cova
-Rocco pensa no prisioneiro faminto que sofre entre a vida e a morte
-E admite que a morte prematura de Florestan até pode ser uma benção 
-Concorda enfim com a trama e pega no seu dinheiro
-Chega-se agora ao famoso Coro dos Prisioneiros.
-Leonora persuadiu Rocco a furar a regra e deixar os presos finalmente darem um breve passeio pelo sol do pátio da prisão
-É claro que ela espera desesperadamente que seu marido Florestan esteja entre eles.
-Todos eles são presos políticos que, para Beethoven, representavam as vítimas da repressão e do poder corrupto.
-Assim como nos parecem hoje a nós também, vítimas do fascismo, de qualquer tipo de totalitarismo.
-Eles emergem da sombra piscando os olhos ante a bênção dolorosa da luz do sol.
-Eles respiram ar fresco. Eles contactam com a natureza novamente.
+1984 | 1991.4 | - Sabem, o problema é que eu tenho-o (?) na gente nova. | Não sei por que me fazem isto...
+1991.5 | 1997 | - Você é a segunda flauta? | - Sim, uma delas. E é uma honra tocar consigo (?)
+1998 | 2000.5 | xxx (alemão) xxx 
+2001 | 2009 | - Bom, respirou depois do "Hoffnung" (?) | mas não o vai fazer de novo... | - Não, não o farei, foi só mesmo desta vez...
+2009.1 | 2012 | - Tem esse direito... | - Tenho esse direito, é isso.
+2012.1 | 2017 | - Um bom descanso até amanhã. | - O mesmo para si. | - Sim! "Auf wieder sehen"
+2022 | 2025 | - Ora bem, o ensaio acabou.
+2025.2 | 2029.5 | A orquestra já não está aqui | e os cantores também já saíram.
+2030 | 2035.8 | E a mim resta-me ficar sozinho com o | fantasma de Beethoven
+2036 | 2039 | e com a sua música ainda a soar nos ouvidos.
+2040 | 2046 | E... algo emocionado com a sensação de estar 
+2046.6 | 2054.6 | no que é presumivelmente o mesmo lugar em | que ele se colocou quando regeu aqui...
+2055 | 2061 | Para além do sentimento arrepiante de | auto-identificação com tão grande homem
+2061.9 | 2068.2 | sinto uma identificação adicional | ao tentar colocar-me na sua posição
+2068.3 | 2072 | na noite de estreia do seu Fidélio.
+2072.2 | 2077.2 | Um jovem de 35 anos que já estava a deixar de ouvir.
+2079 | 2081.7 | Logo já estava em desvantagem.
+2082 | 2087 | Tenho a certeza que já não ouviria as | perguntas dos músicos da orquestra...
+2088 | 2090.5 | "- Maestro, disse fá sustenido ou fá natural?"
+2091.7 | 2094.5 | "- Acho que falta um compasso ao segundo oboé" | 	- ou parecido...
+2095 | 2102 | E atrás dele, em vez de um público amigo | incluindo os seus colegas vienenses
+2102.2 | 2108.5 | quem lá estava afinal senão um público | constituído sobretudo por oficiais do exército francês
+2108.7 | 2114.2 | pois, nessa mesma semana, Napoleão tinha | entrado em Viena e ocupado a cidade. 
+2114.3 | 2120 | De certa forma acabo por sentir nas | minhas própria costas esse público frio
+2120.1 | 2123.5 | e hostil, muito "chic", francês, de luvas brancas
+2126.1 | 2132.1 | mas intransigente e odiando a obra por | ser completamente incapaz de a compreender
+2132.2 | 2140 | sendo o resultado, como hoje bem sabemos, que a noite | de estreia do Fidélio foi um fracasso e um baque.
+2210 | 2212.4 | Finalmente a noite de estreia.
+2223 | 2228 | No piso inferior, o coro - que não é preciso no | palco durante quase todo o primeiro acto
+2228.1 | 2230.9 | está a saborear na cantina uma última sopa goulash e cerveja.
+2231 | 2233.8 | Mas lá em cima as coisas estão a andar | para a frente a bom ritmo.
+2233.9 | 2237 | Pizarro está no processo de tentar subornar Rocco.
+2237.1 | 2242 | Rocco fascina-se com a perspectiva do dinheiro | mas não se dispõe a ir tão longe quanto um assassínio.
+2260 | 2265 | Pizarro decide-se a ser ele a fazê-lo mas | diz-lhe que precisa de ajuda para fazer uma cova.
+2266 | 2271.1 | Rocco pensa no prisioneiro faminto | que sofre entre a vida e a morte.
+2271.2 | 2275.5 | E admite que a morte prematura de Florestan | até pode ser uma benção. 
+2276.5 | 2281 | Concorda enfim com a trama e pega no seu dinheiro.
+2394 | 2396.9 | Chega-se agora ao famoso Coro dos Prisioneiros.
+2397 | 2406.8 | Leonora persuadiu Rocco a furar a regra e | deixar os presos finalmente darem um breve | passeio pelo sol do pátio da prisão.
+2406.9 | 2412 | É claro que ela espera desesperadamente que | o seu marido Florestan esteja entre eles.
+2413.2 | 2419.9 | Todos eles são presos políticos que, para Beethoven | representavam vítimas da repressão e do poder corrupto.
+2420 | 2427 | Assim como nos parecem hoje a nós também | vítimas do fascismo, de qualquer tipo de totalitarismo.
+2429 | 2434.8 | Eles surgem da sombra piscando os olhos | ante a bênção dolorosa da luz do sol.
+2434.9 | 2439 | Respiram ar fresco e contactam com a natureza novamente.
+2496 | 2501 | E agora, por breves momentos | até ousam pensar de novo na liberdade
+2501.1 | 2507 | e na esperança de verem o céu azul como deles também.
+2526.5 | 2530.1 | Mas há um preso que não passeia sob a luz do sol: Florestan
+2530.2 | 2538 | que há dois anos que vegeta na mais profunda | das masmorras, insano de fome e desespero.
 

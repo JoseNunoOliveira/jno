@@ -174,11 +174,10 @@ enos de um ano depois o mestre morria.
 1984 | 1990.5 | - Sabem, o problema é que eu tenho xxx em gente |  nova. Não sei por que me fazem isto...
 1991.5 | 1992 | - Você é a segunda flauta? | - Uma delas (?) | 
 
-
-- sendo completamente incompreensível, indulgente, intransigente e odiando isso
+sendo completamente incompreensível, indulgente, intransigente e odiando isso
 Como resultado, como agora se sabe, a noite de estreia de Fidelio foi um fracasso e um baque.
 36,52 Finalmente a noite de estreia
-37.4 no piso inferior o coro, que não é preciso durante quase todo o primeiro acto está a saborear na cantina uma última sopa goulash e cerveja
+37.4 no piso inferior o coro, que não é preciso durante quase todo o primeiro acto está a saborear na canina uma última sopa goulash e cerveja
 mas lá em cima as coisas estão a andar rápido
 Pizarro está a tentar subornar Rocco
 Rocco fascina-se com o ouro em perspectiva 
@@ -186,4 +185,12 @@ Mas não se dispõe a ir tão longe quanto um assassínio.
 Pizarro decide-se a ser ele a fazê-lo mas diz-lhe que precisa de ajuda para fazer uma cova
 Rocco pensa no prisioneiro faminto que sofre entre a vida e a morte
 E admite que a morte prematura de Florestan até pode ser uma benção 
+Concorda enfim com a trama e pega no seu dinheiro
+Chega-se agora ao famoso Coro dos Prisioneiros.
+Leonora persuadiu Rocco a furar a regra e deixar os presos finalmente darem um breve passeio pelo sol do pátio da prisão
+É claro que ela espera desesperadamente que seu marido Florestan esteja entre eles.
+Todos eles são presos políticos que, para Beethoven, representavam as vítimas da repressão e do poder corrupto.
+Assim como nos parecem hoje a nós também, vítimas do fascismo, de qualquer tipo de totalitarismo.
+Eles emergem da sombra piscando os olhos ante a bênção dolorosa da luz do sol.
+Eles respiram ar fresco. Eles contactam com a natureza novamente.
 

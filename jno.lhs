@@ -177,8 +177,8 @@ enos de um ano depois o mestre morria.
 sendo completamente incompreensível, indulgente, intransigente e odiando isso
 Como resultado, como agora se sabe, a noite de estreia de Fidelio foi um fracasso e um baque.
 36,52 Finalmente a noite de estreia
-37.4 no piso inferior o coro, que não é preciso durante quase todo o primeiro acto está a saborear na canina uma última sopa goulash e cerveja
-mas lá em cima as coisas estão a andar rápido
+37.4 no piso inferior o coro, que não é preciso durante quase todo o primeiro acto está a saborear na cantina uma última sopa goulash e cerveja
+mas lá em cima as coisas estão a andar para a frente a bom ritmo.
 Pizarro está a tentar subornar Rocco
 Rocco fascina-se com o ouro em perspectiva 
 Mas não se dispõe a ir tão longe quanto um assassínio.

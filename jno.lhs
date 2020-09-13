@@ -1,3 +1,19 @@
+
+module K12 where
+
+import Data.List
+import Data.List.Split
+
+main = do { x<- readFile "_.md" ; writeFile "_0.md" (f x) } where
+     f = cincat sep . filter p . splitOn sep
+     p = not . ( "backgroundColor: orange" `isSubsequenceOf`)
+     sep = "\n---\n"
+
+cincat s = concat . intersperse s
+
+
+
+
 3590.5 | 3595 | "- Alegria! Alegria! | - Alegria! Alegria!"
 
 Freude, schöner Götterfunken

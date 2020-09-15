@@ -64,49 +64,36 @@ Tenor and choir
 
 3811 | 3817 | Felizes como os Seus sóis voam através do plano celestial
 3817.1 | 3872 | Correi, irmãos, o vosso caminho alegre | como o herói para a vitória. 
+Mar: So sprich nur! ich höre ja zu
 
-Coro
+1155 | 1170 | - Ande, fale lá! Estou a ouvir.
 
-Freude, schöner Götterfunken
-Tochter aus Elysium,
-Wir betreten feuertrunken,
-Himmlische, dein Heiligtum!
+Jaq: Wenn du mir nicht freundlicher blickest, So bring’ ich kein Wörtchen hervor.
 
-3985 | 3993 | "- Alegria, formosa centelha divina, filha do Eliseu;"
-3993.1 | 4000 | "Ébrios de fogo entramos no teu santuário celeste!"
+1195 | 1199 | - Se não for mais simpática para mim | não conseguirei dizer palavra.
 
-Deine Zauber binden wieder
-Was die Mode streng geteilt;
-Alle Menschen werden Brüder,
-Wo dein sanfter Flügel weilt.
+Mar: Wenn du dich nicht in mich schickest, so stopf’ ich mir vollends das Ohr.
 
-4001.2 | 4008.2 | "A tua magia consegue unir | o que os costumes estritos dividiram;"
-4008.3 | 4017 | “Todos os homens se irmanam | onde o teu doce voo se detém.”
+1199.1 | 1200 | - Se não me disser nada taparei de vez os meus ouvidos.
 
-    Seid umschlungen, Millionen!
-    Diesen Kuß der ganzen Welt!
-    Brüder, über'm Sternenzelt
-    Muß ein lieber Vater wohnen.
+Jaq: Ein Weilchen nur höre mir zu, dann lass ich dich wieder in Ruh.
+Mar: So hab’ ich denn nimmermehr Ruh. So rede, so rede nur zu.
 
-4039 | 4052 | "Abraçai-vos, ó milhões!"
-4052.1 | 4065 | "Um beijo para o mundo inteiro!"
-4097 | 4111 | "Irmãos, sobre as estrelas"
-4111.1 | 4124 | "Deve haver um pai amigo."
+1201 | - Ouça-me um pouco e depois eu deixo-a sozinha novamente.
+1205 | - Não consigo ter paz. Ande, fale, fale lá.
 
-Adagio:
+Jaq: Ich habe zum Weib dich gewählet—Verstehst du?
+Mar: Das ist ja doch klar!
 
-    Ihr stürzt nieder, Millionen?
-    Ahnest du den Schöpfer, Welt?
-    Such' ihn über'm Sternenzelt!
-    Über Sternen muß er wohnen.
+1217 | 1226.9 | - Eu... eu escolhi-a para ser minha esposa - entende?
+1227 | 1229 | - Entendo com clareza!
 
-4177 | 4195 | "Estais a cair, ó milhões?"
-4198 | 4213 | "Ó mundo, sentes o Criador?"
-4216 | 4232 "Procurem-no acima do dossel estrelado!"
-4234.9 | 4249 | "Ele deve viver acima das estrelas."
+Mar: Mir ist so wunderbar, es engt das Herz mir ein, er liebt mir, es it klar. ich werde glucklich, glucklich sein!
 
-Allegro:
+1378 | 1397 | - Sinto-me tão maravilhada mas aperta-se-me o coração.
+1397.1 | 1434 | - Ele ama-me, isso está bem claro. Irei ser feliz, feliz!
 
-4285.5 | 4296 | "- Alegria, formosa centelha divina, filha do Eliseu;" | "Abraçai-vos, ó milhões!"
-4296.1 | 4306 | "Ébrios de fogo entramos no teu santuário celeste!" | xxx
+Mar ... es engt das Herz mir ein 
+Leo ... Sie liebt mir, es it klar.
 
+1445 - ... aperta-se-me o coração | - Ela ama-me, isso está bem claro.

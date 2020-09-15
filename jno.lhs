@@ -1,3 +1,7 @@
+
+ https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=312d2fdf-9c15-4cdc-aa06-0c65c9a5389d&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ODY4YTk0NjctNGJkOS00NWY0LWIxZjItOWMzZmIxMjcwZGY0@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252253d92716-d9fd-4bc9-95e7-217db3fff7ec%2522%252c%2522Oid%2522%253a%25222565d8d0-bbdd-4959-a560-2f290c47f173%2522%257d%26anon%3Dtrue&suppressPrompt=true
+
+
 786 | 792 | Parte 2 - FIDELIO
 832 | 837.8 | Esta é a pequena mas bela sala de ópera onde, em | 1805, Beethoven dirigiu a estreia da sua opera
 837.9 | 841 | Fidelio, que tinha o subtítulo "Amor conjugal".

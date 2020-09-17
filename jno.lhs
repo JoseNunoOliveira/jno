@@ -7,7 +7,6 @@ https://www.softwaretestingnews.co.uk/the-real-cost-of-software-bugs/
 
 https://www.youtube.com/watch?v=8kXER8Z01kk&t=136
 
-
 786 | 792 | Parte 2 - FIDELIO
 832 | 837.8 | Esta é a pequena mas bela sala de ópera onde, em | 1805, Beethoven dirigiu a estreia da sua opera
 837.9 | 841 | Fidelio, que tinha o subtítulo "Amor conjugal".
@@ -181,30 +180,32 @@ Leo ... Sie liebt mir, es it klar.
 2420.1 | 2427 | Assim como nos parecem hoje a nós também | vítimas do fascismo, de qualquer tipo de totalitarismo.
 2429 | 2434.8 | Eles surgem da sombra piscando os olhos | ante a bênção dolorosa da luz do sol.
 2434.9 | 2439 | Respiram ar fresco e contactam com a natureza novamente.
---
+
 	Coro prisioneiros
 --
 	O welche Lust in freier Luft
 	Den Athem einzuheben!
 	Nur hier, nur hier ist Leben.
 	Der Kerker eine Gruft.
---
-2441 | 2447 | "- Oh, que prazer o ar livre | para se voltar a respirar!"
-2448 | 2495 | "Só aqui, só aqui está a vida. | A masmorra é uma tumba."
+
+2441 | 2457.9 | "- Oh, que prazer o ar livre"
+2458.0 | 2466.2 |  "para se voltar a respirar!"
+2469 | 2486 | "Oh, que prazer! | Só aqui, só aqui está a vida."
+2487 | 2489 |  "A masmorra é uma tumba."
 2496 | 2501 | E agora, por breves momentos | até ousam pensar de novo na liberdade
-2501.1 | 2507 | e na esperança de verem o céu azul como deles também.
---
+2501.1 | 2505 | e na esperança de verem o céu azul como deles também.
+
 	O Himmel! Rettung! welch ein Glück.
 	O Freiheit, kehrest du zurück! 
---
-2507.1 | 2521 | "- Ó céu! Resgate! Que sorte. | Ó liberdade, volta depressa!"
+
+2505.1 | 2521.1 | "- Ó céu! Resgate! Que sorte. | Ó liberdade, volta depressa!"
 2526.5 | 2530.2 | Mas há um preso que não passeia sob a luz do sol: Florestan
 2530.3 | 2538 | que há dois anos definha na mais profunda | das masmorras, insano de fome e desespero.
---
+
 Florestan: Gott! welch ein Dunkel hier!
---
+
 2568 | 2577 | "- Meu Deus!"
-2577.1 | 2582.9 | "- Que escuridão aqui!"
+2577.1 | 2582.9 | "Que escuridão aqui!"
 2583 | 2585.9 | Nada sabendo da presença de Leonora na prisão
 2586 | 2592 | tem uma visão da sua amada como um | anjo envolto numa névoa cor de rosa | que o leva para o céu
 2593 | 2671 | xxx florestan xxx

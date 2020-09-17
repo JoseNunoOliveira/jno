@@ -1,5 +1,25 @@
 
- https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=312d2fdf-9c15-4cdc-aa06-0c65c9a5389d&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ODY4YTk0NjctNGJkOS00NWY0LWIxZjItOWMzZmIxMjcwZGY0@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252253d92716-d9fd-4bc9-95e7-217db3fff7ec%2522%252c%2522Oid%2522%253a%25222565d8d0-bbdd-4959-a560-2f290c47f173%2522%257d%26anon%3Dtrue&suppressPrompt=true
+ Florestan: Gott! welch ein Dunkel hier!
+
+2566 | 2670 | - Meu Deus!
+2670.1 | 2582.9 | - Que escuridão aqui!
+
+Coro prisioneiros
+
+O welche Lust in freier Luft
+Den Athem einzuheben!
+Nur hier, nur hier ist Leben.
+Der Kerker eine Gruft.
+
+2442 | 2447 | - Oh, que prazer o ar livre | para se voltar a respirar!
+2448 | 2495 | Só aqui, só aqui está a vida. | A masmorra é uma tumba.
+
+O Himmel! Rettung! welch ein Glück.
+O Freiheit, kehrest du zurück! 
+
+2507.1 | 2521 | - Ó céu! Resgate! Que sorte. | Ó liberdade, volta depressa!
+
+https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=312d2fdf-9c15-4cdc-aa06-0c65c9a5389d&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ODY4YTk0NjctNGJkOS00NWY0LWIxZjItOWMzZmIxMjcwZGY0@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252253d92716-d9fd-4bc9-95e7-217db3fff7ec%2522%252c%2522Oid%2522%253a%25222565d8d0-bbdd-4959-a560-2f290c47f173%2522%257d%26anon%3Dtrue&suppressPrompt=true
 
 Sw development https://www.daxx.com/blog/development-trends/number-software-developers-world
 

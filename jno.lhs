@@ -1,11 +1,12 @@
-
-https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=312d2fdf-9c15-4cdc-aa06-0c65c9a5389d&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ODY4YTk0NjctNGJkOS00NWY0LWIxZjItOWMzZmIxMjcwZGY0@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252253d92716-d9fd-4bc9-95e7-217db3fff7ec%2522%252c%2522Oid%2522%253a%25222565d8d0-bbdd-4959-a560-2f290c47f173%2522%257d%26anon%3Dtrue&suppressPrompt=true
+Beethoven Fidelio Op 72 Ópera Completa subtitulada en Españohttps://www.youtube.com/watch?v=W6cez3HEOVM
 
 Sw development https://www.daxx.com/blog/development-trends/number-software-developers-world
 
 https://www.softwaretestingnews.co.uk/the-real-cost-of-software-bugs/
 
 https://www.youtube.com/watch?v=8kXER8Z01kk&t=136
+
+------
 
 786 | 792 | Parte 2 - FIDELIO
 832 | 837.8 | Esta é a pequena mas bela sala de ópera onde, em | 1805, Beethoven dirigiu a estreia da sua opera
@@ -155,7 +156,7 @@ Leo ... Sie liebt mir, es it klar.
 2079 | 2081.7 | Logo já estava em desvantagem.
 2082 | 2087 | Tenho a certeza que já não ouviria as | perguntas dos músicos da orquestra...
 2088 | 2090.5 | "- Maestro, disse fá sustenido ou fá natural?"
-2091.7 | 2094.5 | "- Acho que falta um compasso ao segundo oboé" | 	- ou parecido...
+2091.7 | 2094.5 | "- Acho que falta um compasso ao segundo oboé" | - ou parecido...
 2095 | 2102 | E atrás dele, em vez de um público amigo | incluindo os seus colegas vienenses
 2102.2 | 2108.5 | quem lá estava afinal senão um público | constituído sobretudo por oficiais do exército francês
 2108.7 | 2114.2 | pois, nessa mesma semana, Napoleão tinha | entrado em Viena e ocupado a cidade. 
@@ -176,39 +177,23 @@ Leo ... Sie liebt mir, es it klar.
 2394 | 2396.9 | Chega-se agora ao famoso Coro dos Prisioneiros.
 2397 | 2406.8 | Leonora persuadiu Rocco a furar a regra e | deixar os presos finalmente darem um breve | passeio pelo sol do pátio da prisão.
 2406.9 | 2412 | É claro que ela espera desesperadamente que | o seu marido Florestan esteja entre eles.
-2413.2 | 2420 | Todos eles eram presos políticos que, para Beethoven | representavam vítimas da repressão e do poder corrupto.
-2420.1 | 2427 | Assim como nos parecem hoje a nós também | vítimas do fascismo, de qualquer tipo de totalitarismo.
+2413.2 | 2419.9 | Todos eles eram presos políticos que, para Beethoven | representavam vítimas da repressão e do poder corrupto.
+2420 | 2427 | Assim como nos parecem hoje a nós também | vítimas do fascismo, de qualquer tipo de totalitarismo.
 2429 | 2434.8 | Eles surgem da sombra piscando os olhos | ante a bênção dolorosa da luz do sol.
 2434.9 | 2439 | Respiram ar fresco e contactam com a natureza novamente.
-
-	Coro prisioneiros
---
-	O welche Lust in freier Luft
-	Den Athem einzuheben!
-	Nur hier, nur hier ist Leben.
-	Der Kerker eine Gruft.
-
-2441 | 2457.9 | "- Oh, que prazer o ar livre"
-2458.0 | 2466.2 |  "para se voltar a respirar!"
-2469 | 2486 | "Oh, que prazer! | Só aqui, só aqui está a vida."
-2487 | 2489 |  "A masmorra é uma tumba."
 2496 | 2501 | E agora, por breves momentos | até ousam pensar de novo na liberdade
-2501.1 | 2505 | e na esperança de verem o céu azul como deles também.
-
-	O Himmel! Rettung! welch ein Glück.
-	O Freiheit, kehrest du zurück! 
-
-2505.1 | 2521.1 | "- Ó céu! Resgate! Que sorte. | Ó liberdade, volta depressa!"
-2526.5 | 2530.2 | Mas há um preso que não passeia sob a luz do sol: Florestan
-2530.3 | 2538 | que há dois anos definha na mais profunda | das masmorras, insano de fome e desespero.
-
-Florestan: Gott! welch ein Dunkel hier!
-
-2568 | 2577 | "- Meu Deus!"
-2577.1 | 2582.9 | "Que escuridão aqui!"
+2501.1 | 2507 | e na esperança de verem o céu azul como deles também.
+2526.5 | 2530.1 | Mas há um preso que não passeia sob a luz do sol: Florestan
+2530.2 | 2538 | que há dois anos definha na mais profunda | das masmorras, insano de fome e desespero.
+2568 | 2582 | xxx florestan xxx
 2583 | 2585.9 | Nada sabendo da presença de Leonora na prisão
 2586 | 2592 | tem uma visão da sua amada como um | anjo envolto numa névoa cor de rosa | que o leva para o céu
-2593 | 2671 | xxx florestan xxx
+2593 | 2598 | "- Não sinto o murmurar | a docura de uma brisa?" | xxx do espanhol
+2599 | 2602 | "Não se ilumina de luz a minha sepultura?" | xxx do espanhol
+2603 | 2605 | "Vejo um anjo numa névoa cor de rosa | a chegar-se a mim, consolador" | xxx do espanhol
+2606 | 2608 | "Leonora, meu anjo!" | xxx do espanhol
+2609 | 2671 | "Vem e leva-me para a liberdade" | xxx do espanhol
+2615 | 2671 | "até ao reino dos céus." | xxx FALTA xxx
 2674 | 2677 | Florestan caiu no chão exausto.
 2677.5 | 2682 | Rocco desce com o seu aterrado | funcionário, Fidélio, até à masmorra
 2682.1 | 2684.5 | para o ajudar a fazer a cova para o preso.

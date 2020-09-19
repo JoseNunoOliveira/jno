@@ -7,7 +7,6 @@ https://www.softwaretestingnews.co.uk/the-real-cost-of-software-bugs/
 https://www.youtube.com/watch?v=8kXER8Z01kk&t=136
 
 ------
-
 786 | 792 | Parte 2 - FIDELIO
 832 | 837.8 | Esta é a pequena mas bela sala de ópera onde, em | 1805, Beethoven dirigiu a estreia da sua opera
 837.9 | 841 | Fidelio, que tinha o subtítulo "Amor conjugal".
@@ -33,9 +32,9 @@ https://www.youtube.com/watch?v=8kXER8Z01kk&t=136
 Mar: So sprich nur! ich höre ja zu
 
 1154.6 | 1159 | "- Ande, fale lá! Estou a ouvir." |  
-1159.1 | 1162.4 | xxx jaquino... xxx
+1159.1 | 1162.4 | "- Se não for mais ... " | "- Ei!..." 
 1162.5 | 1168 | - Desculpem-me, mas ela tem de parecer | mais trapaceira em cena.
-1168.2 | 1171.8 | - Está demasiado fora de palco, querida. | Está a cantar para os três (??)
+1168.2 | 1171.8 | - Está demasiado acima do palco, querida. | Está a cantar para as árvores...
 1171.9 | 1173.1 | - O que era então isso que queria...?
 1191 | 1193 | - Eu exagerei um pouco...
 
@@ -91,7 +90,18 @@ Leo ... Sie liebt mir, es it klar.
 
 1443 | 1462.5 | "- ... aperta-se-me o coração" | "- Ela ama-me, isso está bem claro."
 1463 | 1468 | Então é a vez de Rocco: | "Vejo que se amam", diz, aprovando a situação.
-1469 | 1508 | xxx rocco etc xxx
+
+	Mir is so wunderbar 
+	Wie gross, wie gross is die Gefahr
+	Sie liebt ihn, est ist klar.
+
+1468 | 1476 | "- Sinto-me tão maravilhada" | "- Quão grande, quão grande é o perigo" | "- Ela ama-o, isso está claro."
+
+	Ja, Maedchen, er wir dein!
+
+1477 | 1486 | - xxx | - xxx | "- Sim, rapariga, ele será teu!"
+  
+1487 | 1508 | xxx rocco etc xxx
 1509 | 1515 | Por fim, o cânone fica completo nas suas 4 vozes | com Jaquino, que se junta, confuso.
 1515.1 | 1520 | "- O que se passa aqui?", canta. "O meu cabelo está arrepiado"...
 1623 | 1631 | Todo o libreto é feito de pouco mais que figuras de papelão. | Mas nas mãos de Beethoven os seus | papéis transfiguram-se num drama épico. 
@@ -177,29 +187,69 @@ Leo ... Sie liebt mir, es it klar.
 2394 | 2396.9 | Chega-se agora ao famoso Coro dos Prisioneiros.
 2397 | 2406.8 | Leonora persuadiu Rocco a furar a regra e | deixar os presos finalmente darem um breve | passeio pelo sol do pátio da prisão.
 2406.9 | 2412 | É claro que ela espera desesperadamente que | o seu marido Florestan esteja entre eles.
-2413.2 | 2419.9 | Todos eles eram presos políticos que, para Beethoven | representavam vítimas da repressão e do poder corrupto.
-2420 | 2427 | Assim como nos parecem hoje a nós também | vítimas do fascismo, de qualquer tipo de totalitarismo.
+2413.2 | 2420 | Todos eles eram presos políticos que, para Beethoven | representavam vítimas da repressão e do poder corrupto.
+2420.1 | 2427 | Assim como nos parecem hoje a nós também | vítimas do fascismo, de qualquer tipo de totalitarismo.
 2429 | 2434.8 | Eles surgem da sombra piscando os olhos | ante a bênção dolorosa da luz do sol.
 2434.9 | 2439 | Respiram ar fresco e contactam com a natureza novamente.
+
+	Coro prisioneiros
+--
+	O welche Lust in freier Luft
+	Den Athem einzuheben!
+	Nur hier, nur hier ist Leben.
+	Der Kerker eine Gruft.
+
+2441 | 2457.9 | "- Oh, que prazer o ar livre"
+2458.0 | 2466.2 |  "para se voltar a respirar!"
+2469 | 2486 | "Oh, que prazer! | Só aqui, só aqui está a vida."
+2487 | 2489 |  "A masmorra é uma tumba."
 2496 | 2501 | E agora, por breves momentos | até ousam pensar de novo na liberdade
-2501.1 | 2507 | e na esperança de verem o céu azul como deles também.
-2526.5 | 2530.1 | Mas há um preso que não passeia sob a luz do sol: Florestan
-2530.2 | 2538 | que há dois anos definha na mais profunda | das masmorras, insano de fome e desespero.
-2568 | 2582 | xxx florestan xxx
+2501.1 | 2505 | e na esperança de verem o céu azul como deles também.
+
+	O Himmel! Rettung! welch ein Glück.
+	O Freiheit, kehrest du zurück! 
+
+2505.1 | 2521.1 | "- Ó céu! Resgate! Que sorte. | Ó liberdade, volta depressa!"
+2526.5 | 2530.2 | Mas há um preso que não passeia sob a luz do sol: Florestan
+2530.3 | 2538 | que há dois anos definha na mais profunda | das masmorras, insano de fome e desespero.
+
+Florestan: Gott! welch ein Dunkel hier!
+
+2568 | 2577 | "- Meu Deus!"
+2577.1 | 2582.9 | "Que escuridão aqui!"
 2583 | 2585.9 | Nada sabendo da presença de Leonora na prisão
-2586 | 2592 | tem uma visão da sua amada como um | anjo envolto numa névoa cor de rosa | que o leva para o céu
-2593 | 2598 | "- Não sinto o murmurar | a docura de uma brisa?" | xxx do espanhol
-2599 | 2602 | "Não se ilumina de luz a minha sepultura?" | xxx do espanhol
-2603 | 2605 | "Vejo um anjo numa névoa cor de rosa | a chegar-se a mim, consolador" | xxx do espanhol
-2606 | 2608 | "Leonora, meu anjo!" | xxx do espanhol
-2609 | 2671 | "Vem e leva-me para a liberdade" | xxx do espanhol
-2615 | 2671 | "até ao reino dos céus." | xxx FALTA xxx
-2674 | 2677 | Florestan caiu no chão exausto.
+2586 | 2592 | tem uma visão da sua amada como um | anjo envolto numa névoa cor de rosa | que o leva para o céu.
+
+	Flo:	Und spür ich nicht linde sanft sauseinde luft?
+		Und ist nicht mein Grab mir erhellet
+		Ich seh wie ein Engel im rosigen Daft (?)
+		Sich trösten zur Seite mir stellet (?)
+		Ein Engel Leonoren
+		Leonoren der Gattin so gleich
+		Der fuhrt mich zur Freiheit 
+		in himmeliche Reich.
+
+2593 | 2597 | "- Não sinto eu a doçura de uma brisa?"
+2598 | 2601 | "Não se ilumina de luz a minha sepultura?"
+2601.5 | 2608.5 | "Vejo um anjo numa névoa cor de rosa | a chegar-se a mim, consolador"
+2610 | 2615 | "O anjo Leonora! Leonora esposa tão parecida"
+2616.1 | 2621 | "Vem e leva-me para a liberdade | até ao reino dos céus."
+2624 | 2627 | "- Não sinto eu a doçura de uma brisa?"
+2629 | 2637 | "Vejo um anjo numa névoa cor de rosa | a chegar-se a mim, consolador"
+2639 | 2643 | "O anjo Leonora! Leonora esposa tão parecida"
+2643.1 | 2652 | "Vem e leva-me para a liberdade | até ao reino dos céus."
+2674 | 2677 | Florestan cai no chão, exausto.
 2677.5 | 2682 | Rocco desce com o seu aterrado | funcionário, Fidélio, até à masmorra
 2682.1 | 2684.5 | para o ajudar a fazer a cova para o preso.
-2685 | 2708 | xxx texto libreto xxx
+2685 | 2686 | "- Parece estar imóvel."
+2687 | 2689 | "- Talvez já esteja morto."
+2690 | 2692 | "Não temos tempo a perder."
+2696 | 2698 | "- É difícil ver-lhe as feições."
+2701 | 2707 | "Deus me ajude se for o caso de ser ele!"
 2709 | 2712 | Por uma última vez Florestan resiste, desesperadamente.
+
 2713 | 2715 | xxx texto libreto xxx
+
 2715.4 | 2722.1 | No seu delírio não reconhece Leonora | que lhe traz pão e vinho | como que em comunhão sagrada
 2722.2 | 2725 | Mas este instante sagrado dura pouco tempo.
 2729 | 2830 | xxx pizarro + leonora xxx
@@ -224,3 +274,5 @@ Leo ... Sie liebt mir, es it klar.
 3068.1 | 3076 | Num momento simbólico transcendente, os seus grilhões | são-lhe tirados por nada menos que Leonora, que o salvou
 3076.1 | 3081 | e a ópera termina com um brado | tremendo à alegria e celebração.
 3171 | 3175 | xxx - ... I am so exhausted ... xxx
+
+------

@@ -6,7 +6,64 @@ https://www.softwaretestingnews.co.uk/the-real-cost-of-software-bugs/
 
 https://www.youtube.com/watch?v=8kXER8Z01kk&t=136
 
-------
+---fidelio
+
+Vou aqui https://www.youtube.com/watch?v=jnQL_XzYQ8o&t=2546s
+
+https://oll.libertyfund.org/titles/beethoven-beethovens-opera-fidelio-german-text-with-an-english-translation  
+
+http://purl.pt/30455/3/#/6-7
+
+Fidelio legendas https://www.youtube.com/watch?v=W6cez3HEOVM&t=
+   
+
+337-338
+-  Freude, schönen Götterfunken Tochter aus Elysium 
+- Seid umschlungen, Millionen!
+
+- Wir betreten feuertrunken, Himmlische, dein Heiligtum
+- Diesen Kuß der ganzen Welt!
+
+339
+- Freude! Freude!
+- Seid umschlungen, Millionen!
+
+340
+- Wir betreten feuertrunken, Himmlische, dein Heiligtum
+- Diesen Kuß der ganzen Welt!
+
+341
+- Freude! Freude!
+- Freude, schönen Götterfunken Tochter aus Elysium 
+- Seid umschlungen, Millionen!
+
+355
+- Ihr stürzt nieder, Millionen? 
+
+356
+- Ahnest du den Schöpfer, Welt? 
+
+357-359
+- Such' ihn über'm Sternenzelt! Brüder! Brüder! über'm Sternenzelt Muß ein lieber Vater wohnen
+
+360-363
+- Freude, schönen Götterfunken Tochter aus Elysium
+
+364-366
+- Deine Zauber binden wieder Was die Mode streng geteilt;
+
+367-368
+- Alle Menschen werden Brüder, Wo dein sanfter Flügel weilt
+
+369-370
+- Deine Zauber binden wieder Was die Mode streng geteilt;
+
+371
+
+- Alle Menschen.....
+
+
+Rodrigo---
 3199 | 3201 | Parte 3 - A 9ª sinfonia
 3212 | 3217 | - Ora bem, os meus últimos três meses têm | em larga medida sido dedicados a Beethoven
 3217.1 | 3221 | pensando na sua vida, visitando as casas | que habitou, lendo as suas cartas,

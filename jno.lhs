@@ -272,6 +272,9 @@ Florestan: Gott! welch ein Dunkel hier!
 
 2715.4 | 2722.1 | No seu delírio não reconhece Leonora | que lhe traz pão e vinho | como que em comunhão sagrada
 2722.2 | 2725 | Mas este instante sagrado dura pouco tempo.
+
+	Er sterbe!
+
 2730 | 2732 | "- Está a morrer!"
 
 	Doch er soll erst wissen, wer ihm sein stolzes Herz zerfleischt!
@@ -290,10 +293,10 @@ Florestan: Gott! welch ein Dunkel hier!
 	steht nun als,
 	Racher, steht nun als Racher, als Racher hier;
 
-2753.5 | 2758 | "Pizarro, que querias derrubar"
+2753.5 | 2758 | "Pizarro, quem querias derrubar"
 2758.5 | 2762 | "Pizarro, que devias ter temido"
 2762.1 | 2772 | "agora está aqui para se vingar, para se vingar!"
-2773 | 2775 | "Pizarro, que querias derrubar"
+2773 | 2775 | "Pizarro, quem querias derrubar"
 2775.1 | 2777 | "Pizarro, que devias ter temido"
 2777.1 | 2786 | "agora está aqui para se vingar, para se vingar!"
 
@@ -303,23 +306,92 @@ Florestan: Gott! welch ein Dunkel hier!
 
 	Noch einmal ruf ich dir, was du getan, zurück.
 
-2791.1 | 2796 | "- De novo te relembro o que fizeste" (xxx zuruck???)
+2791.1 | 2797.5 | "- De novo te relembro o que fizeste antes"
 
 	Nur noch ein Augenlick, und dieser Dolch
 
-2798 | 2800 | "e num instante esta adaga..."
-2801 | 2803 | "- Zuruck!" xxx Costas? xxx
+2797.6 | 2800 | "e num instante esta adaga..."
 
-2810 | xxx pizarro + leonora xxx
+	Zurück!
 
-2831 | 2834.9 | Leonora proteje o marido com o | seu próprio corpo do punhal de Pizarro
-2835 | 2839.9 | e a sua identidade como mulher | e esposa é finalmente revelada.
-2840 | 2880 | xxx pizarro + leonora xxx
+2800.4 | 2802 | "- Para trás!"
+
+	- O Gott!
+	- Was soll?
+
+2802.1 | 2803 | "- Oh Deus!" | "- O que é que..."
+
+	Durchbohren, durchbohren musst du erst diese Brust.
+
+2803.1 | 2807 | "- Terás que apunhalar este seio primeiro"
+
+	Der tod sei dir geschworen fuer deine Moerder lust,
+
+2807.1 | 2811 | "A morte é o que merece essa luxúria assassina"
+
+	Wahnsinniger! Wahnsinniger! Er soll bestrafet sein,
+	Halt ein! halt ein! Halt doch ein!
+	O Gott!
+	Der tod sei dir geschworen fuer deine Moerder lust,
+
+2811.1 | 2813 | "- Louco!" | "- Pare! Pare!" | "- Ó Deus!"
+2813.1 | 2817 | "- A morte é o que merece essa luxúria assassina" 
+2817.1 | 2823 | "- Louco! Vais ser castigado!" | "- Pare! Pare já!" | "- Ó Deus! ó Deus!"
+
+	- Todt erst sein Weib!
+	- Sein Weib?
+	- Mein Weib?
+
+2824 | 2828.2 | "- Mate primeiro a esposa!"
+2828.5 | 2830.5 | "- A esposa?" | "- A esposa?" | "- A minha esposa?"
+2830.8 | 2835 | Leonora proteje o marido com o | seu próprio corpo do punhal de Pizarro
+2835.1 | 2839.9 | e a sua identidade como mulher | e esposa é finalmente revelada.
+
+	- Ich bin sein Weib, geschworen hab ich ihm Trost, Verderben dir!
+	- Sein Weib?
+	- Mein Weib?
+
+2840 | 2843.0 | "- Eu sou a esposa dele, jurei-lhe consolo | e a ti arruinar-te!
+2843.1 | 2844.5 | "- A esposa?" | "- A esposa?" | "- A minha esposa?"
+2844.6 | 2850 | "- Eu sou a esposa dele, jurei-lhe consolo | e a ti arruinar-te!
+
+	- Ich trotze seiner Wut!
+	- Vor Freude starrt mein Blut
+	- Welch unerhorter Muth
+	- Mir starrt vor Angst mein Blut
+
+2851 | 2858 | "- Eu desafio a raiva dele!" | "- O meu sangue brilha de alegria" | "- Que coragem inédita" | "- O meu sangue treme de medo"
+
+	Der Tod, der Tod sei dir geschworen
+	Soll ich vor einem Weibe beben?
+
+2858.4 | 2866 | "- A morte é o que mereces" | "- Eu a tremer diante de uma mulher?"
+
+	- Durchbohren, durchbohren musst du erst diese Brust.
+	- So opfr ich, so opfr ich beide meinen Grimm. 
+
+2866.1 | 2870 | "- Apunhá-la este seio primeiro" | "- Não sacrificarei a minha raiva"
+
+	- Durchbohren, durchbohren musst du erst diese Brust.
+	- Getheilt hast du mit ihm das Leben, so theile nun den Tod mit ihm
+
+2870.1 | 2878 | "- Apunhá-la este seio primeiro" | "- Se partilharam a vida partilharão também a morte"
+
+	Noch einen Laut und du bist todt!
+
+2877.1 | 2879.7 | "- Uma palavra mais e serás morto!"
 2886 | 2888.2 | E no momento em que Leonora saca de uma pistola
 2888.3 | 2893.3 | soa o toque de trompete da torre de vigia | da prisão anunciando a chegada do ministro.
 2893.4 | 2897.1 | E segue-se um daqueles momentos inspirados de Beethoven
 2897.2 | 2902 | em que várias emoções mescladas se | congelam num quase silêncio maravilhoso.
-2907 | 2926 | xxx leonor etc xxx
+
+	- Ach! du bist gerettet! grosser Gott!
+	- Ach! ich bin gerettet! grosser Gott!
+	- Ha! Ha! der Minister! Hoell und Tod!
+	- O! was ist das? geretchter Gott!
+
+2907 | 2926 | "- Oh! ele está salvo, meu Deus!" | "- Oh! Estou salvo, oh bom Deus!" | "- Ah, diabo! O Ministro!" | "-Oh! que foi aquilo? Graças a Deus!""
+
 2927 | 2934 | "- Rocco xxxx "
 2934.1 | 2936 | "- Já vamos! Sim - vamos já!"
 2941 | 2945 | E assim a justiça e a graça regressam aquela prisão espanhola.

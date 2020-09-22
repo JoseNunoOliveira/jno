@@ -15,8 +15,8 @@ https://oll.libertyfund.org/titles/beethoven-beethovens-opera-fidelio-german-tex
 http://purl.pt/30455/3/#/6-7
 
 Fidelio legendas https://www.youtube.com/watch?v=W6cez3HEOVM&t=
+------
    
-
 786 | 792 | Parte 2 - FIDELIO
 832 | 837.8 | Esta é a pequena mas bela sala de ópera onde, em | 1805, Beethoven dirigiu a estreia da sua opera
 837.9 | 841 | Fidelio, que tinha o subtítulo "Amor conjugal".
@@ -138,7 +138,7 @@ Mar: Mir ist so wunderbar, es engt das Herz mir ein, er liebt mir, es it klar. i
 1741.8 | 1748 | - Sabe? Foi maravilhoso o que fez aí, quando disse | "Bist du ein Mann?" e lhe ocorreu 
 1748.1 | 1751.1 | fazer isto assim, ao mesmo tempo...
 1751.2 | 1755 | e assim mostra bem e na verdade o | que eu tenho dito sobre a sua personagem.
-1755.1 | 1761.7 | - Como é que vê isso? | - "Bist du ein Mann? Bist du ein Mann?...
+1755.1 | 1761.7 | - Como é que vê isso? | - "Bist du ein Mann? Bist du ein Mann?"...
 1761.8 | 1766.1 | "- O que é para fazer, diga... diga!"
 1768 | 1774 | "- Mata-o! | - O quê? | - Ouve-me: estás a tremer?"
 1774.1 | 1779 | "- Estás a tremer? És homem ou quê? És homem ou quê?"
@@ -162,9 +162,12 @@ Mar: Mir ist so wunderbar, es engt das Herz mir ein, er liebt mir, es it klar. i
 1912.1 | 1914 | - Não, eu não me importo!
 1914.1 | 1915.7 | - Eu acho que é importante fazê-lo.
 1916 | 1976 | xxx
-1977 | 1980.5 | - "Grazie"! Maravilhoso!
+1977 | 1980.5 | - "Bravi"! Maravilhoso!
 1982 | 1983 | - Marcelina!
-1984 | 1991.4 | - Sabem, o problema é que eu tenho-o (?) na gente nova. | Não sei por que me fazem isto...
+
+	You see, the trouble is I have deemed on new people
+
+1984 | 1991.4 | - Sabem, o problema é que eu confiei (?) em gente nova. | Não sei por que me fazem isto...
 1991.5 | 1997 | - Você é a segunda flauta? | - Sim, uma delas. E é uma honra tocar consigo (?)
 1998 | 2000.5 | xxx (alemão) xxx 
 2001 | 2009 | - Bom, respirou depois do "Hoffnung" (?) | mas não o vai fazer de novo... | - Não, não o farei, foi só mesmo desta vez...
@@ -390,7 +393,7 @@ Florestan: Gott! welch ein Dunkel hier!
 	- Ha! Ha! der Minister! Hoell und Tod!
 	- O! was ist das? geretchter Gott!
 
-2907 | 2926 | "- Oh! ele está salvo, meu Deus!" | "- Oh! Estou salvo, oh bom Deus!" | "- Ah, diabo! O Ministro!" | "-Oh! que foi aquilo? Graças a Deus!""
+2907 | 2926 | "- Oh! ele está salvo, meu Deus!" | "- Oh! Estou salvo, oh bom Deus!" | "- Ah, diabo! O Ministro!" | "- Oh! que foi aquilo? Graças a Deus!""
 
 2927 | 2934 | "- Rocco xxxx "
 2934.1 | 2936 | "- Já vamos! Sim - vamos já!"
@@ -398,12 +401,100 @@ Florestan: Gott! welch ein Dunkel hier!
 2945.1 | 2954 | As pontes levadiças descem e da escuridão | tudo se torna em luz e alegria
 2978 | 2986 | Qual mensageiro divino chega D. Fernando, o ministro | para acabar com a tirania e lembrar a todos
 2986.1 | 2992 | que a fraternidade entre os homens é um ideal | para que se deve trabalhar, pensar e orar.
-2993 | 3051 | xxx d fernando xxx
-3052 | 3056 | Rocco traz consigo Florestan e a sua esposa Leonora.
-3057 | 3060 | xxx d fernando xxx
-3061.5 | 3068 | Pizarro foi levado preso e Florestan | e os outros prisioneiros são libertados.
+
+	part: 68
+	Nicht, nicht langer kniet slawisch nieder, Tyrannen Strenge sei mir fern
+
+2992.1 | 3001.4 | "- ... e longe de mim a tirania severa"
+
+	Er sucht der Bruder seine Brüder
+
+3004.1 | 3012 | "O irmão procura os seus irmãos"
+
+	und kann er helfen, hilft er gern.
+
+3014 | 3023 | "e podendo ajudar, gosta de ajudar."
+
+	Heil sei dem Tag! Heil sei der Stunde! Heil! Heil!
+
+3022.9 | 3028 | "- Salvé este dia! Salvé esta hora! | Salvação! Salvação!"
+
+3031 | 3040 | "- O irmão procura os seus irmãos"
+3040.2 | 3048.2 | "e podendo ajudar, gosta de ajudar."
+
+	Wohlan, so helft! helft den Armen!
+
+3048.3 | 3051.9 | "-Vamos, ajude! ajude os pobres!"
+3052 | 3055.8 | Rocco traz consigo Florestan e a sua esposa Leonora.
+
+	Der Totgeglaubte, der Edle, der für Wahrheit stritt?
+
+3055.9 | 3058.1 | "- O que se acreditava morto, | o nobre que lutou pela verdade?"
+
+	Und Qualen ohne Zahl erlitt
+
+3058.2 | 3061 | "- E sofreu tormentos sem número"
+3061.5 | 3068 | Pizarro é levado preso e Florestan e | todos os outros prisioneiros são libertados.
 3068.1 | 3076 | Num momento simbólico transcendente, os seus grilhões | são-lhe tirados por nada menos que Leonora, que o salvou
 3076.1 | 3081 | e a ópera termina com um brado | tremendo à alegria e celebração.
+
+	Retterin des Gatten sein
+
+3081.1 | 3084 | "- ... salvadora do seu esposo | salvadora do seu esposo!"
+
+	Liebend sei es hoch besungen
+	Nie wird es hoch besungen
+
+3084.3 | 3087.1 | "- Que seja louvado com amor" | - "Que seja celebrada"
+
+	Wer ein holdes Weib errungen
+
+3087.2 | 3088.9 | "- O que ganhou uma esposa dedicada"
+
+	Florestan ist wieder mein!
+	Retterin des Gatten sein
+
+3089 | 3091 | "Florestan, que é meu de novo!" | "a salvadora do seu esposo."
+
+	stimm in unsern Jubel ein
+
+3091.1 | 3092.1 | "que se junte ao nosso júbilo"
+
+	Liebend sei es hoch besungen
+	Nie wird es hoch besungen
+
+3092.2 | 3095.6 | "- Que seja louvado com amor" | "- Que seja celebrada"
+3095.7 | 3096.8 | "- Que seja celebrada" 
+
+	Florestan, Florestan
+	Retterin, Retterin
+
+3096.9 | 3097.9 | "- Florestan, Florestan" | "- a salvadora, a salvadora"
+3098 | 3099.5 | "- a salvadora, a salvadora"
+
+	Florestan ist wieder mein!
+	Retterin des Gatten sein
+
+3099.6 | 3100.5 | "- Florestan, que é meu de novo!" | "a salvadora do seu esposo."
+3100.6 | 3104.9 | "- a salvadora, a salvadora" 
+
+	Liebend ist es mir gelungen dich aus Ketten zu befrein
+	Retterin des Gatten sein
+
+3105 | 3109.9 | "- Com amor consegui libertar-te das correntes" | "- a salvadora do seu esposo."
+
+	Liebend sei es hoch besungen
+	Nie wird es hoch besungen
+
+3110.0 | 3113.6 | "- Que seja louvado com amor" | "- Que seja celebrada"
+
+	Florestan ist wieder mein!
+	Retterin des Gatten sein
+
+3113.7 | 3121 | "- Florestan, que é meu de novo!" | "a salvadora do seu esposo."
+
 3171 | 3175 | xxx - ... I am so exhausted ... xxx
+
+
 
 ------

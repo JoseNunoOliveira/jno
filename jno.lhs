@@ -1,5 +1,15 @@
 Start
+Originality
 
+This dissertation presents original and comprehensive research carried out by the candidate on a difficult topic. His research contributes not only to a more ambitious approach to the so relevant problem of comparing source code (the 'diff' problem), but also to the Haskell programming ecosystem for generic programming. It also includes a comprehensive empirical study.
+
+Scientific quality
+
+The scientific quality of this dissertation is high, particularly in the candidate's honest self-evaluation of the results obtained, thus showing a truly scientific mind at work.
+ 
+Written presentation
+
+The writing quality is generally good, although suffering from typos that will need to be corrected. But most of these are minor textual problems that do not compromise the overall result.
 Type-Safe Generic Differencing of Mutually Recursive Families
 5 oktober 2020 des ochtends te 11:00 uur
 

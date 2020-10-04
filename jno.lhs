@@ -1,4 +1,4 @@
-Initial
+Start
 
 Type-Safe Generic Differencing of Mutually Recursive Families
 5 oktober 2020 des ochtends te 11:00 uur
@@ -25,6 +25,23 @@ P81/90 jno, |diff x y| as a kind of residual, thus a GC between patches and tree
 
 P82/91 partiality, a kind of |i . (conv d)|
 
+P86/95 wcs functional specification injective? list intersection not injective even  with no repeats.
+
+P87/96, about the code below:
+Spurious H in LeafH. Catas preserve injectivity, injective algebra enough. Why 1,2,3 in the algebra? As one of the “arms” of the initial algebra, cons is injective already. Is it to “facilitate” the cross-injectivity to be ensured by hash?
+
+merkleRoot ∶∶ Tree → Digest
+merkleRoot (LeafH n) = hash (concat [“1” , encode n])
+merkleRoot (Bin x y) = hash (concat [“2” , merkleRoot x , merkleRoot y])
+merkleRoot (Tri x y z) = hash (concat [“3” , merkleRoot x , merkleRoot y , merkleRoot z])
+
+P90/99 is it chgApply or applyChg? Latter used twice only.
++ 5.1.3 Meta Theory
+P91/100 the best change topic
+P132/141 “Forgetting about sharing is just one example of a different context extraction mechanism and, without a formal notion about when a patch is better than another”...
+
+P156/155 vector clocks for implicit representation of causal histories. ?
+
 Jno notes
 P13/22 Definition2.1.1(TreeMapping).
 P27/36 rose trees etc
@@ -32,6 +49,7 @@ P27/36 rose trees etc
 Typos: 
 
 P5/P14 published with with Pierre-ÉvaristeDagand.
+P84/93 “to only shares”
 
 CSI teste: FT de |‪maybe :: b->(a->b) -> Maybe a -> b| ‬que aplica o segundo argumento ao terceiro quando este for |Just x|, retornando o primeiro argumento caso contrário.
 |maybe b f = either (const b) f|

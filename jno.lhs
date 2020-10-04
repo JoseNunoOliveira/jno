@@ -1,65 +1,4 @@
-Beethoven Fidelio Op 72 Ópera Completa subtitulada en Españohttps://www.youtube.com/watch?v=W6cez3HEOVM
-
-Sw development https://www.daxx.com/blog/development-trends/number-software-developers-world
-
-https://www.softwaretestingnews.co.uk/the-real-cost-of-software-bugs/
-
-https://www.youtube.com/watch?v=8kXER8Z01kk&t=136
-
----fidelio
-
-Vou aqui https://www.youtube.com/watch?v=jnQL_XzYQ8o&t=2546s
-
-https://oll.libertyfund.org/titles/beethoven-beethovens-opera-fidelio-german-text-with-an-english-translation  
-
-http://purl.pt/30455/3/#/6-7
-
-Fidelio legendas https://www.youtube.com/watch?v=W6cez3HEOVM&t=
-------
-   
-786 | 792 | Parte 2 - FIDELIO
-832 | 837.8 | Esta é a pequena mas bela sala de ópera onde, em | 1805, Beethoven dirigiu a estreia da sua opera
-837.9 | 841 | Fidelio, que tinha o subtítulo "Amor conjugal".
-842 | 846.1 | Foi para mim uma honra singular dirigir | esta obra neste histórico e encantador teatro
-846.2 | 853 | onde Beethoven não só dirigiu a ópera mas | também viveu algum tempo quando a estava a compor.
-855 | 860 | O meu velho amigo e colega Otto Schenk foi o director artístico.
-862 | 867.1 | Scheck e eu preparamos Fidélio juntos durante | várias semanas com colegas da Ópera de Viena
-867.2 | 873 | no palco e nas várias salas de ensaio | trocando ideias entre nós e os cantores.
-873.2 | 882 | Esses são períodos de intensa concentração, | longas horas de experimentação, improviso | e muito entusiasmo.
-991 | 1002 | E chega então o momento da excitante mas terrível | colisão em que a orquestra, os cantores, os coros e o cenário, | tudo se junta para a fase final dos ensaios.
-1002.1 | 1006.0 | Tudo pode acontecer, umas | coisas menos previsíveis que outras.
-1039.5 | 1047 | - Sabe, podíamos tocar a abertura, já que | a orquestra está aqui... | podíamos tocar primeiro a abertura...
-1093.1 | 1097 | Bom, o fogo está controlado e a ópera pode agora começar.
-1099.1 | 1101.4 | A história passa-se numa prisão espanhola.
-1101.6 | 1108 | É uma história de coragem, de repressão | política e de luta pela liberdade.
-1110.9 | 1119.9 | O herói, Florestan, havia sido encarcerado | numa masmorra por um seu inimigo poderoso, | Pizzarro, cuja tirania ele tinha denunciado.
-1120 | 1127 | Leonora, a adorada esposa de Florestan, | disfarça-se de homem com um nome suposto - Fidélio
-1127.1 | 1132.1 | por forma a arranjar emprego na prisão e assim | conseguir uma situação em que possa vir a libertar o marido.
-1135 | 1142.8 | Mas o tom da cena inicial parece nada ter a ver | com tal heroicidade. Mais parece ser de uma opereta leve.
-1143 | 1148 | Jaquino é o porteiro da prisão e está | apaixonado por Marcelina, a filha do carcereiro.
-1148.1 | 1154.5 | Mas esta está a perder o interesse por ele desde que | chegou o novo e bonito funcionário, o misterioso Fidélio.
-
-Mar: So sprich nur! ich höre ja zu
-
-1154.6 | 1159 | "- Ande, fale lá! Estou a ouvir." |  
-1159.1 | 1162.4 | "- Se não for mais ... " | "- Ei!..." 
-1162.5 | 1168 | - Desculpem-me, mas ela tem de parecer | mais trapaceira em cena.
-1168.2 | 1171.8 | - Está demasiado acima do palco, querida. | Está a cantar para as árvores...
-1171.9 | 1173.1 | - O que era então isso que queria...?
-1191 | 1193 | - Eu exagerei um pouco...
-
-Jaq: Wenn du mir nicht freundlicher blickest,
-So bring’ ich kein Wörtchen hervor.
-
-1194.5 | 1199 | "- Se não for mais simpática para mim | não conseguirei dizer palavra."
-
-Mar: Wenn du dich nicht in mich schickest,
-so stopf’ ich mir vollends das Ohr.
-
-1199.1 | 1206 | "- Se não me disser nada taparei de vez os meus ouvidos."
-
-Jaq: Ein Weilchen nur höre mir zu, dann lass ich dich wieder in Ruh.
-Mar: So hab’ ich denn nimmermehr Ruh. So rede, so rede nur zu.
+ rede, so rede nur zu.
 
 1206.1 | 1212 | "- Ouça-me um pouco e depois eu deixo-a sozinha novamente." | "- Não consigo ter paz. Ande, fale, fale lá."
 
@@ -213,62 +152,7 @@ Mar: Mir ist so wunderbar, es engt das Herz mir ein, er liebt mir, es it klar. i
 2434.9 | 2439 | Respiram ar fresco e contactam com a natureza novamente.
 
 	Coro prisioneiros
---
-	O welche Lust in freier Luft
-	Den Athem einzuheben!
-	Nur hier, nur hier ist Leben.
-	Der Kerker eine Gruft.
 
-2441 | 2457.9 | "- Oh, que prazer o ar livre"
-2458.0 | 2466.2 |  "para se voltar a respirar!"
-2469 | 2486 | "Oh, que prazer! | Só aqui, só aqui está a vida."
-2487 | 2489 |  "A masmorra é uma tumba."
-2496 | 2501 | E agora, por breves momentos | até ousam pensar de novo na liberdade
-2501.1 | 2505 | e na esperança de verem o céu azul como deles também.
-
-	O Himmel! Rettung! welch ein Glück.
-	O Freiheit, kehrest du zurück! 
-
-2505.1 | 2521.1 | "- Ó céu! Resgate! Que sorte. | Ó liberdade, volta depressa!"
-2526.5 | 2530.2 | Mas há um preso que não passeia sob a luz do sol: Florestan
-2530.3 | 2538 | que há dois anos definha na mais profunda | das masmorras, insano de fome e desespero.
-
-Florestan: Gott! welch ein Dunkel hier!
-
-2568 | 2577 | "- Meu Deus!"
-2577.1 | 2582.9 | "Que escuridão aqui!"
-2583 | 2585.9 | Nada sabendo da presença de Leonora na prisão
-2586 | 2592 | tem uma visão da sua amada como um | anjo envolto numa névoa cor de rosa | que o leva para o céu.
-
-	Flo:	Und spür ich nicht linde sanft sauseinde luft?
-		Und ist nicht mein Grab mir erhellet
-		Ich seh wie ein Engel im rosigen Daft (?)
-		Sich trösten zur Seite mir stellet (?)
-		Ein Engel Leonoren
-		Leonoren der Gattin so gleich
-		Der fuhrt mich zur Freiheit 
-		in himmeliche Reich.
-
-2593 | 2597 | "- Não sinto eu a doçura de uma brisa?"
-2598 | 2601 | "Não se ilumina de luz a minha sepultura?"
-2601.5 | 2608.5 | "Vejo um anjo numa névoa cor de rosa | a chegar-se a mim, consolador"
-2610 | 2615 | "O anjo Leonora! Leonora esposa tão parecida"
-2616.1 | 2621 | "Vem e leva-me para a liberdade | até ao reino dos céus."
-2624 | 2627 | "- Não sinto eu a doçura de uma brisa?"
-2629 | 2637 | "Vejo um anjo numa névoa cor de rosa | a chegar-se a mim, consolador"
-2639 | 2643 | "O anjo Leonora! Leonora esposa tão parecida"
-2643.1 | 2652 | "Vem e leva-me para a liberdade | até ao reino dos céus."
-2674 | 2677 | Florestan cai no chão, exausto.
-
-	XII
-
-2677.5 | 2682 | Rocco desce com o seu aterrado | funcionário, Fidélio, até à masmorra
-2682.1 | 2684.5 | para o ajudar a fazer a cova para o preso.
-2685 | 2686 | "- Parece estar imóvel."
-2687 | 2689 | "- Talvez já esteja morto."
-2690 | 2692 | "Não temos tempo a perder."
-2696 | 2698 | "- É difícil ver-lhe as feições."
-2701 | 2707 | "Deus me ajude se for o caso de ser ele!"
 2709 | 2712 | Por uma última vez Florestan resiste, desesperadamente.
 
 2713 | 2715 | xxx texto libreto xxx
@@ -278,49 +162,6 @@ Florestan: Gott! welch ein Dunkel hier!
 
 	Er sterbe!
 
-2730 | 2732 | "- Está a morrer!"
-
-	Doch er soll erst wissen, wer ihm sein stolzes Herz zerfleischt!
-
-2735.5 | 2738 | "Mas primeiro há-de saber"
-
-2739 | 2743 | "quem lhe vai despedaçar o coração orgulhoso!"
-
-	Der Rache Dunkel sei zerrissen, sieh her! du hast mich nicht getaeuscht!
-
-2744 | 2748 | "Rasgue-se a escuridão da vingança"
-2749 | 2753 | "Olha cá, que não me enganas!"
-
-	Pizarro, den du stürzen solltest,
-	Pizarro, den du fürchten solltest,
-	steht nun als,
-	Racher, steht nun als Racher, als Racher hier;
-
-2753.5 | 2758 | "Pizarro, quem querias derrubar"
-2758.5 | 2762 | "Pizarro, que devias ter temido"
-2762.1 | 2772 | "agora está aqui para se vingar, para se vingar!"
-2773 | 2775 | "Pizarro, quem querias derrubar"
-2775.1 | 2777 | "Pizarro, que devias ter temido"
-2777.1 | 2786 | "agora está aqui para se vingar, para se vingar!"
-
-	Ein Mörder, ein Mörder steht vor mir.
-
-2788.1 | 2791 | "- Um assassino, está um assassino diante de mim!"
-
-	Noch einmal ruf ich dir, was du getan, zurück.
-
-2791.1 | 2797.5 | "- De novo te relembro o que fizeste antes"
-
-	Nur noch ein Augenlick, und dieser Dolch
-
-2797.6 | 2800 | "e num instante esta adaga..."
-
-	Zurück!
-
-2800.4 | 2802 | "- Para trás!"
-
-	- O Gott!
-	- Was soll?
 
 2802.1 | 2803 | "- Oh Deus!" | "- O que é que..."
 
@@ -405,96 +246,35 @@ Florestan: Gott! welch ein Dunkel hier!
 	part: 68
 	Nicht, nicht langer kniet slawisch nieder, Tyrannen Strenge sei mir fern
 
-2992.1 | 3001.4 | "- ... e longe de mim a tirania severa"
-
-	Er sucht der Bruder seine Brüder
-
-3004.1 | 3012 | "O irmão procura os seus irmãos"
-
-	und kann er helfen, hilft er gern.
-
-3014 | 3023 | "e podendo ajudar, gosta de ajudar."
-
-	Heil sei dem Tag! Heil sei der Stunde! Heil! Heil!
-
-3022.9 | 3028 | "- Salvé este dia! Salvé esta hora! | Salvação! Salvação!"
-
-3031 | 3040 | "- O irmão procura os seus irmãos"
-3040.2 | 3048.2 | "e podendo ajudar, gosta de ajudar."
-
-	Wohlan, so helft! helft den Armen!
-
-3048.3 | 3051.9 | "-Vamos, ajude! ajude os pobres!"
-3052 | 3055.8 | Rocco traz consigo Florestan e a sua esposa Leonora.
-
-	Der Totgeglaubte, der Edle, der für Wahrheit stritt?
-
-3055.9 | 3058.1 | "- O que se acreditava morto, | o nobre que lutou pela verdade?"
-
-	Und Qualen ohne Zahl erlitt
-
-3058.2 | 3061 | "- E sofreu tormentos sem número"
-3061.5 | 3068 | Pizarro é levado preso e Florestan e | todos os outros prisioneiros são libertados.
-3068.1 | 3076 | Num momento simbólico transcendente, os seus grilhões | são-lhe tirados por nada menos que Leonora, que o salvou
-3076.1 | 3081 | e a ópera termina com um brado | tremendo à alegria e celebração.
-
-	Retterin des Gatten sein
-
-3081.1 | 3084 | "- ... salvadora do seu esposo | salvadora do seu esposo!"
-
-	Liebend sei es hoch besungen
-	Nie wird es hoch besungen
-
-3084.3 | 3087.1 | "- Que seja louvado com amor" | - "Que seja celebrada"
-
-	Wer ein holdes Weib errungen
-
-3087.2 | 3088.9 | "- O que ganhou uma esposa dedicada"
-
-	Florestan ist wieder mein!
-	Retterin des Gatten sein
-
-3089 | 3091 | "Florestan, que é meu de novo!" | "a salvadora do seu esposo."
-
-	stimm in unsern Jubel ein
-
-3091.1 | 3092.1 | "que se junte ao nosso júbilo"
-
-	Liebend sei es hoch besungen
-	Nie wird es hoch besungen
-
-3092.2 | 3095.6 | "- Que seja louvado com amor" | "- Que seja celebrada"
-3095.7 | 3096.8 | "- Que seja celebrada" 
-
-	Florestan, Florestan
-	Retterin, Retterin
-
-3096.9 | 3097.9 | "- Florestan, Florestan" | "- a salvadora, a salvadora"
-3098 | 3099.5 | "- a salvadora, a salvadora"
-
-	Florestan ist wieder mein!
-	Retterin des Gatten sein
-
-3099.6 | 3100.5 | "- Florestan, que é meu de novo!" | "a salvadora do seu esposo."
-3100.6 | 3104.9 | "- a salvadora, a salvadora" 
-
-	Liebend ist es mir gelungen dich aus Ketten zu befrein
-	Retterin des Gatten sein
-
-3105 | 3109.9 | "- Com amor consegui libertar-te das correntes" | "- a salvadora do seu esposo."
-
-	Liebend sei es hoch besungen
-	Nie wird es hoch besungen
-
-3110.0 | 3113.6 | "- Que seja louvado com amor" | "- Que seja celebrada"
-
-	Florestan ist wieder mein!
-	Retterin des Gatten sein
-
-3113.7 | 3121 | "- Florestan, que é meu de novo!" | "a salvadora do seu esposo."
-
-3171 | 3175 | xxx - ... I am so exhausted ... xxx
+2992.1 | 3001.4 | "- 
+xx
 
 
 
 ------
+
+Type-Safe Generic Differencing of Mutually Recursive Families
+5 oktober 2020 des ochtends te 11:00 uur
+
+Victor Cacciari Miraldo
+
+page 4/13 - “enumerate all combinations of insertions, deletions and copies that transform the source into the destination and choose the ‘best’ one.”
+
+page 74/83 - “The only condition we impose is (semi)injectivity of wcs”. Then on page 77/86 there is a “functional specification” which is not proved injective. Have you ensured this on the final implementation?
+
+P58/67 “Unfortunately, the generics-mrsop heavy usage of type families triggers a memory leak in the compiler. This renders the library unusable for large families of mutu- ally recursive datatypes at the time of writing this thesis. Luckily, however, we were able to work around that by dropping the sums of products structure but maintaining a combinator-based approach in generics-simplistic, which enabled us to run our experiments with real-world data, as discussed in Chapter 6.”
+
+Jno notes
+P13/22 Definition2.1.1(TreeMapping).
+P27/36 rose trees etc
+
+Typos: 
+
+P5/P14 published with with Pierre-ÉvaristeDagand.
+
+CSI teste: FT de |‪maybe :: b->(a->b) -> Maybe a -> b| ‬que aplica o segundo argumento ao terceiro quando este for |Just x|, retornando o primeiro argumento caso contrário.
+|maybe b f = either (const b) f|
+
+N. Wu - http://zenzike.com/posts/2011-04-07-injective-representables
+
+Xxx

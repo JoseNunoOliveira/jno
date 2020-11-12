@@ -1,23 +1,118 @@
+
+
+1
 sig Ne { 
-  R : set Ne,
+2
+  R  : set Ne,
+3
   Si : set Sig,
-  Sw : set Switch
+4
+  S  : set Sw
+5
   }
-
+6
+​
+7
+sig Sig, Sw {} 
+8
+​
+9
 -- all joins have signals
-
+10
+​
+11
 fact{
-   R.~R - S.(Sig ->Sig).~S.in iden
-}
+Alloy4Fun
 
+
+1
+sig Ne { 
+2
+  R  : set Ne,
+3
+  Si : lone Sig,
+4
+  S  : lone Sw
+5
+  }
+6
+​
+7
+sig Sig, Sw {} 
+8
+​
+9
+-- all joins have signals
+10
+​
+11
+fact{
+12
+   R.~R - Si.(Sig->Sig).~Si in iden
+13
+}
+14
+​
+15
 -- all forks have switches
-
+16
+​
+17
 fact{
-   ~R.(R - S.(Ne ->Ne)) in iden
+18
+   ~R.(R - S.(Sw->Ne)) in iden
+19
 }
-
-
-
+20
+​
+21
+-- R is irreflexive
+22
+​
+23
+fact{
+24
+  R - iden = R
+25
+  R - ~R = R
+26
+  no (^R & iden)
+27
+ -- no (^R & R)
+28
+}
+29
+​
+30
+-- signals are not shared and switches are not shared
+31
+​
+32
+fact{
+33
+   S.~S in iden
+34
+   Si.~Si in iden
+35
+}
+36
+​
+37
+​
+38
+run { 
+39
+  some R
+40
+  some Si
+41
+  some S
+42
+  not (R.~R in iden) -- there are joins
+43
+  not (~R.R in iden) -- theres are forks
+44
+} for exactly 4 Ne, 4 Sig, 4 Sw
 
 
 Start

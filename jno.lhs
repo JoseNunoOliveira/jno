@@ -1,3 +1,25 @@
+sig Ne { 
+  R : set Ne,
+  Si : set Sig,
+  Sw : set Switch
+  }
+
+-- all joins have signals
+
+fact{
+   R.~R - S.(Sig ->Sig).~S.in iden
+}
+
+-- all forks have switches
+
+fact{
+   ~R.(R - S.(Ne ->Ne)) in iden
+}
+
+
+
+
+
 Start
 
 Type-Safe Generic Differencing of Mutually Recursive Families

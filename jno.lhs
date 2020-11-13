@@ -10,13 +10,15 @@ sig Sig, Sw {}
 -- all joins have signals
 
 fact{
-   R.~R - Si.(Sig->Sig).~Si in iden
+  let top=Sig->Sig |
+      R.~R - Si.top.~Si in iden
 }
 
 -- all forks have switches
 
 fact{
-   ~R.(R - S.(Sw->Ne)) in iden
+  let top=Sw->Ne |
+    ~R.(R - S.top) in iden
 }
 
 -- R is irreflexive
@@ -43,4 +45,4 @@ run {
   not (~R.R in iden) -- theres are forks
 } for exactly 4 Ne, 4 Sig, 4 Sw
 
-
+-- http://alloy4fun.inesctec.pt/dAXv2iJp9dk8yotLz

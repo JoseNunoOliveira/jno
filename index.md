@@ -16,5 +16,5 @@ Testing future index page
 
 ---
 
-[Home](https://josenunooliveira.github.io/jno/)
+[Home](https://www.di.uminho.pt/~jno)
 

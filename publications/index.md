@@ -1,4 +1,6 @@
 
+<div style="position:fixed;bottom:0;right:0;width:10%;background-color:#eeeeee"><h2 >Testing...</h2></div>
+
 ## 2022
 
 * R.C. Backhouse and J.N. Oliveira.  <EM>On difunctions</EM>.  Journal paper (submitted).
@@ -7,3 +9,5 @@
 * J.N. Oliveira.  <EM>Why adjunctions matter</EM>.  Invited talk (<a href="http://wadt2022.web.ua.pt/">WADT'22</a>, Aveiro, 30 June 2022). (<a href="http://www4.di.uminho.pt/~jno/ps/wadt22sl.pdf">Slides</a>).
 
 [earlier (<2022)](https://www4.di.uminho.pt/~jno/html/jnopub.html)
+
+[back](https://josenunooliveira.github.io/jno/)

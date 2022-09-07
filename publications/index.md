@@ -1,6 +1,4 @@
 
-<div style="position:fixed;bottom:0;right:0;width:25%;background-color:#eeeeee"><h2 >Testing...</h2></div>
-
 ## Papers, talks, reports etc
 
 **2022**

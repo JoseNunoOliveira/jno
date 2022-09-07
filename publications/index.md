@@ -1,6 +1,8 @@
 
 <div style="position:fixed;bottom:0;right:0;width:10%;background-color:#eeeeee"><h2 >Testing...</h2></div>
 
+### Papers, talks, reports etc 
+
 **2022**
 
 * R.C. Backhouse and J.N. Oliveira.  <EM>On difunctions</EM>.  Journal paper (submitted).
@@ -17,7 +19,7 @@
          
 * A. Santos, J.N. Oliveira.  <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><EM>Type Your Matrices for Great Good (Functional Pearl)</EM></a>.  Proceedings of the <a href="https://www.haskell.org/haskell-symposium/2020/index.html"> Haskell Symposium 2020</a>, 27-28 August 2020, pages 54-66.   
 * J.N. Oliveira.  <A NAME="tex2html6x" HREF="http://www4.di.uminho.pt/~jno/ps/haslabtr202010.pdf">A Note on the Under-Appreciated For-Loop</A>.  Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.   
-* J.N. Oliveira.  <EM>Biproducts of Galois connections</EM>.  Contributed talk to <A NAME="tex2html15" HREF="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo">IFIP WG 2.1 Meeting #79</A>, Otterlo (NL), January 2020.   </UL> <P> <P><A NAME="sec:18"></A>
+* J.N. Oliveira.  <EM>Biproducts of Galois connections</EM>.  Contributed talk to <A NAME="tex2html15" HREF="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo">IFIP WG 2.1 Meeting #79</A>, Otterlo (NL), January 2020.
 
 **2018**
 
@@ -27,146 +29,39 @@
 * J.N. Oliveira (joint work with R.S. Barbosa and A. Neri).  <A NAME="tex2html12" HREF="http://www.di.uminho.pt/~jno/ps/nii18sl.pdf">Towards quantamorphisms - some thoughts on (constructive) reversibility</A>, talk at NII, Tokyo, 23 Jan 2018.  </LI> 
 * J.N. Oliveira.  <EM>Programming from Metaphorisms</EM>. Journal paper. JLAMP Volume 94, January 2018, Pages 15-44 (DOI:<A NAME="tex2html13" HREF="https://doi.org/10.1016/j.jlamp.2017.09.003">10.1016/j.jlamp.2017.09.003</A>). See <A NAME="tex2html14" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">slides</A> of homonym talk at <A NAME="tex2html15" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn, Apr 28th, 2016.
 
-[earlier (<2018)](https://www4.di.uminho.pt/~jno/html/jnopub.html)
+**2017**
+
+* J.N. Oliveira and H.D. Macedo.  <SPAN  CLASS="textit">The data cube as a typed linear algebra operator</SPAN>.  In <EM>Proc. of the 16th Int. Symposium on Database Programming Languages</EM>, DBPL '17, pages 6:1-6:11, New York, NY, USA, 2017. ACM. (DOI:<A NAME="tex2html12" HREF="http://doi.acm.org/10.1145/3122831.3122834">10.1145/3122831.3122834</A>; <A NAME="tex2html13" HREF="http://www.di.uminho.pt/%7Ejno/ps/dbpl17sl.pdf">Slides</A>.) 
+* R. Pontes, M. Matos, J.N. Oliveira, J.O. Pereira.  <A NAME="tex2html11" HREF="https://link.springer.com/chapter/10.1007%2F978-3-319-60074-1_9">Implementing a Linear Algebra Approach to Data Processing</A>.  LNCS 10223, 215-222, 2017.  
+* J.N. Oliveira.  <EM>Going quantitative in software modeling</EM> (<A HREF="http://www.di.uminho.pt/%7Ejno/ps/trust17sl.pdf">Slides</A>).  Contributed talk to the <A NAME="tex2html15" HREF="http://haslab.github.io/TRUST/">Trust 2nd Workshop</A>, Braga, Oct 2017.  
+* J.N. Oliveira.  <EM>Measuring probabilistic contracts</EM>.  Contributed talk to <A NAME="tex2html15" HREF="http://foswiki.cs.uu.nl/foswiki/IFIP21/Uruguay">IFIP WG 2.1 Meeting #75</A>, Montevideo, Febr 2017.  
+* J.N. Oliveira.  <EM>First steps in a (linear) algebra of (quantum) functional programming </EM>.  Contributed talk to <A NAME="tex2html16" HREF="http://foswiki.cs.uu.nl/foswiki/IFIP21/Uruguay">IFIP WG 2.1 Meeting #75</A>, Montevideo, Febr 2017.
+
+**2016**
+
+* V.C. Miraldo, J.N. Oliveira, <EM>'Keep definition, change category' -- a practical approach to state-based system calculi</EM>.  In <SPAN  CLASS="textit">Journal of Logical and Algebraic Methods in Programming</SPAN>, Volume 85, Issue 4, June 2016, pages 449-474.  DOI: <A NAME="tex2html16" HREF="http://www.sciencedirect.com/science/article/pii/S2352220815001443">10.1016/j.jlamp.2015.11.007</A>.  
+* C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal <EM>Computer Aided Verification of Relational Models</EM>. Pages 647-658 of the proc. of <A NAME="tex2html17" HREF="http://www.cacic2016.unsl.edu.ar/">CACIC'16</A>, San Luis, Argentina, 3-7th October, 2016.  
+* J.N. Oliveira. <A NAME="tex2html18" HREF="http://www.di.uminho.pt/~jno/ps/cirp16sl-rev.pdf">What can Industry 4.0 learn from software engineering?</A> Special lecture 2, Opening Session Programme, <A NAME="tex2html19" HREF="https://cirp2016.org">CIRP'16</A>, Guimar&#227;es, 21-27th August 2016.  
+* J.N. Oliveira.  <EM>On the 'divide &amp; conquer' metaphor - the 'quinta essentia' of programming</EM>.  <A NAME="tex2html20" HREF="http://haslab.uminho.pt/infoblender">InfoBlender talk</A>, HASLab/INESC TEC &amp; U.Minho, 13th Jul. 2016.  (<A NAME="tex2html21" HREF="http://www.di.uminho.pt/~jno/ps/infoblender16-1sl.pdf">Slides</A>).  
+* J.N. Oliveira.  <EM>Towards a linear algebra semantics for query languages</EM>.  Contributed talk to <A NAME="tex2html22" HREF="http://foswiki.cs.uu.nl/foswiki/IFIP21/GlasgowScotland">IFIP WG 2.1 Meeting #74</A>, University of Strathclyde in Glasgow, June 2016.  (<A NAME="tex2html23" HREF="http://www4.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf">Slides</A> of this talk, also given at the <A NAME="tex2html24" HREF="http://www.ncl.ac.uk/computing">School of Computer Science</A> of the Univ. of Newcastle, UK, and <A NAME="tex2html25" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn).  
+* J.N. Oliveira, <EM>'Keep definition, change category' -- a practical approach to monadic model evolution</EM>.  Seminar, <A NAME="tex2html26" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn, Apr 21st, 2016.  
+* J.N. Oliveira.  <A NAME="tex2html56" HREF="http://www4.di.uminho.pt/~jno/ps/haslabtr201601.pdf">Exploiting Galois connections for 'Rely/Guarantee Thinking'</A> Technical Report TR-HASLab:01:2016, May 2016.  
+
+**2015**
+         
+* D. Murta and J.N. Oliveira.  <SPAN  CLASS="textit">A study of risk-aware program transformation</SPAN>.  <EM>Science of Computer Programming</EM>, 110:51-77, 2015.  DOI: <A NAME="tex2html27" HREF="http://www.sciencedirect.com/science/article/pii/S0167642315000908">10.1016/j.scico.2015.04.008</A> 
+* J.N. Oliveira.  <SPAN  CLASS="textit">Metaphorisms in Programming</SPAN>.  In <EM>RAMICS 2015</EM>, volume 9348 of LNCS, pages 171-190. Springer, 2015.  DOI: <A NAME="tex2html28" HREF="http://link.springer.com/chapter/10.1007%2F978-3-319-24704-5_11">10.1007/978-3-319-24704-5_11</A> (<A NAME="tex2html29" HREF="https://www.researchgate.net/publication/283451657_ramics-metaphsl">Slides</A>) 
+* H.D. Macedo and J.N. Oliveira.  <A NAME="tex2html30" HREF="http://link.springer.com/article/10.1007%2Fs00165-014-0316-9#page-1">A linear algebra approach to OLAP</A>.  <EM>Formal Aspects of Computing</EM>, 27(2):283-307, 2015.  
+* J.N. Oliveira.  <A NAME="tex2html31" HREF="https://www.researchgate.net/publication/282868977_Why_category_theory_matters_a_functional_programmers_perspective">Why category theory matters: a functional programmer's perspective.</A> Tutorial talk, AMS/EMS/SPM 2015 Meeting (Special Session 7), FCUP, Porto.  13th June 2015.  
+
+---
+
+[earlier (<2015)](https://www4.di.uminho.pt/~jno/html/jnopub.html)
 
 [back](https://josenunooliveira.github.io/jno/)
 
-
 <!--
-      <BIG CLASS="LARGE"><SPAN  CLASS="textbf">2017</SPAN>
-      </td></tr></table>
-      </BIG></BIG>
-      <UL>
-         <LI>J.&nbsp;N. Oliveira and H.&nbsp;D. Macedo.
-            <SPAN  CLASS="textit">The data cube as a typed linear algebra operator</SPAN>.
-            In <EM>Proc. of the 16th Int. Symposium on Database Programming Languages</EM>, DBPL '17, pages 6:1-6:11, New York, NY, USA, 2017. ACM. (DOI:<A NAME="tex2html12"
-               HREF="http://doi.acm.org/10.1145/3122831.3122834">10.1145/3122831.3122834</A>; 
-            <A NAME="tex2html13"
-               HREF="http://www.di.uminho.pt/%7Ejno/ps/dbpl17sl.pdf">Slides</A>.)
-         </LI>
-         <LI>R. Pontes, M. Matos, J.N. Oliveira, J.O. Pereira.
-            <A NAME="tex2html11"
-               HREF="https://link.springer.com/chapter/10.1007%2F978-3-319-60074-1_9">Implementing a Linear Algebra Approach to Data Processing</A>.
-            LNCS 10223, 215-222, 2017.
-         </LI>
-         <LI>J.N. Oliveira.
-            <EM>Going quantitative in software modeling</EM>
-            (<A HREF="http://www.di.uminho.pt/%7Ejno/ps/trust17sl.pdf">Slides</A>).
-            Contributed talk to the <A NAME="tex2html15"
-               HREF="http://haslab.github.io/TRUST/">Trust 2nd Workshop</A>,
-            Braga, Oct 2017.
-         </LI>
-         <LI>J.N. Oliveira.
-            <EM>Measuring probabilistic contracts</EM>.
-            Contributed talk to <A NAME="tex2html15"
-               HREF="http://foswiki.cs.uu.nl/foswiki/IFIP21/Uruguay">IFIP WG 2.1 Meeting #75</A>,
-            Montevideo, Febr 2017.
-         </LI>
-         <LI>J.N. Oliveira.
-            <EM>First steps in a (linear) algebra of (quantum) functional programming </EM>.
-            Contributed talk to <A NAME="tex2html16"
-               HREF="http://foswiki.cs.uu.nl/foswiki/IFIP21/Uruguay">IFIP WG 2.1 Meeting #75</A>,
-            Montevideo, Febr 2017.
-      </UL>
-      <P>
-         <BIG CLASS="LARGE">
-      <P><A NAME="sec:16"></A><table width="100%" border="0"><tr><td bgcolor="#e5e5e5">&nbsp;
-      <BIG CLASS="LARGE"><SPAN  CLASS="textbf">2016</SPAN>
-      </td></tr></table>
-      </BIG></BIG>
-      <UL>
-         <LI>V.C. Miraldo, J.N. Oliveira,
-            <EM>'Keep definition, change category' -- a practical approach to state-based system calculi</EM>.
-            In <SPAN  CLASS="textit">Journal of Logical and Algebraic Methods in Programming</SPAN>,
-            Volume 85, Issue 4, June 2016, pages 449-474.
-            DOI: <A NAME="tex2html16"
-               HREF="http://www.sciencedirect.com/science/article/pii/S2352220815001443">10.1016/j.jlamp.2015.11.007</A>.
-         </LI>
-         <LI>C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal
-            <EM>Computer Aided Verification of Relational Models</EM>. Pages 647-658 of the proc. of
-            <A NAME="tex2html17"
-               HREF="http://www.cacic2016.unsl.edu.ar/">CACIC'16</A>,
-            San Luis, Argentina, 3-7th October, 2016.
-         </LI>
-         <LI>J.N. Oliveira. <A NAME="tex2html18"
-            HREF="http://www.di.uminho.pt/~jno/ps/cirp16sl-rev.pdf">What can Industry 4.0 learn from software engineering?</A>
-            Special lecture 2, Opening Session Programme, <A NAME="tex2html19"
-               HREF="https://cirp2016.org">CIRP'16</A>, Guimar&#227;es, 21-27th August 2016.
-         </LI>
-         <LI>J.N. Oliveira.
-            <EM>On the 'divide &amp; conquer' metaphor - the 'quinta essentia' of programming</EM>.
-            <A NAME="tex2html20"
-               HREF="http://haslab.uminho.pt/infoblender">InfoBlender talk</A>, HASLab/INESC TEC &amp; U.Minho, 13th Jul. 2016.
-            (<A NAME="tex2html21"
-               HREF="http://www.di.uminho.pt/~jno/ps/infoblender16-1sl.pdf">Slides</A>).
-         </LI>
-         <LI>J.N. Oliveira.
-            <EM>Towards a linear algebra semantics for query languages</EM>.
-            Contributed talk to <A NAME="tex2html22"
-               HREF="http://foswiki.cs.uu.nl/foswiki/IFIP21/GlasgowScotland">IFIP WG 2.1 Meeting #74</A>,
-            University of Strathclyde in Glasgow, June 2016.
-            (<A NAME="tex2html23"
-               HREF="http://www4.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf">Slides</A>
-            of this talk, also given at the
-            <A NAME="tex2html24"
-               HREF="http://www.ncl.ac.uk/computing">School of Computer Science</A>
-            of the Univ. of Newcastle, UK,
-            and <A NAME="tex2html25"
-               HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn).
-         </LI>
-         <LI>J.N. Oliveira,
-            <EM>'Keep definition, change category' -- a practical approach to monadic model evolution</EM>.
-            Seminar, <A NAME="tex2html26"
-               HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn,
-            Apr 21st, 2016.
-         </LI>
-         <LI>J.N. Oliveira.
-            <A NAME="tex2html56"
-               HREF="http://www4.di.uminho.pt/~jno/ps/haslabtr201601.pdf">Exploiting Galois connections for 'Rely/Guarantee Thinking'</A>
-            Technical Report TR-HASLab:01:2016, May 2016.
-         </LI>
-      </UL>
-      <BIG CLASS="LARGE"></BIG>
-      <P>
-         <BIG CLASS="LARGE">
-            <BIG CLASS="LARGE">
-      <P><A NAME="sec:15"></A><table width="100%" border="0"><tr><td bgcolor="#e5e5e5">&nbsp;
-      <BIG CLASS="LARGE"><SPAN  CLASS="textbf">2015</SPAN>
-      </td></tr></table>
-      </BIG></BIG></BIG>
-      <UL>
-         <LI>D.&nbsp;Murta and J.N. Oliveira.
-            <SPAN  CLASS="textit">A study of risk-aware program transformation</SPAN>.
-            <EM>Science of Computer Programming</EM>, 110:51-77, 2015.
-            DOI: <A NAME="tex2html27"
-               HREF="http://www.sciencedirect.com/science/article/pii/S0167642315000908">10.1016/j.scico.2015.04.008</A>
-         </LI>
-         <LI>J.N. Oliveira.
-            <SPAN  CLASS="textit">Metaphorisms in Programming</SPAN>.
-            In <EM>RAMICS 2015</EM>, volume 9348 of LNCS, pages 171-190. Springer, 2015.
-            DOI: <A NAME="tex2html28"
-               HREF="http://link.springer.com/chapter/10.1007%2F978-3-319-24704-5_11">10.1007/978-3-319-24704-5_11</A>
-            (<A NAME="tex2html29"
-               HREF="https://www.researchgate.net/publication/283451657_ramics-metaphsl">Slides</A>)
-         </LI>
-         <LI>H.D. Macedo and J.N. Oliveira.
-            <A NAME="tex2html30"
-               HREF="http://link.springer.com/article/10.1007%2Fs00165-014-0316-9#page-1">A linear algebra approach to OLAP</A>.
-            <EM>Formal Aspects of Computing</EM>, 27(2):283-307, 2015.
-         </LI>
-         <LI>J.N. Oliveira.
-            <A NAME="tex2html31"
-               HREF="https://www.researchgate.net/publication/282868977_Why_category_theory_matters_a_functional_programmers_perspective">Why category theory matters: a functional programmer's
-            perspective.</A>
-            Tutorial talk, AMS/EMS/SPM 2015 Meeting (Special Session 7), FCUP, Porto.
-            13th June 2015. 
-         </LI>
-      </UL>
-      <BIG CLASS="LARGE"><BIG CLASS="LARGE"></BIG></BIG>
-      <P>
-         <BIG CLASS="LARGE">
-            <BIG CLASS="LARGE">
-               <BIG CLASS="LARGE">
+
       <P><A NAME="sec:14"></A><table width="100%" border="0"><tr><td bgcolor="#e5e5e5">&nbsp;
       <BIG CLASS="LARGE"><SPAN  CLASS="textbf">2014</SPAN>
       </td></tr></table>

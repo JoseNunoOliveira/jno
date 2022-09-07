@@ -21,7 +21,7 @@
          
 * A. Santos, J.N. Oliveira.  <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><EM>Type Your Matrices for Great Good (Functional Pearl)</EM></a>.  Proceedings of the <a href="https://www.haskell.org/haskell-symposium/2020/index.html"> Haskell Symposium 2020</a>, 27-28 August 2020, pages 54-66.   
 * J.N. Oliveira.  <A NAME="tex2html6x" HREF="http://www4.di.uminho.pt/~jno/ps/haslabtr202010.pdf">A Note on the Under-Appreciated For-Loop</A>.  Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.   
-* J.N. Oliveira.  <EM>Biproducts of Galois connections</EM>.  Contributed talk to <A NAME="tex2html15" HREF="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo">IFIP WG 2.1 Meeting #79</A>, Otterlo (NL), January 2020.   </UL> <P> <P><A NAME="sec:18"></A> <table width="100%" border="0"> <tr> <td bgcolor="#e5e5e5">&nbsp;
+* J.N. Oliveira.  <EM>Biproducts of Galois connections</EM>.  Contributed talk to <A NAME="tex2html15" HREF="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo">IFIP WG 2.1 Meeting #79</A>, Otterlo (NL), January 2020.   </UL> <P> <P><A NAME="sec:18"></A>
 
 **2018**
 
@@ -29,7 +29,12 @@
 * J.N. Oliveira.  <EM>Compiling quantamorphisms for the IBM Q-Experience</EM>.  Contributed talk to <A NAME="tex2html15" HREF="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Brandenburg">IFIP WG 2.1 Meeting #77</A>, Brandenburg, Germany, July 2018.  </LI> 
 * J.N. Oliveira.  <A NAME="tex2html10" HREF="http://www.di.uminho.pt/~jno/ps/pth18sl.pdf">Preparing programmers for quantum</A>.  <A NAME="tex2html11" HREF="https://portotechhub.com/">Porto Tech Hub 2018</A>, May 2018.  </LI> 
 * J.N. Oliveira (joint work with R.S. Barbosa and A. Neri).  <A NAME="tex2html12" HREF="http://www.di.uminho.pt/~jno/ps/nii18sl.pdf">Towards quantamorphisms - some thoughts on (constructive) reversibility</A>, talk at NII, Tokyo, 23 Jan 2018.  </LI> 
-* J.N. Oliveira.  <EM>Programming from Metaphorisms</EM>. Journal paper. JLAMP Volume 94, January 2018, Pages 15-44 (DOI:<A NAME="tex2html13" HREF="https://doi.org/10.1016/j.jlamp.2017.09.003">10.1016/j.jlamp.2017.09.003</A>). See <A NAME="tex2html14" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">slides</A> of homonym talk at <A NAME="tex2html15" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn, Apr 28th, 2016.  </LI> </UL> <P> <BIG CLASS="LARGE"> <P><A NAME="sec:17"></A><table width="100%" border="0"><tr><td bgcolor="#e5e5e5">&nbsp;
+* J.N. Oliveira.  <EM>Programming from Metaphorisms</EM>. Journal paper. JLAMP Volume 94, January 2018, Pages 15-44 (DOI:<A NAME="tex2html13" HREF="https://doi.org/10.1016/j.jlamp.2017.09.003">10.1016/j.jlamp.2017.09.003</A>). See <A NAME="tex2html14" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">slides</A> of homonym talk at <A NAME="tex2html15" HREF="http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs">TT&#220; K&#252;berneetika Instituut</A>, Tallinn, Apr 28th, 2016.
+
+[earlier (<2018)](https://www4.di.uminho.pt/~jno/html/jnopub.html)
+
+[back](https://josenunooliveira.github.io/jno/)
+
 
 <!--
       <BIG CLASS="LARGE"><SPAN  CLASS="textbf">2017</SPAN>

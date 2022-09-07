@@ -13,10 +13,6 @@
 * A. Neri, R.S. Barbosa, and J.N. Oliveira.  <a href="https://ieeexplore.ieee.org/document/9557827"><EM>Compiling quantamorphisms for the IBM Q-Experience</EM></a>.  In IEEE Transactions on Software Engineering, doi: <a href="https://ieeexplore.ieee.org/document/9557827">10.1109/TSE.2021.3117515</a>. 
 * J.N. Oliveira.  <EM>On the power of adjoint recursion</EM>.  Contributed talk to <A NAME="tex2html15" HREF="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/OnlineOct21">IFIP WG 2.1 Short On-line Meeting #O6</A>, 26 October 2021.
 
-[earlier (<2022)](https://www4.di.uminho.pt/~jno/html/jnopub.html)
-
-[back](https://josenunooliveira.github.io/jno/)
-
 **2020**
          
 * A. Santos, J.N. Oliveira.  <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><EM>Type Your Matrices for Great Good (Functional Pearl)</EM></a>.  Proceedings of the <a href="https://www.haskell.org/haskell-symposium/2020/index.html"> Haskell Symposium 2020</a>, 27-28 August 2020, pages 54-66.   

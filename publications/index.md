@@ -1,5 +1,5 @@
 
-<div style="position:fixed;bottom:0;right:0;width:10%;background-color:#eeeeee"><h2 >Testing...</h2></div>
+<div style="position:fixed;bottom:0;right:0;width:25%;background-color:#eeeeee"><h2 >Testing...</h2></div>
 
 ## Papers, talks, reports etc
 

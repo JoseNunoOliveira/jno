@@ -1,8 +1,9 @@
-<div style="position:fixed;bottom:0;right:0;width:25%;background-color:#eeeeee"><h2 >... testing...</h2></div>
+<div style="position:fixed;bottom:0;right:0;width:25%;background-color:#eeeeee"><h2 >... under construction ...</h2></div>
 
 Testing future index page
 
 ---
+
 
 **Selected publications**
 
@@ -13,6 +14,12 @@ Testing future index page
 * D. Murta and J.N. Oliveira. <SPAN CLASS="textit">A study of risk-aware program transformation</SPAN>. <EM>Science of Computer Programming</EM>, 110:51-77, 2015. DOI: <A href="http://www.sciencedirect.com/science/article/pii/S0167642315000908">10.1016/j.scico.2015.04.008</A>
 
 [Other publications](./publications/index.md)
+
+---
+
+**Teaching**
+
+The websites of most courses in my [teaching page](./teaching) are in Portuguese but their teaching materials are in English.
 
 ---
 

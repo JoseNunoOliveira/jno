@@ -5,7 +5,6 @@
 * J.N. Oliveira, M.A. Ferreira. <em>Alloy Meets the Algebra of Programming: A Case Study</em>. IEEE Transactions on Software Engineering, vol. 39, no. 3, pp. 305-326, March 2013, [doi:10.1109/TSE.2012.15](http://www.computer.org/csdl/trans/ts/2013/03/tts2013030305-abs.html).
 
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Quantitative relational modelling with QAlloy](https://2022.esec-fse.org/track/fse-2022-research-papers#event-overview). To be presented at [ESEC/FSE 2022](https://2022.esec-fse.org/), [Singapore](https://nus.edu.sg/oam/virtual-tour/utown/), Mon 14 - Fri 18 November 2022.
-Papers, talks, reports etc
 
 * A. Santos, J.N. Oliveira. <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><em>Type Your Matrices for Great Good (Functional Pearl)</em></a>. Proceedings of the [ Haskell Symposium 2020](https://www.haskell.org/haskell-symposium/2020/index.html), 27-28 August 2020, pages 54-66.
 

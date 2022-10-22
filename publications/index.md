@@ -9,15 +9,16 @@
 * A. Santos, J.N. Oliveira. <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><em>Type Your Matrices for Great Good (Functional Pearl)</em></a>. Proceedings of the [ Haskell Symposium 2020](https://www.haskell.org/haskell-symposium/2020/index.html), 27-28 August 2020, pages 54-66.
 
 * H.D. Macedo and J.N. Oliveira. <em>Typing Linear Algebra: a Biproduct-oriented Approach</em>. Science of Comp. Programming. Volume 78, pp.2160-2191 ([DOI:10.1016/j.scico.2012.07.012](http://dx.doi.org/10.1016/j.scico.2012.07.012)).
-**2022**
 
 ## Submitted
 
 * R.C. Backhouse and J.N. Oliveira. <em>On difunctions</em>. Journal paper (submitted).
 
+---
+
 [Other papers, talks, reports](./publications)
 
 ---
 
-[back](https://www.di.uminho.pt/~jno)
+[⏪](https://www.di.uminho.pt/~jno)
 

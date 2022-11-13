@@ -3,7 +3,7 @@
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Quantitative relational modelling with QAlloy](https://2022.esec-fse.org/track/fse-2022-research-papers#event-overview). Proc. of [ESEC/FSE 2022](https://2022.esec-fse.org/), Association for Computing Machinery, Inc (ACM), pp. 885-896.
 <!--  A [Singapore](https://nus.edu.sg/oam/virtual-tour/utown/), Mon 14 - Fri 18 November 2022. -->
 
-* A. Neri, R.S. Barbosa, and J.N. Oliveira. [Compiling quantamorphisms for the IBM Q-Experience](https://ieeexplore.ieee.org/document/9557827). In IEEE Transactions on Software Engineering, doi: [10.1109/TSE.2021.3117515](https://ieeexplore.ieee.org/document/9557827).
+* A. Neri, R.S. Barbosa, and J.N. Oliveira. [Compiling quantamorphisms for the IBM Q-Experience](https://ieeexplore.ieee.org/document/9557827). In IEEE Transactions on Software Engineering, Volume: 48, Issue: 11, 01 November 2022. DOI: [10.1109/TSE.2021.3117515](https://ieeexplore.ieee.org/document/9557827).
 
 * J.N. Oliveira, M.A. Ferreira. <em>Alloy Meets the Algebra of Programming: A Case Study</em>. IEEE Transactions on Software Engineering, vol. 39, no. 3, pp. 305-326, March 2013, [doi:10.1109/TSE.2012.15](http://www.computer.org/csdl/trans/ts/2013/03/tts2013030305-abs.html).
 

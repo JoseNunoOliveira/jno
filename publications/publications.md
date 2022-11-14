@@ -1,8 +1,8 @@
-## Other pPapers, talks, reports etc
+## Other papers, talks, reports etc
 
 **2022**
 
-* Martins, J.M. Fonseca, R. Costa, J.C. Campos, A. Cunha, N. Macedo, J.N. Oliveira. <em>Verification of Railway Network Models with EVEREST</em>. Conference paper, accepted by [Models'22](https://conf.researchr.org/home/models-2022), 23-28 October 2022, Montereal, Canada.
+* Martins, J.M. Fonseca, R. Costa, J.C. Campos, A. Cunha, N. Macedo, J.N. Oliveira. *Verification of Railway Network Models with EVEREST*. [MODELS'22](https://conf.researchr.org/home/models-2022), pages 345–355. ACM/IEEE 25th Int. Conference on Model Driven Engineering Languages and Systems, 23-28 October 2022, Montereal, Canada.
 * J.N. Oliveira. <em>Why adjunctions matter</em>. Invited talk ([WADT'22](http://wadt2022.web.ua.pt/), Aveiro, 30 June 2022). ([Slides](http://www4.di.uminho.pt/~jno/ps/wadt22sl.pdf)).
 
 **2021**
@@ -33,7 +33,7 @@
 **2016**
 
 * V.C. Miraldo, J.N. Oliveira, <em>'Keep definition, change category' -- a practical approach to state-based system calculi</em>. In <em>Journal of Logical and Algebraic Methods in Programming</em>, Volume 85, Issue 4, June 2016, pages 449-474. DOI: [10.1016/j.jlamp.2015.11.007](http://www.sciencedirect.com/science/article/pii/S2352220815001443).
-* C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal <em>Computer Aided Verification of Relational Models</em>. Pages 647-658 of the proc. of [CACIC'16](http://www.cacic2016.unsl.edu.ar/), San Luis, Argentina, 3-7th October, 2016.
+* C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal. *Computer Aided Verification of Relational Models*. Pages 647-658 of the proc. of [CACIC'16](http://www.cacic2016.unsl.edu.ar/), San Luis, Argentina, 3-7th October, 2016.
 * J.N. Oliveira. [What can Industry 4.0 learn from software engineering?](http://www.di.uminho.pt/~jno/ps/cirp16sl-rev.pdf) Special lecture 2, Opening Session Programme, [CIRP'16](https://cirp2016.org), Guimar&#227;es, 21-27th August 2016.
 * J.N. Oliveira. <em>On the 'divide &amp; conquer' metaphor - the 'quinta essentia' of programming</em>. [InfoBlender talk](http://haslab.uminho.pt/infoblender), HASLab/INESC TEC &amp; U.Minho, 13th Jul. 2016. ([Slides](http://www.di.uminho.pt/~jno/ps/infoblender16-1sl.pdf)).
 * J.N. Oliveira. <em>Towards a linear algebra semantics for query languages</em>. Contributed talk to [IFIP WG 2.1 Meeting #74](http://foswiki.cs.uu.nl/foswiki/IFIP21/GlasgowScotland), University of Strathclyde in Glasgow, June 2016. ([Slides](http://www4.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf) of this talk, also given at the [School of Computer Science](http://www.ncl.ac.uk/computing) of the Univ. of Newcastle, UK, and [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn).
@@ -240,6 +240,8 @@
 
 * <A HREF = "https://www.sciencedirect.com/science/article/abs/pii/009784939090005I"> Archetype-Oriented User Interfaces </a> (by Martins F.M. & Oliveira J.N.), Computers & Graphics, 17--28, Vol.14(1), 1900, Jan. 1990.
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/fac90.pdf"> <i>A Reification Calculus for Model-Oriented Software Specification</i> </a>. <A HREF = "http://link.springer.de/link/service/journals/00165/index.htm"> Formal Aspects of Computing </a>, Vol.2, 1-23, 1990, Springer Verlag.
+
+**<1990**
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/r285.ps">The Transformational Paradigm as a Means of Smoothing Abrupt Software Design Steps.</a> Int.Report #CCES-JNO:R2/85, University of Minho, Dec.85.
 * <i>Using FP for Dataflow Program Development Through Flowgraph level Transformation</i> (by Oliveira J.N., J.R.Gurd). Internal Report CCES-JNO/JRG:R1/85, September 1985, Univ. of Minho.
 * [Graphics Programming with `Archetypes' - A Preliminary Study](https://diglib.eg.org/handle/10.2312/13303) (by F.M. Martins, J.N. Oliveira). Proceedings of the EUROGRAPHICS'85 Conference, 401-412, September 1985, Nice, France.

@@ -1,4 +1,4 @@
-## Other pPapers, talks, reports etc
+## Other papers, talks, reports etc
 
 **2022**
 
@@ -236,7 +236,7 @@
 
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/ahc91.pdf">Historical Records Processing in the HiTeX System</a> (by J.Oliveira, Araújo A. & Silva A.). In "Yesterday", 149-168, Proc. of the 6th International Conference of the Association of History and Computing (AHC'91), Odense, Denmark, 28-30 Aug. 1991.
 
-**1990**
+**<1991**
 
 * <A HREF = "https://www.sciencedirect.com/science/article/abs/pii/009784939090005I"> Archetype-Oriented User Interfaces </a> (by Martins F.M. & Oliveira J.N.), Computers & Graphics, 17--28, Vol.14(1), 1900, Jan. 1990.
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/fac90.pdf"> <i>A Reification Calculus for Model-Oriented Software Specification</i> </a>. <A HREF = "http://link.springer.de/link/service/journals/00165/index.htm"> Formal Aspects of Computing </a>, Vol.2, 1-23, 1990, Springer Verlag.

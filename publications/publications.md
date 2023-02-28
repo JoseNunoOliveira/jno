@@ -1,5 +1,9 @@
 ## Other papers, talks, reports etc
 
+**2023**
+
+* J.N. Oliveira. *ENSICO and the new "Trivium" for Computing in Schools*. InfoBlender talk, HASLab/INESC TEC / U.Minho, 22nd February 2023. ([Slides](http://www.di.uminho.pt/~jno/ps/haslab23sl.pdf)).
+
 **2022**
 
 * Martins, J.M. Fonseca, R. Costa, J.C. Campos, A. Cunha, N. Macedo, J.N. Oliveira. *Verification of Railway Network Models with EVEREST*. [MODELS'22](https://conf.researchr.org/home/models-2022), pages 345–355. ACM/IEEE 25th Int. Conference on Model Driven Engineering Languages and Systems, 23-28 October 2022, Montereal, Canada.

@@ -134,7 +134,7 @@ Burney (page [261](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 # Vienna (1772-09-04)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:35% fit](./lafoes.png)
+![bg right:35% fit](./David_Murray.jpg)
 
 Burney (pag. [287](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=287&f=false)):
 

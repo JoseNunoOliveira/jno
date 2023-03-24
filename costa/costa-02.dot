@@ -1,0 +1,29 @@
+digraph G {
+Peixoto [style=filled; fillcolor="antiquewhite"];
+Nunes   [style=filled; fillcolor="antiquewhite"];
+Gomes   [style=filled; fillcolor="antiquewhite"];
+Sampaio [style=filled; fillcolor="antiquewhite"];
+Pacheco [style=filled; fillcolor="antiquewhite"];
+Tartini [style=filled; fillcolor="antiquewhite"];
+Martini [style=filled; fillcolor="antiquewhite"];
+Costa   [style=filled; fillcolor="antiquewhite"];
+Costa -> Peixoto [ label="1750" ];
+Costa -> Peixoto [ label="1752" ];
+Costa -> Nunes  [ label="1752" ];
+Tartini -> Martini [ label="1766" ];
+Costa -> Tartini [ label="?" ];
+Costa -> Gomes [ label="1752" ];
+Costa -> Gomes [ label="1754" ];
+Costa -> Gomes [ label="1754" ];
+Costa -> Gomes [ label="1754" ];
+Costa -> Sampaio  [ label="1761" ];
+Costa -> Gomes [ label="1774" ];
+Costa -> Gomes [ label="1774" ];
+Costa -> Pacheco  [ label="1779" ];
+Costa -> Martini [ label="1778" ];
+Costa -> Martini [ label="1779" ];
+Martini -> Costa [ label="1779" ];
+Costa -> Martini [ label="1780" ];
+Costa -> Pacheco  [ label="1780" ];
+Costa -> Pacheco  [ label="1780" ];
+}

@@ -1,0 +1,29 @@
+digraph G {
+Burney [style=filled; fillcolor="antiquewhite"];
+Braganza [style=filled; fillcolor="antiquewhite"];
+Martini [style=filled; fillcolor="antiquewhite"];
+Nardini [style=filled; fillcolor="antiquewhite"];
+Starzel [style=filled; fillcolor="antiquewhite"];
+Erba [style=filled; fillcolor="antiquewhite"];
+Tartini [style=filled; fillcolor="antiquewhite"];
+Laugier [style=filled; fillcolor="antiquewhite"];
+Wagenseil [style=filled; fillcolor="antiquewhite"];
+Gassmann [style=filled; fillcolor="antiquewhite"];
+Costa [style=filled; fillcolor="antiquewhite"];
+Gluck [style=filled; fillcolor="antiquewhite"];
+Costa -> Tartini [ label ="" ];
+Costa -> Martini [ label="", dir=both];
+Costa -> Gluck [ label="", dir=both ];
+Laugier -> Costa [ label="" ];
+Burney -> Braganza [ label="" ];
+Burney -> Laugier [ label="" ];
+Braganza -> Costa [ label="" ];
+Costa -> Nardini [ label="" ];
+Costa -> Starzel [ label="" ];
+Tartini -> Nardini [ label="" ];
+Martini -> Tartini [ label="", dir=both ];
+Costa -> Burney [ label="", dir=both ];
+Costa -> Erba [ label="" ];
+Costa -> Wagenseil [ label="" ];
+Costa -> Gassmann [ label="" ];
+}

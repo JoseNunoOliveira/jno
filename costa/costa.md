@@ -97,6 +97,9 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ![bg right:60% fit](./Ospedali_degli_incurabili.jpg)
 
+Tartini and Martini write to each other about Costa's music
+
+Sonata prete 
 
 ## [:arrow_forward:](./abbate-S3.wav)
 

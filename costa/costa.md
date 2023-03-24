@@ -99,7 +99,8 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 Tartini and Martini write to each other about Costa's music
 
-Sonata prete 
+* [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=138631&View=rism) score of Tartini's xxx bears the inscription: "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*") ["in the style that sounds like the guitar of the Portuguese priest"]
+
 
 ## [:arrow_forward:](./abbate-S3.wav)
 

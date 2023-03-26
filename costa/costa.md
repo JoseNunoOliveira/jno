@@ -20,7 +20,6 @@ March 31st, 2023
 
 Musicology Days, UM, Braga
 
-## [:arrow_forward:](./abbate-S3.wav)
 
 ---
 
@@ -83,15 +82,32 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 # Rome   (1749-1754)
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:60% fit](./canoni.jpg)
 
-Trios para o Porto
+Trios sent to Porto:
+
+>  “*(…) here are two [trios] to join the others and make half a dozen*” (“*ahi vão dous para ajustar com os outros a meia duzia*”). 
+
+(Letter II, 28-2-1752)
+
+---
+
+# Rome   (1749-1754)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./canoni.jpg)
+
+Trios sent to Porto:
+
+>  “*(...) os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*"
+
+(Letter II, 28-2-1752)
 
 ---
 
 # Rome   (1749-1754)
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:40% fit](./Pietro_Nardini.jpg)
+![bg right:50% fit](./Pietro_Nardini.jpg)
 
 > "*O Bravo de Leorne chama-se o Senhor [Nardini](https://en.wikipedia.org/wiki/Pietro_Nardini); acompanhei-lhe quatro sonatas a solo em casa do Cardeal Spinelli que está aqui vezinho (...)*"
 
@@ -195,10 +211,11 @@ Burney (pag. [282](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 # Vienna (1779-80)
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./ghezzi-martini.jpeg)
 
 Letters exchanged with Martini
 
-## [:arrow_forward:](./abbate-S3.wav)
+
 ---
 
 # Vienna (1780)
@@ -210,6 +227,15 @@ Leonor de Almeida (countess of Alorna):
 > "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
 
 (Letter XIII, 1780)
+
+---
+
+# Known works
+<!-- _backgroundColor: "lightcyan" -->
+
+![bg right:50% fit](./ghezzi-02.jpeg)
+
+## [:arrow_forward:](./abbate-S3.wav)
 
 ---
 
@@ -228,16 +254,17 @@ Other alternatives exist but less likely.
 Needs further research.
 
 ---
-
 # Current research
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./ghezzi-01.jpeg)
 
 Death?
 
-(Other alternatives less likely)
+Ghezzi?
 
 ---
 
-# Known works
+# References 
 
 ---
 

@@ -84,6 +84,13 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 # Rome   (1749-1754)
 <!-- _backgroundColor: "lightcyan" -->
 
+Trios para o Porto
+
+---
+
+# Rome   (1749-1754)
+<!-- _backgroundColor: "lightcyan" -->
+
 ![bg right:40% fit](./Pietro_Nardini.jpg)
 
 > "*O Bravo de Leorne chama-se o Senhor [Nardini](https://en.wikipedia.org/wiki/Pietro_Nardini); acompanhei-lhe quatro sonatas a solo em casa do Cardeal Spinelli que está aqui vezinho (...)*"
@@ -127,17 +134,19 @@ Letter 165. Padua, 17 Oct. 1766
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:45% fit](./B.A4.png)
 
-Inscription in [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=138631&View=rism)'s manuscript copy:
+Inscription on [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=138631&View=rism)'s manuscript copy:
 
->  "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*") ["in the style sounding like the guitar of the Portuguese priest"]
+>  "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*")
 
-(Berlin's copy aside, Andante).
+*("in the style sounding like the guitar of the Portuguese priest")*
+
+Aside: Berlin's copy, Andante.
 
 ---
 
 # Vienna (1772-1780)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:60% fit](./View_of_Vienna_from_the_Belvedere.jpg)
+![bg right:62% fit](./View_of_Vienna_from_the_Belvedere.jpg)
 
 ---
 
@@ -210,7 +219,9 @@ Leonor de Almeida (countess of Alorna):
 
 Possible birth record:
 
-> Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863), 1713-12-27; baptized: 1714-01-01
+> Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863)
+born: 1713-12-27
+baptized: 1714-01-01
 
 Other alternatives exist but less likely.
 
@@ -230,9 +241,13 @@ Death?
 
 ---
 
+# References 
+
+---
+
 ## [:arrow_forward:](./abbate-S3.wav)
 
-![image.j./canoni.jpg)
+![bg right:50% fit](./canoni.jpg)
 
 * Same register ($G$-clef)
    * Free imitative style

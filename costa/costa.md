@@ -97,12 +97,41 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ![bg right:60% fit](./Ospedali_degli_incurabili.jpg)
 
-Tartini and Martini write to each other about Costa's music
+---
 
-* [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=138631&View=rism) score of Tartini's xxx bears the inscription: "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*") ["in the style that sounds like the guitar of the Portuguese priest"]
+#  Tartini to Martini
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:35% fit](./tartini.jpg)
 
+> "*What Your Reverence now writes to me about Signor Don Antonio Costa (this is his surname) does not surprise me; for you can imagine that the initial impact of such a novelty, namely this attempt at a music always in inversion, we have received here with much greater force from his guitar, where the effect is truly unique (...)*"
 
-## [:arrow_forward:](./abbate-S3.wav)
+>  "*He is a patron and friend of mine*"
+
+Letter 162. Padua, 20 Sep. 1766
+
+---
+
+#  Tartini to Martini
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:35% fit](./tartini.jpg)
+
+> "*From Signor Dottor Antonio Costa I have received, as per your order, three compositions of him: a solo, a duet and a trio. I ask Your Reverence to instruct me on how to send them to you, and you shall be obeyed. He has had the pleasure and honour of serving you, and is full of esteem and admiration for Your Reverence (...)*"
+
+>  "*He is a patron and friend of mine*"
+
+Letter 165. Padua, 17 Oct. 1766
+
+---
+
+# Tartini: Sonate B.A4 "Chitarra portoghese"
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:45% fit](./B.A4.png)
+
+Inscription in [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=138631&View=rism)'s manuscript copy:
+
+>  "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*") ["in the style sounding like the guitar of the Portuguese priest"]
+
+(Berlin's copy aside, Andante).
 
 ---
 
@@ -134,7 +163,7 @@ Burney (page [261](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 # Vienna (1772-09-04)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:35% fit](./David_Murray.jpg)
+![bg right:35% fit](./stormont.jpg)
 
 Burney (pag. [287](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=287&f=false)):
 
@@ -160,6 +189,7 @@ Burney (pag. [282](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 Letters exchanged with Martini
 
+## [:arrow_forward:](./abbate-S3.wav)
 ---
 
 # Vienna (1780)

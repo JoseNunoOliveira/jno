@@ -246,8 +246,11 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./ghezzi-martini.jpeg)
 
-Letters exchanged with Martini
+Letter from Martini to Costa:
 
+> "*As soon as I laid eyes on the score (...) came to mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure, so much so that I was not satisfied with listening to it, and Your Excellency will remember that through Mr. Tartini I searched for some of your compositions, which he kindly deigned to favor me. But how can I obey you to tell my feelings when I am completely ignorant of the principles on which they are based?*"
+
+January 1779
 
 ---
 

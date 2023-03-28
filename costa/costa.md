@@ -277,6 +277,12 @@ Leonor de Almeida (countess of Alorna):
 
 ---
 
+Dellaborra
+
+Funny $\flat\natural$
+
+---
+
 # Scarlatti
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./scarlatti.jpg)

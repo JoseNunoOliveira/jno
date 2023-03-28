@@ -274,12 +274,26 @@ Leonor de Almeida (countess of Alorna):
 * Dissonances beyond what was tolerated at the time
 * Ties versus spicatto notes
 * Difficult fractions (rythm)
+* Several occurrences of "$\flat\natural$"
 
 ---
 
-Dellaborra
+# The "Porto gang"
 
-Funny $\flat\natural$
+What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
+
+* Family Gomes Costa (Pacheco) fully identified
+* Violinists João Peixoto, António Vieira, António Nunes, José Lopes ...?
+* His portrait sent from Vienna in 1780...?
+
+--- 
+# Style
+
+Ciacchi & Dellaborra [2020](https://sidm.it/ojs/index.php/fmi/article/view/1044):
+
+> "*To the ear, the effect is in some points astounding, so much as it is unpredictable, but convincing; in others, vice versa, it is incomprehensible and it seems that the succession of sounds is not determined by logic, but by the pure desire to amaze*".
+
+> "It is certain that Costa's catalog is not complete."
 
 ---
 

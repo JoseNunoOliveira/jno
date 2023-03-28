@@ -41,7 +41,7 @@ Musicology Days, UM, Braga
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)
 
-Documented musical connections.
+Documented musical connections in Italy and Vienna.
 
 ---
 
@@ -104,7 +104,7 @@ Trios sent to Porto:
 
 ---
 
-# Rome   (1749-1754)
+# Rome   (1750-1754)
 <!-- _backgroundColor: "lightcyan" -->
 
 ![bg right:50% fit](./Pietro_Nardini.jpg)
@@ -119,6 +119,8 @@ Trios sent to Porto:
 <!-- _backgroundColor: "lightcyan" -->
 
 ![bg right:60% fit](./Ospedali_degli_incurabili.jpg)
+
+1760 - all Portuguese to leave Rome (diplomatic crisis)
 
 ---
 
@@ -139,8 +141,6 @@ Letter 162. Padua, 20 Sep. 1766
 ![bg right:35% fit](./tartini.jpg)
 
 > "*From Signor Dottor Antonio Costa I have received, as per your order, three compositions of him: a solo, a duet and a trio. I ask Your Reverence to instruct me on how to send them to you, and you shall be obeyed. He has had the pleasure and honour of serving you, and is full of esteem and admiration for Your Reverence (...)*"
-
->  "*He is a patron and friend of mine*"
 
 Letter 165. Padua, 17 Oct. 1766
 
@@ -170,7 +170,9 @@ Aside: Berlin's copy, Andante.
 
 From his travel diary (pag. [259](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=259&f=false)):
 
-> "*But before we set out, the duke of Braganza (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...) His royal highness gave me an account of a Portuguese Abbé (...)* [who is] *a kind of Rousseau, but still more original (...)*"
+> "*But before we set out, the duke of Braganza (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...)*" 
+
+> "*His royal highness gave me an account of a Portuguese Abbé (...)* [who is] *a kind of Rousseau, but still more original (...)*"
 
 
 ---
@@ -201,7 +203,7 @@ Burney (page [261](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 Burney (pag. [287](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=287&f=false)):
 
-> "*The musical party which dined today at lord [Stormont](https://en.wikipedia.org/wiki/David_Murray,_2nd_Earl_of_Mansfield#Public_life)'s was select and in the highest degree entertaining and pleasing. It consisted of the Prince Poniatowski, **duke of Braganza**, the Portuguese minister, count and countess Thun, M. L'Augier, the chevalier madame and mademoiselle Gluck, the Abate Costa &c."*
+> "*The musical party which dined today at lord [Stormont](https://en.wikipedia.org/wiki/David_Murray,_2nd_Earl_of_Mansfield#Public_life)'s was select and in the highest degree entertaining and pleasing. It consisted of the Prince Poniatowski, duke of Braganza, the Portuguese minister, count and countess Thun, M. L'Augier, the chevalier madame and mademoiselle Gluck, the Abate Costa &c."*
 
 
 ---
@@ -215,6 +217,28 @@ Burney (pag. [282](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 > *"(...) all I can say of his productions is that in them melody is less attended to than harmony and uncommon modulation;  and that the time is always difficult to make out from the great number of ligatures and fractions. (...)"*
 
 > "*He played two movements on his guitar before dinner the subjects of which as nearly as I can remember were these:*" 
+
+---
+
+# Vienna (1772-09-04)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:40% fit](./gluck.jpg)
+
+Burney (pag. [290](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=290&f=false)):
+
+> *"(...) I sat between this Abate and the chevalier Gluck, during dinner, and we all three talked more than we eat (...)"*
+
+---
+
+# Vienna (1772-09-04)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./duet.jpg)
+
+Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=292&f=false)):
+
+> *"(...) After dinner, a duet, for two violins, by the Abate, was tried by himself and M. Startzel, and excellent player; (...)*"
+
+> *"but the Abate Costa's duo was so difficult, both in time and style, that it was never well performed after twenty of thirty trials. (...)"*
 
 ---
 
@@ -242,7 +266,7 @@ Leonor de Almeida (countess of Alorna):
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
-* Same register ($G$-clef)
+* One sole register ($G$-clef)
    * Free imitative style
    * Constant modulation 
    * Crossings ("stereophonic" effect?)
@@ -261,7 +285,7 @@ Scarlatti to Lauguier:
 
 > "*(...) Scarlatti frequently told M. L'Augier, that he was sensible he had broke through all the rules of composition in his lessons; but asked if his deviations from these rules offended the ear? (...)*"
 
-(Burney, [page 253](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=scarlatti&f=false))
+(Burney, page [253](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=scarlatti&f=false))
 
 ---
 
@@ -297,15 +321,17 @@ Needs further research.
 ---
 # Current research
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./alorna.jpg)
+![bg right:40% fit](./almeida.png)
 
 Death possibly mentioned in the letters of Leonor de Almeida?
 
-> She knew him and was in Vienna when he died
+> She met him and was surely in Vienna when he died.
 
 Possibly caricatured by Ghezzi in Rome?
 
-> Leon Ghezzi was a very prolific artist.
+> Pier Ghezzi (1674-1755) was a very prolific artist.
+
+(Aside: Ghezzi's caricature of Francisco A. Almeida) 
 
 ---
 

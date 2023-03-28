@@ -25,7 +25,7 @@ Musicology Days, UM, Braga
 
 # *L'Abate Portoghese*
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./lafoes.png)
+![bg right:30% fit](./ghezzi-01.jpeg)
 
 * Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the Porto region, left the country in 1749 for Rome.
 
@@ -82,7 +82,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 # Rome   (1749-1754)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:60% fit](./canoni.jpg)
+![bg right:50% fit](./canoni.jpg)
 
 Trios sent to Porto:
 
@@ -159,10 +159,19 @@ Inscription on [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=13
 Aside: Berlin's copy, Andante.
 
 ---
-
 # Vienna (1772-1780)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:62% fit](./View_of_Vienna_from_the_Belvedere.jpg)
+
+---
+# Charles Burney (Vienna, 1772)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./lafoes.png)
+
+From his travel diary (pag. [259](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=259&f=false)):
+
+> "*But before we set out, the duke of Braganza (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...) His royal highness gave me an account of a Portuguese Abbé (...)* [who is] *a kind of Rousseau, but still more original (...)*"
+
 
 ---
 
@@ -229,13 +238,43 @@ Leonor de Almeida (countess of Alorna):
 (Letter XIII, 1780)
 
 ---
+# Style
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./canoni.jpg)
+
+* Same register ($G$-clef)
+   * Free imitative style
+   * Constant modulation 
+   * Crossings ("stereophonic" effect?)
+   * Continuous flow
+* Dissonances beyond what was tolerated at the time
+* Ties versus spicatto notes
+* Difficult fractions (rythm)
+
+---
+
+# Scarlatti
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./scarlatti.jpg)
+
+Scarlatti to Lauguier:
+
+> "*(...) Scarlatti frequently told M. L'Augier, that he was sensible he had broke through all the rules of composition in his lessons; but asked if his deviations from these rules offended the ear? (...)*"
+
+(Burney, [page 253](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=scarlatti&f=false))
+
+---
 
 # Known works
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:50% fit](./ghezzi-02.jpeg)
-
-## [:arrow_forward:](./abbate-S3.wav)
+* Trios I a III (lost?)
+* Trios IV, V e VI --- Drei Sonaten für drei Violinen ([Austrian National Library](https://www.onb.ac.at/beethoven-digital/portal/)) ([Wikiscore](http://wiki-score.org/doku.php?id=costa:index))
+* Minuet (letter VI), most probably lost
+* [Duet](https://stabikat.de/Record/1698231105) in e$\flat$ for 2 violins ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
+* [Mottetto a quattro Voci / Bone Pastor / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org](https://archivio.fondazionelevi.it/record/30922?ln=en), 4V (SATB), bc - Fa] I-Vsm Fondo Procuratoria di San Marco - scheda n° 569. B.660/1-5
+* O vos omnes qui transitis per viam a 5 soprani soli in Fm
+* O vos omnes qui transitis per viam a 4 soprani con accompagnamento di 4 violini in cm (Conservato a Venezia, Fondazione Levi, [Fondo Procuratoria di San Marco](https://archivio.fondazionelevi.it/collection/Fondo%20Procuratoria%20di%20San%20Marco) con segnatura B.660/1-5) - pode haver confusão entre os dois, cf [registo](https://archivio.fondazionelevi.it/search?p=Portoghese%20Costa&f=autore_unificato&action_search=Cerca&c=Archivio+digitale+Fondazione+Levi&sf=&so=d&rm=&rg=100&sc=0&of=hb)
 
 ---
 
@@ -243,11 +282,13 @@ Leonor de Almeida (countess of Alorna):
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./17131227.jpg)
 
+## 1714-1749?
+
 Possible birth record:
 
 > Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863)
-born: 1713-12-27
-baptized: 1714-01-01
+Born: 1713-12-27
+Baptized: 1714-01-01
 
 Other alternatives exist but less likely.
 
@@ -256,47 +297,27 @@ Needs further research.
 ---
 # Current research
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:50% fit](./ghezzi-01.jpeg)
+![bg right:30% fit](./alorna.jpg)
 
-Death?
+Death possibly mentioned in the letters of Leonor de Almeida?
 
-Ghezzi?
+> She knew him and was in Vienna when he died
+
+Possibly caricatured by Ghezzi in Rome?
+
+> Leon Ghezzi was a very prolific artist.
+
+---
+
+# References 
+
+[:arrow_forward:](./abbate-S3.wav)
+![bg right:20% fit](./ghezzi-02.jpeg)
 
 ---
 
 # References 
 
 ---
-
-# References 
-
----
-
-## [:arrow_forward:](./abbate-S3.wav)
-
-![bg right:50% fit](./canoni.jpg)
-
-* Same register ($G$-clef)
-   * Free imitative style
-   * "Stereophonic" effect?
-   * Continuous flow
-* Dissonances beyond what was tolerated
-* Ties and spicatto ``(x...) .y.z...`` style 
-* Difficult fractions (rythm)
-
-<center>
-<img s./Ospedali_degli_incurabili.jpg" width="40%">
-</center> 
-
----
-
-<center>
-<img s./1713a.jpg" width="70%">
-</center> 
-
-<center>
-<img s./1713b.jpg" width="70%">
-</center> 
-
 
 <!-- ; as it destroys all fancy, connection, and continuity, by perpetually tending to a final close and termination of whatever is begun: falling a fifth, or rising a fourth, cuts every thing off short, or makes the ear, which is accustomed to a fundamental base, uneasy till a passage is finished"* ->

@@ -170,7 +170,7 @@ Aside: Berlin's copy, Andante.
 
 From his travel diary (pag. [259](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=259&f=false)):
 
-> "*But before we set out, the duke of Braganza (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...)*" 
+> "*But before we set out, the **duke of Braganza** (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...)*" 
 
 > "*His royal highness gave me an account of a Portuguese Abbé (...)* [who is] *a kind of Rousseau, but still more original (...)*"
 
@@ -226,7 +226,7 @@ Burney (pag. [282](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 Burney (pag. [290](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=290&f=false)):
 
-> *"(...) I sat between this Abate and the chevalier Gluck, during dinner, and we all three talked more than we eat (...)"*
+> *"(...) I sat between this Abate and the chevalier [Gluck](https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck), during dinner, and we all three talked more than we eat (...)"*
 
 ---
 
@@ -236,75 +236,44 @@ Burney (pag. [290](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=292&f=false)):
 
-> *"(...) After dinner, a duet, for two violins, by the Abate, was tried by himself and M. Startzel, and excellent player; (...)*"
+> *"(...) After dinner, a duet, for two violins, by the Abate, was tried by himself and M. Startzel, an excellent player;*"
 
-> *"but the Abate Costa's duo was so difficult, both in time and style, that it was never well performed after twenty of thirty trials. (...)"*
+> *"(...) but the Abate Costa's duo was so difficult, both in time and style, that it was never well performed after twenty of thirty trials. (...)"*
 
 ---
 
 # Vienna (1779-80)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:50% fit](./ghezzi-martini.jpeg)
+![bg right:42% fit](./17790102.jpg)
 
-Letter from Martini to Costa:
+[Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2790)  from Martini to Costa:
 
-> "*As soon as I laid eyes on the score (...) came to mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure, so much so that I was not satisfied with listening to it, and Your Excellency will remember that through Mr. Tartini I searched for some of your compositions, which he kindly deigned to favor me. But how can I obey you to tell my feelings when I am completely ignorant of the principles on which they are based?*"
+> "*As soon as I laid eyes on the score (...) came to mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure (...)?*"
 
-January 1779
+2 Jan. 1779
 
 ---
 
-Letter from Costa to Martini:
+# Vienna (1779-80)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:42% fit](./17790102.jpg)
+
+[Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2790)  from Martini to Costa:
+
+> "*(...) so much so that I was not satisfied with listening to it, and Your Excellency will remember that through Mr. Tartini I searched for some of your compositions (...) But how can I obey you to tell my feelings when I am completely ignorant of the principles on which they are based?*"
+
+2 Jan. 1779
+
+---
+# Vienna (1779-80)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:42% fit](./17790213.jpg)
+
+[Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2791) from Costa to Martini:
 
 *(...) But though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based*
 
-Feb. 1780
-
----
-
-# Vienna (1780)
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./alorna.jpg)
-
-Leonor de Almeida (countess of Alorna):
-
-> "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
-
-(Letter XIII, 1780)
-
----
-# Style
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:50% fit](./canoni.jpg)
-
-* One sole register ($G$-clef)
-   * Free imitative style
-   * Constant modulation 
-   * Crossings ("stereophonic" effect?)
-   * Continuous flow
-* Dissonances beyond what was tolerated at the time
-* Ties versus spicatto notes
-* Difficult fractions (rythm)
-* Several occurrences of "$\flat\natural$"
-
----
-
-# The "Porto gang"
-
-What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
-
-* Family Gomes Costa (Pacheco) fully identified
-* Violinists João Peixoto, António Vieira, António Nunes, José Lopes ...?
-* His portrait sent from Vienna in 1780...?
-
---- 
-# Style
-
-Ciacchi & Dellaborra [2020](https://sidm.it/ojs/index.php/fmi/article/view/1044):
-
-> "*To the ear, the effect is in some points astounding, so much as it is unpredictable, but convincing; in others, vice versa, it is incomprehensible and it seems that the succession of sounds is not determined by logic, but by the pure desire to amaze*".
-
-> "*It is certain that Costa's catalog is not complete. (...) Curious character and musician outside the box of the time, Antonio da Costa is still waiting for an overall and documented judgment on his work.*"
+13 Feb. 1779
 
 ---
 
@@ -320,6 +289,32 @@ Scarlatti to Lauguier:
 
 ---
 
+# Style
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./canoni.jpg)
+
+* One sole register ($G$-clef)
+   * Free imitative style
+   * Constant modulation 
+   * Crossings ("stereophonic" effect?)
+   * Continuous flow
+* Dissonances beyond what was tolerated at the time
+* Ties versus spicatto notes
+* Difficult fractions (rythm)
+* Several occurrences of "$\flat\natural$"
+
+--- 
+# Style
+<!-- _backgroundColor: "lightcyan" -->
+
+Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044)):
+
+> "*To the ear, the effect is in some points astounding, so much as it is unpredictable, but convincing; in others, vice versa, it is incomprehensible and it seems that the succession of sounds is not determined by logic, but by the pure desire to amaze*".
+
+> "*It is certain that Costa's catalog is not complete. (...) Curious character and musician outside the box of the time, Antonio da Costa is still waiting for an overall and documented judgment on his work.*"
+
+---
+
 # Known works
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -329,7 +324,7 @@ Scarlatti to Lauguier:
 * [Duet](https://stabikat.de/Record/1698231105) in e$\flat$ for 2 violins ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
 * [Mottetto a quattro Voci / Bone Pastor / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org](https://archivio.fondazionelevi.it/record/30922?ln=en), 4V (SATB), bc - Fa] I-Vsm Fondo Procuratoria di San Marco - scheda n° 569. B.660/1-5
 * O vos omnes qui transitis per viam a 5 soprani soli in Fm
-* O vos omnes qui transitis per viam a 4 soprani con accompagnamento di 4 violini in cm (Conservato a Venezia, Fondazione Levi, [Fondo Procuratoria di San Marco](https://archivio.fondazionelevi.it/collection/Fondo%20Procuratoria%20di%20San%20Marco) con segnatura B.660/1-5) - pode haver confusão entre os dois, cf [registo](https://archivio.fondazionelevi.it/search?p=Portoghese%20Costa&f=autore_unificato&action_search=Cerca&c=Archivio+digitale+Fondazione+Levi&sf=&so=d&rm=&rg=100&sc=0&of=hb)
+* O vos omnes qui transitis per viam a 4 soprani con accompagnamento di 4 violini in cm (Venice, Fondazione Levi, [Fondo Procuratoria di San Marco](https://archivio.fondazionelevi.it/collection/Fondo%20Procuratoria%20di%20San%20Marco) ref: B.660/1-5.
 
 ---
 
@@ -352,17 +347,58 @@ Needs further research.
 ---
 # Current research
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:40% fit](./almeida.png)
+![bg right:32% fit](./almeida.png)
 
 Death possibly mentioned in the letters of Leonor de Almeida?
 
-> She met him and was surely in Vienna when he died.
+> She met him and was living in Vienna when he died.
 
 Possibly caricatured by Ghezzi in Rome?
 
 > Pier Ghezzi (1674-1755) was a very prolific artist.
 
 (Aside: Ghezzi's caricature of Francisco A. Almeida) 
+
+---
+
+# Vienna (1780)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./alorna.jpg)
+
+Leonor de Almeida (countess of Alorna):
+
+> "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
+
+(Letter XIII, 1780)
+
+---
+
+# The "Porto gang"
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./ghezzi-01.jpeg)
+
+What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
+
+> Violinists João Peixoto, António Vieira, António Nunes, José Lopes ...?
+
+What about his portrait sent from Vienna in 1780...?
+
+Meanwhile:
+
+> Family [Gomes Costa Pacheco](https://digitarq.arquivos.pt/details?id=7637352) fully identified.
+
+---
+
+# Summary
+<!-- _backgroundColor: "lightcyan" -->
+
+Antonio da Costa's letters have been praised as among the best in their epistolar 
+
+He has been praised as a man of character and ...
+
+But, it is now time to praise him for what he mostly was:
+
+> a musician, a composer.
 
 ---
 

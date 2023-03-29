@@ -296,7 +296,7 @@ Ciacchi & Dellaborra [2020](https://sidm.it/ojs/index.php/fmi/article/view/1044)
 
 > "*To the ear, the effect is in some points astounding, so much as it is unpredictable, but convincing; in others, vice versa, it is incomprehensible and it seems that the succession of sounds is not determined by logic, but by the pure desire to amaze*".
 
-> "It is certain that Costa's catalog is not complete."
+> "*It is certain that Costa's catalog is not complete. (...) Curious character and musician outside the box of the time, Antonio da Costa is still waiting for an overall and documented judgment on his work.*"
 
 ---
 

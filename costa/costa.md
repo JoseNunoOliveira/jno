@@ -254,6 +254,14 @@ January 1779
 
 ---
 
+Letter from Costa to Martini:
+
+*(...) But though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based*
+
+Feb. 1780
+
+---
+
 # Vienna (1780)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./alorna.jpg)

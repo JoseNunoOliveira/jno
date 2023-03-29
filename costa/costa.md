@@ -1,5 +1,8 @@
 ---
 
+The name of Antonio da Costa, illustrating both Portuguese art and one of the greats in this chorus of victims of obscurantism, resurfaces today as a protest in our history. That is why in any sense we will always proclaim the publication of his Letters as a national service.
+Theophilo Braga.
+
 marp: true
 math: katex
 theme: default

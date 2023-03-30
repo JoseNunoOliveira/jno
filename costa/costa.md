@@ -40,7 +40,7 @@ Musicology Days, UM, Braga
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)
 
-Documented musical connections in Italy and Vienna.
+Documented musical connections in Italy and Vienna (among others).
 
 ---
 
@@ -91,13 +91,13 @@ Trios sent to Porto:
 
 ---
 
-# Rome   (1749-1754)
+# Rome   (1750-1754)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
 Trios sent to Porto:
 
->  “*(...) os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*"
+>  “*(...) os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*".
 
 (Letter II, 28-2-1752)
 
@@ -129,7 +129,7 @@ Trios sent to Porto:
 
 > "*What Your Reverence now writes to me about Signor Don Antonio Costa (this is his surname) does not surprise me; for you can imagine that the initial impact of such a novelty, namely this attempt at a music always in inversion, we have received here with much greater force from his guitar, where the effect is truly unique (...)*"
 
->  "*He is a patron and friend of mine*"
+>  "*He is a patron and friend of mine*".
 
 Letter 162. Padua, 20 Sep. 1766
 
@@ -247,7 +247,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 [Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2790)  from Martini to Costa:
 
-> "*As soon as I laid eyes on the score (...) came to mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure (...)?*"
+> "*As soon as I laid eyes on the score (...) came to mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure (...)*"
 
 2 Jan. 1779
 
@@ -270,7 +270,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 [Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2791) from Costa to Martini:
 
-*(...) But though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based*
+*(...) though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based.*
 
 13 Feb. 1779
 
@@ -280,7 +280,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./scarlatti.jpg)
 
-Scarlatti to Lauguier:
+Scarlatti to Laugier:
 
 > "*(...) Scarlatti frequently told M. L'Augier, that he was sensible he had broke through all the rules of composition in his lessons; but asked if his deviations from these rules offended the ear? (...)*"
 
@@ -292,6 +292,7 @@ Scarlatti to Lauguier:
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
+* Difficult fractions (rythm)
 * One sole register ($G$-clef)
    * Free imitative style
    * Constant modulation 
@@ -299,8 +300,7 @@ Scarlatti to Lauguier:
    * Continuous flow
 * Dissonances beyond what was tolerated at the time
 * Ties versus spicatto notes
-* Difficult fractions (rythm)
-* Several occurrences of "$\flat\natural$"
+* Several occurrences of "$\flat\natural$" (??)
 
 --- 
 # Style
@@ -321,9 +321,9 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 * Trios IV, V e VI --- Drei Sonaten für drei Violinen ([Austrian National Library](https://www.onb.ac.at/beethoven-digital/portal/)) ([Wikiscore](http://wiki-score.org/doku.php?id=costa:index))
 * Minuet (letter VI), most probably lost
 * [Duet](https://stabikat.de/Record/1698231105) in e$\flat$ for 2 violins ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
-* [Mottetto a quattro Voci / Bone Pastor / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org](https://archivio.fondazionelevi.it/record/30922?ln=en), 4V (SATB), bc - Fa] I-Vsm Fondo Procuratoria di San Marco - scheda n° 569. B.660/1-5
-* O vos omnes qui transitis per viam a 5 soprani soli in Fm
-* O vos omnes qui transitis per viam a 4 soprani con accompagnamento di 4 violini in cm (Venice, Fondazione Levi, [Fondo Procuratoria di San Marco](https://archivio.fondazionelevi.it/collection/Fondo%20Procuratoria%20di%20San%20Marco) ref: B.660/1-5.
+* [Mottetto a quattro Voci / *Bone Pastor* / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org](https://archivio.fondazionelevi.it/record/30922?ln=en), 4V (SATB), bc - Fa] I-Vsm Fondo Procuratoria di San Marco - scheda n° 569. B.660/1-5
+* *O vos omnes qui transitis per viam* a 5 soprani soli in Fm
+* *O vos omnes qui transitis per viam* a 4 soprani con accompagnamento di 4 violini in cm (Venice, Fondazione Levi, [Fondo Procuratoria di San Marco](https://archivio.fondazionelevi.it/collection/Fondo%20Procuratoria%20di%20San%20Marco) ref: B.660/1-5.
 
 ---
 
@@ -348,7 +348,7 @@ Needs further research.
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:32% fit](./almeida.png)
 
-Death possibly mentioned in the letters of Leonor de Almeida?
+Death possibly mentioned in the letters of Leonor de Almeida (Countess of Alorna)?
 
 > She met him and was living in Vienna when he died.
 
@@ -364,7 +364,7 @@ Possibly caricatured by Ghezzi in Rome?
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./alorna.jpg)
 
-Leonor de Almeida (countess of Alorna):
+Leonor de Almeida (Countess of Alorna):
 
 > "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
 
@@ -396,7 +396,7 @@ Teófilo Braga ([1879](https://purl.pt/63)):
 
 > "*The name of Antonio da Costa, illustrating both Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in any sense we will always proclaim the publication of his letters as a national service.*"
 
-Cheers! But now it's time to praise him for what, more than anything else, he was:
+Sure! But now it's time to praise him for what, more than anything else, he was:
 
 > a musician, a composer.
 
@@ -404,12 +404,21 @@ Cheers! But now it's time to praise him for what, more than anything else, he wa
 
 # References 
 
-[:arrow_forward:](./abbate-S3.wav)
-![bg right:20% fit](./ghezzi-02.jpeg)
+* Andrea Ciacchi, Mariateresa Dellaborra (2021) *António da Costa compositore e commentatore della scena musicale italiana settecentesca* Fonti Musicali Italiane, 25 (2020), pp.33-60.
+
+* Charles Burney (1773)
+
+* Joaquim Vasconcelos (1879) *Cartas curiosas...*
+
+* Brito
+
+![bg right:30% fit](./ghezzi-02.jpeg)
 
 ---
 
 # References 
+
+[:arrow_forward:](./abbate-S3.wav)
 
 ---
 

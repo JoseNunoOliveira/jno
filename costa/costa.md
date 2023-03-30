@@ -270,7 +270,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 [Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2791) from Costa to Martini:
 
-*(...) though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based.*
+*(...) though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based.*"
 
 13 Feb. 1779
 

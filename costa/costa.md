@@ -40,7 +40,9 @@ Musicology Days, UM, Braga
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)
 
-Documented musical connections in Italy and Vienna (among others).
+Documented musical connections in **Italy** and **Vienna**.
+
+(among others)
 
 ---
 
@@ -66,7 +68,7 @@ Documented musical connections in Italy and Vienna (among others).
 
 ---
 
-# Rome   (1749-1754)
+# Rome   (1750-1754)
 <!-- _backgroundColor: "lightcyan" -->
 
 ![bg right:50% fit](./d_joao_v.jpg)
@@ -79,11 +81,11 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ---
 
-# Rome   (1749-1754)
+# Rome   (1750-1754)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
-Trios sent to Porto:
+**Trios** sent to Porto:
 
 >  “*(…) here are two [trios] to join the others and make half a dozen*” (“*ahi vão dous para ajustar com os outros a meia duzia*”). 
 
@@ -95,7 +97,7 @@ Trios sent to Porto:
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
-Trios sent to Porto:
+**Trios** sent to Porto:
 
 >  “*(...) os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*".
 
@@ -110,7 +112,7 @@ Trios sent to Porto:
 
 > "*O Bravo de Leorne chama-se o Senhor [Nardini](https://en.wikipedia.org/wiki/Pietro_Nardini); acompanhei-lhe quatro sonatas a solo em casa do Cardeal Spinelli que está aqui vezinho (...)*"
 
-(Letter III, 1752)
+(Letter III, May/June 1752)
 
 ---
 
@@ -119,7 +121,9 @@ Trios sent to Porto:
 
 ![bg right:60% fit](./Ospedali_degli_incurabili.jpg)
 
-1760 - all Portuguese to leave Rome (diplomatic crisis)
+1760 - all Portuguese to leave Rome!
+
+(diplomatic crisis)
 
 ---
 
@@ -155,7 +159,7 @@ Inscription on [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=13
 
 *("in the style sounding like the guitar of the Portuguese priest")*
 
-Aside: Berlin's copy, Andante.
+Aside: Berlin's copy (Andante).
 
 ---
 # Vienna (1772-1780)
@@ -247,7 +251,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 [Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2790)  from Martini to Costa:
 
-> "*As soon as I laid eyes on the score (...) came to mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure (...)*"
+> "*As soon as I laid eyes on the score (...) came to my mind the music that years ago, through the famous Signor Tartini (...) I heard (...). I confess that your music surprised me at first, far removed as it is from all the music of the past and present. Afterwards, listening to it again gave me great pleasure (...)*"
 
 2 Jan. 1779
 
@@ -294,10 +298,10 @@ Scarlatti to Laugier:
 
 * Difficult fractions (rythm)
 * One sole register ($G$-clef)
-   * Free imitative style
-   * Constant modulation 
-   * Crossings ("stereophonic" effect?)
    * Continuous flow
+   * Crossings ("stereophonic" effect?)
+* Free imitative style
+* Constant modulation 
 * Dissonances beyond what was tolerated at the time
 * Ties versus spicatto notes
 * Several occurrences of "$\flat\natural$" (??)
@@ -384,13 +388,13 @@ Leonor de Almeida (Countess of Alorna):
 
 # The "Porto gang"
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./ghezzi-01.jpeg)
+![bg right:33% fit](./ghezzi-01.jpeg)
 
 What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
 
 > Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner?
 
-What about his portrait sent from Vienna in 1780...?
+What about his **portrait** sent from Vienna in 1780...?
 
 Meanwhile:
 
@@ -408,7 +412,7 @@ Teófilo Braga ([1879](https://purl.pt/63)):
 
 Sure! But now it's time to praise him for what, more than anything else, he was:
 
-> a musician, a composer.
+> a musician, an original **composer**.
 
 ---
 
@@ -421,9 +425,6 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 * Manuel Carlos de Brito, *A Kind of Rousseau but Still More Original”: Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
 
 * Andrea Ciacchi, Mariateresa Dellaborra (2020) *António da Costa compositore e commentatore della scena musicale italiana settecentesca* Fonti Musicali Italiane, 25 (2020), pp.33-60.
-
-
----
 
 <!--
 ![bg right:30% fit](./ghezzi-02.jpeg)

@@ -406,11 +406,13 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 
 * Andrea Ciacchi, Mariateresa Dellaborra (2021) *António da Costa compositore e commentatore della scena musicale italiana settecentesca* Fonti Musicali Italiane, 25 (2020), pp.33-60.
 
-* Charles Burney (1773)
+* *Cartas curiosas do Abbade António da Costa anotadas e precedidas de um ensaio biográfico de Joaquim de Vasconcellos*, Porto, Imprensa Litterario-Commercial, 1879. 
 
-* Joaquim Vasconcelos (1879) *Cartas curiosas...*
+* Charles Burney, *The Present State of Music in Germany, the Netherlands, and United Provinces*, in two volumes, London, 1773
 
-* Brito
+* Manuel Carlos de Brito, *A Kind of Rousseau but Still More Original”: Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
+
+Pier Leone Ghezzi (1674-1755)
 
 ![bg right:30% fit](./ghezzi-02.jpeg)
 

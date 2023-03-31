@@ -327,6 +327,16 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 
 ---
 
+# Wikiscore
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:68% fit](./wikiscore.jpg)
+
+[:arrow_forward:](http://wiki-score.org/doku.php) wiki-score.org
+
+A platform similar to the Wikipedia for cooperative editing of music scores
+
+---
+
 # Current research
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./17131227.jpg)
@@ -354,7 +364,7 @@ Death possibly mentioned in the letters of Leonor de Almeida (Countess of Alorna
 
 Possibly caricatured by Ghezzi in Rome?
 
-> Pier Ghezzi (1674-1755) was a very prolific artist.
+> Pier Leone Ghezzi (1674-1755) was a very prolific artist.
 
 (Aside: Ghezzi's caricature of Francisco A. Almeida) 
 
@@ -378,7 +388,7 @@ Leonor de Almeida (Countess of Alorna):
 
 What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
 
-> Violinists João Peixoto, António Vieira, António Nunes, José Lopes ...?
+> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner?
 
 What about his portrait sent from Vienna in 1780...?
 
@@ -404,24 +414,18 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 
 # References 
 
-* Andrea Ciacchi, Mariateresa Dellaborra (2021) *António da Costa compositore e commentatore della scena musicale italiana settecentesca* Fonti Musicali Italiane, 25 (2020), pp.33-60.
+* Charles Burney, *The Present State of Music in Germany, the Netherlands, and United Provinces*, in two volumes, London, 1773
 
 * *Cartas curiosas do Abbade António da Costa anotadas e precedidas de um ensaio biográfico de Joaquim de Vasconcellos*, Porto, Imprensa Litterario-Commercial, 1879. 
 
-* Charles Burney, *The Present State of Music in Germany, the Netherlands, and United Provinces*, in two volumes, London, 1773
-
 * Manuel Carlos de Brito, *A Kind of Rousseau but Still More Original”: Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
 
-Pier Leone Ghezzi (1674-1755)
+* Andrea Ciacchi, Mariateresa Dellaborra (2020) *António da Costa compositore e commentatore della scena musicale italiana settecentesca* Fonti Musicali Italiane, 25 (2020), pp.33-60.
 
+
+---
+
+<!--
 ![bg right:30% fit](./ghezzi-02.jpeg)
-
----
-
-# References 
-
 [:arrow_forward:](./abbate-S3.wav)
-
----
-
-<!-- ; as it destroys all fancy, connection, and continuity, by perpetually tending to a final close and termination of whatever is begun: falling a fifth, or rising a fourth, cuts every thing off short, or makes the ear, which is accustomed to a fundamental base, uneasy till a passage is finished"* ->
+; as it destroys all fancy, connection, and continuity, by perpetually tending to a final close and termination of whatever is begun: falling a fifth, or rising a fourth, cuts every thing off short, or makes the ear, which is accustomed to a fundamental base, uneasy till a passage is finished"* ->

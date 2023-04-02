@@ -17,7 +17,7 @@ JN Oliveira
 
 March 31st, 2023
 
-Musicology Days, UM, Braga
+**[Musicology Days](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
 
 
 ---
@@ -119,11 +119,14 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 # Venice (1761-1766)
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:60% fit](./Ospedali_degli_incurabili.jpg)
+![bg right:50% fit](./Ospedali_degli_incurabili.jpg)
 
-1760 - all Portuguese to leave Rome!
+1760 diplomatic crisis: all Portuguese to leave Rome.
 
-(diplomatic crisis)
+> "*De Veneza (...) tornar-lhe-hei a dizer que esta terra no material é differentissima do que lá se crê (...)*"
+
+(Letter VIII, 23 Jul. 1761)
+
 
 ---
 
@@ -155,11 +158,11 @@ Letter 165. Padua, 17 Oct. 1766
 
 Inscription on [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=138631&View=rism)'s manuscript copy:
 
->  "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*")
+>  "*Sonata à Violino, e Basso / Del / Sig.r Giuseppe Tartini / Composta dal Medes.mo / Sopra lo stile che suona / il Prette dalla Chitarra / Portoghese*"
 
 *("in the style sounding like the guitar of the Portuguese priest")*
 
-Aside: Berlin's copy (Andante).
+Aside :arrow_forward: [Berlin's copy](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN104710864X&PHYSID=PHYS_0090&DMDID=DMDLOG_0029) (Andante).
 
 ---
 # Vienna (1772-1780)
@@ -291,6 +294,18 @@ Scarlatti to Laugier:
 (Burney, page [253](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=scarlatti&f=false))
 
 ---
+<!-- _backgroundColor: "lightcyan" -->
+# Leipzig (1790)
+![bg right:40% fit](./gerber.jpg)
+
+Abate Costa's entry in Gerber's "*Lexikon der Tonkünstler (...)*"
+
+> [Ernst Ludwig Gerber](https://en.wikipedia.org/wiki/Ernst_Ludwig_Gerber), *Historisch-biographisches Lexikon der Tonkünstler*, volume I, page [304](https://www.digitale-sammlungen.de/en/view/bsb11011752?page=204,205). 
+> Breitkopf, Leipzig, 1790 
+
+Source :arrow_forward: München, [Bayerische Staatsbibliothek](https://www.digitale-sammlungen.de/en)
+
+---
 
 # Style
 <!-- _backgroundColor: "lightcyan" -->
@@ -299,10 +314,10 @@ Scarlatti to Laugier:
 * Difficult fractions (rythm)
 * One sole register ($G$-clef)
    * Continuous flow
-   * Crossings ("stereophonic" effect?)
+   * Crossings
 * Free imitative style
-* Constant modulation 
-* Dissonances beyond what was tolerated at the time
+* Unusual modulations 
+* Dissonances beyond tolerated at the time
 * Ties versus spicatto notes
 * Several occurrences of "$\flat\natural$" (??)
 
@@ -355,22 +370,22 @@ Baptized: 1714-01-01
 
 Other alternatives exist but less likely.
 
-Needs further research.
+:arrow_forward: Needs further research.
 
 ---
 # Current research
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:32% fit](./almeida.png)
 
-Death possibly mentioned in the letters of Leonor de Almeida (Countess of Alorna)?
+Death possibly mentioned in the letters of [Leonor de Almeida](https://en.wikipedia.org/wiki/Leonor_de_Almeida_Portugal,_Marquise_of_Alorna) (Countess of Oyenhausen)?
 
 > She met him and was living in Vienna when he died.
 
 Possibly caricatured by Ghezzi in Rome?
 
-> Pier Leone Ghezzi (1674-1755) was a very prolific artist.
+> [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
 
-(Aside: Ghezzi's caricature of Francisco A. Almeida) 
+(Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)) 
 
 ---
 
@@ -378,7 +393,7 @@ Possibly caricatured by Ghezzi in Rome?
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./alorna.jpg)
 
-Leonor de Almeida (Countess of Alorna):
+Costa meets Leonor de Almeida:
 
 > "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
 

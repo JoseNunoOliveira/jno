@@ -71,7 +71,7 @@ Documented musical connections in **Italy** and **Vienna**.
 # Rome   (1750-1754)
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:50% fit](./d_joao_v.jpg)
+![bg right:34% fit](./sadp.png)
 
 At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 

@@ -425,7 +425,7 @@ Meanwhile:
 
 Teófilo Braga ([1879](https://purl.pt/63)):
 
-> "*The name of Antonio da Costa, illustrating both the Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in any sense we will always proclaim the publication of his letters as a national service.*"
+> "*The name of Antonio da Costa, illustrating the Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in every sense we will always proclaim the publication of his letters as a national service.*"
 
 Sure! But now it's time to praise him for what, more than anything else, he was:
 
@@ -441,7 +441,7 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 
 * Manuel Carlos de Brito, *A Kind of Rousseau but Still More Original”: Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
 
-* Andrea Ciacchi, Mariateresa Dellaborra (2020) *António da Costa compositore e commentatore della scena musicale italiana settecentesca* Fonti Musicali Italiane, 25 (2020), pp.33-60.
+* Andrea Ciacchi, Mariateresa Dellaborra (2020) *António da Costa compositore e commentatore della scena musicale italiana settecentesca*, Fonti Musicali Italiane, 25 (2020), pp.33-60.
 
 <!--
 ![bg right:30% fit](./ghezzi-02.jpeg)

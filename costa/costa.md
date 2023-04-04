@@ -368,36 +368,39 @@ Possible birth record:
 Born: 1713-12-27
 Baptized: 1714-01-01
 
-Other alternatives exist but less likely.
+Other alternatives found but less likely.
 
 :arrow_forward: Needs further research.
 
 ---
 # Current research
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:32% fit](./almeida.png)
+![bg right:30% fit](./alorna.jpg)
 
 Death possibly mentioned in the letters of [Leonor de Almeida](https://en.wikipedia.org/wiki/Leonor_de_Almeida_Portugal,_Marquise_of_Alorna) (Countess of Oyenhausen)?
 
-> She met him and was living in Vienna when he died.
+She met him and was living in Vienna when he died:
+
+> "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
+
+(Letter XIII, 1780)
+
+---
+# Current research
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:32% fit](./almeida.png)
 
 Possibly caricatured by Ghezzi in Rome?
 
 > [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
 
-(Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)) 
+Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)
 
----
+What about his **portrait** sent from Vienna in 1780...?
 
-# Vienna (1780)
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./alorna.jpg)
+> "(...) [A] *respeito do retrato (...) é possível que V.M. já o tenha em mão (...) O portador é o Snr. Padre Francisco Brandão (...) o qual V.M. ha de procurar em Miragaia (...)*”.
 
-Costa meets Leonor de Almeida:
-
-> "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
-
-(Letter XIII, 1780)
+(Letter XIII,  7 Oct. 1780)
 
 ---
 
@@ -407,9 +410,8 @@ Costa meets Leonor de Almeida:
 
 What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
 
-> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner?
+> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner, ...?
 
-What about his **portrait** sent from Vienna in 1780...?
 
 Meanwhile:
 
@@ -423,7 +425,7 @@ Meanwhile:
 
 Teófilo Braga ([1879](https://purl.pt/63)):
 
-> "*The name of Antonio da Costa, illustrating both Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in any sense we will always proclaim the publication of his letters as a national service.*"
+> "*The name of Antonio da Costa, illustrating both the Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in any sense we will always proclaim the publication of his letters as a national service.*"
 
 Sure! But now it's time to praise him for what, more than anything else, he was:
 

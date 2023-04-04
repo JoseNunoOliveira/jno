@@ -77,7 +77,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 > "*(...) estou conego com casa e cama, e cozinha de casa, e três mil réis cada mez pela cantarola (...)*"
 
-(Letter VII, 1754)
+(Letter VII, 30 Aug. 1754)
 
 ---
 
@@ -89,7 +89,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 >  “*(…) here are two [trios] to join the others and make half a dozen*” (“*ahi vão dous para ajustar com os outros a meia duzia*”). 
 
-(Letter II, 28-2-1752)
+(Letter II, 28 Feb. 1752)
 
 ---
 
@@ -101,7 +101,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 >  “*(...) os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*".
 
-(Letter II, 28-2-1752)
+(Letter II, 28 Feb. 1752)
 
 ---
 
@@ -336,11 +336,12 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 # Known works
 <!-- _backgroundColor: "lightcyan" -->
 
-* Trios I a III (lost?)
-* Trios IV, V e VI --- Drei Sonaten für drei Violinen ([Austrian National Library](https://www.onb.ac.at/beethoven-digital/portal/)) ([Wikiscore](http://wiki-score.org/doku.php?id=costa:index))
-* Minuet (letter VI), most probably lost
-* [Duet](https://stabikat.de/Record/1698231105) in e$\flat$ for 2 violins ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
-* [Mottetto a quattro Voci / *Bone Pastor* / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org](https://archivio.fondazionelevi.it/record/30922?ln=en), 4V (SATB), bc - Fa] I-Vsm Fondo Procuratoria di San Marco - scheda n° 569. B.660/1-5
+* Trios I, II, III (lost?)
+* Trios IV, V e VI - *Drei Sonaten für drei Violinen* ([Austrian National Library](https://www.onb.ac.at/beethoven-digital/portal/)) ([Wikiscore](http://wiki-score.org/doku.php?id=costa:index))
+* Minuet mentioned in Letter VI - most probably lost
+* *Duet in e$\flat$ for 2 violins* ([Staatsbibliothek zu Berlin](https://stabikat.de/Record/1698231105)) ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
+* *Mottetto a quattro Voci / *Bone Pastor* / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org; 4V (SATB), bc - Fa I-Vsm* Fondo Procuratoria di San Marco,
+[scheda n° 569. B.660/1-5](https://archivio.fondazionelevi.it/record/30922?ln=en)
 * *O vos omnes qui transitis per viam* a 5 soprani soli in Fm
 * *O vos omnes qui transitis per viam* a 4 soprani con accompagnamento di 4 violini in cm (Venice, Fondazione Levi, [Fondo Procuratoria di San Marco](https://archivio.fondazionelevi.it/collection/Fondo%20Procuratoria%20di%20San%20Marco) ref: B.660/1-5.
 

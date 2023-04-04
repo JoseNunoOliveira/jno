@@ -342,8 +342,8 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 * *Duet in e$\flat$ for 2 violins* ([Staatsbibliothek zu Berlin](https://stabikat.de/Record/1698231105)) ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
 * *Mottetto a quattro Voci / *Bone Pastor* / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org; 4V (SATB), bc - Fa I-Vsm* Fondo Procuratoria di San Marco,
 [scheda n° 569. B.660/1-5](https://archivio.fondazionelevi.it/record/30922?ln=en)
-* *O vos omnes qui transitis per viam* a 5 soprani soli in Fm, source: [Ciacchi & Dellaborra 2020](https://sidm.it/ojs/index.php/fmi/article/view/1044)
-* *O vos omnes qui transitis per viam* a 4 soprani con accompagnamento di 4 violini in cm, source: [Ciacchi & Dellaborra 2020](https://sidm.it/ojs/index.php/fmi/article/view/1044)
+* *O vos omnes qui transitis per viam* a 5 soprani soli in Fm, source: [Ciacchi & Dellaborra (2020)](https://sidm.it/ojs/index.php/fmi/article/view/1044)
+* *O vos omnes qui transitis per viam* a 4 soprani con accompagnamento di 4 violini in cm, source: [Ciacchi & Dellaborra (2020)](https://sidm.it/ojs/index.php/fmi/article/view/1044)
 
 ---
 

@@ -11,7 +11,7 @@ footer: 'Wikiscore meets l'Abate Portoghese'
 # Wikiscore meets *l'Abate Portoghese*
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:60% fit](./canoni.jpg)
+![bg right:60% fit](./EE147_005.png)
 
 JN Oliveira
 
@@ -324,6 +324,7 @@ Source :arrow_forward: München, [Bayerische Staatsbibliothek](https://www.digit
 --- 
 # Style
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:18% fit](./EE147_005a.png)
 
 Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044)):
 
@@ -342,8 +343,8 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 * *Duet in e$\flat$ for 2 violins* ([Staatsbibliothek zu Berlin](https://stabikat.de/Record/1698231105)) ([Wikiscore](http://wiki-score.org/doku.php?id=abbate:index))
 * *Mottetto a quattro Voci / *Bone Pastor* / Dell'Abb:te Costa Portoghese, Partit.: S, A, T, B, org; 4V (SATB), bc - Fa I-Vsm* Fondo Procuratoria di San Marco,
 [scheda n° 569. B.660/1-5](https://archivio.fondazionelevi.it/record/30922?ln=en)
-* *O vos omnes qui transitis per viam* a 5 soprani soli in Fm, source: [Ciacchi & Dellaborra (2020)](https://sidm.it/ojs/index.php/fmi/article/view/1044)
-* *O vos omnes qui transitis per viam* a 4 soprani con accompagnamento di 4 violini in cm, source: [Ciacchi & Dellaborra (2020)](https://sidm.it/ojs/index.php/fmi/article/view/1044)
+* *O vos omnes qui transitis per viam* a 4 soprani con accompagnamento di 4 violini in cm, [Museo internazionale e biblioteca della musica, Bologna](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=6177)
+* *O vos omnes qui transitis per viam* a 5 soprani soli in Fm, [Museo internazionale e biblioteca della musica, Bologna](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=6178)
 
 ---
 

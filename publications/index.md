@@ -15,6 +15,8 @@
 
 * R.C. Backhouse and J.N. Oliveira. <em>On difunctions</em>. Journal paper (submitted).
 
+* J.N. Oliveira. <em>Why Adjunctions Matter - a Functional Programmer Perspective</em>. Journal paper (submitted).
+
 ---
 
 [Other papers, talks, reports](./publications)

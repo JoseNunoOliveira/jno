@@ -59,6 +59,7 @@
 
 **2013**
 
+* J.N. Oliveira, M.A. Ferreira. <em>Alloy Meets the Algebra of Programming: A Case Study</em>. IEEE Transactions on Software Engineering, vol. 39, no. 3, pp. 305-326, March 2013, [doi:10.1109/TSE.2012.15](http://www.computer.org/csdl/trans/ts/2013/03/tts2013030305-abs.html).
 * J.N. Oliveira. <em>Weighted automata as coalgebras in categories of matrices</em>. Journal paper. IJFSC Vol. 24, No. 6 (2013), 709-728, World Scientific Pub. Comp. [http://dx.doi.org/10.1142/S0129054113400145](DOI: 10.1142/S0129054113400145).
 * J.N. Oliveira. <a href="http://www4.di.uminho.pt/~jno/ps/cehum13-en.pdf">On the <em>'A'</em> that links the <em>'M'</em>s of Maths, Music and Maps</a>. Contributed talk to the [2013 CEHUM Autumn Colloquium XV](http://cehum.ilch.uminho.pt/xvco) (Maths and Computer Science Panel), U.Minho, Braga, 21-23 November 2013.
 * J.N. Oliveira. [Calculating Risk in functional programming](http://www4.di.uminho.pt/~jno/ps/wg21-70sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #70](http://www.cs.uu.nl/wiki/bin/view/IFIP21/Ulm#Technical_presentations_in_sched), Ulm, Germany, July 2013.

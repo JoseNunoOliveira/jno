@@ -1,4 +1,20 @@
+
 <link href="https://fonts.googleapis.com/css?family=Crimson+Text|EB+Garamond|Lato|Libre+Baskerville|Lora|Merriweather|Montserrat|Nanum+Gothic|Noto+Sans|Nunito|Open+Sans|PT+Serif|Raleway|Source+Serif+Pro" rel="stylesheet">
+
+
+## Regime de Avaliação
+
+Há 2 **regimes da avaliação** à escolha para obter aprovação nesta unidade curricular:
+
+* **Regime A** - 2 testes cuja média seja $>=10$. A nota máxima neste regime é $16$ valores. Aos alunos com nota no intervalo $[8..10[$ será facultada a possibilidade de fazerem uma **oral**.
+
+* **Regime B** - 2 testes cuja média seja $>=8$ + realização de um **trabalho prático** de grupo (3 alunos). A nota dos testes valerá $60%$ da nota final e a nota do trabalho de grupo valerá $60%$. O trabalho, que será avaliado através de um relatório e uma defesa oral, valerá 40% da nota final e terá nota mínima $10$ valores.
+
+Os testes, bem como o exame de recurso, serão sem consulta.
+
+Os **grupos TP** serão de 3/4 alunos cada. As notas **TP** são individuais, conforme prestação de cada aluno no **trabalho** e na **defesa oral**.
+
+
 
 ## Papers, talks, reports etc
 

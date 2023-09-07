@@ -6,14 +6,11 @@
 
 Há 2 **regimes da avaliação** à escolha para obter aprovação nesta unidade curricular:
 
-* **Regime A** - 2 testes cuja média seja $>=10$. A nota máxima neste regime é $16$ valores. Aos alunos com nota no intervalo $[8..10[$ será facultada a possibilidade de fazerem uma **oral**.
+* **Regime A** - **2 testes** cuja média seja &#8805; **10**. A nota máxima neste regime é **16** valores. Aos alunos com nota no intervalo **[8..10[** será facultada a possibilidade de fazerem uma **oral**.
 
-* **Regime B** - 2 testes cuja média seja $>=8$ + realização de um **trabalho prático** de grupo (3 alunos). A nota dos testes valerá $60%$ da nota final e a nota do trabalho de grupo valerá $60%$. O trabalho, que será avaliado através de um relatório e uma defesa oral, valerá 40% da nota final e terá nota mínima $10$ valores.
+* **Regime B** - **2 testes** cuja média seja &#8805; **8$** (60% da nota final) + realização de um **trabalho prático** de grupo de 3 alunos (40% da nota final). O trabalho será avaliado através de um relatório e uma defesa oral.
 
-Os testes, bem como o exame de recurso, serão sem consulta.
-
-Os **grupos TP** serão de 3/4 alunos cada. As notas **TP** são individuais, conforme prestação de cada aluno no **trabalho** e na **defesa oral**.
-
+Segundo o regime geral em vigor, há a nota teórOs testes, bem como o exame de recurso, serão sem consulta.
 
 
 ## Papers, talks, reports etc

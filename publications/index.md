@@ -1,7 +1,6 @@
 ## Selected publications
 
-* R.C. Backhouse and J.N. Oliveira. <em>On difunctions</em>. JLAMP volume 134, p. 100878, 2023 [in press](https://www.sciencedirect.com/science/article/pii/S2352220823000329).
-
+* R.C. Backhouse and J.N. Oliveira. [On difunctions](https://www.sciencedirect.com/science/article/pii/S2352220823000329). JLAMP, volume 134, p. 100878, 2023.
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Quantitative relational modelling with QAlloy](https://2022.esec-fse.org/track/fse-2022-research-papers#event-overview). Proc. of [ESEC/FSE 2022](https://2022.esec-fse.org/), Association for Computing Machinery, Inc (ACM), pp. 885-896.
 <!--  A [Singapore](https://nus.edu.sg/oam/virtual-tour/utown/), Mon 14 - Fri 18 November 2022. -->
 

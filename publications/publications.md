@@ -15,6 +15,8 @@
 
 **2020**
 
+* A. Santos, J.N. Oliveira. <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><em>Type Your Matrices for Great Good (Functional Pearl)</em></a>. Proceedings of the [ Haskell Symposium 2020](https://www.haskell.org/haskell-symposium/2020/index.html), 27-28 August 2020, pages 54-66.
+
 * J.N. Oliveira. [A Note on the Under-Appreciated For-Loop](http://www4.di.uminho.pt/~jno/ps/haslabtr202010.pdf). Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.
 * J.N. Oliveira. <em>Biproducts of Galois connections</em>. Contributed talk to [IFIP WG 2.1 Meeting #79](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo), Otterlo (NL), January 2020.
 

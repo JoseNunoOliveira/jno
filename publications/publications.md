@@ -16,7 +16,6 @@
 **2020**
 
 * A. Santos, J.N. Oliveira. <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><em>Type Your Matrices for Great Good (Functional Pearl)</em></a>. Proceedings of the [ Haskell Symposium 2020](https://www.haskell.org/haskell-symposium/2020/index.html), 27-28 August 2020, pages 54-66.
-
 * J.N. Oliveira. [A Note on the Under-Appreciated For-Loop](http://www4.di.uminho.pt/~jno/ps/haslabtr202010.pdf). Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.
 * J.N. Oliveira. <em>Biproducts of Galois connections</em>. Contributed talk to [IFIP WG 2.1 Meeting #79](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo), Otterlo (NL), January 2020.
 
@@ -90,6 +89,8 @@
 
 **2010**
 
+* [Shin-Cheng Mu](http://www.iis.sinica.edu.tw/pages/scm/) and J.N. Oliveira.  [Programming from Galois Connections — Principles and Applications](https://repositorium.sdum.uminho.pt/bitstream/1822/33788/1/916.pdf)
+Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 * J.N. Oliveira.  [Hands on a Verification Challenge: Proving a Journaled File System Correct](http://www.di.uminho.pt/~jno/ps/inf10sl.pdf).  [Inforum 2010](http://inforum.org.pt/INForum2010/programa) (invited talk), 10-Sep 2010.
 * J.N. Oliveira.  [A (Calculational) Look at Optimization](http://www.di.uminho.pt/~jno/ps/mondrian10.pdf).  Talk at the 1st Workhsop of the [Mondrian](http://wiki.di.uminho.pt/twiki/bin/view/Research/MONDRIAN/WebHome) Project, Aveiro, 9-July 2010.
 * H.D. Macedo and J.N. Oliveira.  [Matrices As Arrows! A Biproduct Approach to Typed Linear Algebra](http://www.springerlink.com/content/j260v4817p3512u8/).  In <em>[MPC 2010](http://mpc-amast2010.fsg.ulaval.ca/mpc/index.html)</em>, volume 6120 of <em> Lecture Notes in Computer Science</em>, pages 271-287. Springer, 2010.

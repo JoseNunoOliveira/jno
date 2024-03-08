@@ -29,12 +29,9 @@ pred addBlock [b:Block, w : Word]{
 --     let last = Block - Block.(Next.~Next & iden) 
         { b not in (Block.(Next.~Next + ~Next.Next))
         }
---          b in nonEffectiveBlocks
---  t not in Block.tx
--- b.nonce.validHash = True
 
     //effects
-    hash' = hash + b->w  
+    hash' = hash + b -> w  
     let last = Block - Block.(Next.~Next & iden) 
         { Next' = Next + last -> b
           -- no b.Next'     
@@ -42,8 +39,6 @@ pred addBlock [b:Block, w : Word]{
        }
 
         //frame conditions
---  nonce' = nonce - b->b.nonce
---  triedNonce' = triedNonce - b->b.triedNonce
 }
 
 -- behaviour -------------------------------------------------
@@ -64,4 +59,4 @@ fact Traces {
 
 run { } for 5 Block, 5 Word
 
--- last = Block - Block.(Next.~Next & iden)
+

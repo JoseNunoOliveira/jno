@@ -1,5 +1,9 @@
 ## Other papers, talks, reports etc
 
+**2024**
+
+* J.N. Oliveira. <em>"How much is in a square?" An appraisal of relational thinking</em>. Contributed talk to [IFIP WG 2.1 #81](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Germany2024), Kloster Neustadt, Germany, 4th April 2024.
+
 **2023**
 
 * J.N. Oliveira. *ENSICO and the new "Trivium" for Computing in Schools*. InfoBlender talk, HASLab/INESC TEC / U.Minho, 22nd February 2023. ([Slides](http://www.di.uminho.pt/~jno/ps/haslab23sl.pdf)).

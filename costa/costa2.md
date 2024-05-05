@@ -33,6 +33,48 @@ May 25th, 2024
 * Misantrope, he despised the positions offered to him, living most of his life in poverty.
 
 * His intelligence and idiosincratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar. 
+---
+
+# Sources
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:60% fit](./costa-02.png)
+
+* 13 Letters (1750-1780) published by J. Vasconcelos (1879)
+* Charles Burney travel diary (1772)
+* 5 Letters exchanged between Costa, Martini and Tartini (1766-1780)
+* Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
+  
+---
+
+# First letter (1750)
+<!-- _backgroundColor: "lightcyan" -->
+
+![bg right:60% fit](./costa_trip.jpg)
+
+> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes e tanto de vida de novellas (...)*"
+
+(Letter I, 1750, sent to João Peixoto)
+
+--- 
+
+# The 13 Letters (1750-1780) sent to Porto friends
+
+* 5 recipients, all from Porto
+* 100+ individuals mentioned
+* the "maze"
+  
+---
+
+# The 13 Letters (1750-1780) sent to Porto friends
+
+* 5 recipients, all from Porto
+* 21 individuals mentioned more than once
+* where to start from?
+--- 
+
+
+
+---
 
 ---
 
@@ -40,9 +82,19 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)
 
-Documented musical connections in **Italy** and **Vienna**.
+Documented music connections in **Italy** and **Vienna**.
 
 (among others)
+
+---
+
+# *L'Abate Portoghese*
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:60% fit](./costa-01.png)
+
+Documented music connections in **Porto**.
+
+(among several others)
 
 ---
 
@@ -57,18 +109,9 @@ Documented musical connections in **Italy** and **Vienna**.
 
 ---
 
-# 1749-1750
-<!-- _backgroundColor: "lightcyan" -->
 
-![bg right:60% fit](./costa_trip.jpg)
 
-> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes (...) de vida de novellas (...)*"
-
-(Letter I, 1750)
-
----
-
-# Rome   (1750-1754)
+# Rome   (1750-1760)
 <!-- _backgroundColor: "lightcyan" -->
 
 ![bg right:34% fit](./sadp.png)
@@ -81,7 +124,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ---
 
-# Rome   (1750-1754)
+# Rome   (1750-1760)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
@@ -93,7 +136,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ---
 
-# Rome   (1750-1754)
+# Rome   (1750-1760)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./canoni.jpg)
 
@@ -105,7 +148,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ---
 
-# Rome   (1750-1754)
+# Rome   (1750-1760)
 <!-- _backgroundColor: "lightcyan" -->
 
 ![bg right:50% fit](./Pietro_Nardini.jpg)

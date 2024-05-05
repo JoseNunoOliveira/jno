@@ -116,7 +116,7 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 > a renowned jurisconsult, lawyer of the **Relação** (Court of Appeal) and **Juíz dos Órfãos** (orphans protector in patrimonial inheritance cases).
 
-In fact, and according to the [Registry]([77](https://pesquisa.auc.uc.pt/details?id=202836)) of the **University of Coimbra**:
+In fact, and according to the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
 
 > **1730**: Luís Gomes Costa, law student from Porto, [registered](https://pesquisa.auc.uc.pt/details?id=202836&ht=lu%C3%ADs%7cgomes%7ccosta%7cluis&detailsType=Description) in 1730-10-01, getting his Law degree by 1735 (July 3rd),
 

@@ -68,7 +68,8 @@ May 25th, 2024
 # The 13 Letters (1750-1780) sent to Porto
 
 * 5 recipients, all from Porto
-* 21 individuals mentioned more than once.
+* 21 individuals mentioned more than once
+* two clusters - musicians + others
   
 --- 
 
@@ -76,7 +77,7 @@ May 25th, 2024
 
 Among the 5 recipients + 21 individuals mentioned more than once,
 
-start from names in full:
+start from the names given in full:
 
    * Manuel Gomes Costa Pacheco
    * Pedro Pereira Sampaio.
@@ -97,11 +98,28 @@ Registry of the University of Coimbra
 
 ---
 
-# Parish of Vitoria (S.Benedictus)
+# Parish of Vitoria (S. Benedictus)
+
+**1758** - inhabited by the most illustrious families in Porto
+
+(Vitória is one of the four districts within the UNESCO World Heritage Classified Zone of Porto)
 
 ---
 
-Registry of the University of Coimbra
+# Ferraria de Cima street
+
+---
+
+xxx
+
+how have the letters survived?
+
+who collected them?
+
+who copied them?
+
+---
+
 # *L'Abate Portoghese*
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)

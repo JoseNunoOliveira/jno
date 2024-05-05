@@ -72,8 +72,8 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 
 * **5** recipients, all from Porto
-* **21** individuals mentioned more than one letter
-* two clusters - musicians + others.
+* **21** individuals mentioned in more than one letter
+* two **clusters** - musicians + others.
 
 --- 
 <!-- _backgroundColor: "lightcyan" -->
@@ -87,7 +87,7 @@ histogram
 
 Among such 5 + 21 individuals,
 
-start from the names given in full:
+start from names given in full, e.g.
 
    * **Manuel Gomes Costa Pacheco**
    * **Pedro Pereira Sampaio**.
@@ -111,10 +111,11 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 # Luís Gomes Costa
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./coimbra.png)
+oooo
 
-Luís Gomes Costa, father of Manuel, is
+Luís Gomes Costa, father of Manuel, is mentioned as
 
-> mentioned as renowned jurisconsult, lawyer of the **Relação** (Court of Appeal) and **Juíz dos Órfãos** (orphans protector in patrimonial inheritance cases).
+> a renowned jurisconsult, lawyer of the **Relação** (Court of Appeal) and **Juíz dos Órfãos** (orphans protector in patrimonial inheritance cases).
 
 In fact,
 

@@ -57,11 +57,11 @@ May 25th, 2024
 
 --- 
 
-# The 13 Letters (1750-1780) sent to Porto
+# The 13 Letters (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:55% fit](./maze.png)
 
-* **5** recipients, all from Porto
+* **5** recipients
 * **100+** individuals mentioned
 * where to start from in the maze?
   
@@ -71,7 +71,7 @@ May 25th, 2024
 ![bg right:58% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-* **5** recipients, all from Porto
+* **5** recipients
 * **21** individuals mentioned in more than one letter
 * two **clusters** - musicians + others.
 
@@ -90,7 +90,9 @@ Among such 5 + 21 individuals,
 start from names given in full, e.g.
 
    * **Manuel Gomes Costa Pacheco**
-   * **Pedro Pereira Sampaio**.
+   * **Pedro Pereira Sampaio**
+
+to unravel the puzzle.
   
 --- 
 
@@ -100,37 +102,34 @@ start from names given in full, e.g.
 
 **1768** - Habilitation process for the Military Order of Christ Knighthood.
 
-> [Diligência de habilitação para a Ordem de Cristo](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) of Manuel Gomes Costa Pacheco, born 1733.
+> [Diligência de habilitação para a Ordem de Cristo](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) of Manuel Gomes Costa Pacheco, born in Porto in 1733 and living in Vila da Feira.
 
-Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**.
-
-> Manuel Gomes Costa Pacheco is living in Vila da Feira.
+Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
 
 ---
 
 # Luís Gomes Costa
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./coimbra.png)
-oooo
 
-Luís Gomes Costa, father of Manuel, is mentioned as
+**Luís Gomes Costa**, father of Manuel, is mentioned as
 
 > a renowned jurisconsult, lawyer of the **Relação** (Court of Appeal) and **Juíz dos Órfãos** (orphans protector in patrimonial inheritance cases).
 
-In fact,
+In fact, and according to the Registry of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, from Porto, [registered](https://pesquisa.auc.uc.pt/details?id=202836&ht=lu%C3%ADs%7cgomes%7ccosta%7cluis&detailsType=Description) in Law in 1730-10-01, getting his degree by 1735 (July 3rd),
-
-according to the Registry of the University of Coimbra.
+> **1730**: Luís Gomes Costa, law student from Porto, [registered](https://pesquisa.auc.uc.pt/details?id=202836&ht=lu%C3%ADs%7cgomes%7ccosta%7cluis&detailsType=Description) in 1730-10-01, getting his Law degree by 1735 (July 3rd),
 
 ---
 
 # The "snr. Doutor"
 <!-- _backgroundColor: "lightcyan" -->
 
-Luís Gomes Costa is recipient of .... letters by Costa.
+**Luís Gomes Costa** is recipient of .... letters by Costa.
 
-In his letters, Costa refers to him as the **snr. Doutor** -  his best friend ever.
+In his letters, Costa refers to him as the "**snr. Doutor**" and
+
+> his best friend ever.
 
 
 ---
@@ -149,6 +148,8 @@ In his letters, Costa refers to him as the **snr. Doutor** -  his best friend ev
 # Ferraria de Cima street
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./caldeireiros.JPG)
+
+Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
 
 ---
 

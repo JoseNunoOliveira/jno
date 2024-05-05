@@ -39,9 +39,11 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-02.png)
 
-* 13 Letters (1750-1780) published by J. Vasconcelos (1879)
-* Charles Burney travel diary (1772)
-* 5 Letters exchanged between Costa, Martini and Tartini (1766-1780)
+* 13 Letters (1750-1780)
+   * Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
+   * Studied and published by **J. Vasconcelos** (1879)
+* **Charles Burney** travel diary (1772)
+* 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
 * Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
   
 ---
@@ -87,7 +89,7 @@ histogram
 
 Among such 5 + 21 individuals,
 
-start from names given in full, e.g.
+start from names given in full, e.g. recipients
 
    * **Manuel Gomes Costa Pacheco**
    * **Pedro Pereira Sampaio**
@@ -100,7 +102,7 @@ to unravel the puzzle.
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:35% fit](./1768.png)
 
-**1768** - Habilitation process for the Military Order of Christ Knighthood.
+**1768** - Habilitation process for the **Military Order of Christ** Knighthood.
 
 > [Diligência de habilitação para a Ordem de Cristo](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) of Manuel Gomes Costa Pacheco, born in Porto in 1733 and living in Vila da Feira.
 
@@ -112,9 +114,9 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./coimbra.png)
 
-**Luís Gomes Costa**, father of Manuel, is mentioned as
+**Luís Gomes Costa**, father of Manuel, is referred to as
 
-> a renowned jurisconsult, lawyer of the **Relação** (Court of Appeal) and **Juíz dos Órfãos** (orphans protector in patrimonial inheritance cases).
+> a renowned jurisconsult, lawyer of the **Relação** (Royal Court of Appeal) and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
 In fact, and according to the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
 

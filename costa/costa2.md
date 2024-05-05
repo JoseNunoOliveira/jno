@@ -72,8 +72,8 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 
 * **5** recipients, all from Porto
-* **21** individuals mentioned more than once
-* two clusters - musicians + others
+* **21** individuals mentioned more than one letter
+* two clusters - musicians + others.
 
 --- 
 <!-- _backgroundColor: "lightcyan" -->
@@ -85,7 +85,7 @@ histogram
 # The 13 Letters (1750-1780) sent to Porto
 <!-- _backgroundColor: "lightcyan" -->
 
-Among the 5 recipients + 21 individuals mentioned more than once,
+Among such 5 + 21 individuals,
 
 start from the names given in full:
 

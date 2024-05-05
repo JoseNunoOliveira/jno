@@ -57,27 +57,51 @@ May 25th, 2024
 
 --- 
 
-# The 13 Letters (1750-1780) sent to Porto friends
+# The 13 Letters (1750-1780) sent to Porto
 
 * 5 recipients, all from Porto
 * 100+ individuals mentioned
-* the "maze"
+* the "maze" - where to start from?
   
 ---
 
-# The 13 Letters (1750-1780) sent to Porto friends
+# The 13 Letters (1750-1780) sent to Porto
 
 * 5 recipients, all from Porto
-* 21 individuals mentioned more than once
-* where to start from?
+* 21 individuals mentioned more than once.
+  
 --- 
 
+# The 13 Letters (1750-1780) sent to Porto
 
+Among the 5 recipients + 21 individuals mentioned more than once,
+
+start from names in full:
+
+   * Manuel Gomes Costa Pacheco
+   * Pedro Pereira Sampaio.
+  
+--- 
+
+# Manuel Gomes Costa Pacheco
+
+Habilitation process for Order of Christ Knighthood.
 
 ---
 
+# The "snr. Doutor"
+
+Luís Gomes Costa
+
+Registry of the University of Coimbra
+
 ---
 
+# Parish of Vitoria (S.Benedictus)
+
+---
+
+Registry of the University of Coimbra
 # *L'Abate Portoghese*
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)

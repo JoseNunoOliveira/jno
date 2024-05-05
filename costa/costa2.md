@@ -59,21 +59,28 @@ May 25th, 2024
 
 # The 13 Letters (1750-1780) sent to Porto
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:55% fit](./maze.png)
 
-* 5 recipients, all from Porto
-* 100+ individuals mentioned
-* the "maze" - where to start from?
+* **5** recipients, all from Porto
+* **100+** individuals mentioned
+* where to start from in the maze?
   
 ---
 
 # The 13 Letters (1750-1780) sent to Porto
+![bg right:58% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-* 5 recipients, all from Porto
-* 21 individuals mentioned more than once
+* **5** recipients, all from Porto
+* **21** individuals mentioned more than once
 * two clusters - musicians + others
-  
+
 --- 
+<!-- _backgroundColor: "lightcyan" -->
+
+histogram
+
+---
 
 # The 13 Letters (1750-1780) sent to Porto
 <!-- _backgroundColor: "lightcyan" -->
@@ -89,24 +96,50 @@ start from the names given in full:
 
 # Manuel Gomes Costa Pacheco
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:35% fit](./1768.png)
 
-Habilitation process for Order of Christ Knighthood.
+**1768** - Habilitation process for the Military Order of Christ Knighthood.
+
+> [Diligência de habilitação para a Ordem de Cristo](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) of Manuel Gomes Costa Pacheco, born 1733.
+
+Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**.
+
+> Manuel Gomes Costa Pacheco is living in Vila da Feira.
+
+---
+
+# Luís Gomes Costa
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:40% fit](./coimbra.png)
+
+Luís Gomes Costa, father of Manuel, is
+
+> mentioned as renowned jurisconsult, lawyer of the **Relação** (Court of Appeal) and **Juíz dos Órfãos** (orphans protector in patrimonial inheritance cases).
+
+In fact,
+
+> **1730**: Luís Gomes Costa, from Porto, [registered](https://pesquisa.auc.uc.pt/details?id=202836&ht=lu%C3%ADs%7cgomes%7ccosta%7cluis&detailsType=Description) in Law in 1730-10-01, getting his degree by 1735 (July 3rd),
+
+according to the Registry of the University of Coimbra.
 
 ---
 
 # The "snr. Doutor"
 <!-- _backgroundColor: "lightcyan" -->
 
-Luís Gomes Costa
+Luís Gomes Costa is recipient of .... letters by Costa.
 
-Registry of the University of Coimbra
+In his letters, Costa refers to him as the **snr. Doutor** -  his best friend ever.
+
 
 ---
 
-# Parish of Vitoria (S. Benedictus)
+# Parish of Vitória (S. Benedictus)
 <!-- _backgroundColor: "lightcyan" -->
 
-**1758** - inhabited by the most illustrious families in Porto
+**1758** - According to the information provided in [Memórias Paroquiais](https://digitarq.arquivos.pt/viewer?id=4241286), nr. 18, the **parish of Vitória** is considered
+
+>  *illustrious and made up of the most noble and enlightened people in the city* (...)
 
 (Vitória is one of the four districts within the UNESCO World Heritage Classified Zone of Porto)
 

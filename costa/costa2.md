@@ -58,6 +58,7 @@ May 25th, 2024
 --- 
 
 # The 13 Letters (1750-1780) sent to Porto
+<!-- _backgroundColor: "lightcyan" -->
 
 * 5 recipients, all from Porto
 * 100+ individuals mentioned
@@ -66,6 +67,7 @@ May 25th, 2024
 ---
 
 # The 13 Letters (1750-1780) sent to Porto
+<!-- _backgroundColor: "lightcyan" -->
 
 * 5 recipients, all from Porto
 * 21 individuals mentioned more than once
@@ -74,23 +76,26 @@ May 25th, 2024
 --- 
 
 # The 13 Letters (1750-1780) sent to Porto
+<!-- _backgroundColor: "lightcyan" -->
 
 Among the 5 recipients + 21 individuals mentioned more than once,
 
 start from the names given in full:
 
-   * Manuel Gomes Costa Pacheco
-   * Pedro Pereira Sampaio.
+   * **Manuel Gomes Costa Pacheco**
+   * **Pedro Pereira Sampaio**.
   
 --- 
 
 # Manuel Gomes Costa Pacheco
+<!-- _backgroundColor: "lightcyan" -->
 
 Habilitation process for Order of Christ Knighthood.
 
 ---
 
 # The "snr. Doutor"
+<!-- _backgroundColor: "lightcyan" -->
 
 Luís Gomes Costa
 
@@ -99,6 +104,7 @@ Registry of the University of Coimbra
 ---
 
 # Parish of Vitoria (S. Benedictus)
+<!-- _backgroundColor: "lightcyan" -->
 
 **1758** - inhabited by the most illustrious families in Porto
 
@@ -107,6 +113,8 @@ Registry of the University of Coimbra
 ---
 
 # Ferraria de Cima street
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:40% fit](./caldeireiros.JPG)
 
 ---
 
@@ -117,6 +125,39 @@ how have the letters survived?
 who collected them?
 
 who copied them?
+
+---
+
+# Current research
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:32% fit](./almeida.png)
+
+Possibly caricatured by Ghezzi in Rome?
+
+> [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
+
+Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)
+
+What about his **portrait** sent from Vienna in 1780...?
+
+> "(...) [A] *respeito do retrato (...) é possível que V.M. já o tenha em mão (...) O portador é o Snr. Padre Francisco Brandão (...) o qual V.M. ha de procurar em Miragaia (...)*”.
+
+(Letter XIII,  7 Oct. 1780)
+
+---
+
+# The "Porto gang"
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:33% fit](./ghezzi-01.jpeg)
+
+What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
+
+> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner, ...?
+
+
+Meanwhile:
+
+> Family [Gomes Costa Pacheco](https://digitarq.arquivos.pt/details?id=7637352) fully identified.
 
 ---
 
@@ -471,38 +512,6 @@ She met him and was living in Vienna when he died:
 > "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
 
 (Letter XIII, 1780)
-
----
-# Current research
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:32% fit](./almeida.png)
-
-Possibly caricatured by Ghezzi in Rome?
-
-> [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
-
-Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)
-
-What about his **portrait** sent from Vienna in 1780...?
-
-> "(...) [A] *respeito do retrato (...) é possível que V.M. já o tenha em mão (...) O portador é o Snr. Padre Francisco Brandão (...) o qual V.M. ha de procurar em Miragaia (...)*”.
-
-(Letter XIII,  7 Oct. 1780)
-
----
-
-# The "Porto gang"
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:33% fit](./ghezzi-01.jpeg)
-
-What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
-
-> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner, ...?
-
-
-Meanwhile:
-
-> Family [Gomes Costa Pacheco](https://digitarq.arquivos.pt/details?id=7637352) fully identified.
 
 ---
 

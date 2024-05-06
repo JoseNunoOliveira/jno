@@ -87,21 +87,20 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 ![bg 55% fit](./histogram.png)
 
-histogram
+### Histogram
 
 ---
 
 # The 13 Letters (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
 
-Among such 5 + 21 individuals,
+### Among such 5 + 21 individuals,
+### we start from names given in full, e.g. recipients
 
-start from names given in full, e.g. recipients
+   * **Manuel Gomes Costa Pacheco** (letters XI, XII, XIII)
+   * **Pedro Pereira Sampaio** (letter VI)
 
-   * **Manuel Gomes Costa Pacheco**
-   * **Pedro Pereira Sampaio**
-
-to unravel the puzzle.
+#### to unravel the puzzle.
   
 --- 
 
@@ -166,17 +165,30 @@ Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
 
 # The Gomes Costa family nucleous
 
-Data collected from the birth records of parishes Vitória and Sé:
+Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
 
-| When | Who | Where | Description | Document |
+| When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1732-08-13 | **Luís** and **Clara** | Sé | Marriage
-| 1733-04-04 | **Manuel** | Sé | Birth; son of Luís and Clara |
-| 1735-03-01 | José | Vitória | Birth; son of Luís and Clara |
-| 1737-06-09 | Antónia | Vitória | Birth; daughter of Luís and Clara |
-| 1740-01-12 | **Sebastião** | Vitória | Birth; son of Luís and Clara |
+| 1732-08-13 | **Luís** and **Clara** | Sé | Marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
+| 1733-04-04 | **Manuel** | Sé | Birth of 1st son | [490868](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490868) :arrow_forward: 825 |
+| 1735-03-01 | José | Vitória | Birth (2nd son) |
+| 1737-06-09 | Antónia | Vitória | Birth (1st daughter) |
+| 1740-01-12 | **Sebastião** | Vitória | Birth (3rd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 
 ---
+
+# The Gomes Costa family nucleous
+
+Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1742-06-10 | Luís | Vitória | Birth; 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+| 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter |
+| 1746-01-22 | Luísa       | Vitória | Birth; 3rd daughter |
+
+---
+
 # Teste
 
 <div font-size="6px">
@@ -188,6 +200,13 @@ Data collected from the birth records of parishes Vitória and Sé:
 <tr ><td ></td><td > 1740-01-12 </td><td > **Sebastião** </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
 </table>
 </div>
+
+
+---
+
+Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
+
+Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lpg=PT55&dq=duque+de+lafões+viena&source=bl&ots=UP1oD8v6nJ&sig=ACfU3U2pApE-XKypQ9eucla9FPb61WPfBw&hl=en&sa=X&ved=2ahUKEwj1-PnC1-H9AhXHVKQEHTwxDx44FBDoAXoECCIQAw#v=onepage&q=duque%20de%20lafões%20viena&f=false)** - cf imprecisões e deduções arriscadas (?? Além destes feitos, D. João V mandou copiar em Roma a Symicta Lusitana, constituída por 100 volumes, a qual recolhe todos os processos documentais relacionados com os negócios entre Portugal e Roma.
 
 
 ---

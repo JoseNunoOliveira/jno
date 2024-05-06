@@ -37,21 +37,25 @@ May 25th, 2024
 
 # Sources
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:60% fit](./costa-02.png)
 
-* 13 Letters (1750-1780)
+### 13 Letters (1750-1780)
    * Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
    * Studied and published by **J. Vasconcelos** (1879)
-* **Charles Burney** travel diary (1772)
-* 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
-* Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
+### **Charles Burney** travel diary (1772)
+### 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
+###  Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
   
+---
+
+<!-- _backgroundColor: "lightcyan" -->
+![bg 90% fit](./costa-02.png)
+
 ---
 
 # First letter (1750)
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:60% fit](./costa_trip.jpg)
+![bg right:55% fit](./costa_trip.jpg)
 
 > "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes e tanto de vida de novellas (...)*"
 
@@ -63,9 +67,10 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:55% fit](./maze.png)
 
-* **5** recipients
-* **100+** individuals mentioned
-* where to start from in the maze?
+### **5** recipients
+### **100+** people mentioned
+
+> ### Where to start from, in the maze?
   
 ---
 
@@ -73,12 +78,14 @@ May 25th, 2024
 ![bg right:58% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-* **5** recipients
-* **21** individuals mentioned in more than one letter
-* two **clusters** - musicians + others.
+### **5** recipients
+### **21** individuals mentioned in more than one letter
+
+> ### two **clusters** - musicians + others.
 
 --- 
 <!-- _backgroundColor: "lightcyan" -->
+![bg 55% fit](./histogram.png)
 
 histogram
 
@@ -116,23 +123,25 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 **Luís Gomes Costa**, father of Manuel, is referred to as
 
-> a renowned jurisconsult, lawyer of the **Relação** (Royal Court of Appeal) and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
+> a renowned jurisconsult, lawyer of the **Relação** Royal Court of Appeal and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
 In fact, and according to the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, law student from Porto, registered on 1730-10-01, getting his Law degree by 1735 (July 3rd),
+> **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd),
 
 ---
 
 # The "snr. Doutor"
 <!-- _backgroundColor: "lightcyan" -->
 
-**Luís Gomes Costa** is recipient of .... letters by Costa.
+Cross-checking:
 
-In his letters, António Costa refers to him as the "**snr. Doutor**" and
+> **Luís Gomes Costa** is recipient of 6 letters by Costa, between 1752 and 1774.
 
+In his letters, António da Costa refers to him as 
+
+> the "**snr. Doutor**"
 > his best friend ever.
-
 
 ---
 
@@ -152,6 +161,34 @@ In his letters, António Costa refers to him as the "**snr. Doutor**" and
 ![bg right:40% fit](./caldeireiros.JPG)
 
 Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
+
+---
+
+# The Gomes Costa family nucleous
+
+Data collected from the birth records of parishes Vitória and Sé:
+
+| When | Who | Where | Description | Document |
+|------|-----|-------|-------------|----------|
+| 1732-08-13 | **Luís** and **Clara** | Sé | Marriage
+| 1733-04-04 | **Manuel** | Sé | Birth; son of Luís and Clara |
+| 1735-03-01 | José | Vitória | Birth; son of Luís and Clara |
+| 1737-06-09 | Antónia | Vitória | Birth; daughter of Luís and Clara |
+| 1740-01-12 | **Sebastião** | Vitória | Birth; son of Luís and Clara |
+
+---
+# Teste
+
+<div font-size="6px">
+<table border=1 align=center data-toggle="table"><tr ><td ></td><td > When </td><td > Who </td><td > Where </td><td > Description </td><td ></td></tr>
+<tr ><td ></td><td > 1732-08-13 </td><td > **Luís** and **Clara** </td><td > Sé </td><td > Marriage</td></tr>
+<tr ><td ></td><td > 1733-04-04 </td><td > **Manuel** </td><td > Sé </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
+<tr ><td ></td><td > 1735-03-01 </td><td > José </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
+<tr ><td ></td><td > 1737-06-09 </td><td > Antónia </td><td > Vitória </td><td > Birth; daughter of Luís and Clara </td><td ></td></tr>
+<tr ><td ></td><td > 1740-01-12 </td><td > **Sebastião** </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
+</table>
+</div>
+
 
 ---
 

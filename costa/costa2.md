@@ -112,7 +112,7 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 # Luís Gomes Costa
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:40% fit](./coimbra.png)
+![bg right:40% fit](./IMG_3843.jpeg)
 
 **Luís Gomes Costa**, father of Manuel, is referred to as
 
@@ -120,7 +120,7 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 In fact, and according to the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, law student from Porto, [registered](https://pesquisa.auc.uc.pt/details?id=202836&ht=lu%C3%ADs%7cgomes%7ccosta%7cluis&detailsType=Description) in 1730-10-01, getting his Law degree by 1735 (July 3rd),
+> **1730**: Luís Gomes Costa, law student from Porto, registered on 1730-10-01, getting his Law degree by 1735 (July 3rd),
 
 ---
 
@@ -129,7 +129,7 @@ In fact, and according to the [Registry](https://pesquisa.auc.uc.pt/details?id=2
 
 **Luís Gomes Costa** is recipient of .... letters by Costa.
 
-In his letters, Costa refers to him as the "**snr. Doutor**" and
+In his letters, António Costa refers to him as the "**snr. Doutor**" and
 
 > his best friend ever.
 

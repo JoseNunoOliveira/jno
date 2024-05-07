@@ -1,0 +1,21 @@
+digraph G {
+LGC -> MGCP [ label="" ];
+LGC -> PPS [ label="" ];
+LGC -> Peixoto [ label="" ];
+MGCP -> LGC [ label="" ];
+Nunes -> LGC [ label="" ];
+Nunes -> PPS [ label="" ];
+Nunes -> Peixoto [ label="" ];
+PPS -> LGC [ label="" ];
+PPS -> MGCP [ label="" ];
+Peixoto -> LGC [ label="" ];
+Peixoto -> MGCP [ label="" ];
+Peixoto -> Nunes [ label="" ];
+Peixoto -> PPS [ label="" ];
+PPS [style=filled, fillcolor=orange];
+MGCP [style=filled, fillcolor=orange];
+LGC  [style=filled, fillcolor=orange];
+Peixoto [style=filled, fillcolor=orange];
+Nunes [style=filled, fillcolor=orange];
+}
+

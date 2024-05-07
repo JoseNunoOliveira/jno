@@ -219,16 +219,47 @@ Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lp
 
 ---
 # About 18c Porto
+![bg right:35% fit](./rebelo.png)
+<!-- _backgroundColor: "lightcyan" -->
 
 ### COSTA, Agostinho Rebelo da, ?-1791 
-> [Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa](https://purl.pt/22517). - Porto : na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. desdobr. : il. ; 4º (22 cm) 
+> [Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa](https://purl.pt/22517).
+
+Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. desdobr. : il. ; 4º (22 cm) 
+
+---
+
+# About the women of Porto (18c)
+
+![bg right:30% fit](./ellas.png)
+<!-- _backgroundColor: "lightcyan" -->
+
+
+> "*Women (...) have (in general) good presence, grace and elegant appearance; witty in conversation and lively in what they undertake, and in (...) the various tasks to which they dedicate themselves.*"
+
+>  "*Many know **music** perfectly and **play** various harmonic **instruments** skillfully*".
+
+([Rebelo](https://purl.pt/22517) :arrow_forward: 52-53). <!-- pdf 104 -->
+
+<!-- (...) Elas (falando geralmente) são de boa presença, garbo e talhe airoso ; espiritosas na conversação e animadas no que emprendem, e executão (...) e prendadas nos differentes lavores a que se applicam. Muitas sabem perfeitamente música e tocam com destreza vários instrumentos harmónicos. -->
+
+---
+
+# "Fúrias de Rio" (18c Porto)
+<!-- _backgroundColor: "lightcyan" -->
+
+# Rebelo 106
+
+> No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons concertos de música, e ainda as chamadas Fúrias de Rio (*) 
+
+> (*) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'armonicos instrumentos sobro o Rio Douro com barcos toldados, que de noite iluminam graciosamente.  O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo.
+
+([Rebelo](https://purl.pt/22517) :arrow_forward: 54). <!-- pdf 106 -->
 
 ---
 
 | What | Page / PDF | Obs |
 |---|---|---|
-| "muitas sabem perfeitamente música e tocam..." |  52 / 104 
-| "os bons concertos de música" | 54 / 106 
 | António de Torres | / 370 | n. 1703 |
 | António Pereira de Sampaio | 320 / 374 | (1691-1738) cf [562](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491033) da Sé
 | Jesuíta Carvalho | / 395
@@ -241,8 +272,6 @@ Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lp
 
 
 ---
-
-
 
 xxx
 

@@ -75,6 +75,14 @@ May 25th, 2024
 ---
 
 # The 13 Letters (1750-1780)
+![bg right:35% fit](./recipients.png)
+<!-- _backgroundColor: "lightcyan" -->
+
+### Do the **5** recipients know each other?
+
+---
+
+# The 13 Letters (1750-1780)
 ![bg right:58% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -210,6 +218,31 @@ Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lp
 
 
 ---
+# About 18c Porto
+
+### COSTA, Agostinho Rebelo da, ?-1791 
+> [Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa](https://purl.pt/22517). - Porto : na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. desdobr. : il. ; 4º (22 cm) 
+
+---
+
+| What | Page / PDF | Obs |
+|---|---|---|
+| "muitas sabem perfeitamente música e tocam..." |  52 / 104 
+| "os bons concertos de música" | 54 / 106 
+| António de Torres | / 370 | n. 1703 |
+| António Pereira de Sampaio | 320 / 374 | (1691-1738) cf [562](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491033) da Sé
+| Jesuíta Carvalho | / 395
+| Manuel Vaia, matemático e compositor
+| Pedro Vilasboas S.Paio | 347 /  401  | 
+| Ver | / 404
+| António Vieira | / 407
+| Ver | / 411 | mulheres ilustres
+| Índice | / 429
+
+
+---
+
+
 
 xxx
 

@@ -78,7 +78,7 @@ May 25th, 2024
 ![bg right:35% fit](./recipients.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-### Do the **5** recipients know each other?
+### Did these **5** recipients know each other?
 
 ---
 
@@ -89,7 +89,7 @@ May 25th, 2024
 ### **5** recipients
 ### **21** individuals mentioned in more than one letter
 
-> ### two **clusters** - musicians + others.
+> roughly, two **clusters** = **music**-related + others.
 
 --- 
 <!-- _backgroundColor: "lightcyan" -->
@@ -102,14 +102,14 @@ May 25th, 2024
 # The 13 Letters (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
 
-### Among such 5 + 21 individuals,
-### we start from names given in full, e.g. recipients
+To unravel the "puzzle", let us start from the recipients whose names are given in full:
 
    * **Manuel Gomes Costa Pacheco** (letters XI, XII, XIII)
-   * **Pedro Pereira Sampaio** (letter VI)
+   * **Pedro Pereira de Sampaio** (letter VI)
+   * **Luís Costa Gomes**
 
-#### to unravel the puzzle.
-  
+and search for them in archival sources.
+
 --- 
 
 # Manuel Gomes Costa Pacheco
@@ -270,6 +270,12 @@ Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. 
 | Ver | / 411 | mulheres ilustres
 | Índice | / 429
 
+---
+
+Teófilo Braga too quick inferences:
+
+- Vieira : no António mentioned
+- Quitéria not the wife of Luís Gomes Costa, but consider the "Quitéria Clara" possibility
 
 ---
 

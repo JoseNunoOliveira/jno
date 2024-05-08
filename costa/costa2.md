@@ -132,7 +132,7 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 > a renowned jurisconsult, lawyer of the **Relação** Royal Court of Appeal and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
-In fact, and according to the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
+In fact, and cross-referencing with the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
 
 > **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd),
 
@@ -197,17 +197,24 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 ---
 
-# Teste
+# The Gomes Costa family nucleous
 
-<div font-size="6px">
-<table border=1 align=center data-toggle="table"><tr ><td ></td><td > When </td><td > Who </td><td > Where </td><td > Description </td><td ></td></tr>
-<tr ><td ></td><td > 1732-08-13 </td><td > **Luís** and **Clara** </td><td > Sé </td><td > Marriage</td></tr>
-<tr ><td ></td><td > 1733-04-04 </td><td > **Manuel** </td><td > Sé </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
-<tr ><td ></td><td > 1735-03-01 </td><td > José </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
-<tr ><td ></td><td > 1737-06-09 </td><td > Antónia </td><td > Vitória </td><td > Birth; daughter of Luís and Clara </td><td ></td></tr>
-<tr ><td ></td><td > 1740-01-12 </td><td > **Sebastião** </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
-</table>
-</div>
+In particular:
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1742-06-10 | Luís | Vitória | "(...) *padrinho o Padre **José Alberto Gomes Costa** e **Quitéria Maria**, religiosa de Monchique, por seu procurador o Padre **António da Costa**, todos desta da Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+
+Cross-checking:
+
+> **José Alberto Gomes Costa** - oncle of the baptized, mentioned in (letters) 
+
+Possibilities:
+
+> **António da Costa** quite likely *our man* (but *priest* is an over statement)
+
+> **Quitéria Maria** - the *snr. Quitéria* referred to 8 times in the letters?
+
 
 
 ---
@@ -276,6 +283,20 @@ Teófilo Braga too quick inferences:
 
 - Vieira : no António mentioned
 - Quitéria not the wife of Luís Gomes Costa, but consider the "Quitéria Clara" possibility
+
+---
+# Teste
+
+<div font-size="6px">
+<table border=1 align=center data-toggle="table"><tr ><td ></td><td > When </td><td > Who </td><td > Where </td><td > Description </td><td ></td></tr>
+<tr ><td ></td><td > 1732-08-13 </td><td > **Luís** and **Clara** </td><td > Sé </td><td > Marriage</td></tr>
+<tr ><td ></td><td > 1733-04-04 </td><td > **Manuel** </td><td > Sé </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
+<tr ><td ></td><td > 1735-03-01 </td><td > José </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
+<tr ><td ></td><td > 1737-06-09 </td><td > Antónia </td><td > Vitória </td><td > Birth; daughter of Luís and Clara </td><td ></td></tr>
+<tr ><td ></td><td > 1740-01-12 </td><td > **Sebastião** </td><td > Vitória </td><td > Birth; son of Luís and Clara </td><td ></td></tr>
+</table>
+</div>
+
 
 ---
 

@@ -138,13 +138,19 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 # Luís Gomes Costa
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:36% fit](./IMG_3843.jpeg)
+![bg right:40% fit](./cadeia.png)
 
 **Luís Gomes Costa**, father of Manuel, is referred to as
 
 > a renowned jurisconsult, lawyer of the **Relação** Royal Court of Appeal and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
-In fact, and cross-checking with the Student Registry of the **University of Coimbra**:
+---
+
+# Luís Gomes Costa
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:40% fit](./IMG_3843.jpeg)
+
+Cross-checking with the Student Registry of the **University of Coimbra**:
 
 > **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd)
 

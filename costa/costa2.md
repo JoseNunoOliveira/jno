@@ -224,8 +224,16 @@ More parish records:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Death aged *circa 70*, "(...) * fez testamento sendo seu filho Sebastião o testamenteiro*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
-| Clara | 
+| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Death aged *circa 70*, "(...) *testamenteiro seu filho Sebastião Gomes Costa*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Death: **de um "acidente de apoplexia", viúva do Dr. Luís Gomes Costa, que se diz ter cerca de setenta anos** |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
+
+Notes
+
+Letter xxx written when its recipient was already dead
+
+Both deaths are subject of letter ... 
+
+Sebastião mentioned in letter ....
 
 ---
 

@@ -80,6 +80,18 @@ May 25th, 2024
 
 ### Did these **5** recipients know each other?
 
+NB: in the graphs to follow
+
+> $a \rightarrow b$
+
+means:
+
+> Costa mentions $b$ in a letter to $a$
+
+that is,
+
+> $a$ knows (or gets to know about) $b$. 
+
 ---
 
 # The 13 Letters (1750-1780)
@@ -186,7 +198,7 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 |------|-----|-------|-------------|----------|
 | 1732-08-13 | **Luís** and **Clara** | Sé | Marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1733-04-04 | **Manuel** | Sé | Birth of 1st son | [490868](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490868) :arrow_forward: 825 |
-| 1735-03-01 | José | Vitória | Birth (2nd son) |
+| 1735-03-01 | José | Vitória | Birth (2nd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) ➡️  263 |
 | 1737-06-09 | Antónia | Vitória | Birth (1st daughter) |
 | 1740-01-12 | **Sebastião** | Vitória | Birth (3rd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 
@@ -202,7 +214,7 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 |------|-----|-------|-------------|-----------|
 | 1742-06-10 | Luís | Vitória | Birth; 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 | 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter |
-| 1746-01-22 | Luísa       | Vitória | Birth; 3rd daughter |
+| 1746-01-22 | Luísa       | Vitória | Birth; 3rd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
 ---
 
@@ -247,8 +259,8 @@ Another parish record:
 
 Notes:
 
-* Letter X (Vienna, 1774-12-24) written when its recipient was already dead.
-* **Sebastião Gomes Costa** mentioned in letters XI, XII sent to his brother **Manuel**.
+* Letter X (Vienna, 1774-12-24) written unaware of the death of its recipient.
+* Son **Sebastião Gomes Costa** mentioned in letters XI, XII sent to his brother **Manuel**.
 
 ---
 
@@ -266,11 +278,37 @@ Both deaths are subject of letter ...
 
 ---
 
+# The Gomes Costa network
+<!-- _backgroundColor: "lightcyan" -->
+
 More from the parish records:
 
-obispo Évora 
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Reverend **Manuel Carneiro de Araújo**, school master | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) ➡️  263 |
 
-mestre-escola
+school-master **Manuel Carneiro de Araújo** mentioned in letter .....
+
+---
+
+# The Gomes Costa network
+<!-- _backgroundColor: "lightcyan" -->
+
+More from the parish records:
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1746-01-22 | Luísa       | Vitória | Birth: godfather **D. Frei José Maria da Fonseca e Évora**, Bishop of Porto  | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412
+
+Notes:
+
+> The "*bispo Évora*" is mentioned in letter ....
+
+Much to say because of its connection to Rome and S.António
+
+---
+
+<!-- _backgroundColor: "lightcyan" -->
 
 daugther of capitain Manuel Gomes da Costa Pacheco
 

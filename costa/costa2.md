@@ -216,6 +216,16 @@ Possibilities:
 > **Quitéria Maria** - the *snr. Quitéria* referred to 8 times in the letters?
 
 
+---
+
+# The Gomes Costa family nucleous
+
+More parish records:
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Death aged *circa 70*, "(...) * fez testamento sendo seu filho Sebastião o testamenteiro*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| Clara | 
 
 ---
 

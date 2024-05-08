@@ -118,7 +118,7 @@ and search for them in archival sources.
 
 **1768** - Habilitation process for the **Military Order of Christ** Knighthood.
 
-> [Diligência de habilitação para a Ordem de Cristo](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) of Manuel Gomes Costa Pacheco, born in Porto in 1733 and living in Vila da Feira.
+> *Diligência de habilitação para a Ordem de Cristo* of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira** ([7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
 
 Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
 
@@ -126,15 +126,17 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 # Luís Gomes Costa
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:40% fit](./IMG_3843.jpeg)
+![bg right:36% fit](./IMG_3843.jpeg)
 
 **Luís Gomes Costa**, father of Manuel, is referred to as
 
 > a renowned jurisconsult, lawyer of the **Relação** Royal Court of Appeal and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
-In fact, and cross-referencing with the [Registry](https://pesquisa.auc.uc.pt/details?id=202836) of the **University of Coimbra**:
+In fact, and cross-checking with the Student Registry of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd),
+> **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd)
+
+(ref. [202836](https://pesquisa.auc.uc.pt/details?id=202836))
 
 ---
 
@@ -148,7 +150,10 @@ Cross-checking:
 In his letters, António da Costa refers to him as 
 
 > the "**snr. Doutor**"
-> his best friend ever.
+
+and
+
+> his best friend ever ("*o melhor amigo que tive*")
 
 ---
 
@@ -173,6 +178,8 @@ Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
 
 # The Gomes Costa family nucleous
 
+<!-- _backgroundColor: "lightcyan" -->
+
 Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
 
 | When | Who | Where | Description | Reference |
@@ -187,6 +194,8 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 # The Gomes Costa family nucleous
 
+<!-- _backgroundColor: "lightcyan" -->
+
 Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
 
 | When | Who | Where | Description | Reference |
@@ -199,11 +208,19 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 # The Gomes Costa family nucleous
 
+<!-- _backgroundColor: "lightcyan" -->
+
 In particular:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
 | 1742-06-10 | Luís | Vitória | "(...) *padrinho o Padre **José Alberto Gomes Costa** e **Quitéria Maria**, religiosa de Monchique, por seu procurador o Padre **António da Costa**, todos desta da Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+
+---
+
+# The Gomes Costa family nucleous
+
+<!-- _backgroundColor: "lightcyan" -->
 
 Cross-checking:
 
@@ -220,22 +237,48 @@ Possibilities:
 
 # The Gomes Costa family nucleous
 
-More parish records:
+<!-- _backgroundColor: "lightcyan" -->
+
+Another parish record:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
 | 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Death aged *circa 70*, "(...) *testamenteiro seu filho Sebastião Gomes Costa*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
-| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Death: **de um "acidente de apoplexia", viúva do Dr. Luís Gomes Costa, que se diz ter cerca de setenta anos** |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
+
+Notes:
+
+* Letter X (Vienna, 1774-12-24) written when its recipient was already dead.
+* **Sebastião Gomes Costa** mentioned in letters XI, XII sent to his brother **Manuel**.
+
+---
+
+# The Gomes Costa family nucleous
+
+<!-- _backgroundColor: "lightcyan" -->
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Death aged $\simeq$ 70 : "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
 
 Notes
 
-Letter xxx written when its recipient was already dead
-
 Both deaths are subject of letter ... 
 
-Sebastião mentioned in letter ....
+---
+
+More from the parish records:
+
+obispo Évora 
+
+mestre-escola
+
+daugther of capitain Manuel Gomes da Costa Pacheco
+
+A lot more about Sebastião em Revista de Aveiro
+
 
 ---
+
 
 Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
 
@@ -259,27 +302,40 @@ Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. 
 ![bg right:30% fit](./ellas.png)
 <!-- _backgroundColor: "lightcyan" -->
 
+Rebelo da Costa:
 
 > "*Women (...) have (in general) good presence, grace and elegant appearance; witty in conversation and lively in what they undertake, and in (...) the various tasks to which they dedicate themselves.*"
 
 >  "*Many know **music** perfectly and **play** various harmonic **instruments** skillfully*".
 
-([Rebelo](https://purl.pt/22517) :arrow_forward: 52-53). <!-- pdf 104 -->
+([22517](https://purl.pt/22517) :arrow_forward: 104 - fols.52-53)
 
 <!-- (...) Elas (falando geralmente) são de boa presença, garbo e talhe airoso ; espiritosas na conversação e animadas no que emprendem, e executão (...) e prendadas nos differentes lavores a que se applicam. Muitas sabem perfeitamente música e tocam com destreza vários instrumentos harmónicos. -->
 
 ---
 
 # "Fúrias de Rio" (18c Porto)
+![bg right:30% fit](./furias.png)
+<!-- _backgroundColor: "lightcyan" -->
+
+## Rebelo da Costa:  <!-- pdf 106 -->
+
+> No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons **concertos de música**, e ainda as chamadas Fúrias de Rio (*) 
+
+([22517](https://purl.pt/22517) :arrow_forward: 54) <!-- pdf 106 -->
+
+---
+
+# "Fúrias de Rio" (18c Porto)
+![bg right:30% fit](./furias.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 # Rebelo 106
 
-> No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons concertos de música, e ainda as chamadas Fúrias de Rio (*) 
+> (*) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente.
 
-> (*) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'armonicos instrumentos sobro o Rio Douro com barcos toldados, que de noite iluminam graciosamente.  O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo.
+>  O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo.
 
-([Rebelo](https://purl.pt/22517) :arrow_forward: 54). <!-- pdf 106 -->
 
 ---
 

@@ -161,7 +161,7 @@ Cross-checking with the Student Registry of the **University of Coimbra**:
 
 > **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd)
 
-(ref. [202836](https://pesquisa.auc.uc.pt/details?id=202836))
+(ref. AUC [202836](https://pesquisa.auc.uc.pt/details?id=202836))
 
 ---
 
@@ -185,11 +185,13 @@ and
 # Parish of Vitória (S. Benedictus)
 <!-- _backgroundColor: "lightcyan" -->
 
-**1758** - According to the information provided in [Memórias Paroquiais](https://digitarq.arquivos.pt/viewer?id=4241286), nr. 18, the **parish of Vitória** is considered
+**1758** - According to the information provided in *Memórias Paroquiais*, item 18 of the **parish of Vitória**, this is considered
 
 >  *illustrious and made up of the most noble and enlightened people in the city* (...)
 
-(Vitória is one of the four districts within the UNESCO World Heritage Classified Zone of Porto)
+(ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286))
+
+As of 9999, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
 
 ---
 
@@ -221,12 +223,12 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 <!-- _backgroundColor: "lightcyan" -->
 
-Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
+More data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
 | 1742-06-10 | Luís | Vitória | Birth; 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
-| 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter |
+| 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter | [77](77) :arrow_forward: zz |
 | 1746-01-22 | Luísa       | Vitória | Birth; 3rd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
 ---
@@ -239,7 +241,7 @@ In particular:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1742-06-10 | Luís | Vitória | "(...) *padrinho o Padre **José Alberto Gomes Costa** e **Quitéria Maria**, religiosa de Monchique, por seu procurador o Padre **António da Costa**, todos desta da Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+| 1742-06-10 | Luís | Vitória | "(...) *padrinhos o Padre **José Alberto Gomes Costa** e **Quitéria Maria**, religiosa de Monchique, por seu procurador o Padre **António da Costa**, todos desta da Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 
 ---
 

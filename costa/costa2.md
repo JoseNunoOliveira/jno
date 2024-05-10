@@ -228,7 +228,7 @@ More data collected from the **birth** **records** of parishes **Vitória** and 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
 | 1742-06-10 | Luís | Vitória | Birth; 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
-| 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter | [77](77) :arrow_forward: zz |
+| 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
 | 1746-01-22 | Luísa       | Vitória | Birth; 3rd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
 ---
@@ -272,7 +272,7 @@ Another parish record:
 |------|-----|-------|-------------|-----------|
 | 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Death aged *circa 70*, "(...) *testamenteiro seu filho Sebastião Gomes Costa*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
-Notes:
+### Notes:
 
 * Letter X (Vienna, 1774-12-24) written unaware of the death of its recipient.
 * Son **Sebastião Gomes Costa** mentioned in letters XI, XII sent to his brother **Manuel**.
@@ -287,7 +287,7 @@ Notes:
 |------|-----|-------|-------------|-----------|
 | 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Death aged $\simeq$ 70 : "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
 
-Notes
+### Notes
 
 Both deaths are subject of letter ... 
 
@@ -300,7 +300,7 @@ More from the parish records:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Reverend **Manuel Carneiro de Araújo**, school master | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) ➡️  263 |
+| 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Reverend **Manuel Carneiro de Araújo**, school master | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
 school-master **Manuel Carneiro de Araújo** mentioned in letter .....
 

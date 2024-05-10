@@ -270,7 +270,7 @@ Another parish record:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Death aged *circa 70*, "(...) *testamenteiro seu filho Sebastião Gomes Costa*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged *circa 70*, "(...) *testamenteiro seu filho Sebastião Gomes Costa*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
 ### Notes:
 
@@ -283,13 +283,15 @@ Another parish record:
 
 <!-- _backgroundColor: "lightcyan" -->
 
-| When | Who | Where | Description | Reference |
-|------|-----|-------|-------------|-----------|
-| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Death aged $\simeq$ 70 : "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
+| When       | Who | Where | Description | Reference |
+|------------|-----|-------|-------------|-----------|
+| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Dies aged *circa* 70: "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
 
 ### Notes
 
-Both deaths are subject of letter ... 
+Both deaths are the subject of letter XI (1779) sent to son **Manuel**:
+
+> "(...) *notícias* (...) *ensanguadas com a morte do Sr. seu Pai* (...) *mas senti muito as outras que V. M. me conta da Sra. sua mãi* (...)"
 
 ---
 
@@ -308,18 +310,23 @@ school-master **Manuel Carneiro de Araújo** mentioned in letter .....
 
 # The Gomes Costa network
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:20% fit](./IMG_3852.png)
 
 More from the parish records:
 
-| When | Who | Where | Description | Reference |
-|------|-----|-------|-------------|-----------|
-| 1746-01-22 | Luísa       | Vitória | Birth: godfather **D. Frei José Maria da Fonseca e Évora**, Bishop of Porto  | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412
+| When       | Who | Where | Description | Reference |
+|------------|-----|-------|-------------|-----------|
+| 1746-01-22 | Luísa       | Vitória | Birth: godfather **D. Frei José Maria da Fonseca e Évora**, Bishop of Porto  | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
 Notes:
 
-> The "*bispo Évora*" is mentioned in letter ....
+> The "*bispo Évora*" (since 1743) is mentioned in letter ....
 
-Much to say because of its connection to Rome and S.António
+> He had served as Portugal's ambassador in Rome, etc etc https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora
+
+> Much to say because of its connection to Rome and possibly S.António 
+
+Biblioteca Eborense etc
 
 ---
 

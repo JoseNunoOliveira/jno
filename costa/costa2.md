@@ -289,13 +289,15 @@ Another parish record:
 
 ### Notes
 
-Both deaths are the subject of letter XI (1779) sent to son **Manuel**:
+Both deaths are the subject of letter XI (1779-12-04) sent to son **Manuel**:
 
 > "(...) *notícias* (...) *ensanguadas com a morte do Sr. seu Pai* (...) *mas senti muito as outras que V. M. me conta da Sra. sua mãi* (...)"
 
+Note the 4 year gap...
+
 ---
 
-# The Gomes Costa network
+# The Gomes Costa family network
 <!-- _backgroundColor: "lightcyan" -->
 
 More from the parish records:
@@ -308,7 +310,7 @@ school-master **Manuel Carneiro de Araújo** mentioned in letter .....
 
 ---
 
-# The Gomes Costa network
+# The Gomes Costa family network
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:20% fit](./IMG_3852.png)
 
@@ -320,13 +322,18 @@ More from the parish records:
 
 Notes:
 
-> The "*bispo Évora*" (since 1743) is mentioned in letter ....
+> [José Maria Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
+> He is the "*bispo Évora*" mentioned in letter X:  "(...)*lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma;*"
 
-> He had served as Portugal's ambassador in Rome, etc etc https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora
+---
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:20% fit](./IMG_3852.png)
 
-> Much to say because of its connection to Rome and possibly S.António 
+He had served as Portugal's ambassador in Rome, etc etc https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora
 
-Biblioteca Eborense etc
+Much to say because of its connection to Rome and possibly S.António 
+
+Brilliant carrer in Rome, Biblioteca Eborense etc
 
 ---
 
@@ -368,7 +375,7 @@ Rebelo da Costa:
 
 >  "*Many know **music** perfectly and **play** various harmonic **instruments** skillfully*".
 
-([22517](https://purl.pt/22517) :arrow_forward: 104 - fols.52-53)
+(BN [22517](https://purl.pt/22517) :arrow_forward: 104, fols.52-53)
 
 <!-- (...) Elas (falando geralmente) são de boa presença, garbo e talhe airoso ; espiritosas na conversação e animadas no que emprendem, e executão (...) e prendadas nos differentes lavores a que se applicam. Muitas sabem perfeitamente música e tocam com destreza vários instrumentos harmónicos. -->
 

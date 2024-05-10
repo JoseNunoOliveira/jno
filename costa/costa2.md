@@ -11,7 +11,7 @@ footer:  Symposium Abbot António da Costa
 # Who were the friends of Abbot António da Costa in Porto?
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:60% fit](./EE147_005.png)
+![bg right:50% fit](./EE147_005.png)
 
 JN Oliveira
 
@@ -39,11 +39,11 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 
 ### 13 Letters (1750-1780)
-   * Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
+   * Manuscript: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
    * Studied and published by **J. Vasconcelos** (1879)
-   * Commented in depth by Teófilo Braga
+   * Commented in depth by Teófilo Braga ([1879](https://purl.pt/63)) 
+   * Commented by Ann Livermore (1945) 
    * Re-published by Lopes Graça (1946)
-   * Livermore (1945) 
 
 <!-- 
 The Abade Antonio da Costa
@@ -459,6 +459,8 @@ how have the letters survived?
 who collected them?
 
 who copied them?
+
+KEEP Solutions - thanks!
 
 ---
 

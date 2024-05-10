@@ -207,14 +207,14 @@ Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
 
 <!-- _backgroundColor: "lightcyan" -->
 
-Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
+Data collected from the **birth** **records** of parishes **Vitória** and **Sé** (ADP):
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
 | 1732-08-13 | **Luís** and **Clara** | Sé | Marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1733-04-04 | **Manuel** | Sé | Birth of 1st son | [490868](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490868) :arrow_forward: 825 |
-| 1735-03-01 | José | Vitória | Birth (2nd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) ➡️  263 |
-| 1737-06-09 | Antónia | Vitória | Birth (1st daughter) |
+| 1735-03-01 | José | Vitória | Birth (2nd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 263 |
+| 1737-06-09 | Antónia | Vitória | Birth (1st daughter) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
 | 1740-01-12 | **Sebastião** | Vitória | Birth (3rd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 
 ---

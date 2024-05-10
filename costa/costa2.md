@@ -42,7 +42,16 @@ May 25th, 2024
    * Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
    * Studied and published by **J. Vasconcelos** (1879)
    * Commented in depth by Teófilo Braga
-   * Re-published by Lopes Graça
+   * Re-published by Lopes Graça (1946)
+   * Livermore (1945) 
+
+<!-- 
+The Abade Antonio da Costa
+Author(s): Ann Livermore
+Source: Music & Letters, Jul., 1945, Vol. 26, No. 3 (Jul., 1945), pp. 162-171
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/727650
+!-->
 
 ---
 # Sources
@@ -213,9 +222,9 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 |------|-----|-------|-------------|----------|
 | 1732-08-13 | **Luís** and **Clara** | Sé | Marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1733-04-04 | **Manuel** | Sé | Birth of 1st son | [490868](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490868) :arrow_forward: 825 |
-| 1735-03-01 | José | Vitória | Birth (2nd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 263 |
-| 1737-06-09 | Antónia | Vitória | Birth (1st daughter) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
-| 1740-01-12 | **Sebastião** | Vitória | Birth (3rd son) | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
+| 1735-03-01 | José | Vitória | Birth of 2nd son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 263 |
+| 1737-06-09 | Antónia | Vitória | Birth of 1st daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
+| 1740-01-12 | **Sebastião** | Vitória | Birth of 3rd son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 
 ---
 
@@ -227,9 +236,9 @@ More data collected from the **birth** **records** of parishes **Vitória** and 
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1742-06-10 | Luís | Vitória | Birth; 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
-| 1744-10-10 | Antónia (?) | Vitória | Birth; 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
-| 1746-01-22 | Luísa       | Vitória | Birth; 3rd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
+| 1742-06-10 | Luís | Vitória | Birth of 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+| 1744-10-10 | Antónia (?) | Vitória | Birth of 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
+| 1746-01-22 | Luísa       | Vitória | Birth of 3rd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
 ---
 
@@ -251,7 +260,7 @@ In particular:
 
 Cross-checking:
 
-> **José Alberto Gomes Costa** - oncle of the baptized, mentioned in (letters) 
+> **José Alberto Gomes Costa** - oncle of the baptized, mentioned in letters IX, X, XI and XIII.
 
 Possibilities:
 
@@ -265,8 +274,6 @@ Possibilities:
 # The Gomes Costa family nucleous
 
 <!-- _backgroundColor: "lightcyan" -->
-
-Another parish record:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
@@ -285,7 +292,7 @@ Another parish record:
 
 | When       | Who | Where | Description | Reference |
 |------------|-----|-------|-------------|-----------|
-| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Dies aged *circa* 70: "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
+| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Dies aged *circa* 70 "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
 
 ### Notes
 
@@ -293,7 +300,7 @@ Both deaths are the subject of letter XI (1779-12-04) sent to son **Manuel**:
 
 > "(...) *notícias* (...) *ensanguadas com a morte do Sr. seu Pai* (...) *mas senti muito as outras que V. M. me conta da Sra. sua mãi* (...)"
 
-Note the 4 year gap...
+Note the 4 year gap, but Costa knew about Luís Costa's death one year before.
 
 ---
 
@@ -312,9 +319,8 @@ school-master **Manuel Carneiro de Araújo** mentioned in letter .....
 
 # The Gomes Costa family network
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:20% fit](./IMG_3852.png)
 
-More from the parish records:
+More in the parish records:
 
 | When       | Who | Where | Description | Reference |
 |------------|-----|-------|-------------|-----------|
@@ -322,18 +328,23 @@ More from the parish records:
 
 Notes:
 
-> [José Maria Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
-> He is the "*bispo Évora*" mentioned in letter X:  "(...)*lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma;*"
+> [José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
+
+> He is the "**bispo Évora**" mentioned in letter X: "(...) *lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma*"
 
 ---
+# The Gomes Costa family network
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:20% fit](./IMG_3852.png)
+![bg right:35% fit](./evora.png)
 
-He had served as Portugal's ambassador in Rome, etc etc https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora
+José Maria da Fonseca "Évora":
 
-Much to say because of its connection to Rome and possibly S.António 
+> He had served as Portugal's ambassador in Rome, etc etc
 
-Brilliant carrer in Rome, Biblioteca Eborense etc
+> Brilliant carrer in Rome, Biblioteca Eborense etc
+
+> Much to say because of its connection to Rome and possibly S.António 
+
 
 ---
 

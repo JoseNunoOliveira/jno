@@ -94,7 +94,9 @@ Stable URL: https://www.jstor.org/stable/727650
 ![bg right:35% fit](./recipients.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-### Did these **5** recipients know each other?
+### First question:
+
+> #### Did these **5** recipients know each other?
 
 NB: in the graphs to follow
 
@@ -125,6 +127,12 @@ that is,
 
 ### Histogram
 
+--- 
+<!-- _backgroundColor: "lightcyan" -->
+![bg 55% fit](./spans.png)
+
+### Time spans
+
 ---
 
 # The 13 Letters (1750-1780)
@@ -134,7 +142,7 @@ To unravel the "puzzle", let us start from the recipients whose names are given 
 
    * **Manuel Gomes Costa Pacheco** (letters XI, XII, XIII)
    * **Pedro Pereira de Sampaio** (letter VI)
-   * **Luís Costa Gomes** (letters...)
+   * **Luís Costa Gomes** (letters IV, V, VI, VII, IX and X)
 
 and search for them in archival sources.
 
@@ -200,7 +208,7 @@ and
 
 (ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286))
 
-As of 9999, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
+As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
 
 ---
 
@@ -208,7 +216,7 @@ As of 9999, **Vitória** is one of the four districts within the **UNESCO World 
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./caldeireiros.JPG)
 
-Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
+**Rua da Ferraria de Cima** (Upper Ferraria street) is today's **Rua dos Caldeireiros**.
 
 ---
 
@@ -216,7 +224,7 @@ Rua da Ferraria de Cima (Upper Ferraria street) is today's Rua dos Caldeireiros.
 
 <!-- _backgroundColor: "lightcyan" -->
 
-Data collected from the **birth** **records** of parishes **Vitória** and **Sé** (ADP):
+Data collected from the **birth** **records** of parishes **Vitória** and **Sé** ([ADP](https://pesquisa.adporto.arquivos.pt/)):
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
@@ -264,9 +272,9 @@ Cross-checking:
 
 Possibilities:
 
-> **António da Costa** quite likely *our man* (but *priest* is an over statement)
+> **António da Costa** quite likely *our man* (but not yet a *priest*...)
 
-> **Quitéria Maria** - the *snr. Quitéria* referred to 8 times in the letters?
+> **Quitéria Maria** - the *snr. Quitéria* referred to in 6 letters?
 
 
 ---
@@ -300,7 +308,7 @@ Both deaths are the subject of letter XI (1779-12-04) sent to son **Manuel**:
 
 > "(...) *notícias* (...) *ensanguadas com a morte do Sr. seu Pai* (...) *mas senti muito as outras que V. M. me conta da Sra. sua mãi* (...)"
 
-Note the 4 year gap, but Costa knew about Luís Costa's death one year before.
+Note the 4y gap - but Costa knew about Luís Costa's death one year before.
 
 ---
 
@@ -311,9 +319,10 @@ More from the parish records:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Reverend **Manuel Carneiro de Araújo**, school master | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
+| 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
+| 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
-school-master **Manuel Carneiro de Araújo** mentioned in letter .....
+School-master **Manuel Carneiro de Araújo** mentioned in letter .....
 
 ---
 

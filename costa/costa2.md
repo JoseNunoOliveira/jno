@@ -7,6 +7,22 @@ footer:  Symposium Abbot António da Costa
 <!-- _backgroundColor: "lightcyan" -->
  
 ---
+<!-- _backgroundColor: "lightcyan" -->
+# Pedro Pereira de S.Paio (1694-1776)
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1776-11-03 | Rev. Pedro Pereira de S.Paio | Sé | Death in S. António do Penedo |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 | 
+
+Recipient of the sole letter sent from Venice (letter VIII, 1761).
+
+Executor: his nephew Carlos Vieira de Melo, nobleman of the Royal House.
+
+---
+
+Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testamenteiro seu sobrinho e fidalgo da Casa Real Carlos Vieira de Melo.
+
+---
 
 # Who were the friends of Abbot António da Costa in Porto?
 <!-- _backgroundColor: "lightcyan" -->

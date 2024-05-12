@@ -24,6 +24,28 @@ Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testament
 
 ---
 
+# João Alves do Vale
+
+**1744-10-10**: parece ser a assinatura de João Alves? do Vale no assento de uma filha de Luís Gomes Costa; 
+
+**1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória, [tiff=João Alves do Vale | P05 | 1779:XI:71-72 etc | | 
+
+**1744-10-10**: parece ser a assinatura de João Alves? do Vale no assento de uma filha de Luís Gomes Costa; 
+
+---
+
+**1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória, [tiff=491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️ 594  ); 
+
+**1758-07-30**: o Rev. João Alves do Vale, da Ferraria de Cima, baptiza criança da mesma rua (Freg. Vitória, [tiff=627](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)); 
+
+**1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)  ▶️ 643 )
+
+**1758-07-30**: o Rev. João Alves do Vale, da Ferraria de Cima, baptiza criança da mesma rua (Freg. Vitória, [tiff=627](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)); 
+
+**1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [tiff=643](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)) |
+
+---
+
 # Who were the friends of Abbot António da Costa in Porto?
 <!-- _backgroundColor: "lightcyan" -->
 

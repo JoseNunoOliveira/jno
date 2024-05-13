@@ -26,23 +26,21 @@ Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testament
 
 # João Alves do Vale
 
-**1744-10-10**: parece ser a assinatura de João Alves? do Vale no assento de uma filha de Luís Gomes Costa; 
 
-**1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória, [tiff=João Alves do Vale | P05 | 1779:XI:71-72 etc | | 
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1744-10-10 | Antónia | Vitória | Rev. João Alves do Vale signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
 
-**1744-10-10**: parece ser a assinatura de João Alves? do Vale no assento de uma filha de Luís Gomes Costa; 
+Costa sends his regards several times to him, referred to as *o insigne* ...
 
----
+He either baptizes or is godfather in a few birth records of Rua Ferraria de Cima between until at least 1759. Cf. e.g.
 
-**1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória, [tiff=491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️ 594  ); 
-
-**1758-07-30**: o Rev. João Alves do Vale, da Ferraria de Cima, baptiza criança da mesma rua (Freg. Vitória, [tiff=627](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)); 
-
-**1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)  ▶️ 643 )
+--- 
+**1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️ 594); 
 
 **1758-07-30**: o Rev. João Alves do Vale, da Ferraria de Cima, baptiza criança da mesma rua (Freg. Vitória, [tiff=627](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)); 
 
-**1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [tiff=643](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)) |
+**1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️ 643 ) |
 
 ---
 

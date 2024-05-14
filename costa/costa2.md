@@ -43,6 +43,8 @@ Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testament
 
 # João Alves do Vale
 
+<!-- _backgroundColor: "lightcyan" -->
+
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
@@ -50,15 +52,18 @@ Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testament
 
 Costa sends his regards several times to him, referred to as *o insigne* ...
 
-He either baptizes or is godfather in a few birth records of Rua Ferraria de Cima between until at least 1759. Cf. e.g.
 
 --- 
 
-**1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️ 594); 
+# João Alves do Vale
 
-**1758-07-30**: o Rev. João Alves do Vale, da Ferraria de Cima, baptiza criança da mesma rua (Freg. Vitória, [tiff=627](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)); 
+<!-- _backgroundColor: "lightcyan" -->
 
-**1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️ 643 ) |
+| When | Who | Where | Description | Reference |
+|----------|-----|-------|-------------|-----------|
+|1756-10-02| Rev. João Alves do Vale | Vitória | godfather | [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️  594 |
+|1758-07-30| Rev. João Alves do Vale | Vitória | Living in  Ferraria de Cima, baptizes a child of the same street | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=491139) :arrow_forward: 627 |
+|1759-07-23| Rev. João Alves do Vale | Vitória | The same | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️  643 |
 
 ---
 

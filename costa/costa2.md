@@ -100,6 +100,7 @@ May 25th, 2024
 
 # Sources
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:38% fit](./cartas.png)
 
 ### 13 Letters (1750-1780)
    * Manuscript: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
@@ -203,9 +204,9 @@ that is,
 
 To unravel the "puzzle", let us start from the recipients whose names are given in full:
 
-   * **Manuel Gomes Costa Pacheco** (letters XI, XII, XIII)
-   * **Pedro Pereira de Sampaio** (letter VI)
-   * **Luís Costa Gomes** (letters IV, V, VI, VII, IX and X)
+>   #### **Manuel Gomes Costa Pacheco** (letters XI, XII, XIII)
+>   ### **Pedro Pereira de Sampaio** (letter VI)
+>   ### **Luís Costa Gomes** (letters IV, V, VI, VII, IX and X)
 
 and search for them in archival sources.
 
@@ -239,7 +240,7 @@ Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living i
 
 Cross-checking with the Student Registry of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735 (July 3rd)
+> **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735-07-03.
 
 (ref. AUC [202836](https://pesquisa.auc.uc.pt/details?id=202836))
 
@@ -385,7 +386,7 @@ Note the 4y gap - but Costa knew about Luís Costa's death one year before.
 | 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
-School-master **Manuel Carneiro de Araújo** is  mentioned in letter VI (1754-05-20):
+School-master **Manuel Carneiro de Araújo** (d.1755) mentioned in letter VI (1754-05-20):
 
 > "(...) *aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande*"
 

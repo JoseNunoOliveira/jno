@@ -12,11 +12,28 @@ footer:  Symposium Abbot António da Costa
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1776-11-03 | Rev. Pedro Pereira de S.Paio | Sé | Death in S. António do Penedo |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 | 
+| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 | 
 
-Recipient of the sole letter sent from Venice (letter VIII, 1761).
+Letters:
 
-Executor: his nephew Carlos Vieira de Melo, nobleman of the Royal House.
+> Recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
+
+> His death was received with regret in letter XI (1779-12-04)
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+# Pedro Pereira de S.Paio (1694-1776)
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1694-04-25 | **Pedro Pereira de S.Paio** | S. Nicolau (Porto) | Birth: son of capitain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
+| 1710-10-14 |  **Pedro Pereira de S.Paio** | Lisbon? | habilitation for the S.Tiago Order, then a 15y old student | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
+
+One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
+
+---
+
+Quanto ao pai, **António Pereira de Sampaio**, ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, estando ausente nas partes do Norte, ter acompanhado a rainha a Portugal ([tiff=33](https://digitarq.arquivos.pt/details?id=2322187)); e esta Mercê (1690, [tiff=427](https://digitarq.arquivos.pt/details?id=1860259)), pela qual se fica  a saber que *passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar e este reino a Rainha*. 
 
 ---
 
@@ -36,11 +53,48 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 He either baptizes or is godfather in a few birth records of Rua Ferraria de Cima between until at least 1759. Cf. e.g.
 
 --- 
+
 **1756-10-02**: O Rev. João Alves do Vale é padrinho (Vitória [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️ 594); 
 
 **1758-07-30**: o Rev. João Alves do Vale, da Ferraria de Cima, baptiza criança da mesma rua (Freg. Vitória, [tiff=627](https://pesquisa.adporto.arquivos.pt/viewer?id=491139)); 
 
 **1759-07-23**: o Rev. João Alves do Vale baptiza criança da Ferraria de Cima (Freg. Vitória, [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️ 643 ) |
+
+---
+
+# Snr. Torrão
+
+    Torrão | P04 | 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
+
+Rev. Doutor **António Alvo Torrão**
+
+**nascimento**: por encontrar. Natural da freguesia de S. Nicolau, filho de António Lopes Torrão, [cavaleiro da ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) e de sua mulher D. Maria Alvo Pereira
+
+**1729-10-01**: [matricula-se](https://pesquisa.auc.uc.pt/details?id=203741&detailsType=Description&ht=alvo%7ctorrão) em Coimbra (1730-1736)
+
+**1739-03-11**: tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de **António Lopes Torrão** e sua mulher D. Maria Alvaro (sic), babtizadas em S. Nicolau. (Fonte: [tiff=17](https://digitarq.arquivos.pt/viewer?id=4638421));
+
+---
+
+**1740-09-08**: [habilitação](https://digitarq.arquivos.pt/details?id=2344229) a familiar do Santo Ofício, que fica [incompleta](https://digitarq.arquivos.pt/details?id=2344023), e onde pode ler-se: \"(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra. Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*
+
+---
+
+**1755-11-11**: é padrinho de uma sobrinha, filha da irmã D. Ana Antónia, na freg. Vitória ([tiff = 576](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1757-02-13**: é padrinho na freg. Vitória ([tiff = 601](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1758-09-11**: é padrinho na freg. Vitória ([tiff = 629](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1774, carta X**: "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes* (...)
+
+---
+
+**NB**: nas [décimas](https://gisaweb.cm-porto.pt/units-of-description/documents/711573/?) da freg. S.Nicolau (1725, 218v a lápis, em 'Reboleira e Fonte Taurina'), aparece uma referência a **António Lopes Torrão**, guarda mor em casas próprias;
+
+(pais sao avós em [500](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[610](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[635](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139))
+
+(Alvos e Torrões ([523](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[537](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),559)),
 
 ---
 

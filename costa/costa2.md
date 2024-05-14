@@ -7,39 +7,6 @@ footer:  Symposium Abbot António da Costa
 <!-- _backgroundColor: "lightcyan" -->
  
 ---
-<!-- _backgroundColor: "lightcyan" -->
-# Pedro Pereira de S.Paio (1694-1776)
-
-| When | Who | Where | Description | Reference |
-|------|-----|-------|-------------|----------|
-| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 | 
-
-Letters:
-
-> Recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
-
-> His death was received with regret in letter XI (1779-12-04)
-
----
-<!-- _backgroundColor: "lightcyan" -->
-# Pedro Pereira de S.Paio (1694-1776)
-
-| When | Who | Where | Description | Reference |
-|------|-----|-------|-------------|----------|
-| 1694-04-25 | **Pedro Pereira de S.Paio** | S. Nicolau (Porto) | Birth: son of capitain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
-| 1710-10-14 |  **Pedro Pereira de S.Paio** | Lisbon? | habilitation for the S.Tiago Order, then a 15y old student | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
-
-One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
-
----
-
-Quanto ao pai, **António Pereira de Sampaio**, ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, estando ausente nas partes do Norte, ter acompanhado a rainha a Portugal ([tiff=33](https://digitarq.arquivos.pt/details?id=2322187)); e esta Mercê (1690, [tiff=427](https://digitarq.arquivos.pt/details?id=1860259)), pela qual se fica  a saber que *passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar e este reino a Rainha*. 
-
----
-
-Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testamenteiro seu sobrinho e fidalgo da Casa Real Carlos Vieira de Melo.
-
----
 
 # João Alves do Vale
 
@@ -68,6 +35,7 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 ---
 
 # Snr. Torrão
+<!-- _backgroundColor: "#CCE5FF" -->
 
     Torrão | P04 | 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
 
@@ -410,14 +378,16 @@ Note the 4y gap - but Costa knew about Luís Costa's death one year before.
 # The Gomes Costa family network
 <!-- _backgroundColor: "lightcyan" -->
 
-More from the parish records:
+<!-- More from the parish records: -->
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
 | 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
-School-master **Manuel Carneiro de Araújo** mentioned in letter .....
+School-master **Manuel Carneiro de Araújo** is  mentioned in letter VI (1754-05-20):
+
+> "(...) *aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande*"
 
 ---
 
@@ -445,7 +415,7 @@ José Maria da Fonseca "Évora":
 
 > He had served as Portugal's ambassador in Rome, etc etc
 
-> Brilliant carrer in Rome, Biblioteca Eborense etc
+> Brilliant career in Rome, Biblioteca Eborense etc
 
 > Much to say because of its connection to Rome and possibly S.António 
 
@@ -454,19 +424,23 @@ José Maria da Fonseca "Évora":
 
 # The Costa Pacheco family in Vila da Feira
 <!-- _backgroundColor: "lightcyan" -->
-daugther of capitain Manuel Gomes da Costa Pacheco
+More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa (single), father capitain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
-| escrivão  datas  |
+| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa (single), father captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| escrivão  ... | datas  | ... | 
+| coimbra          |
 
 ---
 
+# The Costa Pacheco family in Vila da Feira
+<!-- _backgroundColor: "lightcyan" -->
+
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| coimbra          |
-| sebastião coimbra          |
+| 1758-10-01 | Sebastião Gomes Costa Pacheco | Univ. Coimbra | registered as Law student until 1761 | AUC [220680](https://pesquisa.auc.uc.pt/details?id=220680&detailsType=Description&ht=sebastião%7cgomes%7ccosta%7cpacheco) |
+| 1818-12-27 | Dr. Sebastião Gomes Costa Pacheco | Vila da Feira | Death | [1255475](https://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1255475) :arrow_forward: 421 |
 
 ---
 # The Costa Pacheco family in Vila da Feira
@@ -480,6 +454,38 @@ A lot more about the **Costa Pacheco**'s decendents in:
 Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
 
 
+---
+<!-- _backgroundColor: "lightcyan" -->
+# Pedro Pereira de S.Paio (1694-1776)
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 | 
+
+Letters:
+
+> Recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
+
+> His death was received with regret in letter XI (1779-12-04)
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+# Pedro Pereira de S.Paio (1694-1776)
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1694-04-25 | **Pedro Pereira de S.Paio** | S. Nicolau (Porto) | Birth: son of captain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
+| 1710-10-14 |  **Pedro Pereira de S.Paio** | Lisbon? | habilitation for the S.Tiago Order, then a 15y old student | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
+
+One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
+
+---
+
+Quanto ao pai, **António Pereira de Sampaio**, ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, estando ausente nas partes do Norte, ter acompanhado a rainha a Portugal ([tiff=33](https://digitarq.arquivos.pt/details?id=2322187)); e esta Mercê (1690, [tiff=427](https://digitarq.arquivos.pt/details?id=1860259)), pela qual se fica  a saber que *passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar e este reino a Rainha*. 
+
+---
+
+Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testamenteiro seu sobrinho e fidalgo da Casa Real Carlos Vieira de Melo.
 
 ---
 

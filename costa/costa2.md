@@ -219,7 +219,7 @@ that is,
 
 --- 
 <!-- _backgroundColor: "lightcyan" -->
-![bg 55% fit](./spans.png)
+![bg 60% fit](./spans.png)
 
 ### Time spans
 
@@ -447,11 +447,33 @@ José Maria da Fonseca "Évora":
 
 ---
 
+# The Costa Pacheco family in Vila da Feira
 <!-- _backgroundColor: "lightcyan" -->
-
 daugther of capitain Manuel Gomes da Costa Pacheco
 
-A lot more about Sebastião em Revista de Aveiro
+| When       | Who       | Where  | Description | Reference |
+|------------|-----------|--------|-------------|-----------|
+| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa (single), father capitain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| escrivão  datas  |
+
+---
+
+| When       | Who       | Where  | Description | Reference |
+|------------|-----------|--------|-------------|-----------|
+| coimbra          |
+| sebastião coimbra          |
+
+---
+# The Costa Pacheco family in Vila da Feira
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:35% fit](./sgcp.jpg)
+
+A lot more about the **Costa Pacheco**'s decendents in:
+
+> [Freguesia de S. Nicolau da Vila da Feira](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm) by Roberto Vaz de Oliveira, in Aveiro e o seu Distrito, N.º 16, Junta Distrital de Aveiro, December 1973
+
+Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
+
 
 
 ---

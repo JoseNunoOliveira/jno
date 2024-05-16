@@ -3,9 +3,22 @@ marp: true
 math: katex
 theme: default
 paginate: true
-footer:  Symposium Abbot António da Costa
+footer:  Symposium Abott António da Costa
 <!-- _backgroundColor: "lightcyan" -->
  
+---
+
+# Who were the friends of Abott António da Costa in Porto?
+<!-- _backgroundColor: "#CCE5FF" -->
+
+![bg right:50% fit](./EE147_005.png)
+
+JN Oliveira
+
+May 25th, 2024
+
+**[Symposium Abott António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
+
 ---
 
 # Popular aphorism
@@ -17,111 +30,15 @@ footer:  Symposium Abbot António da Costa
 &quot;<em>Diz-me com quem andas e dir-te-ei quem és</em>&quot;
 <br>
 <br>
+<font  color="#7F7979">
 (&quot;<em>Tell me who you hang out with and I'll tell you who you are</em>&quot;)
+</font>
 </h3>
 <br>
 <br>
 </center>
 
-### :arrow_forward: Who did hang out with **António da Costa** before in left Porto?
-
----
-
-# João Alves do Vale
-
-<!-- _backgroundColor: "lightcyan" -->
-
-
-| When | Who | Where | Description | Reference |
-|------|-----|-------|-------------|-----------|
-| 1744-10-10 | Antónia | Vitória | Rev. João Alves do Vale signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
-
-Costa sends his regards several times to him, referred to as *o insigne* ...
-
-
---- 
-
-# João Alves do Vale
-
-<!-- _backgroundColor: "#CCE5FF" -->
-
-| When | Who | Where | Description | Reference |
-|----------|-----|-------|-------------|-----------|
-|1756-10-02| Rev. João Alves do Vale | Vitória | godfather | [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️  594 |
-|1758-07-30| Rev. João Alves do Vale | Vitória | Living in  Ferraria de Cima, baptizes a child of the same street | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=491139) :arrow_forward: 627 |
-|1759-07-23| Rev. João Alves do Vale | Vitória | The same | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️  643 |
-
----
-
-# Snr. Torrão
-<!-- _backgroundColor: "lightcyan" -->
-
-Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
-
-In particular, letter X (1774):
-
-> "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
-
->
-[ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word you said to me about him being like he was before" ]
-
---- 
-
-# The Alvo Torrão family
-<!-- _backgroundColor: "lightcyan" -->
-
-| When | Who | Where | Description | Reference |
-|----------------|---------|------------|-------------|-----------|
-| **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
-| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | registers as Law student (will finish the course in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
-
----
-
-# The Alvo Torrão family
-<!-- _backgroundColor: "lightcyan" -->
-
-| When | Who     | Where | Description | Reference |
-|----------------|---------|------------|-------------|-----------|
-| **1739-03-11** | Francisca Inácia and Maria Marcelina | Monchique, Miragaia | "tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
-| **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
-
----
-<!-- _backgroundColor: "lightcyan" -->
-
-The process didn't get completed, cf. this negative information in the minutes:
-
-> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra. Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
-
----
-
-**1755-11-11**: é padrinho de uma sobrinha, filha da irmã D. Ana Antónia, na freg. Vitória ([tiff = 576](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
-
-**1757-02-13**: é padrinho na freg. Vitória ([tiff = 601](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
-
-**1758-09-11**: é padrinho na freg. Vitória ([tiff = 629](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
-
-
-
----
-
-**NB**: nas [décimas](https://gisaweb.cm-porto.pt/units-of-description/documents/711573/?) da freg. S.Nicolau (1725, 218v a lápis, em 'Reboleira e Fonte Taurina'), aparece uma referência a **António Lopes Torrão**, guarda mor em casas próprias;
-
-(pais sao avós em [500](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[610](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[635](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139))
-
-(Alvos e Torrões ([523](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[537](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),559)),
-
----
-
-# Who were the friends of Abbot António da Costa in Porto?
-<!-- _backgroundColor: "lightcyan" -->
-
-![bg right:50% fit](./EE147_005.png)
-
-JN Oliveira
-
-May 25th, 2024
-
-**[Symposium Abbot António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
+### :arrow_forward: Who did hang out with **António da Costa** before he left Porto?
 
 
 ---
@@ -161,6 +78,7 @@ Stable URL: https://www.jstor.org/stable/727650
 ---
 # Sources
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:45% fit](./burney-costa.jpg)
 
 ### **Charles Burney** travel diary (1772)
 ### 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
@@ -535,6 +453,87 @@ Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testament
 Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
 
 Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lpg=PT55&dq=duque+de+lafões+viena&source=bl&ots=UP1oD8v6nJ&sig=ACfU3U2pApE-XKypQ9eucla9FPb61WPfBw&hl=en&sa=X&ved=2ahUKEwj1-PnC1-H9AhXHVKQEHTwxDx44FBDoAXoECCIQAw#v=onepage&q=duque%20de%20lafões%20viena&f=false)** - cf imprecisões e deduções arriscadas (?? Além destes feitos, D. João V mandou copiar em Roma a Symicta Lusitana, constituída por 100 volumes, a qual recolhe todos os processos documentais relacionados com os negócios entre Portugal e Roma.
+
+---
+
+# João Alves do Vale
+
+<!-- _backgroundColor: "lightcyan" -->
+
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|-----------|
+| 1744-10-10 | Antónia | Vitória | Rev. João Alves do Vale signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
+
+Costa sends his regards several times to him, referred to as *o insigne* ...
+
+
+--- 
+
+# João Alves do Vale
+
+<!-- _backgroundColor: "#CCE5FF" -->
+
+| When | Who | Where | Description | Reference |
+|----------|-----|-------|-------------|-----------|
+|1756-10-02| Rev. João Alves do Vale | Vitória | godfather | [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️  594 |
+|1758-07-30| Rev. João Alves do Vale | Vitória | Living in  Ferraria de Cima, baptizes a child of the same street | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=491139) :arrow_forward: 627 |
+|1759-07-23| Rev. João Alves do Vale | Vitória | The same | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️  643 |
+
+---
+
+# Snr. Torrão
+<!-- _backgroundColor: "lightcyan" -->
+
+Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
+
+In particular, letter X (1774):
+
+> "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
+
+>
+[ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word you said to me about him being like he was before" ]
+
+--- 
+
+# The Alvo Torrão family
+<!-- _backgroundColor: "lightcyan" -->
+
+| When | Who | Where | Description | Reference |
+|----------------|---------|------------|-------------|-----------|
+| **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
+| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | registers as Law student (will finish the course in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
+
+---
+
+# The Alvo Torrão family
+<!-- _backgroundColor: "lightcyan" -->
+
+| When | Who     | Where | Description | Reference |
+|----------------|---------|------------|-------------|-----------|
+| **1739-03-11** | Francisca Inácia and Maria Marcelina | Monchique, Miragaia | "tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
+| **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+
+The process didn't get completed, cf. this negative information in the minutes:
+
+> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra. Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
+
+---
+
+**1755-11-11**: é padrinho de uma sobrinha, filha da irmã D. Ana Antónia, na freg. Vitória ([tiff = 576](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1757-02-13**: é padrinho na freg. Vitória ([tiff = 601](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1758-09-11**: é padrinho na freg. Vitória ([tiff = 629](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**NB**: nas [décimas](https://gisaweb.cm-porto.pt/units-of-description/documents/711573/?) da freg. S.Nicolau (1725, 218v a lápis, em 'Reboleira e Fonte Taurina'), aparece uma referência a **António Lopes Torrão**, guarda mor em casas próprias;
+
+(pais sao avós em [500](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[610](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[635](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139))
+
+(Alvos e Torrões ([523](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[537](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),559)),
 
 
 ---

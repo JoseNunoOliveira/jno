@@ -175,13 +175,13 @@ and search for them in archival sources.
 
 # Manuel Gomes Costa Pacheco
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:35% fit](./1768.png)
+![bg right:34% fit](./1768.png)
 
-**1768** - Habilitation process for the **Military Order of Christ** Knighthood.
+**1768** - Process of qualification for the **Military Order of Christ** Knighthood.
 
 > *Diligência de habilitação para a Ordem de Cristo* of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira** ([7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
 
-Mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
+It mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
 
 ---
 
@@ -209,6 +209,7 @@ Cross-checking with the Student Registry of the **University of Coimbra**:
 
 # The "snr. Doutor"
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:40% fit](./sr-doutor.png)
 
 Cross-checking:
 
@@ -224,16 +225,17 @@ and
 
 ---
 
-# Parish of Vitória (S. Benedictus)
+# Parish of Vitória (S. Bento)
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:40% fit](./memorias.png)
 
 **1758** - According to the information provided in *Memórias Paroquiais*, item 18 of the **parish of Vitória**, this is considered
 
 >  *illustrious and made up of the most noble and enlightened people in the city* (...)
 
-(ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286))
+(ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286) :arrow_forward: 56)
 
-As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
+> As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
 
 ---
 
@@ -375,11 +377,13 @@ Notes:
 
 José Maria da Fonseca "Évora":
 
-> He had served as Portugal's ambassador in Rome, etc etc
+> Left for Rome in 1712, as part of the embassy of the Marquis of Fontes
 
-> Brilliant career in Rome, Biblioteca Eborense etc
+> In 1740 he founded the large library in the Ara Coeli convent (the Biblioteca Eborense)
 
-> Much to say because of its connection to Rome and possibly S.António 
+> He served as Portugal's ambassador in Rome (1728 $\rightarrow$) until accepting the bishopry of Porto (1741).
+
+
 
 
 ---
@@ -390,7 +394,7 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa (single), father captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa, single, the father being captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
 | escrivão  ... | datas  | ... | 
 | coimbra          |
 
@@ -415,6 +419,8 @@ A lot more about the **Costa Pacheco**'s decendents in:
 
 Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
 
+> Aside: picture of Sebastião Gomes Costa Pacheco while a law student at Coimbra.
+
 
 ---
 <!-- _backgroundColor: "lightcyan" -->
@@ -428,7 +434,7 @@ Letters:
 
 > Recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
 
-> His death was received with regret in letter XI (1779-12-04)
+> His death was received with much regret in letter XI (1779-12-04).
 
 ---
 <!-- _backgroundColor: "lightcyan" -->
@@ -487,14 +493,14 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 # Snr. Torrão
 <!-- _backgroundColor: "lightcyan" -->
 
-Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
+Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78.
 
 In particular, letter X (1774):
 
 > "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
 
 >
-[ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word you said to me about him being like he was before" ]
+[ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word said to me about him being like he was before" ]
 
 --- 
 
@@ -504,7 +510,7 @@ In particular, letter X (1774):
 | When | Who | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
 | **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
-| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | registers as Law student (will finish the course in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
+| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | Registers as Law student (will finish the course in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
 
 ---
 
@@ -548,6 +554,8 @@ The process didn't get completed, cf. this negative information in the minutes:
 
 Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. desdobr. : il. ; 4º (22 cm) 
 
+(BND [22517](https://purl.pt/22517))
+
 ---
 
 # About the women of Porto (18c)
@@ -573,7 +581,7 @@ Rebelo da Costa:
 
 ## Rebelo da Costa:  <!-- pdf 106 -->
 
-> No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons **concertos de música**, e ainda as chamadas Fúrias de Rio (*) 
+> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons **concertos de música**, e ainda as chamadas Fúrias de Rio* (*)" 
 
 ([22517](https://purl.pt/22517) :arrow_forward: 54) <!-- pdf 106 -->
 

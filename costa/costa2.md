@@ -38,7 +38,9 @@ May 25th, 2024
 <br>
 </center>
 
-### :arrow_forward: Who did hang out with **António da Costa** before he left Porto?
+### :arrow_forward: Reserach question:
+
+> Who did hang out with **António da Costa** before he left Porto?
 
 
 ---

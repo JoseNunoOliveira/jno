@@ -37,11 +37,19 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 # Snr. Torrão
 <!-- _backgroundColor: "#CCE5FF" -->
 
-    Torrão | P04 | 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
+Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
 
-Rev. Doutor **António Alvo Torrão**
+In particular, letter X (1774):
 
-**nascimento**: por encontrar. Natural da freguesia de S. Nicolau, filho de António Lopes Torrão, [cavaleiro da ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) e de sua mulher D. Maria Alvo Pereira
+> "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes* (...)
+
+--- 
+
+| When | Who | Where | Description | Reference |
+|----------------|---------|------------|-------------|-----------|
+| **1715-02-03** | António | S. Nicolau | birth, son of António Lopes Torrão, [knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️ 37 |
+
+---
 
 **1729-10-01**: [matricula-se](https://pesquisa.auc.uc.pt/details?id=203741&detailsType=Description&ht=alvo%7ctorrão) em Coimbra (1730-1736)
 
@@ -59,7 +67,7 @@ Rev. Doutor **António Alvo Torrão**
 
 **1758-09-11**: é padrinho na freg. Vitória ([tiff = 629](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
 
-**1774, carta X**: "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes* (...)
+
 
 ---
 

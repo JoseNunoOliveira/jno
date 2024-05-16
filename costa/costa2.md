@@ -8,6 +8,25 @@ footer:  Symposium Abbot António da Costa
  
 ---
 
+# Popular aphorism
+
+<!-- _backgroundColor: "lightcyan" -->
+
+<center>
+<h3>
+&quot;<em>Diz-me com quem andas e dir-te-ei quem és</em>&quot;
+<br>
+<br>
+(&quot;<em>Tell me who you hang out with and I'll tell you who you are</em>&quot;)
+</h3>
+<br>
+<br>
+</center>
+
+### :arrow_forward: Who did hang out with **António da Costa** before in left Porto?
+
+---
+
 # João Alves do Vale
 
 <!-- _backgroundColor: "lightcyan" -->
@@ -24,7 +43,7 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 
 # João Alves do Vale
 
-<!-- _backgroundColor: "lightcyan" -->
+<!-- _backgroundColor: "#CCE5FF" -->
 
 | When | Who | Where | Description | Reference |
 |----------|-----|-------|-------------|-----------|
@@ -35,29 +54,43 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 ---
 
 # Snr. Torrão
-<!-- _backgroundColor: "#CCE5FF" -->
+<!-- _backgroundColor: "lightcyan" -->
 
 Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78
 
 In particular, letter X (1774):
 
-> "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes* (...)
+> "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
+
+>
+[ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word you said to me about him being like he was before" ]
 
 --- 
 
+# The Alvo Torrão family
+<!-- _backgroundColor: "lightcyan" -->
+
 | When | Who | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
-| **1715-02-03** | António | S. Nicolau | birth, son of António Lopes Torrão, [knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️ 37 |
+| **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
+| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | registers as Law student (will finish the course in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
 
 ---
 
-**1729-10-01**: [matricula-se](https://pesquisa.auc.uc.pt/details?id=203741&detailsType=Description&ht=alvo%7ctorrão) em Coimbra (1730-1736)
+# The Alvo Torrão family
+<!-- _backgroundColor: "lightcyan" -->
 
-**1739-03-11**: tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de **António Lopes Torrão** e sua mulher D. Maria Alvaro (sic), babtizadas em S. Nicolau. (Fonte: [tiff=17](https://digitarq.arquivos.pt/viewer?id=4638421));
+| When | Who     | Where | Description | Reference |
+|----------------|---------|------------|-------------|-----------|
+| **1739-03-11** | Francisca Inácia and Maria Marcelina | Monchique, Miragaia | "tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
+| **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
 
 ---
+<!-- _backgroundColor: "lightcyan" -->
 
-**1740-09-08**: [habilitação](https://digitarq.arquivos.pt/details?id=2344229) a familiar do Santo Ofício, que fica [incompleta](https://digitarq.arquivos.pt/details?id=2344023), e onde pode ler-se: \"(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra. Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*
+The process didn't get completed, cf. this negative information in the minutes:
+
+> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra. Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
 
 ---
 

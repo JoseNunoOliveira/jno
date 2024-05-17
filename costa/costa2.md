@@ -213,7 +213,7 @@ Cross-checking with the Student Registry of the **University of Coimbra**:
 
 Cross-checking:
 
-> **Luís Gomes Costa** is recipient of 6 letters by Costa, between 1752 and 1774.
+> **Luís Gomes Costa** is recipient of 6 letters, between 1752 and 1774.
 
 In his letters, António da Costa refers to him as 
 
@@ -295,7 +295,7 @@ In particular:
 
 Cross-checking:
 
-> **José Alberto Gomes Costa** - oncle of the baptized, mentioned in letters IX, X, XI and XIII.
+> **José Alberto Gomes Costa** - a priest, he is oncle of the baptized and mentioned in letters IX, X, XI and XIII.
 
 Possibilities:
 
@@ -312,7 +312,7 @@ Possibilities:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged *circa 70*, "(...) *testamenteiro seu filho Sebastião Gomes Costa*"| [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged circa 70, his son Sebastião Gomes Costa being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
 ### Notes:
 
@@ -383,7 +383,7 @@ José Maria da Fonseca "Évora":
 
 > He served as Portugal's ambassador in Rome (1728 $\rightarrow$) until accepting the bishopry of Porto (1741).
 
-> Died in 1752 when Costa was already in Rome.
+> He died in 1752 when Costa was already in Rome.
 
 ---
 
@@ -393,9 +393,13 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa, single, the father being captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
-| escrivão  ... | datas  | ... | 
-| coimbra          |
+| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa, single, the father being ("deu por pai") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+
+Cross-checking:
+
+> 1764-06-17: first reference ([PT/ADAVR/NOT/CNCRM/001/0024](https://adavr.dglab.gov.pt/wp-content/uploads/sites/5/2018/12/Inventário-PT-ADAVR-NOT-CNCRM.pdf) + [keep](https://digitarq.adavr.arquivos.pt/details?id=1445904)) to notary Manuel Gomes da Costa Pacheco. Last reference found in 1805. [Livro de notas](https://digitarq.adavr.arquivos.pt/details?id=1445904).
+
+1783-10-08: [Matrícula](https://pesquisa.auc.uc.pt/details?id=220452) de Manuel Gomes da Costa Pacheco na U.Coimbra, onde se inscreveu em direito, matemática e filosofia (até 1787) 
 
 ---
 

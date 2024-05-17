@@ -162,6 +162,7 @@ that is,
 
 # The 13 Letters (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./pacheco.png)
 
 To unravel the "puzzle", let us start from the recipients whose names are given in full:
 
@@ -179,9 +180,11 @@ and search for them in archival sources.
 
 **1768** - Process of qualification for the **Military Order of Christ** Knighthood.
 
-> *Diligência de habilitação para a Ordem de Cristo* of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira** ([7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
+> *Diligência de habilitação para a Ordem de Cristo* of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira**
 
-It mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
+([7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
+
+This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
 
 ---
 
@@ -335,7 +338,7 @@ Both deaths are the subject of letter XI (1779-12-04) sent to son **Manuel**:
 
 > "(...) *notícias* (...) *ensanguadas com a morte do Sr. seu Pai* (...) *mas senti muito as outras que V. M. me conta da Sra. sua mãi* (...)"
 
-Note the 4 year gap - but **António da Costa** knew about **Luís Costa**'s death one year before.
+Note the 4 year gap - but **A. da Costa** knew about **Luís Costa**'s death one year before.
 
 ---
 
@@ -349,7 +352,7 @@ Note the 4 year gap - but **António da Costa** knew about **Luís Costa**'s dea
 | 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
-School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI (1754-05-20):
+School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI (1754):
 
 > "(...) *aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande*"
 
@@ -364,11 +367,11 @@ More in the parish records:
 |------------|-----|-------|-------------|-----------|
 | 1746-01-22 | Luísa       | Vitória | Birth: godfather **D. Frei José Maria da Fonseca e Évora**, Bishop of Porto  | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
-Notes:
+Notes: [José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
 
-> [José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
+He is the "**bispo Évora**" mentioned in letter X (1774):
 
-> He is the "**bispo Évora**" mentioned in letter X (1774): "(...) *lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma*"
+>  "(...) *lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma*"
 
 ---
 # The Gomes Costa family network
@@ -393,7 +396,9 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa, single, the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| 1768-07-20 | Margarida | Arouca | Birst of a daugther of Luísa, single, the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+
+---
 
 Cross-checking:
 
@@ -406,7 +411,7 @@ Cross-checking:
 # The Costa Pacheco family in Vila da Feira
 <!-- _backgroundColor: "lightcyan" -->
 
-Manuel's younger brother also followed a career in Law:
+**Manuel**'s younger brother **Sebastião**  also followed a career in Law:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
@@ -449,8 +454,8 @@ Letters:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1694-04-25 | **Pedro Pereira de S.Paio** | S. Nicolau (Porto) | Birth: son of captain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
-| 1710-10-14 |  **Pedro Pereira de S.Paio** | Lisbon? | habilitation for the S.Tiago Order, then a 15y old student | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
+| 1694-04-25 | **Pedro** | S. Nicolau (Porto) | Birth: son of captain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
+| 1710-10-14 |  **Pedro Pereira de S.Paio** | Lisbon? | Application to the S.Tiago Order (then a 15y old student) | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
 
 One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
 
@@ -493,17 +498,18 @@ Costa sends his regards several times to him, referred to as *o insigne* ...
 
 ---
 
-# Snr. Torrão
+# "Snr. Torrão"
 <!-- _backgroundColor: "lightcyan" -->
 
-Rev. Dr. **António Alvo Torrão** is mentioned in letters 1761:VIII:51, 1774:X:59, 1774:X:68-69, 1780:XII:78.
+Rev. Dr. **António Alvo Torrão** is mentioned in letters VIII (1761), X (1774) and XII (1780).
 
 In particular, letter X (1774):
 
 > "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
 
->
-[ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word said to me about him being like he was before" ]
+> [ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word said to me about him being like he was before" ]
+
+Who was "senhor Torrão"?
 
 --- 
 
@@ -513,7 +519,7 @@ In particular, letter X (1774):
 | When | Who | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
 | **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
-| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | Registers as Law student (will finish the course in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
+| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | Registers as Law student (will get his degree in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
 
 ---
 
@@ -522,7 +528,7 @@ In particular, letter X (1774):
 
 | When | Who     | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
-| **1739-03-11** | Francisca Inácia and Maria Marcelina | Monchique, Miragaia | "tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
+| **1739-03-11** | Francisca Inácia + Maria Marcelina | Monchique, Miragaia | "tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
 | **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
 
 ---
@@ -530,7 +536,7 @@ In particular, letter X (1774):
 
 The process didn't get completed, cf. this negative information in the minutes:
 
-> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra. Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
+> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra.* **Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende**, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
 
 ---
 
@@ -553,9 +559,9 @@ The process didn't get completed, cf. this negative information in the minutes:
 <!-- _backgroundColor: "lightcyan" -->
 
 ### COSTA, Agostinho Rebelo da, ?-1791 
-> [Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa](https://purl.pt/22517).
+> *Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa*
 
-Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p., 3 f. desdobr. : il. ; 4º (22 cm) 
+Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
 
 (BND [22517](https://purl.pt/22517))
 
@@ -578,13 +584,13 @@ Rebelo da Costa:
 
 ---
 
-# "Fúrias de Rio" (18c Porto)
+# Music academies (18c Porto)
 ![bg right:30% fit](./furias.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-## Rebelo da Costa:  <!-- pdf 106 -->
+### Rebelo da Costa:  <!-- pdf 106 -->
 
-> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons **concertos de música**, e ainda as chamadas Fúrias de Rio* (*)" 
+> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons* **concertos de música**, *e ainda as chamadas* **Fúrias de Rio** (*)" 
 
 ([22517](https://purl.pt/22517) :arrow_forward: 54) <!-- pdf 106 -->
 
@@ -594,7 +600,7 @@ Rebelo da Costa:
 ![bg right:30% fit](./furias.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-# Rebelo 106
+### Rebelo da Costa:
 
 > (*) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente.
 
@@ -605,6 +611,11 @@ Rebelo da Costa:
 Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
 
 Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lpg=PT55&dq=duque+de+lafões+viena&source=bl&ots=UP1oD8v6nJ&sig=ACfU3U2pApE-XKypQ9eucla9FPb61WPfBw&hl=en&sa=X&ved=2ahUKEwj1-PnC1-H9AhXHVKQEHTwxDx44FBDoAXoECCIQAw#v=onepage&q=duque%20de%20lafões%20viena&f=false)** - cf imprecisões e deduções arriscadas (?? Além destes feitos, D. João V mandou copiar em Roma a Symicta Lusitana, constituída por 100 volumes, a qual recolhe todos os processos documentais relacionados com os negócios entre Portugal e Roma.
+
+Teófilo Braga too quick inferences:
+
+- Vieira : no António mentioned
+- Quitéria not the wife of Luís Gomes Costa, but consider the "Quitéria Clara" possibility
 
 ---
 
@@ -622,12 +633,6 @@ Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lp
 
 ---
 
-Teófilo Braga too quick inferences:
-
-- Vieira : no António mentioned
-- Quitéria not the wife of Luís Gomes Costa, but consider the "Quitéria Clara" possibility
-
----
 # Teste
 
 <div font-size="6px">
@@ -651,7 +656,24 @@ who collected them?
 
 who copied them?
 
-KEEP Solutions - thanks!
+
+---
+
+# Current research
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./17131227.jpg)
+
+## 1714-1749?
+
+Possible birth record:
+
+> Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863)
+Born: 1713-12-27
+Baptized: 1714-01-01
+
+Other alternatives found but less likely.
+
+:arrow_forward: Needs further research.
 
 ---
 
@@ -681,17 +703,25 @@ What about the "*palestra do Nunes*", the group of partners that Costa left behi
 
 > Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
 
+---
+
+# The "Porto gang"
+<!-- _backgroundColor: "lightcyan" -->
+
 In **Letter II** (1752) the copyist adds the footnote:
 
-Roma - João Peixoto (ms=68; em ms=72 escreve-se:
+>  "Note / This  burlesque letter is appropriate to the person to whom it was written, the celebrated Peixoto, string player of music in the Cathedral of Oporto"
 
-> "*Nota / Esta carta burlesca está propria p.a a Pessoa a quem foi escrita, q hé o celebre Peixoto, Rabequista da Música da Sé do Porto.*"
+> ("*Nota / Esta carta burlesca está propria p.a a Pessoa a quem foi escrita, q hé o celebre Peixoto, Rabequista da Música da Sé do Porto.*")
 
-In the same letter,
 
 > "(...) *E cá o snr. Nunes*"
 
  suggests that violinist António Nunes might in Rome on that occasion.
+
+---
+
+# KEEP Solutions - thanks!
 
 ---
 
@@ -1021,22 +1051,6 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 A platform similar to the Wikipedia for cooperative editing of music scores
 
 ---
-
-# Current research
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:50% fit](./17131227.jpg)
-
-## 1714-1749?
-
-Possible birth record:
-
-> Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863)
-Born: 1713-12-27
-Baptized: 1714-01-01
-
-Other alternatives found but less likely.
-
-:arrow_forward: Needs further research.
 
 ---
 # Current research

@@ -679,12 +679,23 @@ What about his **portrait** sent from Vienna in 1780...?
 
 What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
 
-> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner, ...?
+> Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
 
+In **Letter II** (1752) the copyist adds the footnote:
 
-Meanwhile:
+Roma - João Peixoto (ms=68; em ms=72 escreve-se:
 
-> Family [Gomes Costa Pacheco](https://digitarq.arquivos.pt/details?id=7637352) fully identified.
+> "*Nota / Esta carta burlesca está propria p.a a Pessoa a quem foi escrita, q hé o celebre Peixoto, Rabequista da Música da Sé do Porto.*"
+
+In the same letter,
+
+> "(...) *E cá o snr. Nunes*"
+
+ suggests that violinist António Nunes might in Rome on that occasion.
+
+---
+
+last talk slides
 
 ---
 

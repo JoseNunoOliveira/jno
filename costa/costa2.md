@@ -285,7 +285,7 @@ In particular:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1742-06-10 | Luís | Vitória | "(...) *padrinhos o Padre **José Alberto Gomes Costa** e **Quitéria Maria**, religiosa de Monchique, por seu procurador o Padre **António da Costa**, todos desta da Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+| 1742-06-10 | Luís | Vitória | "(...) *godparents Father **José Alberto Gomes Costa** and **Quitéria Maria**, nun at Monchique, her attorney Father **António da Costa**, all from Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 
 ---
 
@@ -299,9 +299,9 @@ Cross-checking:
 
 Possibilities:
 
-> **António da Costa** quite likely *our man* (but not yet a *priest*...)
+> **António da Costa** quite likely *our man* (but not yet a priest...)
 
-> **Quitéria Maria** - the *snr. Quitéria* referred to in 6 letters?
+> **Quitéria Maria** - the *snr.a Quitéria* referred to in 6 letters?
 
 
 ---
@@ -335,7 +335,7 @@ Both deaths are the subject of letter XI (1779-12-04) sent to son **Manuel**:
 
 > "(...) *notícias* (...) *ensanguadas com a morte do Sr. seu Pai* (...) *mas senti muito as outras que V. M. me conta da Sra. sua mãi* (...)"
 
-Note the 4y gap - but Costa knew about Luís Costa's death one year before.
+Note the 4 year gap - but **António da Costa** knew about **Luís Costa**'s death one year before.
 
 ---
 
@@ -349,7 +349,7 @@ Note the 4y gap - but Costa knew about Luís Costa's death one year before.
 | 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
-School-master **Manuel Carneiro de Araújo** (d.1755) mentioned in letter VI (1754-05-20):
+School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI (1754-05-20):
 
 > "(...) *aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande*"
 
@@ -368,7 +368,7 @@ Notes:
 
 > [José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
 
-> He is the "**bispo Évora**" mentioned in letter X: "(...) *lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma*"
+> He is the "**bispo Évora**" mentioned in letter X (1774): "(...) *lembra-me o bispo Évora, que a mim já aí se me afigura que nunca se estuporaria, se se deixasse estar em Roma*"
 
 ---
 # The Gomes Costa family network
@@ -383,8 +383,7 @@ José Maria da Fonseca "Évora":
 
 > He served as Portugal's ambassador in Rome (1728 $\rightarrow$) until accepting the bishopry of Porto (1741).
 
-
-
+> Died in 1752 when Costa was already in Rome.
 
 ---
 

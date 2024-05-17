@@ -393,7 +393,7 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa, single, the father being ("deu por pai") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| 1768-07-20 | Margarida | Arouca | Daugther of  Luísa, single, the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
 
 Cross-checking:
 
@@ -405,6 +405,8 @@ Cross-checking:
 
 # The Costa Pacheco family in Vila da Feira
 <!-- _backgroundColor: "lightcyan" -->
+
+Manuel's younger brother also followed a career in Law:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
@@ -440,8 +442,10 @@ Letters:
 > His death was received with much regret in letter XI (1779-12-04).
 
 ---
-<!-- _backgroundColor: "lightcyan" -->
+
 # Pedro Pereira de S.Paio (1694-1776)
+
+<!-- _backgroundColor: "lightcyan" -->
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
@@ -451,21 +455,18 @@ Letters:
 One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
 
 ---
+# Pedro Pereira de S.Paio (1694-1776)
 
-Quanto ao pai, **António Pereira de Sampaio**, ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, estando ausente nas partes do Norte, ter acompanhado a rainha a Portugal ([tiff=33](https://digitarq.arquivos.pt/details?id=2322187)); e esta Mercê (1690, [tiff=427](https://digitarq.arquivos.pt/details?id=1860259)), pela qual se fica  a saber que *passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar e este reino a Rainha*. 
+About his father:
 
----
+**António Pereira de Sampaio**, ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, estando ausente nas partes do Norte, ter acompanhado a rainha a Portugal ([tiff=33](https://digitarq.arquivos.pt/details?id=2322187)); e esta Mercê (1690, [tiff=427](https://digitarq.arquivos.pt/details?id=1860259)), pela qual se fica  a saber que 
 
-Foi sepultado na igreja dos padres Cónegos Regrantes de S. Agostinho. Testamenteiro seu sobrinho e fidalgo da Casa Real Carlos Vieira de Melo.
-
----
-
-
-Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
-
-Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lpg=PT55&dq=duque+de+lafões+viena&source=bl&ots=UP1oD8v6nJ&sig=ACfU3U2pApE-XKypQ9eucla9FPb61WPfBw&hl=en&sa=X&ved=2ahUKEwj1-PnC1-H9AhXHVKQEHTwxDx44FBDoAXoECCIQAw#v=onepage&q=duque%20de%20lafões%20viena&f=false)** - cf imprecisões e deduções arriscadas (?? Além destes feitos, D. João V mandou copiar em Roma a Symicta Lusitana, constituída por 100 volumes, a qual recolhe todos os processos documentais relacionados com os negócios entre Portugal e Roma.
+> *passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar e este reino a Rainha*. 
 
 ---
+
+
+
 
 # João Alves do Vale
 
@@ -477,7 +478,6 @@ Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lp
 | 1744-10-10 | Antónia | Vitória | Rev. João Alves do Vale signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
 
 Costa sends his regards several times to him, referred to as *o insigne* ...
-
 
 --- 
 
@@ -600,6 +600,11 @@ Rebelo da Costa:
 
 >  O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo.
 
+---
+
+Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
+
+Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lpg=PT55&dq=duque+de+lafões+viena&source=bl&ots=UP1oD8v6nJ&sig=ACfU3U2pApE-XKypQ9eucla9FPb61WPfBw&hl=en&sa=X&ved=2ahUKEwj1-PnC1-H9AhXHVKQEHTwxDx44FBDoAXoECCIQAw#v=onepage&q=duque%20de%20lafões%20viena&f=false)** - cf imprecisões e deduções arriscadas (?? Além destes feitos, D. João V mandou copiar em Roma a Symicta Lusitana, constituída por 100 volumes, a qual recolhe todos os processos documentais relacionados com os negócios entre Portugal e Roma.
 
 ---
 

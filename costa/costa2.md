@@ -82,9 +82,11 @@ Stable URL: https://www.jstor.org/stable/727650
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:45% fit](./burney-costa.jpg)
 
-### **Charles Burney** travel diary (1772)
-### 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
-###  Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
+**Charles Burney** travel diary (1772)
+
+5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
+
+Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
   
 ---
 
@@ -166,9 +168,9 @@ that is,
 
 To unravel the "puzzle", let us start from the recipients whose names are given in full:
 
->   #### **Manuel Gomes Costa Pacheco** (letters XI, XII, XIII)
->   ### **Pedro Pereira de Sampaio** (letter VI)
->   ### **Luís Costa Gomes** (letters IV, V, VI, VII, IX and X)
+>   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
+>   **Pedro Pereira de Sampaio** (PPS) - letter VIII
+>   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X
 
 and search for them in archival sources.
 
@@ -180,7 +182,7 @@ and search for them in archival sources.
 
 **1768** - Process of qualification for the **Military Order of Christ** Knighthood.
 
-> *Diligência de habilitação para a Ordem de Cristo* of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira**
+> "*Diligência de habilitação para a Ordem de Cristo*" of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira**
 
 ([7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
 
@@ -192,7 +194,7 @@ This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** liv
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./cadeia.png)
 
-**Luís Gomes Costa**, father of Manuel, is referred to as
+**Luís Gomes Costa**, father of **Manuel**, is referred to as
 
 > a renowned jurisconsult, lawyer of the **Relação** (Royal Court of Appeal) and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
@@ -288,7 +290,7 @@ In particular:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1742-06-10 | Luís | Vitória | "(...) *godparents Father **José Alberto Gomes Costa** and **Quitéria Maria**, nun at Monchique, her attorney Father **António da Costa**, all from Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+| 1742-06-10 | Luís | Vitória | "(...) *godparents Father **José Alberto Gomes Costa** and **Quitéria Maria**, nun at [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), by her attorney Father **António da Costa**, all from Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 
 ---
 
@@ -302,7 +304,7 @@ Cross-checking:
 
 Possibilities:
 
-> **António da Costa** quite likely *our man* (but not yet a priest...)
+> **António da Costa** - quite likely *our man* (but not yet a priest...)
 
 > **Quitéria Maria** - the *snr.a Quitéria* referred to in 6 letters?
 
@@ -315,7 +317,7 @@ Possibilities:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged circa 70, his son Sebastião Gomes Costa being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged *circa* 70, his son Sebastião Gomes Costa being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
 ### Notes:
 
@@ -349,7 +351,7 @@ Note the 4 year gap - but **A. da Costa** knew about **Luís Costa**'s death one
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
+| 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** is witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
 School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI (1754):

@@ -471,9 +471,9 @@ About his father **António Pereira de Sampaio**:
 
 ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, *estando ausente nas partes do Norte*, ter acompanhado a rainha a Portugal (ANTT [2322187](https://digitarq.arquivos.pt/details?id=2322187) ▶️ 33); 
 
-1690:
+1690: "(...) He went from Hamburg, where he resided, to the Court of Heidelberg to offer himself to the Marquis of Alegrete as ambassador there to accompany the Queen to this kingdom"
 
-> "*passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar a este reino a Rainha*". 
+> "*(...) passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar a este reino a Rainha*". 
 
 (ANTT [1860259](https://digitarq.arquivos.pt/details?id=1860259) ▶️ 427)
 
@@ -485,7 +485,6 @@ ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir d
 # João Alves do Vale
 
 <!-- _backgroundColor: "lightcyan" -->
-
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
@@ -537,7 +536,7 @@ Who was "senhor Torrão"?
 
 | When | Who     | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
-| **1739-03-11** | Francisca Inácia + Maria Marcelina | Monchique, Miragaia | "tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
+| **1739-03-11** | Francisca Inácia + Maria Marcelina | Monchique, Miragaia | "*tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro* (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
 | **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
 
 ---
@@ -611,9 +610,9 @@ Rebelo da Costa:
 
 ### Rebelo da Costa:
 
-> (*) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente.
+> (*) *Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente*.
 
->  O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo.
+>  *O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo*.
 
 ---
 
@@ -627,6 +626,8 @@ Teófilo Braga too quick inferences:
 - Quitéria not the wife of Luís Gomes Costa, but consider the "Quitéria Clara" possibility
 
 ---
+
+topografia : 
 
 | What | Page / PDF | Obs |
 |---|---|---|
@@ -672,7 +673,7 @@ who copied them?
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:50% fit](./17131227.jpg)
 
-## 1714-1749?
+## 1714
 
 Possible birth record:
 

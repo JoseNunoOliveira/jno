@@ -5,7 +5,7 @@ theme: default
 paginate: true
 footer:  Symposium Abott António da Costa
 <!-- _backgroundColor: "lightcyan" -->
- 
+
 ---
 
 # Who were the friends of Abott António da Costa in Porto?
@@ -18,6 +18,47 @@ JN Oliveira
 May 25th, 2024
 
 **[Symposium Abott António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
+
+---
+
+# *L'Abate Portoghese*
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./ghezzi-01.jpeg)
+
+* Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of **Porto**, left the country in 1749/50 for **Rome**.
+
+* Later travelling to **Venice** and **Paris**, he eventually settled in **Vienna**, where he is thought to have died around 1780.
+
+* Misantrope, he despised the positions offered to him, living most of his life in poverty.
+
+* His intelligence and idiosincratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar.
+
+---
+
+# First news (1750)
+<!-- _backgroundColor: "lightcyan" -->
+
+![bg right:55% fit](./costa_trip.jpg)
+
+> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes e tanto de vida de novellas (...)*"
+
+(Letter I, 1750, sent to friend João Peixoto)
+
+---
+
+# First news (1750)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./costa_trip.jpg)
+
+The idea is that he fled because he may have confronted someone very powerful who could harm him.
+
+But...
+
+> ... why? how?
+
+Who was...
+
+>  **António da Costa** ?
 
 ---
 
@@ -38,38 +79,25 @@ May 25th, 2024
 <br>
 </center>
 
-### :arrow_forward: Reserach question:
+### :arrow_forward: Research question:
 
 > Who did hang out with **António da Costa** before he left Porto?
 
 
 ---
 
-# *L'Abate Portoghese*
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./ghezzi-01.jpeg)
-
-* Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of Porto, left the country in 1749/50 for Rome.
-
-* Later travelling to Venice and Paris, he eventually settled in Vienna, where he is thought to have died around 1780.
-
-* Misantrope, he despised the positions offered to him, living most of his life in poverty.
-
-* His intelligence and idiosincratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar. 
----
-
 # Sources
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:38% fit](./cartas.png)
 
-### 13 Letters (1750-1780)
-   * Manuscript: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
+### 13 Letters sent to Porto (1750-1780)
+   * Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
    * Studied and published by **J. Vasconcelos** (1879)
-   * Commented in depth by Teófilo Braga ([1879](https://purl.pt/63)) 
-   * Commented by Ann Livermore (1945) 
+   * Commented in depth by Teófilo Braga ([1879](https://purl.pt/63))
+   * Commented by Ann Livermore (1945)
    * Re-published by Lopes Graça (1946)
 
-<!-- 
+<!--
 The Abade Antonio da Costa
 Author(s): Ann Livermore
 Source: Music & Letters, Jul., 1945, Vol. 26, No. 3 (Jul., 1945), pp. 162-171
@@ -78,7 +106,7 @@ Stable URL: https://www.jstor.org/stable/727650
 !-->
 
 ---
-# Sources
+# Other sources
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:45% fit](./burney-costa.jpg)
 
@@ -87,26 +115,20 @@ Stable URL: https://www.jstor.org/stable/727650
 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
 
 Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
-  
----
-
-<!-- _backgroundColor: "lightcyan" -->
-![bg 90% fit](./costa-02.png)
 
 ---
 
-# First letter (1750)
+# 13 Letters to Porto (1750-1780)
+
 <!-- _backgroundColor: "lightcyan" -->
 
-![bg right:55% fit](./costa_trip.jpg)
+<center>
+<img src="./costa-03.png" position="rtight" width="95%">
+</center>
 
-> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes e tanto de vida de novellas (...)*"
+---
 
-(Letter I, 1750, sent to João Peixoto)
-
---- 
-
-# The 13 Letters (1750-1780)
+# 13 Letters to Porto (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:55% fit](./maze.png)
 
@@ -114,10 +136,10 @@ Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
 ### **100+** people mentioned
 
 > ### Where to start from, in the maze?
-  
+
 ---
 
-# The 13 Letters (1750-1780)
+# 13 Letters to Porto (1750-1780)
 ![bg right:35% fit](./recipients.png)
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -131,30 +153,30 @@ NB: in the graphs to follow
 
 means:
 
-> Costa mentions $b$ in a letter to $a$
+> A.Costa mentioned $b$ in a letter to $a$
 
 that is,
 
-> $a$ knows (or gets to know about) $b$. 
+> $a$ knew (or got to know about) $b$.
 
 ---
 
-# The 13 Letters (1750-1780)
-![bg right:58% fit](./21s.png)
+# The 13 Letters to Porto (1750-1780)
+![bg right:57% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 ### **5** recipients
-### **21** individuals mentioned in more than one letter
+### **21** individuals mentioned in **more than one** letter
 
 > roughly, two **clusters** = **music**-related + others.
 
---- 
+---
 <!-- _backgroundColor: "lightcyan" -->
 ![bg 55% fit](./histogram.png)
 
 ### Histogram
 
---- 
+---
 <!-- _backgroundColor: "lightcyan" -->
 ![bg 60% fit](./spans.png)
 
@@ -164,7 +186,7 @@ that is,
 
 # The 13 Letters (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:30% fit](./pacheco.png)
+![bg right:34% fit](./pacheco.png)
 
 To unravel the "puzzle", let us start from the recipients whose names are given in full:
 
@@ -176,17 +198,17 @@ To unravel the "puzzle", let us start from the recipients whose names are given 
 
 and search for them in archival sources.
 
---- 
+---
 
 # Manuel Gomes Costa Pacheco
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:34% fit](./1768.png)
 
-**1768** - Process of qualification for the **Military Order of Christ** Knighthood.
+**1768** - Process of qualification for **Military Order of Christ** Knighthood.
 
-> "*Diligência de habilitação para a Ordem de Cristo*" of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira**
+> "*Diligência de habilitação para a Ordem de Cristo*" of **Manuel Gomes Costa Pacheco**, born in Porto in 1733 and living in **Vila da Feira**.
 
-([7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
+(ANTT [7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
 
 This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
 
@@ -208,13 +230,13 @@ This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** liv
 
 Cross-checking with the Student Registry of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, from Porto, registered as law student on 1730-10-01, getting his Law degree by 1735-07-03.
+> **1730**: Luís Gomes Costa, son of José Gomes Costa (Porto), enrolled as Law student on 1730-10-01 and graduated on 1735-07-03.
 
-(ref. AUC [202836](https://pesquisa.auc.uc.pt/details?id=202836))
+(Source: AUC [202836](https://pesquisa.auc.uc.pt/details?id=202836))
 
 ---
 
-# The "snr. Doutor"
+# The "Snr. Doutor"
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./sr-doutor.png)
 
@@ -222,9 +244,9 @@ Cross-checking:
 
 > **Luís Gomes Costa** is recipient of 6 letters, between 1752 and 1774.
 
-In his letters, António da Costa refers to him as 
+In his letters, **António da Costa** refers to him as
 
-> the "**snr. Doutor**"
+> the "**Snr. Doutor**"
 
 and
 
@@ -238,16 +260,17 @@ and
 
 **1758** - According to the information provided in *Memórias Paroquiais*, item 18 of the **parish of Vitória**, this is considered
 
->  *illustrious and made up of the most noble and enlightened people in the city* (...)
+>  illustrious and made up of the most noble and enlightened people in the city.
 
 (ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286) :arrow_forward: 56)
 
-> As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
+* As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
 
 ---
 
 # Ferraria de Cima street
 <!-- _backgroundColor: "lightcyan" -->
+<!-- ![bg](./map.png) -->
 ![bg right:40% fit](./caldeireiros.JPG)
 
 **Rua da Ferraria de Cima** (Upper Ferraria street) is today's **Rua dos Caldeireiros**.
@@ -262,11 +285,9 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1732-08-13 | **Luís** and **Clara** | Sé | Marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
+| 1732-08-13 | **Luís Gomes Costa** and **Clara Luísa Pacheco** | Sé | Marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1733-04-04 | **Manuel** | Sé | Birth of 1st son | [490868](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490868) :arrow_forward: 825 |
 | 1735-03-01 | José | Vitória | Birth of 2nd son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 263 |
-| 1737-06-09 | Antónia | Vitória | Birth of 1st daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
-| 1740-01-12 | **Sebastião** | Vitória | Birth of 3rd son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 
 ---
 
@@ -278,6 +299,8 @@ More data collected from the **birth** **records** of parishes **Vitória** and 
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
+| 1737-06-09 | Antónia | Vitória | Birth of 1st daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
+| 1740-01-12 | **Sebastião** | Vitória | Birth of 3rd son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 | 1742-06-10 | Luís | Vitória | Birth of 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 | 1744-10-10 | Antónia (?) | Vitória | Birth of 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
 | 1746-01-22 | Luísa       | Vitória | Birth of 3rd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
@@ -292,7 +315,7 @@ In particular:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1742-06-10 | Luís | Vitória | "(...) *godparents Father **José Alberto Gomes Costa** and **Quitéria Maria**, nun at [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), by her attorney Father **António da Costa**, all from Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
+| 1742-06-10 | Luís | Vitória | "(...) *godparents Father **José Alberto Gomes Costa** and **Quitéria Maria**, nun at [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), by her attorney (...) **António da Costa**, all from Ferraria de Cima*" | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 
 ---
 
@@ -306,9 +329,9 @@ Cross-checking:
 
 Possibilities:
 
-> **António da Costa** - quite likely *our man* (but not yet a priest...)
+> **António da Costa** - quite likely *our man*
 
-> **Quitéria Maria** - the *snr.a Quitéria* referred to in 6 letters?
+> **Quitéria Maria** - the *snr.ª Quitéria* referred to in 6 letters?
 
 ---
 
@@ -364,13 +387,13 @@ School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI 
 # The Gomes Costa family network
 <!-- _backgroundColor: "lightcyan" -->
 
-More in the parish records:
+More from the parish records:
 
 | When       | Who | Where | Description | Reference |
 |------------|-----|-------|-------------|-----------|
 | 1746-01-22 | Luísa       | Vitória | Birth: godfather **D. Frei José Maria da Fonseca e Évora**, Bishop of Porto  | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
-Notes: [José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
+[José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
 
 He is the "**bispo Évora**" mentioned in letter X (1774):
 
@@ -381,15 +404,15 @@ He is the "**bispo Évora**" mentioned in letter X (1774):
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:35% fit](./evora.png)
 
-José Maria da Fonseca "Évora":
+**José Maria da Fonseca "Évora"**:
 
 > Left for Rome in 1712, as part of the embassy of the Marquis of Fontes
 
-> In 1740 he founded the large library in the Ara Coeli convent (the Biblioteca Eborense)
+> In 1740 he founded the large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
 
 > He served as Portugal's ambassador in Rome (1728 $\rightarrow$) until accepting the bishopry of Porto (1741).
 
-> He died in 1752 when Costa was already in Rome.
+> He died in Porto in 1752 when Costa was already in Rome.
 
 ---
 
@@ -399,15 +422,23 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Birst of a daugther of Luísa, single, the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| 1768-07-20 | Margarida | Arouca | Birth of a daugther of Luísa, single, the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
 
 ---
+# The Costa Pacheco family (Vila da Feira)
+<!-- _backgroundColor: "lightcyan" -->
 
 Cross-checking:
 
-> 1764-06-17: first reference ([PT/ADAVR/NOT/CNCRM/001/0024](https://adavr.dglab.gov.pt/wp-content/uploads/sites/5/2018/12/Inventário-PT-ADAVR-NOT-CNCRM.pdf) + [keep](https://digitarq.adavr.arquivos.pt/details?id=1445904)) to notary Manuel Gomes da Costa Pacheco. Last reference found in 1805. [Livro de notas](https://digitarq.adavr.arquivos.pt/details?id=1445904).
+| When       | Who       | Where  | Description | Reference |
+|------------|-----------|--------|-------------|-----------|
+| 1764-06-16 | Manuel G.C. Pacheco | Vila da Feira | Notary owner (tabelião) | ANTT [1445904](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1445904) |
+| 1783-10-08 | Manuel G.C. Pacheco | Coimbra | Registers in law, maths ans philosophy until 1787 | AUC [220452](https://pesquisa.auc.uc.pt/details?id=220452) |
 
-1783-10-08: [Matrícula](https://pesquisa.auc.uc.pt/details?id=220452) de Manuel Gomes da Costa Pacheco na U.Coimbra, onde se inscreveu em direito, matemática e filosofia (até 1787) 
+Last reference as notary public in 1805. (ANTT [1445904](https://digitarq.adavr.arquivos.pt/details?id=1445904))
+
+<!--- > 1764-06-17: first reference ([PT/ADAVR/NOT/CNCRM/001/0024](https://adavr.dglab.gov.pt/wp-content/uploads/sites/5/2018/12/Inventário-PT-ADAVR-NOT-CNCRM.pdf) + [keep](https://digitarq.adavr.arquivos.pt/details?id=1445904)) to notary Manuel Gomes da Costa Pacheco.  -->
+
 
 ---
 
@@ -418,7 +449,7 @@ Cross-checking:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1758-10-01 | Sebastião Gomes Costa Pacheco | Univ. Coimbra | registered as Law student until 1761 | AUC [220680](https://pesquisa.auc.uc.pt/details?id=220680&detailsType=Description&ht=sebastião%7cgomes%7ccosta%7cpacheco) |
+| 1758-10-01 | Sebastião Gomes Costa Pacheco | Univ. Coimbra | Enrolled as Law student until 1761 | AUC [220680](https://pesquisa.auc.uc.pt/details?id=220680&detailsType=Description&ht=sebastião%7cgomes%7ccosta%7cpacheco) |
 | 1818-12-27 | Dr. Sebastião Gomes Costa Pacheco | Vila da Feira | Death | [1255475](https://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1255475) :arrow_forward: 421 |
 
 ---
@@ -432,7 +463,7 @@ More about the **Costa Pacheco**'s decendents in:
 
 Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
 
-> Aside (from the same source) : picture of Sebastião Gomes Costa Pacheco while a law student at Coimbra.
+> Aside (from the same source) : picture of **Sebastião Gomes Costa Pacheco** while a law student at Coimbra.
 
 
 ---
@@ -441,11 +472,11 @@ Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidis
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 | 
+| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 |
 
 Letters:
 
-> Recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
+> PPS was the recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
 
 > His death was received with much regret in letter XI (1779-12-04).
 
@@ -458,7 +489,7 @@ Letters:
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
 | 1694-04-25 | **Pedro** | S. Nicolau (Porto) | Birth: son of captain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
-| 1710-10-14 |  **Pedro Pereira de S.Paio** | Lisbon? | Application to the S.Tiago Order (then a 15y old student) | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
+| 1710-10-14 |  **Pedro Pereira de S.Paio** | Porto | Application to the S.Tiago Order (then a 15y old student) | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
 
 One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
 
@@ -469,11 +500,11 @@ About his father **António Pereira de Sampaio**:
 
 1689-1691:
 
-ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, *estando ausente nas partes do Norte*, ter acompanhado a rainha a Portugal (ANTT [2322187](https://digitarq.arquivos.pt/details?id=2322187) ▶️ 33); 
+ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, *estando ausente nas partes do Norte*, ter acompanhado a rainha a Portugal (ANTT [2322187](https://digitarq.arquivos.pt/details?id=2322187) ▶️ 33);
 
 1690: "(...) He went from Hamburg, where he resided, to the Court of Heidelberg to offer himself to the Marquis of Alegrete as ambassador there to accompany the Queen to this kingdom"
 
-> "*(...) passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar a este reino a Rainha*". 
+> "*(...) passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar a este reino a Rainha*".
 
 (ANTT [1860259](https://digitarq.arquivos.pt/details?id=1860259) ▶️ 427)
 
@@ -492,7 +523,7 @@ ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir d
 
 Costa sends his regards several times to him, referred to as *o insigne* ...
 
---- 
+---
 
 # João Alves do Vale
 
@@ -519,7 +550,7 @@ In particular, letter X (1774):
 
 Who was "senhor Torrão"?
 
---- 
+---
 
 # The Alvo Torrão family
 <!-- _backgroundColor: "lightcyan" -->
@@ -566,7 +597,7 @@ The process didn't get completed, cf. this negative information in the minutes:
 ![bg right:35% fit](./rebelo.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-### COSTA, Agostinho Rebelo da, ?-1791 
+### COSTA, Agostinho Rebelo da, ?-1791
 > *Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa*
 
 Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
@@ -598,7 +629,7 @@ Rebelo da Costa:
 
 ### Rebelo da Costa:  <!-- pdf 106 -->
 
-> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons* **concertos de música**, *e ainda as chamadas* **Fúrias de Rio** (*)" 
+> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons* **concertos de música**, *e ainda as chamadas* **Fúrias de Rio** (*)"
 
 ([22517](https://purl.pt/22517) :arrow_forward: 54) <!-- pdf 106 -->
 
@@ -627,7 +658,7 @@ Teófilo Braga too quick inferences:
 
 ---
 
-topografia : 
+topografia :
 
 | What | Page / PDF | Obs |
 |---|---|---|
@@ -635,7 +666,7 @@ topografia :
 | António Pereira de Sampaio | 320 / 374 | (1691-1738) cf [562](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491033) da Sé
 | Jesuíta Carvalho | / 395
 | Manuel Vaia, matemático e compositor
-| Pedro Vilasboas S.Paio | 347 /  401  | 
+| Pedro Vilasboas S.Paio | 347 /  401  |
 | Ver | / 404
 | António Vieira | / 407
 | Ver | / 411 | mulheres ilustres
@@ -791,7 +822,7 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 **Trios** sent to Porto:
 
->  “*(…) here are two [trios] to join the others and make half a dozen*” (“*ahi vão dous para ajustar com os outros a meia duzia*”). 
+>  “*(…) here are two [trios] to join the others and make half a dozen*” (“*ahi vão dous para ajustar com os outros a meia duzia*”).
 
 (Letter II, 28 Feb. 1752)
 
@@ -880,7 +911,7 @@ Aside :arrow_forward: [Berlin's copy](https://digital.staatsbibliothek-berlin.de
 
 From his travel diary (pag. [259](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=259&f=false)):
 
-> "*But before we set out, the **duke of Braganza** (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...)*" 
+> "*But before we set out, the **duke of Braganza** (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...)*"
 
 > "*His royal highness gave me an account of a Portuguese Abbé (...)* [who is] *a kind of Rousseau, but still more original (...)*"
 
@@ -901,7 +932,7 @@ From his travel diary (pag. [287](https://books.google.pt/books?id=a0lptAEACAAJ&
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:55% fit](./burney-rameau.jpg)
 
-Burney (page [261](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=261&f=false)): 
+Burney (page [261](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=261&f=false)):
 
 > *"(...) he is a professed enemy to the system of Rameau, and thinks the Basse Fondamentale the most absurd of all inventions (...)"*
 
@@ -926,7 +957,7 @@ Burney (pag. [282](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 > *"(...) all I can say of his productions is that in them melody is less attended to than harmony and uncommon modulation;  and that the time is always difficult to make out from the great number of ligatures and fractions. (...)"*
 
-> "*He played two movements on his guitar before dinner the subjects of which as nearly as I can remember were these:*" 
+> "*He played two movements on his guitar before dinner the subjects of which as nearly as I can remember were these:*"
 
 ---
 
@@ -1004,8 +1035,8 @@ Scarlatti to Laugier:
 
 Abate Costa's entry in Gerber's "*Lexikon der Tonkünstler (...)*"
 
-> [Ernst Ludwig Gerber](https://en.wikipedia.org/wiki/Ernst_Ludwig_Gerber), *Historisch-biographisches Lexikon der Tonkünstler*, volume I, page [304](https://www.digitale-sammlungen.de/en/view/bsb11011752?page=204,205). 
-> Breitkopf, Leipzig, 1790 
+> [Ernst Ludwig Gerber](https://en.wikipedia.org/wiki/Ernst_Ludwig_Gerber), *Historisch-biographisches Lexikon der Tonkünstler*, volume I, page [304](https://www.digitale-sammlungen.de/en/view/bsb11011752?page=204,205).
+> Breitkopf, Leipzig, 1790
 
 Source :arrow_forward: München, [Bayerische Staatsbibliothek](https://www.digitale-sammlungen.de/en)
 
@@ -1020,12 +1051,12 @@ Source :arrow_forward: München, [Bayerische Staatsbibliothek](https://www.digit
    * Continuous flow
    * Crossings
 * Free imitative style
-* Unusual modulations 
+* Unusual modulations
 * Dissonances beyond tolerated at the time
 * Ties versus spicatto notes
 * Several occurrences of "$\flat\natural$" (??)
 
---- 
+---
 # Style
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:18% fit](./EE147_005a.png)
@@ -1091,11 +1122,11 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 
 ---
 
-# References 
+# References
 
 * Charles Burney, *The Present State of Music in Germany, the Netherlands, and United Provinces*, in two volumes, London, 1773
 
-* *Cartas curiosas do Abbade António da Costa anotadas e precedidas de um ensaio biográfico de Joaquim de Vasconcellos*, Porto, Imprensa Litterario-Commercial, 1879. 
+* *Cartas curiosas do Abbade António da Costa anotadas e precedidas de um ensaio biográfico de Joaquim de Vasconcellos*, Porto, Imprensa Litterario-Commercial, 1879.
 
 * Manuel Carlos de Brito, *A Kind of Rousseau but Still More Original”: Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
 

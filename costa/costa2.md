@@ -169,7 +169,9 @@ that is,
 To unravel the "puzzle", let us start from the recipients whose names are given in full:
 
 >   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
+
 >   **Pedro Pereira de Sampaio** (PPS) - letter VIII
+
 >   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X
 
 and search for them in archival sources.
@@ -308,7 +310,6 @@ Possibilities:
 
 > **Quitéria Maria** - the *snr.a Quitéria* referred to in 6 letters?
 
-
 ---
 
 # The Gomes Costa family nucleous
@@ -392,7 +393,7 @@ José Maria da Fonseca "Évora":
 
 ---
 
-# The Costa Pacheco family in Vila da Feira
+# The Costa Pacheco family (Vila da Feira)
 <!-- _backgroundColor: "lightcyan" -->
 More about **Manuel Gomes da Costa Pacheco**:
 
@@ -410,10 +411,10 @@ Cross-checking:
 
 ---
 
-# The Costa Pacheco family in Vila da Feira
+# The Costa Pacheco family (Vila da Feira)
 <!-- _backgroundColor: "lightcyan" -->
 
-**Manuel**'s younger brother **Sebastião**  also followed a career in Law:
+**Manuel**'s younger brother **Sebastião**  also followed a law career:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
@@ -421,17 +422,17 @@ Cross-checking:
 | 1818-12-27 | Dr. Sebastião Gomes Costa Pacheco | Vila da Feira | Death | [1255475](https://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1255475) :arrow_forward: 421 |
 
 ---
-# The Costa Pacheco family in Vila da Feira
+# The Costa Pacheco family (Vila da Feira)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:35% fit](./sgcp.jpg)
 
-A lot more about the **Costa Pacheco**'s decendents in:
+More about the **Costa Pacheco**'s decendents in:
 
 > [Freguesia de S. Nicolau da Vila da Feira](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm) by Roberto Vaz de Oliveira, in Aveiro e o seu Distrito, N.º 16, Junta Distrital de Aveiro, December 1973
 
 Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
 
-> Aside: picture of Sebastião Gomes Costa Pacheco while a law student at Coimbra.
+> Aside (from the same source) : picture of Sebastião Gomes Costa Pacheco while a law student at Coimbra.
 
 
 ---
@@ -464,11 +465,17 @@ One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé
 ---
 # Pedro Pereira de S.Paio (1694-1776)
 
-About his father:
+About his father **António Pereira de Sampaio**:
 
-**António Pereira de Sampaio**, ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, estando ausente nas partes do Norte, ter acompanhado a rainha a Portugal ([tiff=33](https://digitarq.arquivos.pt/details?id=2322187)); e esta Mercê (1690, [tiff=427](https://digitarq.arquivos.pt/details?id=1860259)), pela qual se fica  a saber que 
+1689-1691:
 
-> *passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar e este reino a Rainha*. 
+ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, *estando ausente nas partes do Norte*, ter acompanhado a rainha a Portugal (ANTT [2322187](https://digitarq.arquivos.pt/details?id=2322187) ▶️ 33); 
+
+1690:
+
+> "*passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar a este reino a Rainha*". 
+
+(ANTT [1860259](https://digitarq.arquivos.pt/details?id=1860259) ▶️ 427)
 
 ---
 

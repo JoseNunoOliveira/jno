@@ -11,7 +11,7 @@
 **2022**
 
 * Martins, J.M. Fonseca, R. Costa, J.C. Campos, A. Cunha, N. Macedo, J.N. Oliveira. *Verification of Railway Network Models with EVEREST*. [MODELS'22](https://conf.researchr.org/home/models-2022), pages 345–355. ACM/IEEE 25th Int. Conference on Model Driven Engineering Languages and Systems, 23-28 October 2022, Montereal, Canada.
-* J.N. Oliveira. <em>Why adjunctions matter</em>. Invited talk ([WADT'22](http://wadt2022.web.ua.pt/), Aveiro, 30 June 2022). ([Slides](http://www4.di.uminho.pt/~jno/ps/wadt22sl.pdf)).
+* J.N. Oliveira. <em>Why adjunctions matter</em>. Invited talk, [WADT'22](http://wadt2022.web.ua.pt/), Aveiro, 30 June 2022. ([Slides](http://www4.di.uminho.pt/~jno/ps/wadt22sl.pdf)).
 
 **2021**
 
@@ -20,7 +20,7 @@
 **2020**
 
 * A. Santos, J.N. Oliveira. <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><em>Type Your Matrices for Great Good (Functional Pearl)</em></a>. Proceedings of the [ Haskell Symposium 2020](https://www.haskell.org/haskell-symposium/2020/index.html), 27-28 August 2020, pages 54-66.
-* J.N. Oliveira. [A Note on the Under-Appreciated For-Loop](http://www4.di.uminho.pt/~jno/ps/haslabtr202010.pdf). Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.
+* J.N. Oliveira. [A Note on the Under-Appreciated For-Loop](http://www.di.uminho.pt/~jno/ps/haslabtr202010.pdf). Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.
 * J.N. Oliveira. <em>Biproducts of Galois connections</em>. Contributed talk to [IFIP WG 2.1 Meeting #79](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo), Otterlo (NL), January 2020.
 
 **2018**
@@ -45,9 +45,9 @@
 * C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal. *Computer Aided Verification of Relational Models*. Pages 647-658 of the proc. of [CACIC'16](http://www.cacic2016.unsl.edu.ar/), San Luis, Argentina, 3-7th October, 2016.
 * J.N. Oliveira. [What can Industry 4.0 learn from software engineering?](http://www.di.uminho.pt/~jno/ps/cirp16sl-rev.pdf) Special lecture 2, Opening Session Programme, [CIRP'16](https://cirp2016.org), Guimar&#227;es, 21-27th August 2016.
 * J.N. Oliveira. <em>On the 'divide &amp; conquer' metaphor - the 'quinta essentia' of programming</em>. [InfoBlender talk](http://haslab.uminho.pt/infoblender), HASLab/INESC TEC &amp; U.Minho, 13th Jul. 2016. ([Slides](http://www.di.uminho.pt/~jno/ps/infoblender16-1sl.pdf)).
-* J.N. Oliveira. <em>Towards a linear algebra semantics for query languages</em>. Contributed talk to [IFIP WG 2.1 Meeting #74](http://foswiki.cs.uu.nl/foswiki/IFIP21/GlasgowScotland), University of Strathclyde in Glasgow, June 2016. ([Slides](http://www4.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf) of this talk, also given at the [School of Computer Science](http://www.ncl.ac.uk/computing) of the Univ. of Newcastle, UK, and [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn).
+* J.N. Oliveira. <em>Towards a linear algebra semantics for query languages</em>. Contributed talk to [IFIP WG 2.1 Meeting #74](http://foswiki.cs.uu.nl/foswiki/IFIP21/GlasgowScotland), University of Strathclyde in Glasgow, June 2016. ([Slides](http://www.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf) of this talk, also given at the [School of Computer Science](http://www.ncl.ac.uk/computing) of the Univ. of Newcastle, UK, and [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn).
 * J.N. Oliveira, <em>'Keep definition, change category' -- a practical approach to monadic model evolution</em>. Seminar, [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn, Apr 21st, 2016.
-* J.N. Oliveira. [Exploiting Galois connections for 'Rely/Guarantee Thinking'](http://www4.di.uminho.pt/~jno/ps/haslabtr201601.pdf) Technical Report TR-HASLab:01:2016, May 2016.
+* J.N. Oliveira. [Exploiting Galois connections for 'Rely/Guarantee Thinking'](http://www.di.uminho.pt/~jno/ps/haslabtr201601.pdf) Technical Report TR-HASLab:01:2016, May 2016.
 
 **2015**
 
@@ -58,7 +58,7 @@
 
 **2014**
 
-* J.N. Oliveira. <a href="http://www4.di.uminho.pt/~jno/ps/feup14sl.pdf">On the <em>'A'</em> that links the <em>'M'</em>s of Maths, Music and Maps ('Da Capo')</a>. Presented at <em>Lab. de I&amp;D de Computação Sonora e Musical</em>, FEUP, Porto, 10 December 2014.
+* J.N. Oliveira. <a href="http://www.di.uminho.pt/~jno/ps/feup14sl.pdf">On the <em>'A'</em> that links the <em>'M'</em>s of Maths, Music and Maps ('Da Capo')</a>. Presented at <em>Lab. de I&amp;D de Computação Sonora e Musical</em>, FEUP, Porto, 10 December 2014.
 * J.N. Oliveira. A relation-algebraic approach to the "Hoare logic" of functional dependencies. Journal of Log. Algebraic Programming, Volume 83, Issue 2, March 2014, Pages 249-262 ([DOI:10.1016/j.jlap.2014.02.013](http://dx.doi.org/10.1016/j.jlap.2014.02.013)).
 * J.N. Oliveira. Preparing Relational Algebra for "Just Good Enough" Hardware. In <em>RAMiCS</em>, volume 8428 of <em>LNCS</em>, pages 119-138 ([DOI: 10.1007/978-3-319-06251-8_8](http://link.springer.com/chapter/10.1007%2F978-3-319-06251-8_8)), Springer Berlin / Heidelberg, 2014. ([Slides](http://mathcs.chapman.edu/ramics2014/slides/OliveiraRAMiCS2014.pdf) of presentation.)
 
@@ -66,16 +66,16 @@
 
 * J.N. Oliveira, M.A. Ferreira. <em>Alloy Meets the Algebra of Programming: A Case Study</em>. IEEE Transactions on Software Engineering, vol. 39, no. 3, pp. 305-326, March 2013, [doi:10.1109/TSE.2012.15](http://www.computer.org/csdl/trans/ts/2013/03/tts2013030305-abs.html).
 * J.N. Oliveira. <em>Weighted automata as coalgebras in categories of matrices</em>. Journal paper. IJFSC Vol. 24, No. 6 (2013), 709-728, World Scientific Pub. Comp. [http://dx.doi.org/10.1142/S0129054113400145](DOI: 10.1142/S0129054113400145).
-* J.N. Oliveira. <a href="http://www4.di.uminho.pt/~jno/ps/cehum13-en.pdf">On the <em>'A'</em> that links the <em>'M'</em>s of Maths, Music and Maps</a>. Contributed talk to the [2013 CEHUM Autumn Colloquium XV](http://cehum.ilch.uminho.pt/xvco) (Maths and Computer Science Panel), U.Minho, Braga, 21-23 November 2013.
-* J.N. Oliveira. [Calculating Risk in functional programming](http://www4.di.uminho.pt/~jno/ps/wg21-70sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #70](http://www.cs.uu.nl/wiki/bin/view/IFIP21/Ulm#Technical_presentations_in_sched), Ulm, Germany, July 2013.
-* D. Murta and J.N. Oliveira. [Calculating fault propagation in functional programs](http://www3.di.uminho.pt/~jno/ps/haslabtr201301.pdf). Technical Report TR-HASLab:01:2013, May 2013.
+* J.N. Oliveira. <a href="http://www.di.uminho.pt/~jno/ps/cehum13-en.pdf">On the <em>'A'</em> that links the <em>'M'</em>s of Maths, Music and Maps</a>. Contributed talk to the [2013 CEHUM Autumn Colloquium XV](http://cehum.ilch.uminho.pt/xvco) (Maths and Computer Science Panel), U.Minho, Braga, 21-23 November 2013.
+* J.N. Oliveira. [Calculating Risk in functional programming](http://www.di.uminho.pt/~jno/ps/wg21-70sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #70](http://www.cs.uu.nl/wiki/bin/view/IFIP21/Ulm#Technical_presentations_in_sched), Ulm, Germany, July 2013.
+* D. Murta and J.N. Oliveira. [Calculating fault propagation in functional programs](http://www.di.uminho.pt/~jno/ps/haslabtr201301.pdf). Technical Report TR-HASLab:01:2013, May 2013.
 * N. Macedo, H. Pacheco, A. Cunha, J.N. Oliveira. [Composing least-change lenses](http://journal.ub.tu-berlin.de/eceasst/article/view/868/862). In P. Stevens, J. Terwilliger, editors, [BX'13](http://bx-community.wikidot.com/bx2013:home), Electronic Communications of the EASST, 2013. ISSN 1863-2122.
 * J.N. Oliveira. <em>Computer-aided musicology: challenges and opportunities</em>. [Slides](http://natura.di.uminho.pt/ipm/lib/exe/fetch.php?media=tmat13.pdf) (in Portuguese). Contribution to the <em>Maths Afternoons</em> seminar series. Portuguese Mathematics Society (SPM), Braga, March 9th, 2013.
 
 **2012**
 
 * J.N. Oliveira. [Calculating Fault Propagation in Functional Programs using the Linear Algebra of Programming (LAoP)](http://www.di.uminho.pt/~jno/ps/haslab12sl.pdf). Talk at HASLab seminar, 5th-Dec-2012. (Repeated at FEUP, 30-Jan-2013.)
-* J.N. Oliveira. <em>Typed linear algebra for weighted (probabilistic) automata</em>. LNCS Volume 7381/2012, 52-65 ([DOI: 10.1007/978-3-642-31606-7_5](http://dx.doi.org/10.1007/978-3-642-31606-7_5)). 17th Int. Conf. on Implementation and Application of Automata, Porto (invited talk). [[Slides](http://www.di.uminho.pt/~jnops/ciaa12sl.pdf)] [Superseded by [http://dx.doi.org/10.1142/S0129054113400145](DOI: 10.1142/S0129054113400145)]
+* J.N. Oliveira. <em>Typed linear algebra for weighted (probabilistic) automata</em>. LNCS Volume 7381/2012, 52-65 ([DOI: 10.1007/978-3-642-31606-7_5](http://dx.doi.org/10.1007/978-3-642-31606-7_5)). 17th Int. Conf. on Implementation and Application of Automata, Porto (invited talk). [[Slides](http://www.di.uminho.pt/~jno/ps/ciaa12sl.pdf)] [Superseded by [http://dx.doi.org/10.1142/S0129054113400145](DOI: 10.1142/S0129054113400145)]
 * [Shin-Cheng Mu](http://www.iis.sinica.edu.tw/pages/scm/) and J.N. Oliveira. <em>Programming from Galois connections</em>. The Journal of Logic and Algebraic Programming 81:680-704 (2012) ([DOI:10.1016/j.jlap.2012.05.003](http://dx.doi.org/10.1016/j.jlap.2012.05.003)).
 * J.N. Oliveira. <em>Towards a Linear Algebra of Programming</em>. ([DOI:10.1007/s00165-012-0240-9](http://dx.doi.org/10.1007/s00165-012-0240-9)) <em>Formal Asp. Comput.</em>, 24 (4-6): 433-458, 2012.
 * J.J. Almeida, N.R. Carvalho, and J.N. Oliveira. Wiki::score -- a collaborative environment for music transcription and publishing. <em>Information Services and Use</em>, 31(3-4):177-187, 2011. [DOI 10.3233/ISU-2012-0647](https://content.iospress.com/articles/information-services-and-use/isu647).
@@ -87,7 +87,7 @@
 * H.D. Macedo and J.N. Oliveira.  [Do the two middle letters of "OLAP" stand for Linear Algebra ("LA")?](http://www.di.uminho.pt/~jno/ps/haslabtr201104.pdf) Technical Report TR-HASLab:04:2011, July 2011.  (See also [H. Macedo's research blog](http://alfa.di.uminho.pt/~hmacedo/wiki/doku.php?id=blog) and the [slides](http://www4.di.uminho.pt/~jno/ps/olap-sig.pdf) of a talk at [Software Improvement Group](http://www.sig.eu/en) on this subject).
 * J.N. Oliveira.  [Pointfree foundations for (generic) lossless decomposition](https://www.researchgate.net/publication/260302932_Pointfree_Foundations_for_%28Generic%29_Lossless_Decomposition).  Technical Report TR-HASLab:03:2011, HASLab, University of Minho and INESC TEC, Gualtar Campus, Braga, 2011.
 * [Shin-Cheng Mu](http://www.iis.sinica.edu.tw/pages/scm/) and J.N. Oliveira.  [Programming from Galois connections](http://www.iis.sinica.edu.tw/~scm/2010/calculating-programs-from-galois-connections/). Conference paper, pages [294-313](http://www.springerlink.com/content/f85w810064662334/) of LNCS volume 6663.  (Superseded by [DOI:10.1016/j.jlap.2012.05.003](http://dx.doi.org/10.1016/j.jlap.2012.05.003)).
-* J.N. Oliveira.  <a href="http://www4.di.uminho.pt/~jno/ps/wg21-67b-sl.pdf">On the meaning of <em>curry(M)</em> for <em>M</em> a matrix</a>.  Contributed talk to [IFIP WG 2.1 Meeting #67](http://www.cs.uu.nl/wiki/bin/view/IFIP21/Reykjavik#Technical_presentations_in_sched), Reykjavik, Iceland, May 2011.
+* J.N. Oliveira.  <a href="http://www.di.uminho.pt/~jno/ps/wg21-67b-sl.pdf">On the meaning of <em>curry(M)</em> for <em>M</em> a matrix</a>.  Contributed talk to [IFIP WG 2.1 Meeting #67](http://www.cs.uu.nl/wiki/bin/view/IFIP21/Reykjavik#Technical_presentations_in_sched), Reykjavik, Iceland, May 2011.
 * J. Ferreira, A. Mendes, A. Cunha, C. Baquero, P. Silva, L. Barbosa and J.N. Oliveira.  [Logic training through algorithmic problem solving](http://www.springerlink.com/content/40p4880vtnx78356). LNCS 6680, pages 62-69, 2011.
 * L. Couto, J.N. Oliveira, M.A. Ferreira, E. Bouwers.  [Preparing for a Literature Survey of Software Architecture using Formal Concept Analysis](http://ceur-ws.org/Vol-708/sqm2011-couto-et-al-11-prepLitSurvey.pdf).  Proc. of the SQM'2011 workshop, colocated with [CSMR 2011](http://se.uni-oldenburg.de/csmr2011), Oldenburg, Germany.
 
@@ -100,9 +100,9 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 * H.D. Macedo and J.N. Oliveira.  [Matrices As Arrows! A Biproduct Approach to Typed Linear Algebra](http://www.springerlink.com/content/j260v4817p3512u8/).  In <em>[MPC 2010](http://mpc-amast2010.fsg.ulaval.ca/mpc/index.html)</em>, volume 6120 of <em> Lecture Notes in Computer Science</em>, pages 271-287. Springer, 2010.
 * H.D. Macedo and J.N. Oliveira.  <em>Can we teach computers to generate fast OLAP code?</em> Technical note (see the corresponding [HASLab talk](http://wiki.di.uminho.pt/twiki/bin/view/DI/FMHAS/Seminar) on the 9th of June).
 * M.A. Ferreira and J.N. Oliveira.  [Variations on an Alloy-centric tool-chain in verifying a journaled file system model](http://www.di.uminho.pt/~jno/ps/TR-10-07.pdf).  Technical Report DI-CCTC-10-07, DI/CCTC, University of Minho, Gualtar Campus, Braga, January 2010.
-* J.N. Oliveira.  [An AoP Approach to Typed Linear Algebra](http://www4.di.uminho.pt/~jno/ps/wg21-65b-sl.pdf).  Talk at [IFIP WG 2.1 #65 Meeting]( http://www.cs.uu.nl/wiki/bin/view/IFIP21/BragaPortugal#Technical_presentations), Póvoa de Lanhoso, Portugal, January 2010.
-* J.N. Oliveira.  [A Look at Program ``G''alculation](http://www4.di.uminho.pt/~jno/ps/wg21-65a-sl.pdf).  Talk at [IFIP WG 2.1 #65 Meeting]( http://www.cs.uu.nl/wiki/bin/view/IFIP21/BragaPortugal#Technical_presentations), Póvoa de Lanhoso, Portugal, January 2010.
-* J.N. Oliveira.  <em>Computing theories refactoring via the PF-transform: the data dependency case study</em> ([extended abstract](http://www4.di.uminho.pt/~jno/ps/agreg_Art9b.pdf); [slides](../ps/agreg_Art9bsl.pdf)). Habilitation Lecture, University of Minho, Jan. 12th 2010.
+* J.N. Oliveira.  [An AoP Approach to Typed Linear Algebra](http://www.di.uminho.pt/~jno/ps/wg21-65b-sl.pdf).  Talk at [IFIP WG 2.1 #65 Meeting]( http://www.cs.uu.nl/wiki/bin/view/IFIP21/BragaPortugal#Technical_presentations), Póvoa de Lanhoso, Portugal, January 2010.
+* J.N. Oliveira.  [A Look at Program ``G''alculation](http://www.di.uminho.pt/~jno/ps/wg21-65a-sl.pdf).  Talk at [IFIP WG 2.1 #65 Meeting]( http://www.cs.uu.nl/wiki/bin/view/IFIP21/BragaPortugal#Technical_presentations), Póvoa de Lanhoso, Portugal, January 2010.
+* J.N. Oliveira.  <em>Computing theories refactoring via the PF-transform: the data dependency case study</em> ([extended abstract](http://www.di.uminho.pt/~jno/ps/agreg_Art9b.pdf); [slides](../ps/agreg_Art9bsl.pdf)). Habilitation Lecture, University of Minho, Jan. 12th 2010.
 
 **2009**
 
@@ -111,8 +111,8 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 * C.J. Rodrigues, J.N. Oliveira and L.S. Barbosa.  <em>A single complete relational rule for coalgebraic refinement</em>.  [Refinement Workshop 2009](http://www.refinenet.org.uk/ref09prog.html) (an workshop of the [FMWeek](http://www.win.tue.nl/fmweek/)), Eindhoven, 3 Nov 2009.
 * P.F. Silva, J. Visser, and J.N. Oliveira.  [Galois: A Language for Proofs Using Galois Connections and Fork Algebras](http://www.di.uminho.pt/~jno/ps/SVO09.pdf), 2009.  [PLMMS'09](http://plmms09.cse.tamu.edu) - ACM SIGSAM 2009 International Workshop on Programming Languages for Mechanized Mathematics Systems. Munich, Germany; August 21.
 * J.N. Oliveira.  [Extended Static Checking by Calculation using the Pointfree Transform ](http://dx.doi.org/10.1007/978-3-642-03153-3_5).  In A. Bove et al., editor, <em>LerNet ALFA Summer School 2008</em>, volume 5520 of <em>[LNCS](http://www.springerlink.com/content/105633/?p=1b30876b14cd424f9374435acab5fed4&amp;pi=0)</em>, pages 195-251. Springer-Verlag, 2009.
-* J.N. Oliveira.  [Towards "middle school MPC"](http://www4.di.uminho.pt/~jno/ps/wg21-64c-sl.pdf).  Talk at [IFIP WG 2.1 #64 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting64/), Weltenburg, Germany, March-April 2009.
-* J.N. Oliveira.  [Calculating with Pointfree Alloy](http://www4.di.uminho.pt/~jno/ps/wg21-64a-sl.pdf).  Talk at [IFIP WG 2.1 #64 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting64/), Weltenburg, Germany, March-April 2009.
+* J.N. Oliveira.  [Towards "middle school MPC"](http://www.di.uminho.pt/~jno/ps/wg21-64c-sl.pdf).  Talk at [IFIP WG 2.1 #64 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting64/), Weltenburg, Germany, March-April 2009.
+* J.N. Oliveira.  [Calculating with Pointfree Alloy](http://www.di.uminho.pt/~jno/ps/wg21-64a-sl.pdf).  Talk at [IFIP WG 2.1 #64 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting64/), Weltenburg, Germany, March-April 2009.
 
 **2008**
 
@@ -132,9 +132,9 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 **2006**
 
 
-* J.N. Oliveira.  [Data dependency theory made generic -- by calculation](http://www4.di.uminho.pt/~jno/ps/wg21-62a-sl.pdf), December 2006.  Presentation at the [IFIP WG 2.1 #62 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting62/), Namur, Belgium.
-* J.N. Oliveira, A. Silva, and L.S. Barbosa.  [Invariants as coreflexive bisimulations -- in a coalgebraic setting](http://www4.di.uminho.pt/~jno/ps/wg21-62b-sl.pdf), December 2006.  Presentation at the [IFIP WG 2.1 #62 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting62/), Namur, Belgium.
-* J.N. Oliveira.  [Reinvigorating pen-and-paper proofs in VDM: the pointfree approach ](http://www4.di.uminho.pt/~jno/ps/vdm06sl.pdf), 2006.  Presentation at the <a href=" http://www.overturetool.org/twiki/bin/view/Main/WorkshopPage#Third_Workshop_Newcastle_UK_27_2 ">Third O<small>VERTURE</small> Workshop </a>, Newcastle, UK, 27-28 November
+* J.N. Oliveira.  [Data dependency theory made generic -- by calculation](http://www.di.uminho.pt/~jno/ps/wg21-62a-sl.pdf), December 2006.  Presentation at the [IFIP WG 2.1 #62 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting62/), Namur, Belgium.
+* J.N. Oliveira, A. Silva, and L.S. Barbosa.  [Invariants as coreflexive bisimulations -- in a coalgebraic setting](http://www.di.uminho.pt/~jno/ps/wg21-62b-sl.pdf), December 2006.  Presentation at the [IFIP WG 2.1 #62 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting62/), Namur, Belgium.
+* J.N. Oliveira.  [Reinvigorating pen-and-paper proofs in VDM: the pointfree approach ](http://www.di.uminho.pt/~jno/ps/vdm06sl.pdf), 2006.  Presentation at the <a href=" http://www.overturetool.org/twiki/bin/view/Main/WorkshopPage#Third_Workshop_Newcastle_UK_27_2 ">Third O<small>VERTURE</small> Workshop </a>, Newcastle, UK, 27-28 November
 * L.S. Barbosa and J.N. Oliveira.  [Transposing Partial Components -- an Exercise on Coalgebraic Refinement](http://dx.doi.org/10.1016/j.tcs.2006.07.030).  [TCS](http://www.sciencedirect.com) 365 (2006): 2-22 [ [slides](http://www.di.uminho.pt/~jno/ps/pure05sl.pdf) of a presentation related to this paper ]
 * M.A. Cunha, J.N. Oliveira, J. Visser.  [Type-safe two-level data transformation](http://dx.doi.org/10.1007/11813040_20).  [FM'06 ]( http://fm06.mcmaster.ca ), [LNCS](http://www.springerlink.com/content/105633/?p=1b30876b14cd424f9374435acab5fed4&amp;pi=0) 4085:284-289. Springer, 2006.  [[slides in PDF ](http://www4.di.uminho.pt/~jno/ps/fm06slides.pdf)]
 * J.N. Oliveira and C.J. Rodrigues.  [Pointfree Factorization of Operation Refinement](http://dx.doi.org/10.1007/11813040_17).  [FM'06 ]( http://fm06.mcmaster.ca ), [LNCS](http://www.springerlink.com/content/105633/?p=1b30876b14cd424f9374435acab5fed4&amp;pi=0) 4085:236-251. Springer, 2006.  [[slides in PDF ](http://www4.di.uminho.pt/~jno/ps/OR06sl.pdf)]
@@ -154,7 +154,7 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 **2004**
 
 * [FME Subgroup on Education](http://www.di.uminho.pt/FME-SoE/index.html) (convenor: J.N. Oliveira).  [A Survey of Formal Methods Courses in European Higher Education](http://springerlink.metapress.com/openurl.asp?genre=article&amp;issn=0302-9743&amp;volume=3294&amp;spage=235).  CoLogNet / FME [TFM'04 ](http://www.intec.rug.ac.be/groupsites/formal/Sympos2004/Sympos2004.htm#cfp), [LNCS](http://www.springerlink.com/content/105633/?p=1b30876b14cd424f9374435acab5fed4&amp;pi=0) 3294:235-248. Springer, 2004.  Web version (HTML) available from <TT> http://www.fmeurope.org/</TT> -&gt; <TT> Formal Methods </TT> -&gt; <TT>Education</TT>.
-* [Calculate databases with `simplicity'](http://www4.di.uminho.pt/~jno/ps/ifip04sl.pdf), September 2004.  Presentation at the [IFIP WG 2.1 #59 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting59/), Nottingham, UK.
+* [Calculate databases with `simplicity'](http://www.di.uminho.pt/~jno/ps/ifip04sl.pdf), September 2004.  Presentation at the [IFIP WG 2.1 #59 Meeting]( http://web.comlab.ox.ac.uk/oucl/work/jeremy.gibbons/wg21/meeting59/), Nottingham, UK.
 * J.N. Oliveira and [C.J. Rodrigues](http://www.di.uminho.pt/%7Ecjr).  <a href="mpc04.abs.html">Transposing relations: from <em>Maybe</em> functions to hash tables.  </a>, [MPC'04 ]( http://www.cs.cornell.edu/Projects/MPC2004 ), [LNCS](http://www.springerlink.com/content/105633/?p=1b30876b14cd424f9374435acab5fed4&amp;pi=0) 3125:334-356. Springer, 2004.
 * [B. Cortes](http://www.ipca.pt/prof/bcortes/) and J.N. Oliveira.  Relational sampling for data quality auditing and decision support.  In <em>[ICEIS'04 ]( http://www.iceis.org/): 6th International Conference on Enterprise Information Systems</em>, volume 1, pages 376-382, April 2004.  Porto, 14-17 April (ISBN 972-8865-00-7).
 

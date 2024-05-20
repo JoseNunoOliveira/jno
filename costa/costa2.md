@@ -188,15 +188,15 @@ that is,
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:34% fit](./pacheco.png)
 
-To unravel the "puzzle", let us start from the recipients whose names are given in full:
+To start unravelling the "puzzle", let us record the recipients whose names are given in full:
 
 >   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
 
->   **Pedro Pereira de Sampaio** (PPS) - letter VIII
+>   **Pedro Pereira de S.Paio** (PPS) - letter VIII
 
 >   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X
 
-and search for them in archival sources.
+Let us search for them in archival sources.
 
 ---
 
@@ -230,7 +230,7 @@ This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** liv
 
 Cross-checking with the Student Registry of the **University of Coimbra**:
 
-> **1730**: Luís Gomes Costa, son of José Gomes Costa (Porto), enrolled as Law student on 1730-10-01 and graduated on 1735-07-03.
+> **1730**: **Luís Gomes Costa**, son of José Gomes Costa (Porto), enrolled as Law student on 1730-10-01 and graduated on 1735-07-03.
 
 (Source: AUC [202836](https://pesquisa.auc.uc.pt/details?id=202836))
 
@@ -258,7 +258,7 @@ and
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./memorias.png)
 
-**1758** - According to the information provided in *Memórias Paroquiais*, item 18 of the **parish of Vitória**, this is considered
+**1758** - According to the information provided in *Memórias Paroquiais*, **parish of Vitória**, in item 18 this is considered
 
 >  illustrious and made up of the most noble and enlightened people in the city.
 
@@ -341,12 +341,12 @@ Possibilities:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged *circa* 70, his son Sebastião Gomes Costa being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged *circa* 70, his son **Sebastião Gomes Costa** being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
 ### Notes:
 
 * Letter X (Vienna, 1774-12-24) written unaware of the death of its recipient.
-* Son **Sebastião Gomes Costa** mentioned in letters XI, XII sent to his brother **Manuel**.
+* Son **Sebastião Gomes Costa** is mentioned in letters XI, XII sent to his brother **Manuel**.
 
 ---
 
@@ -375,12 +375,41 @@ Note the 4 year gap - but **A. da Costa** knew about **Luís Costa**'s death one
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1732-08-13 | **Luís** & **Clara** | Sé | School master Rev. **Manuel Carneiro de Araújo** is witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
+| 1732-08-13 | **Luís** & **Clara** | Sé | Schoolmaster Rev. **Manuel Carneiro de Araújo** is witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
 School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI (1754):
 
 > "(...) *aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande*"
+
+---
+
+# The Gomes Costa family network
+<!-- _backgroundColor: "lightcyan" -->
+
+Rev. **Manuel Carneiro de Araújo**, schoolmaster of Porto Cathedral
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1717-01-16 | **Manuel Carneiro de Araújo** | Porto cathedral | as schoolmaster and secretary of the Chapter ("*Cabido*") of the Cathedral, signs document related to works in the cloister of the Cathedral | ([JJB Ferreira-Alves, 2001](https://periodicos.ufba.br/index.php/rcvisual/article/download/53713/28762)) |
+
+---
+
+# The Gomes Costa family network
+<!-- _backgroundColor: "lightcyan" -->
+
+Rev. **Manuel Carneiro de Araújo**, schoolmaster of Porto Cathedral
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1728/29 | Rev. Manuel Carneiro de Araújo, schoolmaster | Porto |  é Provedor da Santa Casa da Misericórdia do Porto |  [rol](https://sigarra.up.pt/fep/pt/pub_geral.show_file?pi_doc_id=32942 ) |
+
+<!-- ; **1732-08-13**: assiste ao casamento de Luís Gomes da Costa com Clara Luísa Pacheco na freguesia da Sé (tiff=294 de [casamentos](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960)); **1735-03-01**: procurador da madrinha de José, filho do Lic. Luís Gomes Costa etc ([tiff=263](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)); -->
+
+---
+
+**1744-04-26**: toma o hábito em Monchique Leonor Caetana, filha do mestre escola da Sé, rev. Manuel Carneiro de Araújo, cf. [tiff=23](https://digitarq.arquivos.pt/ViewerForm.aspx?id=4638421); **1754**: \"…*Aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande* … \" ; **1755-12-30**: morre o Rev. Manuel Carneiro de Araújo, mestre escola da Sé, morador na Rua Chã ([tiff=859](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491036)). Deixou como testamenteira a Santa Casa da Misericórdia do Porto.
+
 
 ---
 
@@ -404,15 +433,15 @@ He is the "**bispo Évora**" mentioned in letter X (1774):
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:35% fit](./evora.png)
 
-**José Maria da Fonseca "Évora"**:
+[José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752):
 
-> Left for Rome in 1712, as part of the embassy of the Marquis of Fontes
+* Left for **Rome** in 1712, as part of the embassy of the Marquis of Fontes
 
-> In 1740 he founded the large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
+* In 1740 he founded the large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
 
-> He served as Portugal's ambassador in Rome (1728 $\rightarrow$) until accepting the bishopry of Porto (1741).
+* He served as Portugal's ambassador in **Rome** (1728 $\rightarrow$) until accepting the bishopry of **Porto** (1741).
 
-> He died in Porto in 1752 when Costa was already in Rome.
+* He died in **Porto** in 1752 when Costa was already in **Rome**.
 
 ---
 
@@ -433,11 +462,13 @@ Cross-checking:
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
 | 1764-06-16 | Manuel G.C. Pacheco | Vila da Feira | Notary owner (tabelião) | ANTT [1445904](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1445904) |
-| 1783-10-08 | Manuel G.C. Pacheco | Coimbra | Registers in law, maths ans philosophy until 1787 | AUC [220452](https://pesquisa.auc.uc.pt/details?id=220452) |
+| 1783-10-08 | Manuel G.C. Pacheco | Coimbra | Enrolls  in law, maths and philosophy until 1787 | AUC [220452](https://pesquisa.auc.uc.pt/details?id=220452) |
 
 Last reference as notary public in 1805. (ANTT [1445904](https://digitarq.adavr.arquivos.pt/details?id=1445904))
 
 <!--- > 1764-06-17: first reference ([PT/ADAVR/NOT/CNCRM/001/0024](https://adavr.dglab.gov.pt/wp-content/uploads/sites/5/2018/12/Inventário-PT-ADAVR-NOT-CNCRM.pdf) + [keep](https://digitarq.adavr.arquivos.pt/details?id=1445904)) to notary Manuel Gomes da Costa Pacheco.  -->
+
+> In **Coimbra** after exchange of letters with Costa.
 
 
 ---
@@ -445,7 +476,7 @@ Last reference as notary public in 1805. (ANTT [1445904](https://digitarq.adavr.
 # The Costa Pacheco family (Vila da Feira)
 <!-- _backgroundColor: "lightcyan" -->
 
-**Manuel**'s younger brother **Sebastião**  also followed a law career:
+**Manuel**'s younger brother **Sebastião**  also followed a Law career:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
@@ -463,7 +494,7 @@ More about the **Costa Pacheco**'s decendents in:
 
 Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
 
-> Aside (from the same source) : picture of **Sebastião Gomes Costa Pacheco** while a law student at Coimbra.
+> Aside (from the same source) : picture of **Sebastião Gomes Costa Pacheco** while a Law student at Coimbra.
 
 
 ---
@@ -597,7 +628,7 @@ The process didn't get completed, cf. this negative information in the minutes:
 ![bg right:35% fit](./rebelo.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-### COSTA, Agostinho Rebelo da, ?-1791
+### COSTA, Agostinho Rebelo da ($\dagger$ 1791)
 > *Descripção topografica, e historica da Cidade do Porto. Que contém a sua origem, situaçaõ, e antiguidades: a magnificencia dos seus templos, mosteiros, hospitaes, ruas, praças, edificios, e fontes... / feita por Agostinho Rebello da Costa*
 
 Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
@@ -606,7 +637,7 @@ Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
 
 ---
 
-# About the women of Porto (18c)
+# About 18c Porto
 
 ![bg right:30% fit](./ellas.png)
 <!-- _backgroundColor: "lightcyan" -->
@@ -623,27 +654,72 @@ Rebelo da Costa:
 
 ---
 
+# Letter VII (Rome, 1754)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:37% fit](./pieta.png)
+
+"*I have often offered to send you and Sr.ª **Quitéria** some songs she ordered from me, but I almost regret it, because I haven't heard anything that could satisfy her, in my opinion (...)*"
+
+> "*Muitas vezes me tenho oferecido a V. M. e à Sr.ª **Quitéria** para lhe mandar alguma música que ela me encomendasse, mas quase que estou de todo arrependido, porque não ouço coisa que lhe possa contentar, a meu parecer* (...)"
+
+---
+# Letter VII (Rome, 1754)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:37% fit](./pieta2.png)
+
+"*However, if Sr.ª **Quitéria** wants to try her luck, I will send her a piece, and as she finds it she will make it; but could she say what it should be and under what circumstances.*"
+
+> "*Todavia se a Sr.a **Quitéria** quiser experimentar alguma coisa à fortuna, mandar-lhe-ei uma peça, e assim como se achar com ela, assim fará; mas há-de ela dizer que coisa há-de ser, e com que circunstâncias.*"
+
+<p><br><div style="font-size:9pt;text-indent:42em;"><a href="https://www.youtube.com/watch?v=efonp34pV2E">Image &copy; BBC</a></div></p>
+
+---
+
 # Music academies (18c Porto)
-![bg right:30% fit](./furias.png)
+![bg right:30% fit](./berlin.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 ### Rebelo da Costa:  <!-- pdf 106 -->
 
-> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons* **concertos de música**, *e ainda as chamadas* **Fúrias de Rio** (*)"
+"*In the summer, in the comfort of the farms that surround the city, on the banks of the Douro, the refined society of the families that meet there, the beautiful* **music concerts** (...)"
 
-([22517](https://purl.pt/22517) :arrow_forward: 54) <!-- pdf 106 -->
+> "*No verão a amenidade das Quintas, que rodeão a Cidade, e bordão as margens do Rio Douro, a bela sociedade com que as familias ali se comunicam, os bons* **concertos de música** (...)"
+
+([22517](https://purl.pt/22517) :arrow_forward: 106, fol. 54)
+
+<p><div style="font-size:9pt;text-indent:42em;"><a href="https://www.visitberlin.de/en/event/divertimento-musical-pleasure-court">Image &copy; visitberlin.de</a></div></p>
+
+---
+
+# Letter VI (Rome, 1754)
+![bg right:32% fit](./furias.png)
+<!-- _backgroundColor: "lightcyan" -->
+
+> "*Diga-me também como lhe vai Sr. João; se lhe sopram agora mais que o ano passado esses bailes, e essas* **fúrias de Rio**, *que as funções de Martinho Velho bem sei eu que estão acabadas;*"
+
+Ann Livermore:
+
+> *(...) Then he asks for news of Joao. Is he taken now than last year with those dances and those furias from Rio?...*"
 
 ---
 
 # "Fúrias de Rio" (18c Porto)
-![bg right:30% fit](./furias.png)
+![bg right:32% fit](./furias.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 ### Rebelo da Costa:
 
-> (*) *Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente*.
+"*(...) and also the so-called **Fúrias de Rio** (...) That's what they call the fun they have, sailing sweetly to the sound of harmonious instruments on the Douro River in awning boats, which gracefully illuminate at night.*"
 
->  *O ardor da estação, que faz insensível o curso do Rio , dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo*.
+> *(...) e ainda as chamadas* **Fúrias de Rio** *(...) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente*.
+
+([22517](https://purl.pt/22517) :arrow_forward: 106, fol. 54)
+
+---
+
+
+
+>  *O ardor da estação, que faz insensível o curso do Rio, dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo*.
 
 ---
 

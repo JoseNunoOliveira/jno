@@ -21,13 +21,31 @@ May 25th, 2024
 
 ---
 
+# His portrait (1774-80)
+
+1780-10-7: **Carta XIII** - Viena - Manuel Gomes da Costa Pacheco:
+
+> "painted portrait of António da Costa at age 60" ("*retrato em tintas de António da Costa" aos 60 anos*"), made by the secretary of the Minister of Portugal in Naples:
+
+---
+
+Bearers:
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1756-09-24 | Father Francisco Pinto Brandão | Ovar | Inquirição de genere | AUC [1614605](http://pesquisa.adb.uminho.pt/details?id=1614605&ht=Baldaia) |
+| 1758-01-30 | José António Brandão Pinto Baldaia | Ovar | Enrolls as Law student, getting his degree in 1765 | AUC [149906](https://pesquisa.auc.uc.pt/details?id=149906&detailsType=Description&ht=pinto%7cbaldaia) |
+| 1768-06-26| Joaquim Maurício de Pinho e Sousa | Porto | Doctor in Law, enrolled 1767, degree in May 1768 | AUC [238714](https://pesquisa.auc.uc.pt/details?id=238714&detailsType=Description&ht=joaquim%7cmaur%C3%ADcio%7cpinho%7csousa) |
+
+---
+
 # *L'Abate Portoghese*
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./ghezzi-01.jpeg)
 
-* Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of **Porto**, left the country in 1749/50 for **Rome**.
+- Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of **Porto**, left the country in 1749/50 for **Rome**.
 
-* Later travelling to **Venice** and **Paris**, he eventually settled in **Vienna**, where he is thought to have died around 1780.
+- Later travelling to **Venice** and **Paris**, he eventually settled in **Vienna**, where he is thought to have died around 1780.
 
 * Misantrope, he despised the positions offered to him, living most of his life in poverty.
 
@@ -48,15 +66,15 @@ May 25th, 2024
 
 # First news (1750)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:50% fit](./costa_trip.jpg)
+![bg right:55% fit](./costa_trip.jpg)
 
-The idea is that he fled because he may have confronted someone very powerful who could harm him.
+He may have fled because he had confronted someone very powerful who could harm him.
 
 But...
 
 > ... why? how?
 
-Who was...
+Back to basics: who was...
 
 >  **António da Costa** ?
 
@@ -91,11 +109,11 @@ Who was...
 ![bg right:38% fit](./cartas.png)
 
 ### 13 Letters sent to Porto (1750-1780)
-   * Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
-   * Studied and published by **J. Vasconcelos** (1879)
-   * Commented in depth by Teófilo Braga ([1879](https://purl.pt/63))
-   * Commented by Ann Livermore (1945)
-   * Re-published by Lopes Graça (1946)
+- Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
+* Studied and published by **J. Vasconcelos** (1879)
+* Commented in depth by Teófilo Braga ([1879](https://purl.pt/63))
+* Also commented by Ann Livermore (1945)
+* Re-published by Lopes Graça (1946)
 
 <!--
 The Abade Antonio da Costa
@@ -110,11 +128,11 @@ Stable URL: https://www.jstor.org/stable/727650
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:45% fit](./burney-costa.jpg)
 
-**Charles Burney** travel diary (1772)
+- **Charles Burney** travel diary (1772)
 
-5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
+- 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
 
-Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
+- Manuscript scores preserved in the archives of **Vienn,**, **Berlin** and **Bologna**.
 
 ---
 
@@ -135,7 +153,9 @@ Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
 ### **5** recipients
 ### **100+** people mentioned
 
-> ### Where to start from, in the maze?
+### However, a complete maze...
+
+> ### Where to start from?
 
 ---
 
@@ -143,21 +163,22 @@ Manuscript scores preserved in the archives of Vienna, Berlin and Bologna.
 ![bg right:35% fit](./recipients.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-### First question:
 
-> #### Did these **5** recipients know each other?
-
-NB: in the graphs to follow
+### NB: in the diagrams
 
 > $a \rightarrow b$
 
 means:
 
-> A.Costa mentioned $b$ in a letter to $a$
+> A. da Costa mentioned $b$ in a letter to $a$
 
 that is,
 
 > $a$ knew (or got to know about) $b$.
+
+### First question:
+
+> #### Did these **5** recipients know each other?
 
 ---
 
@@ -166,9 +187,9 @@ that is,
 <!-- _backgroundColor: "lightcyan" -->
 
 ### **5** recipients
-### **21** individuals mentioned in **more than one** letter
+### **21** individuals mentioned in **more than one** letter.
 
-> roughly, two **clusters** = **music**-related + others.
+> Roughly, two **clusters** = **music**-related + others.
 
 ---
 <!-- _backgroundColor: "lightcyan" -->
@@ -188,15 +209,15 @@ that is,
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:34% fit](./pacheco.png)
 
-To start unravelling the "puzzle", let us record the recipients whose names are given in full:
+To start unravelling the "puzzle", let us record the **recipients** whose names are given in full:
 
 >   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
 
 >   **Pedro Pereira de S.Paio** (PPS) - letter VIII
 
->   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X
+>   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X.
 
-Let us search for them in archival sources.
+### Let us search for them in archival sources.
 
 ---
 
@@ -210,7 +231,7 @@ Let us search for them in archival sources.
 
 (ANTT [7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
 
-This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
+This document mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
 
 ---
 
@@ -218,7 +239,7 @@ This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** liv
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./cadeia.png)
 
-**Luís Gomes Costa**, father of **Manuel**, is referred to as
+### **Luís Gomes Costa**, father of **Manuel**, is referred to as
 
 > a renowned jurisconsult, lawyer of the **Relação** (Royal Court of Appeal) and often **Juíz dos Órfãos** (= orphans protector in patrimonial inheritance cases).
 
@@ -228,9 +249,9 @@ This mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** liv
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./IMG_3843.jpeg)
 
-Cross-checking with the Student Registry of the **University of Coimbra**:
+### Cross-checking with the Student Registry of the **University of Coimbra**:
 
-> **1730**: **Luís Gomes Costa**, son of José Gomes Costa (Porto), enrolled as Law student on 1730-10-01 and graduated on 1735-07-03.
+> **1730**: **Luís Gomes Costa**, son of José Gomes Costa (Porto), enrolled as Law student on **1730-10-01** and graduated on **1735-07-03**.
 
 (Source: AUC [202836](https://pesquisa.auc.uc.pt/details?id=202836))
 
@@ -258,13 +279,12 @@ and
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./memorias.png)
 
-**1758** - According to the information provided in *Memórias Paroquiais*, **parish of Vitória**, in item 18 this is considered
+**1758** - According to the information provided in *Memórias Paroquiais*, **parish of Vitória**, item 18, this is considered
 
 >  illustrious and made up of the most noble and enlightened people in the city.
 
 (ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286) :arrow_forward: 56)
 
-* As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of Porto.
 
 ---
 
@@ -275,13 +295,15 @@ and
 
 **Rua da Ferraria de Cima** (Upper Ferraria street) is today's **Rua dos Caldeireiros**.
 
+> As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of **Porto**.
+
 ---
 
 # The Gomes Costa family nucleous
 
 <!-- _backgroundColor: "lightcyan" -->
 
-Data collected from the **birth** **records** of parishes **Vitória** and **Sé** ([ADP](https://pesquisa.adporto.arquivos.pt/)):
+**Next:** data collected from the **birth** **records** of parishes **Vitória** and **Sé** ([ADP](https://pesquisa.adporto.arquivos.pt/)):
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
@@ -295,7 +317,7 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 <!-- _backgroundColor: "lightcyan" -->
 
-More data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
+Data collected from the **birth** **records** of parishes **Vitória** and **Sé**:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
@@ -329,9 +351,9 @@ Cross-checking:
 
 Possibilities:
 
-> **António da Costa** - quite likely *our man*
+> **António da Costa** - quite likely "*our man*"
 
-> **Quitéria Maria** - the *snr.ª Quitéria* referred to in 6 letters?
+> **Quitéria Maria** - the "*snr.ª Quitéria*" referred to in 6 letters?
 
 ---
 
@@ -339,13 +361,15 @@ Possibilities:
 
 <!-- _backgroundColor: "lightcyan" -->
 
+Moving on:
+
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1774-10-08 | Dr. Luís Gomes Costa | Vitória | Dies aged *circa* 70, his son **Sebastião Gomes Costa** being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
+| 1774-10-08 | Dr. Luís Gomes Costa $\dagger$ | Vitória | Dies aged *circa* 70, his son **Sebastião Gomes Costa** being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
 ### Notes:
 
-* Letter X (Vienna, 1774-12-24) written unaware of the death of its recipient.
+* Letter X (Vienna, 1774-12-24) written unaware of the **death** of its recipient.
 * Son **Sebastião Gomes Costa** is mentioned in letters XI, XII sent to his brother **Manuel**.
 
 ---
@@ -356,7 +380,7 @@ Possibilities:
 
 | When       | Who | Where | Description | Reference |
 |------------|-----|-------|-------------|-----------|
-| 1775-11-23 | D. Clara Luísa Pacheco | Vitória | Dies aged *circa* 70 "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
+| 1775-11-23 | D. Clara Luísa Pacheco $\dagger$ | Vitória | Dies aged *circa* 70 "(...) *por lhe dar um acidente de apoplexia*" |  [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251)  :arrow_forward: 113 |
 
 ### Notes
 
@@ -391,7 +415,7 @@ Rev. **Manuel Carneiro de Araújo**, schoolmaster of Porto Cathedral
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1717-01-16 | **Manuel Carneiro de Araújo** | Porto cathedral | as schoolmaster and secretary of the Chapter ("*Cabido*") of the Cathedral, signs document related to works in the cloister of the Cathedral | ([JJB Ferreira-Alves, 2001](https://periodicos.ufba.br/index.php/rcvisual/article/download/53713/28762)) |
+| 1717-01-16 | **Manuel Carneiro de Araújo** | Porto cathedral | As schoolmaster and secretary of the Chapter ("*Cabido*") of the Cathedral, he signs a document related to works in the cloister of the Cathedral | ([JJB Ferreira-Alves, 2001](https://periodicos.ufba.br/index.php/rcvisual/article/download/53713/28762)) |
 
 ---
 
@@ -437,7 +461,7 @@ He is the "**bispo Évora**" mentioned in letter X (1774):
 
 * Left for **Rome** in 1712, as part of the embassy of the Marquis of Fontes
 
-* In 1740 he founded the large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
+* In 1740 he founded a large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
 
 * He served as Portugal's ambassador in **Rome** (1728 $\rightarrow$) until accepting the bishopry of **Porto** (1741).
 
@@ -451,7 +475,7 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Birth of a daugther of Luísa, single, the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| 1768-07-20 | Margarida | Arouca | Birth of a daugther of Luísa (single) the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
 
 ---
 # The Costa Pacheco family (Vila da Feira)
@@ -464,11 +488,11 @@ Cross-checking:
 | 1764-06-16 | Manuel G.C. Pacheco | Vila da Feira | Notary owner (tabelião) | ANTT [1445904](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1445904) |
 | 1783-10-08 | Manuel G.C. Pacheco | Coimbra | Enrolls  in law, maths and philosophy until 1787 | AUC [220452](https://pesquisa.auc.uc.pt/details?id=220452) |
 
-Last reference as notary public in 1805. (ANTT [1445904](https://digitarq.adavr.arquivos.pt/details?id=1445904))
+Last reference as notary public in 1805 (ANTT [1445904](https://digitarq.adavr.arquivos.pt/details?id=1445904))
 
 <!--- > 1764-06-17: first reference ([PT/ADAVR/NOT/CNCRM/001/0024](https://adavr.dglab.gov.pt/wp-content/uploads/sites/5/2018/12/Inventário-PT-ADAVR-NOT-CNCRM.pdf) + [keep](https://digitarq.adavr.arquivos.pt/details?id=1445904)) to notary Manuel Gomes da Costa Pacheco.  -->
 
-> In **Coimbra** after exchange of letters with Costa.
+> Studies in **Coimbra** after exchange of letters with Costa.
 
 
 ---
@@ -481,7 +505,7 @@ Last reference as notary public in 1805. (ANTT [1445904](https://digitarq.adavr.
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
 | 1758-10-01 | Sebastião Gomes Costa Pacheco | Univ. Coimbra | Enrolled as Law student until 1761 | AUC [220680](https://pesquisa.auc.uc.pt/details?id=220680&detailsType=Description&ht=sebastião%7cgomes%7ccosta%7cpacheco) |
-| 1818-12-27 | Dr. Sebastião Gomes Costa Pacheco | Vila da Feira | Death | [1255475](https://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1255475) :arrow_forward: 421 |
+| 1818-12-27 | Dr. Sebastião Gomes Costa Pacheco $\dagger$ | Vila da Feira | Death | [1255475](https://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1255475) :arrow_forward: 421 |
 
 ---
 # The Costa Pacheco family (Vila da Feira)
@@ -494,7 +518,7 @@ More about the **Costa Pacheco**'s decendents in:
 
 Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
 
-> Aside (from the same source) : picture of **Sebastião Gomes Costa Pacheco** while a Law student at Coimbra.
+> Aside, from the same source: picture of **Sebastião Gomes Costa Pacheco** while a Law student at Coimbra.
 
 
 ---
@@ -503,13 +527,13 @@ Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidis
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 |
+| 1776-11-03 | Rev. **Pedro Pereira de S.Paio** $\dagger$ | Sé | Death at S. António do Penedo. Executor of his will: his nephew **Carlos Vieira de Melo**, nobleman of the Royal House ("*fidalgo da Casa Real*"). |  [491038](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491038) ▶️ 1043 |
 
 Letters:
 
-> PPS was the recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
+> Pedro Pereira recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
 
-> His death was received with much regret in letter XI (1779-12-04).
+> His death was received with much regret in letter XI (**1779-12-04**).
 
 ---
 
@@ -526,6 +550,7 @@ One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé
 
 ---
 # Pedro Pereira de S.Paio (1694-1776)
+<!-- _backgroundColor: "lightcyan" -->
 
 About his father **António Pereira de Sampaio**:
 
@@ -552,7 +577,9 @@ ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir d
 |------|-----|-------|-------------|-----------|
 | 1744-10-10 | Antónia | Vitória | Rev. João Alves do Vale signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
 
-Costa sends his regards several times to him, referred to as *o insigne* ...
+Letters 
+
+> Costa sends regards several times to him, referred to as *o insigne Alves do Vale*.
 
 ---
 
@@ -589,7 +616,7 @@ Who was "senhor Torrão"?
 | When | Who | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
 | **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
-| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | Registers as Law student (will get his degree in 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
+| **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | Enrolls as Law student (will get his degree by 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
 
 ---
 
@@ -606,7 +633,7 @@ Who was "senhor Torrão"?
 
 The process didn't get completed, cf. this negative information in the minutes:
 
-> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra.* **Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende**, e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
+> "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra.* **Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende**, *e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
 
 ---
 
@@ -642,7 +669,7 @@ Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
 ![bg right:30% fit](./ellas.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-Rebelo da Costa:
+### Rebelo da Costa:
 
 > "*Women (...) have (in general) good presence, grace and elegant appearance; witty in conversation and lively in what they undertake, and in (...) the various tasks to which they dedicate themselves.*"
 
@@ -658,7 +685,7 @@ Rebelo da Costa:
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:37% fit](./pieta.png)
 
-"*I have often offered to send you and Sr.ª **Quitéria** some songs she ordered from me, but I almost regret it, because I haven't heard anything that could satisfy her, in my opinion (...)*"
+- "*I have often offered to send you and Sr.ª **Quitéria** some songs she ordered from me, but I almost regret it, because I haven't heard anything that could satisfy her, in my opinion (...)*"
 
 > "*Muitas vezes me tenho oferecido a V. M. e à Sr.ª **Quitéria** para lhe mandar alguma música que ela me encomendasse, mas quase que estou de todo arrependido, porque não ouço coisa que lhe possa contentar, a meu parecer* (...)"
 
@@ -667,7 +694,7 @@ Rebelo da Costa:
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:37% fit](./pieta2.png)
 
-"*However, if Sr.ª **Quitéria** wants to try her luck, I will send her a piece, and as she finds it she will make it; but could she say what it should be and under what circumstances.*"
+- "*However, if Sr.ª **Quitéria** wants to try her luck, I will send her a piece, and as she finds it she will make it; but could she say what it should be and under what circumstances.*"
 
 > "*Todavia se a Sr.a **Quitéria** quiser experimentar alguma coisa à fortuna, mandar-lhe-ei uma peça, e assim como se achar com ela, assim fará; mas há-de ela dizer que coisa há-de ser, e com que circunstâncias.*"
 
@@ -723,6 +750,54 @@ Ann Livermore:
 
 ---
 
+# Other names
+<!-- _backgroundColor: "lightcyan" -->
+
+However less certain, other names are identifiable:
+
+* Carlos Alvo (letter XXX) - b.1727 in Quinta da Revolta, in an illustrious family of Campanhã
+
+* Bento Luís (letter XXX) - either 
+
+
+---
+
+# Onoing research
+
+![bg right:35% fit](./recipients.png)
+<!-- _backgroundColor: "lightcyan" -->
+
+The "*real meat*" is still to be found:
+
+What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
+
+> Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
+
+---
+
+# Onoing research
+<!-- _backgroundColor: "lightcyan" -->
+
+What about **António da Costa** himself?
+
+
+---
+
+# Onoing research
+<!-- _backgroundColor: "lightcyan" -->
+
+Several other things we don't know:
+
+> Who collected the letters?
+
+> Who copied them?
+
+> How did they reach ....
+
+This will keep us busy for a while...
+
+---
+
 Teófilo Braga ([1879](https://purl.pt/63)) sobre as [Cartas curiosas...](https://books.google.pt/books?id=A30E7DnZuIEC&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false) do Abbade Antonio da Costa, publicadas por J. Vasconcelos.
 
 Mais **[Teófilo Braga](https://books.google.pt/books?id=ZbGpAgAAQBAJ&pg=PT55&lpg=PT55&dq=duque+de+lafões+viena&source=bl&ots=UP1oD8v6nJ&sig=ACfU3U2pApE-XKypQ9eucla9FPb61WPfBw&hl=en&sa=X&ved=2ahUKEwj1-PnC1-H9AhXHVKQEHTwxDx44FBDoAXoECCIQAw#v=onepage&q=duque%20de%20lafões%20viena&f=false)** - cf imprecisões e deduções arriscadas (?? Além destes feitos, D. João V mandou copiar em Roma a Symicta Lusitana, constituída por 100 volumes, a qual recolhe todos os processos documentais relacionados com os negócios entre Portugal e Roma.
@@ -762,16 +837,6 @@ topografia :
 </table>
 </div>
 
-
----
-
-xxx
-
-how have the letters survived?
-
-who collected them?
-
-who copied them?
 
 
 ---
@@ -816,9 +881,6 @@ What about his **portrait** sent from Vienna in 1780...?
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:33% fit](./ghezzi-01.jpeg)
 
-What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
-
-> Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
 
 ---
 

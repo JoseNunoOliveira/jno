@@ -20,76 +20,6 @@ May 25th, 2024
 **[Symposium Abott António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
 
 ---
-<!-- _backgroundColor: "lightcyan" -->
-
-# Sr.ª Quitéria
-
-Referred to in 6 letters, different contexts
-
-| When | Letter | Who | Context     |
-|------|-----|-------|-------------|
-| 1752 | IV | Luís G. Costa | Quitéria + João |
-| 1754 | V | Luís G. Costa | Quitéria + João ; Quitéria + etc |
-| 1754 | VI | Luís G. Costa | Quitéria + "outras senhoras" |
-| 1754 | VII | Luís G. Costa | Quitéria + "outras doutoras" |
-| 1774 | IX | Luís G. Costa | Quitéria + Antónia + Margarida |
-| 1779 | XI | Manuel C. Pacheco | Quitéria $\dagger$ | 
-
----
-<!-- _backgroundColor: "lightcyan" -->
-
-# Sr.ª Quitéria
-
-| When | Letter | Receipient | Context     |
-|------|-----|-------|-------------|
-| 1774 | IX | Luís G. Costa |  “I am very happy that Mrs. **Quitéria**, Mrs. **Antónia** and Mrs. **Margarida**, (...) are doing well, and please tell that I miss them. Who would ever have thought that there would be these **permits to be away from the convent** for so many years?” |
-
-> "(...) *Tenho grande gosto que a Sr.a Quitéria, a Sr.a Antónia e a S.a Margarida, espero eu (...) passem bem, e lhe peço que lhe dê saudades minhas. Quem diria algum dia que havia de haver estas licenças de estar fora do convento tantos anos?*"
-
----
-
-# Sr.ª Quitéria
-![bg right:55% fit](./quiteria.png)
-
-### All nuns at Monchique?
-
-> ### 1732-05-29: (Some) **Maria Quitéria** joins the convent.
-
-(From the **Book of entries into the convent and professions**, ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421) ➡️  68)
-
-- Conjecture (no more data).
-
-* But possible.
-
----
-
-
-| Convento     | Documento | Anos | Lido tiff= | até | Apontamentos |
-|--------------|-----------|------|:----------:|:---:|--------------|
-| Convento da **Madre de Deus de Monchique** de Miragaia (ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421)) | Livro de entradas no convento e profissões | 1730 a 1832 | 5 | 84 | ... + Maria Quitéria filha de um capitao mor e nascida em Minas Gerais ➡️ 6 (1730) ; antonia josefa 9; humbelina 10; clara josefa 12; margarida 17 ; margarida 26 e 30; josefa 32 ; Quitéria 35 (1752) ; josefa 36; Antonia Clara 1731 ➡️  66 ; Maria Quitéria (1732) ➡️  68 ; Antónia Josefa 1733 71 ; clara Josefa 1734 ➡️  73 ; Quitéria Maria 1735 ➡️ 74 ; ana joaquina 1739 ➡️ 77; maria margarida 179 ➡️ 84
-| Convento de [Santa Clara](https://digitarq.arquivos.pt/details?id=1379448) no Porto (ANTT) | [índice](https://digitarq.arquivos.pt/details?id=1379448) | - | - 
-
-
-
----
-
-# His portrait (1774-80)
-
-1780-10-7: **Carta XIII** - Viena - Manuel Gomes da Costa Pacheco:
-
-> "painted portrait of António da Costa at age 60" ("*retrato em tintas de António da Costa" aos 60 anos*"), made by the secretary of the Minister of Portugal in Naples:
-
----
-
-Bearers:
-
-| When | Who | Where | Description | Reference |
-|------|-----|-------|-------------|----------|
-| 1756-09-24 | Father Francisco Pinto Brandão | Ovar | Inquirição de genere | AUC [1614605](http://pesquisa.adb.uminho.pt/details?id=1614605&ht=Baldaia) |
-| 1758-01-30 | José António Brandão Pinto Baldaia | Ovar | Enrolls as Law student, getting his degree in 1765 | AUC [149906](https://pesquisa.auc.uc.pt/details?id=149906&detailsType=Description&ht=pinto%7cbaldaia) |
-| 1768-06-26| Joaquim Maurício de Pinho e Sousa | Porto | Doctor in Law, enrolled 1767, degree in May 1768 | AUC [238714](https://pesquisa.auc.uc.pt/details?id=238714&detailsType=Description&ht=joaquim%7cmaur%C3%ADcio%7cpinho%7csousa) |
-
----
 
 # *L'Abate Portoghese*
 <!-- _backgroundColor: "lightcyan" -->
@@ -688,9 +618,22 @@ Who was "senhor Torrão"?
 | **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
 
 ---
+
+# "Snr. Torrão"
 <!-- _backgroundColor: "lightcyan" -->
 
-The process didn't get completed, cf. this negative information in the minutes:
+However, the process was not completed, given this negative information in the minutes:
+
+> "*I'm not surprised that António Alvo Torrão doesn't declare himself a priest, because in truth he doesn't seem like it either in his customs or in his habits. (...)*"
+
+> "*He received the extermination sentence for flirting with nuns; and in the land where he was he did such things that he was expelled from the same land again.*"
+
+>  "*He has a reputation for bad behavior; and until he reforms his ways and changes the scandal of his life as an example, it seems to me that he is not capable of what he desires.*"
+
+Porto, 28th February 1739. Manuel dos Reis Bernardes
+
+---
+<!-- _backgroundColor: "lightcyan" -->
 
 > "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra.* **Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende**, *e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
 
@@ -705,44 +648,6 @@ The process didn't get completed, cf. this negative information in the minutes:
 Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
 
 (BND [22517](https://purl.pt/22517))
-
----
-
-# About 18c Porto
-
-![bg right:30% fit](./ellas.png)
-<!-- _backgroundColor: "lightcyan" -->
-
-### Rebelo da Costa:
-
-> "*Women (...) have (in general) good presence, grace and elegant appearance; witty in conversation and lively in what they undertake, and in (...) the various tasks to which they dedicate themselves.*"
-
->  "*Many know **music** perfectly and **play** various harmonic **instruments** skillfully*".
-
-(BN [22517](https://purl.pt/22517) :arrow_forward: 104, fols.52-53)
-
-<!-- (...) Elas (falando geralmente) são de boa presença, garbo e talhe airoso ; espiritosas na conversação e animadas no que emprendem, e executão (...) e prendadas nos differentes lavores a que se applicam. Muitas sabem perfeitamente música e tocam com destreza vários instrumentos harmónicos. -->
-
----
-
-# Letter VII (Rome, 1754)
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:37% fit](./pieta.png)
-
-- "*I have often offered to send you and Sr.ª **Quitéria** some songs she ordered from me, but I almost regret it, because I haven't heard anything that could satisfy her, in my opinion (...)*"
-
-> "*Muitas vezes me tenho oferecido a V. M. e à Sr.ª **Quitéria** para lhe mandar alguma música que ela me encomendasse, mas quase que estou de todo arrependido, porque não ouço coisa que lhe possa contentar, a meu parecer* (...)"
-
----
-# Letter VII (Rome, 1754)
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:37% fit](./pieta2.png)
-
-- "*However, if Sr.ª **Quitéria** wants to try her luck, I will send her a piece, and as she finds it she will make it; but could she say what it should be and under what circumstances.*"
-
-> "*Todavia se a Sr.a **Quitéria** quiser experimentar alguma coisa à fortuna, mandar-lhe-ei uma peça, e assim como se achar com ela, assim fará; mas há-de ela dizer que coisa há-de ser, e com que circunstâncias.*"
-
-<p><br><div style="font-size:9pt;text-indent:42em;"><a href="https://www.youtube.com/watch?v=efonp34pV2E">Image &copy; BBC</a></div></p>
 
 ---
 
@@ -766,7 +671,7 @@ Porto: na Officina de Antonio Alvarez Ribeiro, 1789. - XXXII, 374, [6] p.
 ![bg right:32% fit](./furias.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-> "*Diga-me também como lhe vai Sr. João; se lhe sopram agora mais que o ano passado esses bailes, e essas* **fúrias de Rio**, *que as funções de Martinho Velho bem sei eu que estão acabadas;*"
+> "*Diga-me também como lhe vai Sr. João; se lhe sopram agora mais que o ano passado esses bailes, e essas* **fúrias de Rio**, *que as funções de Martinho Velho bem sei eu que estão acabadas*"
 
 Ann Livermore:
 
@@ -780,29 +685,167 @@ Ann Livermore:
 
 ### Rebelo da Costa:
 
-"*(...) and also the so-called **Fúrias de Rio** (...) That's what they call the fun they have, sailing sweetly to the sound of harmonious instruments on the Douro River in awning boats, which gracefully illuminate at night.*"
+"*(...) and also the so-called **Fúrias de Rio** (...) That's what they call the fun they have, sailing sweetly to the sound of **harmonious** **instruments** on the Douro River in awning boats, which gracefully illuminate at night.*"
 
 > *(...) e ainda as chamadas* **Fúrias de Rio** *(...) Assim denominam os divertimentos com que se entretém, navegando docemente ao som d'**armonicos instrumentos** sobre o Rio Douro com barcos toldados, que de noite iluminam graciosamente*.
 
 ([22517](https://purl.pt/22517) :arrow_forward: 106, fol. 54)
 
----
-
-
-
->  *O ardor da estação, que faz insensível o curso do Rio, dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo*.
+<!-- >  *O ardor da estação, que faz insensível o curso do Rio, dá liberdade a que dentro dos mesmos barcos se merende, ceie, e jogue sem temor de algum perigo*. -->
 
 ---
 
-# Other names
+# About 18c Porto
+
+![bg right:30% fit](./ellas.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-However less certain, other names are identifiable:
+### Still Rebelo da Costa:
 
-* Carlos Alvo (letter XXX) - b.1727 in Quinta da Revolta, in an illustrious family of Campanhã
+> "*Women (...) have (in general) good presence, grace and elegant appearance; witty in conversation and lively in what they undertake, and in (...) the various tasks to which they dedicate themselves.*"
 
-* Bento Luís (letter XXX) - either 
+>  "*Many know **music** perfectly and **play** various harmonic **instruments** skillfully*".
 
+(BN [22517](https://purl.pt/22517) :arrow_forward: 104, fols.52-53)
+
+<!-- (...) Elas (falando geralmente) são de boa presença, garbo e talhe airoso ; espiritosas na conversação e animadas no que emprendem, e executão (...) e prendadas nos differentes lavores a que se applicam. Muitas sabem perfeitamente música e tocam com destreza vários instrumentos harmónicos. -->
+
+---
+
+# Letter VII (Rome, 1754)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:37% fit](./pieta.png)
+
+- "*I have often offered to send you and Mrs. **Quitéria** some songs she ordered from me, but I almost regret it, because I haven't heard anything that could satisfy her, in my opinion (...)*"
+
+> "*Muitas vezes me tenho oferecido a V. M. e à Sr.ª **Quitéria** para lhe mandar alguma música que ela me encomendasse, mas quase que estou de todo arrependido, porque não ouço coisa que lhe possa contentar, a meu parecer* (...)"
+
+<p><br><div style="font-size:9pt;text-indent:42em;"><a href="https://www.youtube.com/watch?v=efonp34pV2E">Image &copy; BBC</a></div></p>
+
+---
+# Letter VII (Rome, 1754)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:37% fit](./pieta2.png)
+
+- "*However, if Mrs. **Quitéria** wants to try her luck, I will send her a piece, and as she finds it she will make it; but could she say what it should be and under what circumstances.*"
+
+> "*Todavia se a Sr.a **Quitéria** quiser experimentar alguma coisa à fortuna, mandar-lhe-ei uma peça, e assim como se achar com ela, assim fará; mas há-de ela dizer que coisa há-de ser, e com que circunstâncias.*"
+
+<p><br><div style="font-size:9pt;text-indent:42em;"><a href="https://www.youtube.com/watch?v=efonp34pV2E">Image &copy; BBC</a></div></p>
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+
+# Sr.ª Quitéria
+
+Teófilo Braga ([1879](https://purl.pt/63)):
+
+> "*The Doctor's wife, Dona Quitéria, was also passionate about music, and Costa had sent her some compositions from Rome.*"
+
+However, we have found out that
+
+> the wife of Dr. **Luís Gomes Costa** was **Clara Luísa**, not Quitéria.
+
+So, who was Mrs. Quitéria?
+
+<!-- ("*A mulher do Doutor, Dona Quitéria, também era apaixonada por música, o de Roma lhe enviara Costa algumas composições*") -->
+
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+
+# Sr.ª Quitéria
+
+Referred to in 6 letters, different contexts
+
+| When | Letter | Who | Context     |
+|------|-----|-------|-------------|
+| 1752 | IV | Luís G. Costa | Quitéria + João |
+| 1754 | V | Luís G. Costa | Quitéria + João ; Quitéria + etc |
+| 1754 | VI | Luís G. Costa | Quitéria + "other *senhoras*" |
+| 1754 | VII | Luís G. Costa | Quitéria + "other *doutoras*" |
+| 1774 | IX | Luís G. Costa | Quitéria + Antónia + Margarida |
+| 1779 | XI | Manuel C. Pacheco | Quitéria $\dagger$ | 
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+
+# Sr.ª Quitéria
+
+| When | Letter | Receipient | Context     |
+|------|-----|-------|-------------|
+| 1774 | IX | Luís G. Costa |  “I am very happy that Mrs. **Quitéria**, Mrs. **Antónia** and Mrs. **Margarida**, (...) are doing well, and please tell that I miss them. Who would ever have thought that there would be these **permits to be away from the convent** for so many years?” |
+
+> "(...) *Tenho grande gosto que a Sr.a Quitéria, a Sr.a Antónia e a S.a Margarida, espero eu (...) passem bem, e lhe peço que lhe dê saudades minhas. Quem diria algum dia que havia de haver estas licenças de estar fora do convento tantos anos?*"
+
+---
+
+# Sr.ª Quitéria
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:45% fit](./quiteria.png)
+
+### ➡️  Mrs. Quitéria *and the others* - nuns at Monchique?
+
+Quitéria was a common name in the 18c. For instance:
+
+> 1732-05-29: (Some) **Maria Quitéria** joins the convent
+
+From the Monchique's **Book of Entries into the Convent and Professions**, 1730-1832 (ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421) ➡️  68)
+
+Further research needed.
+
+---
+
+# Women in António da Costa's letters
+<!-- _backgroundColor: "lightcyan" -->
+
+Letter VI to Luís G. Costa (Rome, 1754):
+
+> "*(...) I miss **Mrs. Quitéria** endlessly, and I ask you to tell her to receive my wish and the good will that I would have to pay her a visit from time to time, to enjoy her speech and her so funny laugh and very pleasant way, which even now seems much better imagined from here*"
+
+<!-- Dê-me infindas saudades à Sr.a Quitéria, e lhe dirá que me receba o desejo e a boa vontade tivera de lhe ir fazer uma visita de quando em quando, para gozar da sua fala e do seu riso tão engraçado, e do seu modo tão agradável, que ainda agora me parece muito melhor imaginando nele cá, -->
+
+> "*(...) those who do not have a beard, even if they are tall, and who speak thinly; these 'doutoras', yes, they never leave my mind*"
+
+<!-- (...) aquelas que não têm barba, ainda que sejam grandes, e que falam delgadinho; estas doutoras sim, que nunca me saem da cabeça -->
+
+Letter VII to Luís G. Costa (Rome, 1754):
+
+> "*(...) she [**Mrs. Quitéria**] and the other 'doutoras' I knew make me even more bitter about being so far from Portugal*"
+
+<!-- "(...) ela [sra. Quitéria] e outras doutoras, que eu conhecia, me fazem ser mais amargoso estar tão longe de Portugal" -->
+
+---
+
+# Rome, 1752
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./canoni.jpg)
+
+**Trios** sent to Porto:
+
+>  “*(…) here are two [trios] to join the others and make half a dozen*” <!-- (“*ahi vão dous para ajustar com os outros a meia duzia*”). -->
+
+>  “*(...) the others already there are more tender; these are best for when a person's heart is unburdened by love, but they still comfort the chest.*" <!-- ("*os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*") -->
+
+(Letter II, 28 Feb. 1752)
+
+---
+
+# The escape from Porto
+<!-- _backgroundColor: "lightcyan" -->
+
+Teófilo Braga ([1879](https://purl.pt/63)):
+
+> "(...) If any attempt had been made to persecute him as a **free thinker**, it would have been impossible for him to obtain the letter from the bishopric of Porto that enabled him to receive in Rome the holy orders and become a cleric at mass."
+
+> "(...) For us the reason is different; it is enough to describe his impressionistic character, the artistic environment in which he lived and, finally, the conditions of his youth, to look for the reason for his sudden departure from Portugal caused by a **romantic intrigue**."
+
+<!--
+(...) para explicar a sua fuga do Porto (...) Se lhe Houvessem tentado qualquer começo do perseguição como livre pensador, ter-lhe-ia sido impossível obter as cartas demissórias do bispado do Porto para poder receber em Roma as ordens sacras e fazer-se clérigo de missa.
+
+(...) Para nós o motivo é outro; basta descrever o seu caracter impressionista, o meio artístico em que vivia, enfim as condições da sua mocidade, para procurar o motivo da sua saída repentina de Portugal como produzido por intriga de amores.
+
+-->
 
 ---
 
@@ -811,11 +854,11 @@ However less certain, other names are identifiable:
 ![bg right:35% fit](./recipients.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-The "*real meat*" is still to be found:
+### More questions than answers!
 
-What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
+- What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
 
-> Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
+- Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
 
 ---
 
@@ -823,6 +866,69 @@ What about the "*palestra do Nunes*", the group of partners that Costa left behi
 <!-- _backgroundColor: "lightcyan" -->
 
 What about **António da Costa** himself?
+
+---
+
+# Current research
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:50% fit](./17131227.jpg)
+
+## 1714
+
+Possible birth record:
+
+> Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863)
+Born: 1713-12-27
+Baptized: 1714-01-01
+
+Other alternatives found but less likely.
+
+:arrow_forward: Needs further research.
+
+---
+
+# Current research
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:32% fit](./almeida.png)
+
+Possibly caricatured by Ghezzi in Rome?
+
+> [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
+
+Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)
+
+What about his **portrait** sent from Vienna in 1780...?
+
+> "(...) [A] *respeito do retrato (...) é possível que V.M. já o tenha em mão (...) O portador é o Snr. Padre Francisco Brandão (...) o qual V.M. ha de procurar em Miragaia (...)*”.
+
+(Letter XIII,  7 Oct. 1780)
+
+---
+
+# The "Porto gang"
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:33% fit](./ghezzi-01.jpeg)
+
+
+---
+
+# The "Porto gang"
+<!-- _backgroundColor: "lightcyan" -->
+
+In **Letter II** (1752) the copyist adds the footnote:
+
+>  "Note / This  burlesque letter is appropriate to the person to whom it was written, the celebrated **Peixoto**, string player of music in the Cathedral of Oporto"
+
+> ("*Nota / Esta carta burlesca está propria p.a a Pessoa a quem foi escrita, q hé o celebre Peixoto, Rabequista da Música da Sé do Porto.*")
+
+
+> "(...) *E cá o snr. Nunes*"
+
+ suggests that violinist António Nunes might in Rome on that occasion.
+
+---
+
+# KEEP Solutions - thanks!
 
 
 ---
@@ -839,6 +945,81 @@ Several other things we don't know:
 > How did they reach ....
 
 This will keep us busy for a while...
+
+---
+
+# Summary
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:45% fit](./teofilo.png)
+
+Teófilo Braga ([1879](https://purl.pt/63)):
+
+> "*(...) [the publication of these letters] provides the Portuguese literature with the most vivid pages that the national language of the 18th century has. It was a double service; they may extol Beckford's Letters, but António da Costa's are even more beautiful, more full of traces of exclusive individuality.*
+
+---
+
+# Summary
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:33% fit](./violino3.png)
+
+Teófilo Braga ([1879](https://purl.pt/63)):
+
+> "*The name of Antonio da Costa, illustrating the Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in every sense we will always proclaim the publication of his letters as a national service.*"
+
+Sure! But now it's time to praise him for what, more than anything else, he was:
+
+> a musician, an original **composer**.
+
+---
+
+END
+
+Quitéria:  
+IX 1774 
+
+
+
+Deification of the feminine: 
+VI 1754 
+
+
+
+| Convento     | Documento | Anos | Lido tiff= | até | Apontamentos |
+|--------------|-----------|------|:----------:|:---:|--------------|
+| Convento da **Madre de Deus de Monchique** de Miragaia (ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421)) | Livro de entradas no convento e profissões | 1730 a 1832 | 5 | 84 | ... + Maria Quitéria filha de um capitao mor e nascida em Minas Gerais ➡️ 6 (1730) ; antonia josefa 9; humbelina 10; clara josefa 12; margarida 17 ; margarida 26 e 30; josefa 32 ; Quitéria 35 (1752) ; josefa 36; Antonia Clara 1731 ➡️  66 ; Maria Quitéria (1732) ➡️  68 ; Antónia Josefa 1733 71 ; clara Josefa 1734 ➡️  73 ; Quitéria Maria 1735 ➡️ 74 ; ana joaquina 1739 ➡️ 77; maria margarida 179 ➡️ 84
+| Convento de [Santa Clara](https://digitarq.arquivos.pt/details?id=1379448) no Porto (ANTT) | [índice](https://digitarq.arquivos.pt/details?id=1379448) | - | - 
+
+
+
+---
+
+# His portrait (1774-80)
+
+1780-10-7: **Carta XIII** - Viena - Manuel Gomes da Costa Pacheco:
+
+> "painted portrait of António da Costa at age 60" ("*retrato em tintas de António da Costa" aos 60 anos*"), made by the secretary of the Minister of Portugal in Naples:
+
+---
+
+Bearers:
+
+| When | Who | Where | Description | Reference |
+|------|-----|-------|-------------|----------|
+| 1756-09-24 | Father Francisco Pinto Brandão | Ovar | Inquirição de genere | AUC [1614605](http://pesquisa.adb.uminho.pt/details?id=1614605&ht=Baldaia) |
+| 1758-01-30 | José António Brandão Pinto Baldaia | Ovar | Enrolls as Law student, getting his degree in 1765 | AUC [149906](https://pesquisa.auc.uc.pt/details?id=149906&detailsType=Description&ht=pinto%7cbaldaia) |
+| 1768-06-26| Joaquim Maurício de Pinho e Sousa | Porto | Doctor in Law, enrolled 1767, degree in May 1768 | AUC [238714](https://pesquisa.auc.uc.pt/details?id=238714&detailsType=Description&ht=joaquim%7cmaur%C3%ADcio%7cpinho%7csousa) |
+
+---
+
+# Other names
+<!-- _backgroundColor: "lightcyan" -->
+
+However less certain, other names are identifiable:
+
+* Carlos Alvo (letter XXX) - b.1727 in Quinta da Revolta, in an illustrious family of Campanhã
+
+* Bento Luís (letter XXX) - either 
+
 
 ---
 
@@ -896,69 +1077,6 @@ topografia :
 </div>
 
 
-
----
-
-# Current research
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:50% fit](./17131227.jpg)
-
-## 1714
-
-Possible birth record:
-
-> Porto, [parish of Sé](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490863)
-Born: 1713-12-27
-Baptized: 1714-01-01
-
-Other alternatives found but less likely.
-
-:arrow_forward: Needs further research.
-
----
-
-# Current research
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:32% fit](./almeida.png)
-
-Possibly caricatured by Ghezzi in Rome?
-
-> [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
-
-Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)
-
-What about his **portrait** sent from Vienna in 1780...?
-
-> "(...) [A] *respeito do retrato (...) é possível que V.M. já o tenha em mão (...) O portador é o Snr. Padre Francisco Brandão (...) o qual V.M. ha de procurar em Miragaia (...)*”.
-
-(Letter XIII,  7 Oct. 1780)
-
----
-
-# The "Porto gang"
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:33% fit](./ghezzi-01.jpeg)
-
-
----
-
-# The "Porto gang"
-<!-- _backgroundColor: "lightcyan" -->
-
-In **Letter II** (1752) the copyist adds the footnote:
-
->  "Note / This  burlesque letter is appropriate to the person to whom it was written, the celebrated Peixoto, string player of music in the Cathedral of Oporto"
-
-> ("*Nota / Esta carta burlesca está propria p.a a Pessoa a quem foi escrita, q hé o celebre Peixoto, Rabequista da Música da Sé do Porto.*")
-
-
-> "(...) *E cá o snr. Nunes*"
-
- suggests that violinist António Nunes might in Rome on that occasion.
-
----
-
-# KEEP Solutions - thanks!
 
 ---
 
@@ -1301,20 +1419,6 @@ She met him and was living in Vienna when he died:
 > "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
 
 (Letter XIII, 1780)
-
----
-
-# Summary
-<!-- _backgroundColor: "lightcyan" -->
-![bg right:33% fit](./violino3.png)
-
-Teófilo Braga ([1879](https://purl.pt/63)):
-
-> "*The name of Antonio da Costa, illustrating the Portuguese art and one of the great in this chorus of victims of obscurantism, resurfaces today as a protest in our history. This is why in every sense we will always proclaim the publication of his letters as a national service.*"
-
-Sure! But now it's time to praise him for what, more than anything else, he was:
-
-> a musician, an original **composer**.
 
 ---
 

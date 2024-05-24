@@ -30,9 +30,9 @@ March 31st, 2023
 
 * Travelling to Venice and Paris, he eventually settled in Vienna, where he is thought to have died around 1780.
 
-* Misantrope, he despised the positions offered to him, living most of his life in poverty.
+* Misanthrope, he despised the positions offered to him, living most of his life in poverty.
 
-* His intelligence and idiosincratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar. 
+* His intelligence and idiosyncratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar. 
 
 ---
 

@@ -29,9 +29,9 @@ May 25th, 2024
 
 - Later travelling to **Venice** and **Paris**, he eventually settled in **Vienna**, where he is thought to have died around 1780.
 
-* Misantrope, he despised the positions offered to him, living most of his life in poverty.
+* Misanthrope, he despised the positions offered to him, living most of his life in poverty.
 
-* His intelligence and idiosincratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar.
+* His intelligence and idiosyncratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar.
 
 ---
 
@@ -213,7 +213,7 @@ To start unravelling the "puzzle", let us record the **recipients** whose names 
 
 (ANTT [7637352](https://digitarq.arquivos.pt/ViewerForm.aspx?id=7637352) :arrow_forward: 3)
 
-This document mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** street, parish of **Vitória**, Porto.
+This document mentions his parents **Luís Gomes Costa** and **Clara Luísa Pacheco** living in the **Ferraria de Cima** Street, Parish of **Vitória**, Porto.
 
 ---
 
@@ -285,7 +285,7 @@ the **parish of Vitória** is considered
 
 ---
 
-# The Gomes Costa family nucleous
+# The Gomes Costa family nucleus
 
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -299,7 +299,7 @@ the **parish of Vitória** is considered
 
 ---
 
-# The Gomes Costa family nucleous
+# The Gomes Costa family nucleus
 
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -315,7 +315,7 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 ---
 
-# The Gomes Costa family nucleous
+# The Gomes Costa family nucleus
 
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -327,7 +327,7 @@ In particular:
 
 ---
 
-# The Gomes Costa family nucleous
+# The Gomes Costa family nucleus
 
 ![bg right:30% fit](./monchique-ruins.png)
 
@@ -345,7 +345,7 @@ Possibilities:
 
 ---
 
-# The Gomes Costa family nucleous
+# The Gomes Costa family nucleus
 
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -360,7 +360,7 @@ Possibilities:
 
 ---
 
-# The Gomes Costa family nucleous
+# The Gomes Costa family nucleus
 
 <!-- _backgroundColor: "lightcyan" -->
 
@@ -460,7 +460,7 @@ More about **Manuel Gomes da Costa Pacheco**:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
-| 1768-07-20 | Margarida | Arouca | Birth of a daugther of Luísa (single) the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
+| 1768-07-20 | Margarida | Arouca | Birth of a daughter of Luísa (single) the father being ("*deu por pai*") captain **Manuel Gomes da Costa Pacheco**, notary owner of Vila da Feira ("*escrivão proprietário*") | [1183231](http://digitarq.adavr.arquivos.pt/ViewerForm.aspx?id=1183231) :arrow_forward: 0104 |
 
 ---
 # The Costa Pacheco family (Vila da Feira)
@@ -497,7 +497,7 @@ Last reference as notary public in 1805 (ANTT [1445904](https://digitarq.adavr.a
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:35% fit](./sgcp.jpg)
 
-More about the **Costa Pacheco**'s decendents in:
+More about the **Costa Pacheco**'s descendents in:
 
 > [Freguesia de S. Nicolau da Vila da Feira](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm) by Roberto Vaz de Oliveira, in Aveiro e o seu Distrito, N.º 16, Junta Distrital de Aveiro, December 1973
 
@@ -515,7 +515,7 @@ Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidis
 
 Letters:
 
-- **Pedro Pereira** recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
+- **Pedro Pereira** - recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
 
 - His death was received with much regret in letter XI (**1779-12-04**).
 
@@ -920,7 +920,9 @@ Other alternatives found but less likely. Needs further research.
 
 Several other things we don't know:
 
-- Who **collected** the letters?
+- Where did Costa studied **music**?
+
+- Who **collected** his letters?
 
 - Who **copied** them?
 

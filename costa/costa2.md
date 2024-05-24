@@ -20,6 +20,58 @@ May 25th, 2024
 **[Symposium Abott António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
 
 ---
+<!-- _backgroundColor: "lightcyan" -->
+
+# Sr.ª Quitéria
+
+Referred to in 6 letters, different contexts
+
+| When | Letter | Who | Context     |
+|------|-----|-------|-------------|
+| 1752 | IV | Luís G. Costa | Quitéria + João |
+| 1754 | V | Luís G. Costa | Quitéria + João ; Quitéria + etc |
+| 1754 | VI | Luís G. Costa | Quitéria + "outras senhoras" |
+| 1754 | VII | Luís G. Costa | Quitéria + "outras doutoras" |
+| 1774 | IX | Luís G. Costa | Quitéria + Antónia + Margarida |
+| 1779 | XI | Manuel C. Pacheco | Quitéria $\dagger$ | 
+
+---
+<!-- _backgroundColor: "lightcyan" -->
+
+# Sr.ª Quitéria
+
+| When | Letter | Receipient | Context     |
+|------|-----|-------|-------------|
+| 1774 | IX | Luís G. Costa |  “I am very happy that Mrs. **Quitéria**, Mrs. **Antónia** and Mrs. **Margarida**, (...) are doing well, and please tell that I miss them. Who would ever have thought that there would be these **permits to be away from the convent** for so many years?” |
+
+> "(...) *Tenho grande gosto que a Sr.a Quitéria, a Sr.a Antónia e a S.a Margarida, espero eu (...) passem bem, e lhe peço que lhe dê saudades minhas. Quem diria algum dia que havia de haver estas licenças de estar fora do convento tantos anos?*"
+
+---
+
+# Sr.ª Quitéria
+![bg right:55% fit](./quiteria.png)
+
+### All nuns at Monchique?
+
+> ### 1732-05-29: (Some) **Maria Quitéria** joins the convent.
+
+(From the **Book of entries into the convent and professions**, ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421) ➡️  68)
+
+- Conjecture (no more data).
+
+* But possible.
+
+---
+
+
+| Convento     | Documento | Anos | Lido tiff= | até | Apontamentos |
+|--------------|-----------|------|:----------:|:---:|--------------|
+| Convento da **Madre de Deus de Monchique** de Miragaia (ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421)) | Livro de entradas no convento e profissões | 1730 a 1832 | 5 | 84 | ... + Maria Quitéria filha de um capitao mor e nascida em Minas Gerais ➡️ 6 (1730) ; antonia josefa 9; humbelina 10; clara josefa 12; margarida 17 ; margarida 26 e 30; josefa 32 ; Quitéria 35 (1752) ; josefa 36; Antonia Clara 1731 ➡️  66 ; Maria Quitéria (1732) ➡️  68 ; Antónia Josefa 1733 71 ; clara Josefa 1734 ➡️  73 ; Quitéria Maria 1735 ➡️ 74 ; ana joaquina 1739 ➡️ 77; maria margarida 179 ➡️ 84
+| Convento de [Santa Clara](https://digitarq.arquivos.pt/details?id=1379448) no Porto (ANTT) | [índice](https://digitarq.arquivos.pt/details?id=1379448) | - | - 
+
+
+
+---
 
 # His portrait (1774-80)
 
@@ -70,13 +122,13 @@ Bearers:
 
 He may have fled because he had confronted someone very powerful who could harm him.
 
-But...
+### But...
 
 > ... why? how?
 
-Back to basics: who was...
+### Back to basics:
 
->  **António da Costa** ?
+> who was **António da Costa** ?
 
 ---
 
@@ -128,11 +180,11 @@ Stable URL: https://www.jstor.org/stable/727650
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:45% fit](./burney-costa.jpg)
 
-- **Charles Burney** travel diary (1772)
+- **Charles Burney** [travel diary](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=259&f=false) (1772)
 
-- 5 Letters exchanged between **Costa**, **Martini** and **Tartini** (1766-1780)
+- 5 Letters exchanged between **Martini** and **Tartini** and **Costa** (1766-1780)
 
-- Manuscript scores preserved in the archives of **Vienn,**, **Berlin** and **Bologna**.
+- Manuscript scores preserved in the archives of **Vienna**, **Berlin** and **Bologna**.
 
 ---
 
@@ -153,7 +205,7 @@ Stable URL: https://www.jstor.org/stable/727650
 ### **5** recipients
 ### **100+** people mentioned
 
-### However, a complete maze...
+### Altogether a complete maze...
 
 > ### Where to start from?
 
@@ -164,15 +216,15 @@ Stable URL: https://www.jstor.org/stable/727650
 <!-- _backgroundColor: "lightcyan" -->
 
 
-### NB: in the diagrams
+### In the diagrams, let
 
 > $a \rightarrow b$
 
-means:
+mean:
 
 > A. da Costa mentioned $b$ in a letter to $a$
 
-that is,
+That is,
 
 > $a$ knew (or got to know about) $b$.
 
@@ -211,11 +263,11 @@ that is,
 
 To start unravelling the "puzzle", let us record the **recipients** whose names are given in full:
 
->   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
+-   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
 
->   **Pedro Pereira de S.Paio** (PPS) - letter VIII
+-   **Pedro Pereira de S.Paio** (PPS) - letter VIII
 
->   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X.
+-   **Luís Costa Gomes** (LCG) - letters IV-VII, IX and X.
 
 ### Let us search for them in archival sources.
 
@@ -279,11 +331,15 @@ and
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:40% fit](./memorias.png)
 
-**1758** - According to the information provided in *Memórias Paroquiais*, **parish of Vitória**, item 18, this is considered
+**1758** - According to the information provided in
+
+- **Memórias Paroquiais**
+
+the **parish of Vitória** is considered
 
 >  illustrious and made up of the most noble and enlightened people in the city.
 
-(ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286) :arrow_forward: 56)
+(ANTT [4241286](https://digitarq.arquivos.pt/viewer?id=4241286) :arrow_forward: 56, item 18)
 
 
 ---
@@ -303,7 +359,7 @@ and
 
 <!-- _backgroundColor: "lightcyan" -->
 
-**Next:** data collected from the **birth** **records** of parishes **Vitória** and **Sé** ([ADP](https://pesquisa.adporto.arquivos.pt/)):
+**Below:** data collected from the **birth** **records** of parishes **Vitória** and **Sé** ([ADP](https://pesquisa.adporto.arquivos.pt/)):
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
@@ -321,7 +377,7 @@ Data collected from the **birth** **records** of parishes **Vitória** and **Sé
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1737-06-09 | Antónia | Vitória | Birth of 1st daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
+| 1737-06-09 | **Antónia** | Vitória | Birth of 1st daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 293 |
 | 1740-01-12 | **Sebastião** | Vitória | Birth of 3rd son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 326
 | 1742-06-10 | Luís | Vitória | Birth of 4th son | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 357 |
 | 1744-10-10 | Antónia (?) | Vitória | Birth of 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
@@ -343,15 +399,17 @@ In particular:
 
 # The Gomes Costa family nucleous
 
+![bg right:30% fit](./monchique-ruins.png)
+
 <!-- _backgroundColor: "lightcyan" -->
 
 Cross-checking:
 
-> **José Alberto Gomes Costa** - a priest, he is oncle of the baptized and mentioned in letters IX, X, XI and XIII.
+- **José Alberto Gomes Costa** - a priest, he is oncle of the baptized and mentioned in letters IX, X, XI and XIII.
 
 Possibilities:
 
-> **António da Costa** - quite likely "*our man*"
+> **António da Costa** - quite likely "*our man*"...
 
 > **Quitéria Maria** - the "*snr.ª Quitéria*" referred to in 6 letters?
 
@@ -361,16 +419,14 @@ Possibilities:
 
 <!-- _backgroundColor: "lightcyan" -->
 
-Moving on:
-
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
 | 1774-10-08 | Dr. Luís Gomes Costa $\dagger$ | Vitória | Dies aged *circa* 70, his son **Sebastião Gomes Costa** being the executor of the will ("*testamenteiro*") | [491251](https://pesquisa.adporto.arquivos.pt/viewer?id=491251) :arrow_forward: 109 |
 
 ### Notes:
 
-* Letter X (Vienna, 1774-12-24) written unaware of the **death** of its recipient.
-* Son **Sebastião Gomes Costa** is mentioned in letters XI, XII sent to his brother **Manuel**.
+- Letter X (Vienna, 1774-12-24) written unaware of the **death** of its recipient.
+- Son **Sebastião Gomes Costa** is mentioned in letters XI, XII sent to his brother **Manuel**.
 
 ---
 
@@ -402,7 +458,7 @@ Note the 4 year gap - but **A. da Costa** knew about **Luís Costa**'s death one
 | 1732-08-13 | **Luís** & **Clara** | Sé | Schoolmaster Rev. **Manuel Carneiro de Araújo** is witness of marriage | [490960](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960) :arrow_forward: 294 |
 | 1735-03-01 | José  | Vitória | Birth: godmother Antónia Rosa Félix, a nun in [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039), her attorney being Rev. **Manuel Carneiro de Araújo** | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)  :arrow_forward: 263 |
 
-School-master **Manuel Carneiro de Araújo** (d.1755) is mentioned in letter VI (1754):
+School-master **Manuel Carneiro de Araújo** ($\dagger$ 1755) is mentioned in letter VI (1754):
 
 > "(...) *aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande*"
 
@@ -426,14 +482,13 @@ Rev. **Manuel Carneiro de Araújo**, schoolmaster of Porto Cathedral
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1728/29 | Rev. Manuel Carneiro de Araújo, schoolmaster | Porto |  é Provedor da Santa Casa da Misericórdia do Porto |  [rol](https://sigarra.up.pt/fep/pt/pub_geral.show_file?pi_doc_id=32942 ) |
+| 1728/29 | Rev. Manuel Carneiro de Araújo, schoolmaster | Porto | Provider of Porto's Holy House of Mercy (*S.Casa da Misericórdia do Porto*) | UP  [32942](https://sigarra.up.pt/fep/pt/pub_geral.show_file?pi_doc_id=32942 ) |
+| 1744-04-26 | Leonor Caetana | Miragaia | daughter of the schoolmaster takes her habit at the convent of [**Monchique**](https://pesquisa.adporto.arquivos.pt/details?id=510039) | ANTT [4638421](https://digitarq.arquivos.pt/ViewerForm.aspx?id=4638421) :arrow_forward: 23 |
 
-<!-- ; **1732-08-13**: assiste ao casamento de Luís Gomes da Costa com Clara Luísa Pacheco na freguesia da Sé (tiff=294 de [casamentos](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960)); **1735-03-01**: procurador da madrinha de José, filho do Lic. Luís Gomes Costa etc ([tiff=263](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)); -->
+<!-- ; **1732-08-13**: assiste ao casamento de Luís Gomes da Costa com Clara Luísa Pacheco na freguesia da Sé (tiff=294 de [casamentos](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490960)); **1735-03-01**: procurador da madrinha de José, filho do Lic. Luís Gomes Costa etc ([tiff=263](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136)); 
 
----
-
-**1744-04-26**: toma o hábito em Monchique Leonor Caetana, filha do mestre escola da Sé, rev. Manuel Carneiro de Araújo, cf. [tiff=23](https://digitarq.arquivos.pt/ViewerForm.aspx?id=4638421); **1754**: \"…*Aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande* … \" ; **1755-12-30**: morre o Rev. Manuel Carneiro de Araújo, mestre escola da Sé, morador na Rua Chã ([tiff=859](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491036)). Deixou como testamenteira a Santa Casa da Misericórdia do Porto.
-
+ **1754**: \"…*Aqui me disse o snr. Lopes, que o snr. mestre-escola da Sé tivera um estupor grande* … \" ; **1755-12-30**: morre o Rev. Manuel Carneiro de Araújo, mestre escola da Sé, morador na Rua Chã ([tiff=859](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491036)). Deixou como testamenteira a Santa Casa da Misericórdia do Porto.
+-->
 
 ---
 
@@ -446,7 +501,7 @@ More from the parish records:
 |------------|-----|-------|-------------|-----------|
 | 1746-01-22 | Luísa       | Vitória | Birth: godfather **D. Frei José Maria da Fonseca e Évora**, Bishop of Porto  | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 412 |
 
-[José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
+[**José Maria da Fonseca "Évora"**](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752) bishop of Porto since 1743.
 
 He is the "**bispo Évora**" mentioned in letter X (1774):
 
@@ -459,7 +514,7 @@ He is the "**bispo Évora**" mentioned in letter X (1774):
 
 [José Maria da Fonseca "Évora"](https://en.wikipedia.org/wiki/José_Maria_da_Fonseca_e_Évora) (1690-1752):
 
-* Left for **Rome** in 1712, as part of the embassy of the Marquis of Fontes
+* Left for **Rome** in 1712, as part of the embassy of the [Marquis of Fontes](https://en.wikipedia.org/wiki/Rodrigo_Anes_de_S%C3%A1_Almeida_e_Meneses,_1st_Marquis_of_Abrantes)
 
 * In 1740 he founded a large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
 
@@ -500,7 +555,7 @@ Last reference as notary public in 1805 (ANTT [1445904](https://digitarq.adavr.a
 # The Costa Pacheco family (Vila da Feira)
 <!-- _backgroundColor: "lightcyan" -->
 
-**Manuel**'s younger brother **Sebastião**  also followed a Law career:
+**Sebastião**, **Manuel**'s younger brother, also followed a Law career:
 
 | When       | Who       | Where  | Description | Reference |
 |------------|-----------|--------|-------------|-----------|
@@ -516,9 +571,8 @@ More about the **Costa Pacheco**'s decendents in:
 
 > [Freguesia de S. Nicolau da Vila da Feira](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm) by Roberto Vaz de Oliveira, in Aveiro e o seu Distrito, N.º 16, Junta Distrital de Aveiro, December 1973
 
-Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm)
-
-> Aside, from the same source: picture of **Sebastião Gomes Costa Pacheco** while a Law student at Coimbra.
+Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidistrito/Boletim16/Page58.htm). Aside, from the same source:
+>  Picture of **Sebastião Gomes Costa Pacheco** while a Law student at Coimbra.
 
 
 ---
@@ -531,9 +585,9 @@ Available :arrow_forward: [on-line](http://ww3.aeje.pt/avcultur/avcultur/Aveidis
 
 Letters:
 
-> Pedro Pereira recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
+- **Pedro Pereira** recipient of the sole letter sent from **Venice** (letter VIII, 1761-7-22).
 
-> His death was received with much regret in letter XI (**1779-12-04**).
+- His death was received with much regret in letter XI (**1779-12-04**).
 
 ---
 
@@ -543,22 +597,23 @@ Letters:
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|----------|
-| 1694-04-25 | **Pedro** | S. Nicolau (Porto) | Birth: son of captain António Pereira de S.Paio and D. Mariana Francisca de França, "*Dona da Câmara da Rainha*" | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
+| 1694-04-25 | **Pedro** (birth) | S. Nicolau (Porto) | Son of cap. **António Pereira de S.Paio** and **D. Mariana Francisca de França**, Lady of the Queen's Chamber  | [490629](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490629) :arrow_forward: 30 |
 | 1710-10-14 |  **Pedro Pereira de S.Paio** | Porto | Application to the S.Tiago Order (then a 15y old student) | ANTT [7671882](https://digitarq.arquivos.pt/details?id=7671882) |
 
 One of the witnesses is **Martinho Coelho**, luthier living in the parish of Sé ([7671882](https://digitarq.arquivos.pt/details?id=7671882) :arrow_forward: 23)
 
 ---
 # Pedro Pereira de S.Paio (1694-1776)
+![bg right:33% fit](./neuburg.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 About his father **António Pereira de Sampaio**:
 
-1689-1691:
+<!--
+1689-1691: ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, *estando ausente nas partes do Norte*, ter acompanhado a rainha a Portugal (ANTT [2322187](https://digitarq.arquivos.pt/details?id=2322187) ▶️ 33);
+-->
 
-ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir de [tiff=29](https://digitarq.arquivos.pt/details?id=2322187)), onde aparece cavaleiro da Ordem de Cristo por, *estando ausente nas partes do Norte*, ter acompanhado a rainha a Portugal (ANTT [2322187](https://digitarq.arquivos.pt/details?id=2322187) ▶️ 33);
-
-1690: "(...) He went from Hamburg, where he resided, to the Court of Heidelberg to offer himself to the Marquis of Alegrete as ambassador there to accompany the Queen to this kingdom"
+1690: "(...) He went from Hamburg, where he resided, to the Court of Heidelberg to offer himself to the [Marquis of Alegrete](https://pt.wikipedia.org/wiki/Marqu%C3%AAs_de_Alegrete) as ambassador there to accompany the [Queen](https://en.wikipedia.org/wiki/Maria_Sophia_of_Neuburg) to this kingdom"
 
 > "*(...) passou de Hamburgo onde residia à Corte de Heidelberg oferecer-se ao Marquês do Alegrete embaixador nela para acompanhar a este reino a Rainha*".
 
@@ -575,23 +630,27 @@ ver a sua Habilitação a familiar do St.Ofício (1689-1691, detalhes a partir d
 
 | When | Who | Where | Description | Reference |
 |------|-----|-------|-------------|-----------|
-| 1744-10-10 | Antónia | Vitória | Rev. João Alves do Vale signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
+| 1744-10-10 | Antónia | Vitória | Rev. **João Alves do Vale** signature in the birth record of Luís Gomes Costa's 2nd daughter | [491136](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491136) :arrow_forward: 392 |
 
 Letters 
 
-> Costa sends regards several times to him, referred to as *o insigne Alves do Vale*.
+- Costa sends regards several times to him, referred to as *the renowned Alves do Vale*
+
+> ("*o insigne Alves do Vale*").
 
 ---
 
 # João Alves do Vale
 
-<!-- _backgroundColor: "#CCE5FF" -->
+<!-- _backgroundColor: "lightcyan" -->
 
 | When | Who | Where | Description | Reference |
 |----------|-----|-------|-------------|-----------|
 |1756-10-02| Rev. João Alves do Vale | Vitória | godfather | [491139](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139) ▶️  594 |
 |1758-07-30| Rev. João Alves do Vale | Vitória | Living in  Ferraria de Cima, baptizes a child of the same street | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=491139) :arrow_forward: 627 |
 |1759-07-23| Rev. João Alves do Vale | Vitória | The same | [491139](https://pesquisa.adporto.arquivos.pt/viewer?id=49113)  ▶️  643 |
+
+:arrow_forward: About his family in [Rua das Flores](https://cabrais.pt/sites/zAscen/Vales%20Pereiras%20Cabrais.pdf).
 
 ---
 
@@ -602,9 +661,9 @@ Rev. Dr. **António Alvo Torrão** is mentioned in letters VIII (1761), X (1774)
 
 In particular, letter X (1774):
 
-> "(...) *e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
+- [ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the* **elusive word** said to me about* **him being like he was before**" ]
 
-> [ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the elusive word said to me about him being like he was before" ]
+> "(...) "*e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
 
 Who was "senhor Torrão"?
 
@@ -615,7 +674,7 @@ Who was "senhor Torrão"?
 
 | When | Who | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
-| **1715-02-03** | António | S. Nicolau | Birth, son of António Lopes Torrão, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife D. Maria Alvo Pereira | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
+| **1715-02-03** | António | S. Nicolau | Birth, son of **António Lopes Torrão**, [Knight of Ordem de Cristo](https://digitarq.arquivos.pt/details?id=7675300) and his wife **D. Maria Alvo Pereira** | [490632](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=490632) ➡️  37 |
 | **1730-10-01** | António Alvo Torrão (Rev.) | Univ. Coimbra | Enrolls as Law student (will get his degree by 1736)  | AUC [203741](https://pesquisa.auc.uc.pt/details?id=203741) |
 
 ---
@@ -625,7 +684,7 @@ Who was "senhor Torrão"?
 
 | When | Who     | Where | Description | Reference |
 |----------------|---------|------------|-------------|-----------|
-| **1739-03-11** | Francisca Inácia + Maria Marcelina | Monchique, Miragaia | "*tomam hábito em Monchique a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro* (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
+| **1739-03-11** | Francisca Inácia + Maria Marcelina | Monchique, Miragaia | "*tomam hábito em [Monchique](https://pesquisa.adporto.arquivos.pt/details?id=510039) a pupilas D. Francisca Inácia e D. Maria Marcelina, filhas de António Lopes Torrão e sua mulher D. Maria Alvaro* (sic)" | ANTT [4638421](https://digitarq.arquivos.pt/viewer?id=4638421) :arrow_forward: 17 |
 | **1740-09-08** | António Alvo Torrão | Coimbra | Application to Inquisition collaborator ("*Habilitação a familiar do Santo Ofício*") | ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229) |
 
 ---
@@ -634,21 +693,6 @@ Who was "senhor Torrão"?
 The process didn't get completed, cf. this negative information in the minutes:
 
 > "(...) *Não me admiro que o pretendente António Alvo Torrão se não declare por padre, porque com efeito o não parece nem nos costumes, nem nos hábitos. Eu o conheço muito bem, porque é meu  convizinho na mesma freguesia, posto que em diferentes ruas. É natural desta freguesia de São Nicolau, e filho legítimo dos pais que declara. Foi estudante; tomou ordens menores; e depois embaraçando-se com uma moça, por não casar com ela, tomou ordens sacras per saltum; pelo que foi punido, teve degredo, que poderá ter satisfeito; porém ainda está suspenso do exercício das suas ordens. Teve a pena de extermínio por feirático; e na terra onde esteve fez tais coisas, que teve ordem para novo extermínio da mesma terra.* **Tem a reputação de mal procedido; e enquanto se não reformar em costumes, e trocar em exemplo o escândalo da sua vida, me parece não está capaz do que pretende**, *e o mesmo há-de parecer a todos os que o conhecem. (…) Porto, 28 de Fevereiro de 1739. Manuel dos Reis Bernardes*"
-
----
-
-**1755-11-11**: é padrinho de uma sobrinha, filha da irmã D. Ana Antónia, na freg. Vitória ([tiff = 576](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
-
-**1757-02-13**: é padrinho na freg. Vitória ([tiff = 601](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
-
-**1758-09-11**: é padrinho na freg. Vitória ([tiff = 629](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
-
-**NB**: nas [décimas](https://gisaweb.cm-porto.pt/units-of-description/documents/711573/?) da freg. S.Nicolau (1725, 218v a lápis, em 'Reboleira e Fonte Taurina'), aparece uma referência a **António Lopes Torrão**, guarda mor em casas próprias;
-
-(pais sao avós em [500](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[610](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[635](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139))
-
-(Alvos e Torrões ([523](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[537](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),559)),
-
 
 ---
 # About 18c Porto
@@ -806,6 +850,20 @@ Teófilo Braga too quick inferences:
 
 - Vieira : no António mentioned
 - Quitéria not the wife of Luís Gomes Costa, but consider the "Quitéria Clara" possibility
+
+---
+
+**1755-11-11**: é padrinho de uma sobrinha, filha da irmã D. Ana Antónia, na freg. Vitória ([tiff = 576](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1757-02-13**: é padrinho na freg. Vitória ([tiff = 601](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**1758-09-11**: é padrinho na freg. Vitória ([tiff = 629](https://pesquisa.adporto.arquivos.pt/viewer?id=491139))
+
+**NB**: nas [décimas](https://gisaweb.cm-porto.pt/units-of-description/documents/711573/?) da freg. S.Nicolau (1725, 218v a lápis, em 'Reboleira e Fonte Taurina'), aparece uma referência a **António Lopes Torrão**, guarda mor em casas próprias;
+
+(pais sao avós em [500](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[610](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[635](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139))
+
+(Alvos e Torrões ([523](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),[537](https://pesquisa.adporto.arquivos.pt/ViewerForm.aspx?id=491139),559)),
 
 ---
 

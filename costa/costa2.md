@@ -849,14 +849,29 @@ Teófilo Braga ([1879](https://purl.pt/63)):
 
 ---
 
+# "Who were the friends of Abott António da Costa in Porto"?
+![bg right:45% fit](./21s.png)
+<!-- _backgroundColor: "lightcyan" -->
+
+
+They were of relatively high social rank
+
+They were either jurists, or clergy or musicians 
+
+> (More identified than shown in these slides)
+
+:arrow_forward: But still more **questions** than **answers**!
+
+---
+
 # Current research
 
 ![bg right:35% fit](./recipients.png)
 <!-- _backgroundColor: "lightcyan" -->
 
-### Still more **questions** than **answers**!
+### Still more **questions** than **answers**:
 
-- What about the "*palestra do Nunes*", the "Porto gang" that Costa left behind in 1749 and to whom he sends his music?
+- What about the "*palestra do Nunes*", the "**Porto gang**" that Costa left behind in 1749 and to whom he sends his music?
 
 - Violinists **João Peixoto**, **Vieira**, **António Nunes**, **Thomas Bark**, **Canner**, ...?
 
@@ -949,7 +964,7 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 </tr>
 <tr >
 <td >
-<strong>UMinho</strong></td> <td><img src="image005.png"></td>
+<strong>UMinho</strong></td> <td><img src="UMinho-50-01.png" width="50"></td>
 </tr>
 <tr >
 <td >

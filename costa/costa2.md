@@ -850,13 +850,15 @@ Teófilo Braga ([1879](https://purl.pt/63)):
 ---
 
 # "Who were the friends of Abott António da Costa in Porto"?
-![bg right:45% fit](./21s.png)
+![bg right:40% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 
-They were of relatively high social rank
+They were of relatively **high social rank**
 
-They were either jurists, or clergy or musicians 
+> Cf. "*enlightened people in the city*"
+
+They were either jurists, or clergy or musicians.
 
 > (More identified than shown in these slides)
 
@@ -924,7 +926,7 @@ Several other things we don't know:
 
 - How did they reach **[António Ribeiro dos Santos](https://pt.wikipedia.org/wiki/António_Ribeiro_dos_Santos)**?
 
-All this will keep us busy for a while...
+(All this will keep us busy for a while...)
 
 ---
 

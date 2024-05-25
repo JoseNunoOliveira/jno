@@ -50,15 +50,13 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:55% fit](./costa_trip.jpg)
 
-He may have fled because he had confronted someone very powerful who could harm him.
+He may have escaped because he had confronted someone very powerful who could arrest him.
 
 ### But...
 
-> ... why? how?
+* ... why? how?
 
-### Back to basics:
-
-> who was **António da Costa** ?
+* ... who *was* **António da Costa** ?
 
 ---
 
@@ -93,9 +91,9 @@ He may have fled because he had confronted someone very powerful who could harm 
 ### 13 Letters sent to Porto (1750-1780)
 - Manuscript copy: ANTT [COD. 4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) (old keys: P-2-18, O-2-18)
 * Studied and published by **J. Vasconcelos** (1879)
-* Commented in depth by Teófilo Braga ([1879](https://purl.pt/63))
-* Also commented by Ann Livermore (1945)
-* Re-published by Lopes Graça (1946)
+* Commented in depth by **Teófilo Braga** ([1879](https://purl.pt/63))
+* Also commented by **Ann Livermore** ([1945](https://www.jstor.org/stable/727650))
+* Re-published by **Lopes Graça** (1946)
 
 <!--
 The Abade Antonio da Costa
@@ -150,17 +148,15 @@ Stable URL: https://www.jstor.org/stable/727650
 
 > $a \rightarrow b$
 
-mean:
+### mean:
 
 > A. da Costa mentioned $b$ in a letter to $a$
 
-That is,
+### That is,
 
 > $a$ knew (or got to know about) $b$.
 
-### First question:
-
-> #### Did these **5** recipients know each other?
+### :arrow_forward: First question - did these **5** recipients know each other?
 
 ---
 
@@ -193,7 +189,7 @@ That is,
 
 To start unravelling the "puzzle", let us record the **recipients** whose names are given in full:
 
--   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI, XII, XIII
+-   **Manuel Gomes Costa Pacheco** (MGCP) - letters XI-XIII
 
 -   **Pedro Pereira de S.Paio** (PPS) - letter VIII
 
@@ -265,7 +261,7 @@ and
 
 - **Memórias Paroquiais**
 
-the **parish of Vitória** is considered
+the **Parish of Vitória** is considered
 
 >  illustrious and made up of the most noble and enlightened people in the city.
 
@@ -279,7 +275,11 @@ the **parish of Vitória** is considered
 <!-- ![bg](./map.png) -->
 ![bg right:40% fit](./caldeireiros.JPG)
 
-**Rua da Ferraria de Cima** (Upper Ferraria street) is today's **Rua dos Caldeireiros**.
+**Rua da Ferraria de Cima** (Upper Ferraria street) is today's
+
+>  **Rua dos Caldeireiros**.
+
+**UNESCO** World Heritage:
 
 > As of 1996, **Vitória** is one of the four districts within the **UNESCO World Heritage** Classified Zone of **Porto**.
 
@@ -335,7 +335,7 @@ In particular:
 
 Cross-checking:
 
-- **José Alberto Gomes Costa** - a priest, he is oncle of the baptized and mentioned in letters IX, X, XI and XIII.
+- **José Alberto Gomes Costa** - a priest, he is oncle of the baptized and mentioned in letters IX-XI and XIII.
 
 Possibilities:
 
@@ -591,11 +591,11 @@ Rev. Dr. **António Alvo Torrão** is mentioned in letters VIII (1761), X (1774)
 
 In particular, letter X (1774):
 
-- [ (...) "and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the* **elusive word** said to me about* **him being like he was before**" ]
+- [ (...) "*and please do so via Mr. Peixoto to Mr. Torrão, of whom V.M. will explain the* **elusive word** *said to me about* **him being like he was before**" ]
 
 > "(...) "*e mos faça fazer pelo senhor Peixoto ao senhor Torrão, de quem V.M. explicará a palavrinha equívoca, que me disse dele de estar como dantes*"
 
-Who was "senhor Torrão"?
+Who was "senhor **Torrão**"?
 
 ---
 
@@ -622,15 +622,15 @@ Who was "senhor Torrão"?
 # "Snr. Torrão"
 <!-- _backgroundColor: "lightcyan" -->
 
-However, the process was not completed, given this negative information in the minutes:
+However, the process was not completed, given this **negative information** in the minutes:
 
 > "*I'm not surprised that António Alvo Torrão doesn't declare himself a priest, because in truth he doesn't seem like it either in his customs or in his habits. (...)*"
 
 > "*He received the extermination sentence for flirting with nuns; and in the land where he was he did such things that he was expelled from the same land again.*"
 
->  "*He has a reputation for bad behavior; and until he reforms his ways and changes the scandal of his life as an example, it seems to me that he is not capable of what he desires.*"
+>  "**He has a reputation for bad behaviour;** *and until he reforms his ways and changes the* **scandal of his life** *as an example, it seems to me that he is not capable of what he desires.*"
 
-Porto, 28th February 1739. Manuel dos Reis Bernardes
+Porto, 28th February 1739. Manuel dos Reis Bernardes (ANTT [2344229](https://digitarq.arquivos.pt/details?id=2344229))
 
 ---
 <!-- _backgroundColor: "lightcyan" -->
@@ -788,7 +788,7 @@ Referred to in 6 letters, different contexts
 
 Quitéria was a common name in the 18c. For instance:
 
-> 1732-05-29: (Some) **Maria Quitéria** joins the convent
+> 1732-05-29: (Some) **Maria Quitéria** joins the Monchique convent
 
 From the Monchique's **Book of Entries into the Convent and Professions**, 1730-1832 (ANTT [4638421](https://digitarq.arquivos.pt/details?id=4638421) ➡️  68)
 
@@ -825,7 +825,7 @@ Letter VII to Luís G. Costa (Rome, 1754):
 
 >  “*(…) here are two [trios] to join the others and make half a dozen*” <!-- (“*ahi vão dous para ajustar com os outros a meia duzia*”). -->
 
->  “*(...) the others already there are more tender; these are best for when a person's heart is unburdened by love, but they still comfort the chest.*" <!-- ("*os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*") -->
+>  “*(...) the others already there are more tender; these are best for when a person's heart is unburdened by **love**, but they still comfort the chest.*" <!-- ("*os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*") -->
 
 (Letter II, 28 Feb. 1752)
 
@@ -836,9 +836,9 @@ Letter VII to Luís G. Costa (Rome, 1754):
 
 Teófilo Braga ([1879](https://purl.pt/63)):
 
-> "(...) If any attempt had been made to persecute him as a **free thinker**, it would have been impossible for him to obtain the letter from the bishopric of Porto that enabled him to receive in Rome the holy orders and become a cleric at mass."
+* "(...) If any attempt had been made to persecute him as a **free thinker**, it would have been impossible for him to obtain the letter from the bishopric of Porto that enabled him to receive in Rome the holy orders and become a cleric at mass."
 
-> "(...) For us the reason is different; it is enough to describe his impressionistic character, the artistic environment in which he lived and, finally, the conditions of his youth, to look for the reason for his sudden departure from Portugal: a **romantic intrigue**."
+* "(...) For us the reason is different; it is enough to describe his impressionistic character, the artistic environment in which he lived and, finally, the conditions of his youth, to look for the reason for his sudden departure from Portugal: a **romantic intrigue**."
 
 <!--
 (...) para explicar a sua fuga do Porto (...) Se lhe Houvessem tentado qualquer começo do perseguição como livre pensador, ter-lhe-ia sido impossível obter as cartas demissórias do bispado do Porto para poder receber em Roma as ordens sacras e fazer-se clérigo de missa.
@@ -860,7 +860,7 @@ They were of relatively **high social rank**
 
 They were either jurists, or clergy or musicians.
 
-> (More identified than shown in these slides)
+> (More identified than those shown in these slides)
 
 :arrow_forward: But still more **questions** than **answers**!
 
@@ -868,7 +868,7 @@ They were either jurists, or clergy or musicians.
 
 # Current research
 
-![bg right:35% fit](./recipients.png)
+![bg right:35% fit](./ghezzi-01.jpeg)
 <!-- _backgroundColor: "lightcyan" -->
 
 ### Still more **questions** than **answers**:
@@ -952,7 +952,7 @@ Several other things we don't know:
 
 Sure! But now it's time to praise him for what, more than anything else, he was:
 
-> a musician, an original **composer**.
+- a **musician**, an original **composer**.
 
 ---
 

@@ -26,7 +26,7 @@ March 31st, 2023
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./ghezzi-01.jpeg)
 
-* Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the Porto region, left the country in 1749 for Rome.
+* *L'Abate* **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of Porto, left the country in 1749 for Rome.
 
 * Travelling to Venice and Paris, he eventually settled in Vienna, where he is thought to have died around 1780.
 

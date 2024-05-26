@@ -3,12 +3,12 @@ marp: true
 math: katex
 theme: default
 paginate: true
-footer:  Symposium Abott António da Costa
+footer:  Symposium Abbé António da Costa
 <!-- _backgroundColor: "lightcyan" -->
 
 ---
 
-# Who were the friends of Abott António da Costa in Porto?
+# Who were the friends of Abbé António da Costa in Porto?
 <!-- _backgroundColor: "#CCE5FF" -->
 
 ![bg right:50% fit](./EE147_005.png)
@@ -17,7 +17,7 @@ JN Oliveira
 
 May 25th, 2024
 
-**[Symposium Abott António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
+**[Symposium Abbé António da Costa, CEHUM](https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=61278)**, UMinho, Braga
 
 ---
 
@@ -25,13 +25,13 @@ May 25th, 2024
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./ghezzi-01.jpeg)
 
-- Abott **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of **Porto**, left the country in 1749/50 for **Rome**.
+- *L'Abate* **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of **Porto**, left the country in 1749/50 for **Rome**.
 
 - Later travelling to **Venice** and **Paris**, he eventually settled in **Vienna**, where he is thought to have died around 1780.
 
-* Misanthrope, he despised the positions offered to him, living most of his life in poverty.
+- Misanthrope, he despised the positions offered to him, living most of his life in poverty.
 
-* His intelligence and idiosyncratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar.
+- His intelligence and idiosyncratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar.
 
 ---
 
@@ -849,12 +849,12 @@ Teófilo Braga ([1879](https://purl.pt/63)):
 
 ---
 
-# "Who were the friends of Abott António da Costa in Porto"?
+# "Who were the friends of Abbé António da Costa in Porto"?
 ![bg right:40% fit](./21s.png)
 <!-- _backgroundColor: "lightcyan" -->
 
 
-They were of relatively **high social rank**
+They were of relatively **high social rank**.
 
 > Cf. "*enlightened people in the city*"
 

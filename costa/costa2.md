@@ -120,22 +120,18 @@ Stable URL: https://www.jstor.org/stable/727650
 
 <!-- _backgroundColor: "lightcyan" -->
 
-<center>
-<img src="./costa-03.png" position="rtight" width="95%">
-</center>
+![](./costa-03.png)
 
 ---
 
 # 13 Letters to Porto (1750-1780)
 <!-- _backgroundColor: "lightcyan" -->
-![bg right:55% fit](./maze.png)
 
-### **5** recipients
-### **100+** people mentioned
-
-### Altogether a complete maze...
+### **5** recipients, **100+** people mentioned, a complete maze altogether...
 
 > ### Where to start from?
+
+![](./maze.png)
 
 ---
 
@@ -680,7 +676,7 @@ Ann Livermore:
 ---
 
 # "Fúrias de Rio" (18c Porto)
-![bg right:32% fit](./furias.png)
+![bg right:33% fit](./JEAN-PILLEMNET-18c.jpg)
 <!-- _backgroundColor: "lightcyan" -->
 
 ### Rebelo da Costa:

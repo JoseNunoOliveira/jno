@@ -890,9 +890,7 @@ About **João Peixoto**, to **Letter II** (1752) the copyist adds the footnote:
 
 (BND [4296](http://id.bnportugal.gov.pt/bib/catbnp/2137427) :arrow_forward: 80, fol.72)
 
-<br>
- 
-<img align="center" width=100% src="burlesca.png">
+![](./burlesca.png)
 
 ---
 

@@ -2,6 +2,8 @@
 
 **2024**
 
+* P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Alloy Goes Fuzzy](https://abz-conf.org/site/2024/program/). To be presented at ABZ 2024 – 10th International Conference on Rigorous State Based Methods, Bergamo (Italy) - Jun 25, 2024 — Jun 28, 2024.
+
 * J.N. Oliveira. <em>"How much is in a square?" An appraisal of relational thinking</em>. Contributed talk to [IFIP WG 2.1 #81](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Germany2024), Kloster Neustadt, Germany, 4th April 2024.
 
 **2023**

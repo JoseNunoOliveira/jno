@@ -40,7 +40,7 @@ May 25th, 2024
 
 ![bg right:55% fit](./costa_trip.jpg)
 
-> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes e tanto de vida de novellas (...)*"
+> "*(..) I asked for a passport in Santiago but they didn't give it to me (...) and I was arrested twice (...) I can't say in a letter what I went through in four months (... ) of life full of 'novellas' (...)*"
 
 (Letter I, 1750, sent to friend João Peixoto)
 
@@ -444,9 +444,9 @@ He is the "**bispo Évora**" mentioned in letter X (1774):
 
 * In 1740 he founded a large library in the AraCoeli convent (the [Biblioteca Eborense](https://www.internetculturale.it/it/41/collezioni-digitali/26298/catalogo-della-biblioteca-del-convento-di-santa-maria-in-aracoeli-di-roma))
 
-* He served as Portugal's ambassador in **Rome** (1728 $\rightarrow$) until accepting the bishopry of **Porto** (1741).
+* Served as Portugal's ambassador in **Rome** (1728 $\rightarrow$) until accepting the bishopry of **Porto** (1741).
 
-* He died in **Porto** in 1752 when Costa was already in **Rome**.
+* Died in **Porto** in 1752 when Costa was already in **Rome**.
 
 ---
 

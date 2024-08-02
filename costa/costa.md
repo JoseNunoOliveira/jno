@@ -13,7 +13,7 @@ footer: 'Wikiscore meets l'Abate Portoghese'
 
 ![bg right:60% fit](./EE147_005.png)
 
-JN Oliveira
+J.N. Oliveira
 
 March 31st, 2023
 
@@ -26,13 +26,13 @@ March 31st, 2023
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./ghezzi-01.jpeg)
 
-* *L'Abate* **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of Porto, left the country in 1749 for Rome.
+* *L'Abate* **António da Costa** (1714-1780?) was a Portuguese musician who, born in the city of Porto, left the country in 1749 for **Rome**.
 
-* Travelling to Venice and Paris, he eventually settled in Vienna, where he is thought to have died around 1780.
+* Travelling to **Venice** and **Paris**, he eventually settled in **Vienna**, where he is thought to have died around 1780.
 
 * Misanthrope, he despised the positions offered to him, living most of his life in poverty.
 
-* His intelligence and idiosyncratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for violin or guitar. 
+* His intelligence and idiosyncratic behaviour attracted the attention of the high nobility, in whose salons he sometimes played his compositions for **violin** or **guitar**. 
 
 ---
 
@@ -40,9 +40,8 @@ March 31st, 2023
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:60% fit](./costa-01.png)
 
-Documented musical connections in **Italy** and **Vienna**.
+Documented musical connections in Italy (**Rome**, **Venice** and **Bologna**) and Austria (**Vienna**).
 
-(among others)
 
 ---
 
@@ -62,20 +61,27 @@ Documented musical connections in **Italy** and **Vienna**.
 
 ![bg right:60% fit](./costa_trip.jpg)
 
-> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes (...) de vida de novellas (...)*"
+<!-- 
+> "*Pedi um passaporte em Santiago e não mo deram (...) e duas vezes estive preso (...) não posso dizer n'uma carta o que passei em quatro mezes (...) de vida de novellas (...)*" -->
+
+> "*(..) I asked for a passport in Santiago but they didn't give it to me (...) and I was arrested twice (...) I can't say in a letter what I went through in four months (... ) of life full of 'novellas' (...)*"
 
 (Letter I, 1750)
 
 ---
 
-# Rome   (1750-1754)
+# Rome   (1750-1760)
 <!-- _backgroundColor: "lightcyan" -->
 
 ![bg right:34% fit](./sadp.png)
 
-At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
+At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/):
 
+<!--
 > "*(...) estou conego com casa e cama, e cozinha de casa, e três mil réis cada mez pela cantarola (...)*"
+-->
+
+> "*(...) I am canon with house and bed, and a kitchen at home, and three thousand réis every month for the singing (...)*"
 
 (Letter VII, 30 Aug. 1754)
 
@@ -99,7 +105,11 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 **Trios** sent to Porto:
 
+<!--
 >  “*(...) os outros que lá estão são mais enternecidos; estes são melhores para quando uma pessoa tem o coração mais aliviado de amores, mas nem por isso deixam de confortar o peito*".
+-->
+
+> "*(...) the others that are already there are more tender; these are best for when one's heart is relieved of love, but that doesn't mean they stop comforting the chest*".
 
 (Letter II, 28 Feb. 1752)
 
@@ -110,7 +120,11 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 ![bg right:50% fit](./Pietro_Nardini.jpg)
 
+<!--
 > "*O Bravo de Leorne chama-se o Senhor [Nardini](https://en.wikipedia.org/wiki/Pietro_Nardini); acompanhei-lhe quatro sonatas a solo em casa do Cardeal Spinelli que está aqui vezinho (...)*"
+-->
+
+> "*(...) The 'Bravo de Leorne' is called Signore [Nardini](https://en.wikipedia.org/wiki/Pietro_Nardini); I accompanied him in four solo sonatas at the house of Cardinal Spinelli, who lives nearby (...)*"
 
 (Letter III, May/June 1752)
 
@@ -123,7 +137,11 @@ At [*Sant’Antonio dei Portoghesi*](http://www.ipsar.org/)
 
 1760 diplomatic crisis: all Portuguese to leave Rome.
 
+<!--
 > "*De Veneza (...) tornar-lhe-hei a dizer que esta terra no material é differentissima do que lá se crê (...)*"
+-->
+
+> "*From Venice (...) I will tell you again that this land in material terms is very different from what is believed there (...)*"
 
 (Letter VIII, 23 Jul. 1761)
 
@@ -162,7 +180,7 @@ Inscription on [Berkeley](https://opac.rism.info/metaopac/search?View=rism&id=13
 
 *("in the style sounding like the guitar of the Portuguese priest")*
 
-Aside :arrow_forward: [Berlin's copy](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN104710864X&PHYSID=PHYS_0090&DMDID=DMDLOG_0029) (Andante).
+(The [Berlin's copy](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN104710864X&PHYSID=PHYS_0090&DMDID=DMDLOG_0029) of this sonata is available on :arrow_forward: [Wikiscore](http://wiki-score.org/doku.php?id=tartini:index).)
 
 ---
 # Vienna (1772-1780)
@@ -176,7 +194,7 @@ Aside :arrow_forward: [Berlin's copy](https://digital.staatsbibliothek-berlin.de
 
 From his travel diary (pag. [259](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=onepage&q=259&f=false)):
 
-> "*But before we set out, the **duke of Braganza** (...) came in; lord Stormont did me the honour to present me to his highness, who is an excellent judge of music (...)*" 
+> "*But before we set out, the **duke of Braganza** (...) came in; lord [Stormont](https://en.wikipedia.org/wiki/David_Murray,_2nd_Earl_of_Mansfield#Public_life) did me the honour to present me to his highness, who is an excellent judge of music (...)*" 
 
 > "*His royal highness gave me an account of a Portuguese Abbé (...)* [who is] *a kind of Rousseau, but still more original (...)*"
 
@@ -277,7 +295,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 [Letter](http://www.bibliotecamusica.it/cmbm/scripts/lettere/scheda.asp?id=2791) from Costa to Martini:
 
-*(...) though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based.*"
+> "*(...) though I write without principle, I must tell you first of all that, if I compare my music with that of any composer, I believe that his is shaped, like mine, by the orientation of the ear, with the only difference that perhaps in his it does not always belong to him, but to those who made the principles on which his music is based.*"
 
 13 Feb. 1779
 
@@ -287,7 +305,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:30% fit](./scarlatti.jpg)
 
-Scarlatti to Laugier:
+[Scarlatti](https://it.wikipedia.org/wiki/Domenico_Scarlatti) to Laugier:
 
 > "*(...) Scarlatti frequently told M. L'Augier, that he was sensible he had broke through all the rules of composition in his lessons; but asked if his deviations from these rules offended the ear? (...)*"
 
@@ -319,7 +337,7 @@ Source :arrow_forward: München, [Bayerische Staatsbibliothek](https://www.digit
 * Unusual modulations 
 * Dissonances beyond tolerated at the time
 * Ties versus spicatto notes
-* Several occurrences of "$\flat\natural$" (??)
+<!-- * Several occurrences of "$\flat\natural$" (??) -->
 
 --- 
 # Style
@@ -330,7 +348,7 @@ Ciacchi & Dellaborra ([2020](https://sidm.it/ojs/index.php/fmi/article/view/1044
 
 > "*To the ear, the effect is in some points astounding, so much as it is unpredictable, but convincing; in others, vice versa, it is incomprehensible and it seems that the succession of sounds is not determined by logic, but by the pure desire to amaze*".
 
-> "*It is certain that Costa's catalog is not complete. (...) Curious character and musician outside the box of the time, Antonio da Costa is still waiting for an overall and documented judgment on his work.*"
+> "*It is certain that Costa's catalog is not complete. (...) Curious character and musician outside the box of the time, **Antonio da Costa** is still waiting for an overall and documented judgment on his work.*"
 
 ---
 
@@ -383,7 +401,9 @@ Death possibly mentioned in the letters of [Leonor de Almeida](https://en.wikipe
 
 She met him and was living in Vienna when he died:
 
-> "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”.
+<!-- > "(...) *Falei já com a fidalga três vezes e bastante mas não tanto quanto é necessário para formar conceito dela com acerto; (...) ; faz bem versos; sabe francês italiano inglês latim e já principia a entender alemão*”. -->
+
+> "(...) *I spoke to the noblewoman three times, and quite a lot, but not as much as was necessary to get a precise idea of her; (...); she does poetry well; knows French, Italian, English, Latin and is already beginning to understand German*".
 
 (Letter XIII, 1780)
 
@@ -396,11 +416,17 @@ Possibly caricatured by Ghezzi in Rome?
 
 > [Pier Leone Ghezzi](https://en.wikipedia.org/wiki/Pier_Leone_Ghezzi) (1674-1755) was a very prolific artist.
 
-Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida)
+Aside: Ghezzi's caricature of [Francisco A. Almeida](https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio_de_Almeida).
 
-What about his **portrait** sent from Vienna in 1780...?
+What about his **portrait** sent from Vienna (through Naples) in 1780...?
 
+<!--
 > "(...) [A] *respeito do retrato (...) é possível que V.M. já o tenha em mão (...) O portador é o Snr. Padre Francisco Brandão (...) o qual V.M. ha de procurar em Miragaia (...)*”.
+-->
+
+> "*"(...) [Regarding] the portrait (...) maybe it reached V.M. in the meantime (...) The bearer is Father Francisco Brandão (...) who V.M. can find in Miragaia (...)”.*".
+
+
 
 (Letter XIII,  7 Oct. 1780)
 
@@ -412,7 +438,7 @@ What about his **portrait** sent from Vienna in 1780...?
 
 What about the "*palestra do Nunes*", the group of partners that Costa left behind in 1749 and to whom he sends his music?
 
-> Violinists João Peixoto, António Vieira, António Nunes, Thomas Bark, Canner, ...?
+> Violinists João Peixoto, Vieira, António Nunes, Thomas Bark, Canner, ...?
 
 
 Meanwhile:
@@ -441,7 +467,9 @@ Sure! But now it's time to praise him for what, more than anything else, he was:
 
 * *Cartas curiosas do Abbade António da Costa anotadas e precedidas de um ensaio biográfico de Joaquim de Vasconcellos*, Porto, Imprensa Litterario-Commercial, 1879. 
 
-* Manuel Carlos de Brito, *A Kind of Rousseau but Still More Original”: Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
+* Ann Livermore, *The Abade Antonio da Costa*. Music and Letters, Volume XXVI, Issue 3, July 1945, Pages 162–171
+
+* Manuel Carlos de Brito, *"A Kind of Rousseau but Still More Original": Novos dados sobre o Abade António da Costa*. In: Estudos de História da Música em Portugal, Lisboa, Estampa, 1989, pp. 139-155
 
 * Andrea Ciacchi, Mariateresa Dellaborra (2020) *António da Costa compositore e commentatore della scena musicale italiana settecentesca*, Fonti Musicali Italiane, 25 (2020), pp.33-60.
 

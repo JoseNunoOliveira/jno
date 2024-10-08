@@ -2,6 +2,8 @@
 
 **2024**
 
+* J.N. Oliveira.  [On the Relational Basis of Early R/G Work](https://doi.org/10.1007/978-3-031-66673-5_4).  In *The Practice of Formal Methods: Essays in Honour of Cliff Jones*, LNCS 14781, pages 56-76, 2024
+
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Alloy Goes Fuzzy](https://link.springer.com/chapter/10.1007/978-3-031-63790-2_4). Proc. ABZ 2024, LNCS 14759, pages 61-79, 2024.
 
 * J.N. Oliveira. <em>"How much is in a square?" An appraisal of relational thinking</em>. Contributed talk to [IFIP WG 2.1 #81](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Germany2024), Kloster Neustadt, Germany, 4th April 2024.

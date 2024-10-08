@@ -6,6 +6,8 @@
 
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Alloy Goes Fuzzy](https://link.springer.com/chapter/10.1007/978-3-031-63790-2_4). Proc. ABZ 2024, LNCS 14759, pages 61-79, 2024.
 
+* F.L. Neves, J.N. Oliveira. [First Steps towards K-12 Computer Science Education in Portugal](https://www.dropbox.com/scl/fi/nqxil9bm1lb5jzm2ccc6c/ENSICO_2024_Report.pdf?rlkey=0gs3yzlkypme6ykln0a9vwdy2&dl=0). ﻿﻿﻿Experience Report], 2024.
+
 * J.N. Oliveira. <em>"How much is in a square?" An appraisal of relational thinking</em>. Contributed talk to [IFIP WG 2.1 #81](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Germany2024), Kloster Neustadt, Germany, 4th April 2024.
 
 **2023**

@@ -266,6 +266,16 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 ---
 
+# Vienna (1772-09-04)
+<!-- _backgroundColor: "lightcyan" -->
+![bg right:30% fit](./joseph_haydn_by_hardy.jpg)
+
+Burney (pag. [294](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=294&f=false)):
+
+> *"(Later) we had some exquisite quartets, by Haydn, executed in the utmost perfection; the first violin by M. Startzler (...); the second violin by M. Ordonetz; count Bruehl played the tenor, and M. Weigel, an excellent performer on the violoncello, the bass. (...)"*
+
+---
+
 # Vienna (1779-80)
 <!-- _backgroundColor: "lightcyan" -->
 ![bg right:42% fit](./17790102.jpg)

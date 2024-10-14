@@ -272,7 +272,7 @@ Burney (pag. [292](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontc
 
 Burney (pag. [294](https://books.google.pt/books?id=a0lptAEACAAJ&printsec=frontcover&hl=pt-PT&source=gbs_ge_summary_r&cad=0#v=snippet&q=294&f=false)):
 
-> *"(Later) we had some exquisite quartets, by Haydn, executed in the utmost perfection; the first violin by M. Startzler (...); the second violin by M. Ordonetz; count Bruehl played the tenor, and M. Weigel, an excellent performer on the violoncello, the bass. (...)"*
+> *"(Later in) this delightful concert, we had some exquisite quartets, by Haydn, executed in the utmost perfection; the first violin by M. Startzler (...); the second violin by M. Ordonetz; count Bruehl played the tenor, and M. Weigel, an excellent performer on the violoncello, the bass. (...)"*
 
 ---
 

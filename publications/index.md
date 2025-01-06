@@ -9,7 +9,7 @@
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Quantitative relational modelling with QAlloy](https://2022.esec-fse.org/track/fse-2022-research-papers#event-overview). Proc. of [ESEC/FSE 2022](https://2022.esec-fse.org/), Association for Computing Machinery, Inc (ACM), pp. 885-896.
 <!--  A [Singapore](https://nus.edu.sg/oam/virtual-tour/utown/), Mon 14 - Fri 18 November 2022. -->
 
-* H.D. Macedo and J.N. Oliveira. <em>Typing Linear Algebra: a Biproduct-oriented Approach</em>. Science of Comp. Programming. Volume 78, pp.2160-2191 ([DOI:10.1016/j.scico.2012.07.012](http://dx.doi.org/10.1016/j.scico.2012.07.012)).
+* H.D. Macedo and J.N. Oliveira. <em>Typing Linear Algebra: a Biproduct-oriented Approach</em>. Science of Comp. Programming. Volume 78, pp.2160-2191, 2012 ([DOI:10.1016/j.scico.2012.07.012](http://dx.doi.org/10.1016/j.scico.2012.07.012)).
 
 ## Submitted
 

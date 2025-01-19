@@ -1,9 +1,5 @@
 ## Other papers, talks, reports etc
 
-**2025**
-
-* J.N. Oliveira. <em>How much is in a square? Calculating functional programs with squares</em>. Accepted by JFP (to appear).
-
 **2024**
 
 * J.N. Oliveira.  [On the Relational Basis of Early R/G Work](https://doi.org/10.1007/978-3-031-66673-5_4).  In *The Practice of Formal Methods: Essays in Honour of Cliff Jones*, LNCS 14781, pages 56-76, 2024

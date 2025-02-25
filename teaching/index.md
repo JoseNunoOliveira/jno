@@ -3,16 +3,16 @@
 
 UCs em curso (*current courses*):
 
-<!-- https://www4-di-uminho-pt.translate.goog/~jno/sitedi/uc_J305N1.html?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-PT&_x_tr_pto=wapp -->
+<!-- https://www-di-uminho-pt.translate.goog/~jno/sitedi/uc_J305N1.html?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-PT&_x_tr_pto=wapp -->
 
-* **UC**: [Cálculo de Programas](https://www4.di.uminho.pt/~jno/sitedi/uc_8504P3.html);
+* **UC**: [Cálculo de Programas](https://www.di.uminho.pt/~jno/sitedi/uc_8504P3.html);
 **Curso**: [MEI](http://miei.di.uminho.pt)+[LCC](http://lcc.di.uminho.pt);
 **Semestre**: 2:2; - [05-06](http://www.di.uminho.pt/~jsp/CalcProg/); [06-07](http://www.di.uminho.pt/~jno/html/cp-0607.html); [07-08](http://www.di.uminho.pt/~jno/html/cp-0708.html); [08-09](http://www.di.uminho.pt/~jno/html/cp-0809.html); [09-10](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP0910/WebHome); [10-11](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1011/WebHome); [11-12](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1112/WebHome); [12-13](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1213/WebHome); [13-14](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1314/WebHome); [14-15](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1415/WebHome); [16-17](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1617/WebHome); [17-18](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP1718/WebHome); [18-19](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP/WebHome); [19-20](http://wiki.di.uminho.pt/twiki/bin/view/Education/CP/WebHome); [20-21](https://haslab.github.io/CP/2021/); [21-22](https://haslab.github.io/CP/2122/); [22-23](https://haslab.github.io/CP/2223/); [23-24](https://haslab.github.io/CP/)
-* **UC**: [Cálculo de Sistemas de Informação](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800006081.html);
+* **UC**: [Cálculo de Sistemas de Informação](https://www.di.uminho.pt/~jno/sitedi/uc_ME78ME7800006081.html);
 **Curso**: [MEI](http://miei.di.uminho.pt)+[LCC](http://lcc.di.uminho.pt);
 **Semestre**: 1:1; - [17-18](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES1718/CSI); [18-19](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES1819/CSI); [19-20](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES/CSI); [20-21](https://haslab.github.io/MFP/CSI/2021/index); [21-22](https://haslab.github.io/MFP/CSI/2122/index); [22-23](https://haslab.github.io/MFP/CSI/2223/index); [23-24](https://haslab.github.io/MFP/CSI/2324/index)
 * **UC**: [Métodos Formais em Engenharia de Software (MFP)](https://haslab.github.io/MFES/); **Curso**: [MEI](https://web.di.uminho.pt/sitedi/meinf); **Semestre**: 1:1;  - [21-22](https://haslab.github.io/MFES/)
-* **UC**: [Informática para a Musicologia](https://www4.di.uminho.pt/~jno/sitedi/uc_F105O8.html);
+* **UC**: [Informática para a Musicologia](https://www.di.uminho.pt/~jno/sitedi/uc_F105O8.html);
 **Curso**: [LM](https://www.elach.uminho.pt/pt/estudar/Paginas/Licenciatura-em-Musica.aspx);
 **Semestre**: 3:1; - [08-09](http://www.di.uminho.pt/~jno/html/ipm-0809.html); [09-10](http://www.di.uminho.pt/~jno/html/ipm-0910.html); [10-11](http://www.di.uminho.pt/~jno/html/ipm-1011.html); [11-12](http://www.di.uminho.pt/~jno/html/ipm-1112.html); [12-13](http://www.di.uminho.pt/~jno/html/ipm-1213.html); [13-14](http://www.di.uminho.pt/~jno/html/ipm-1314.html); [14-15](http://www.di.uminho.pt/~jno/html/ipm-1415.html); [16-17](http://www.di.uminho.pt/~jno/html/ipm-1617.html); [17-18](http://www.di.uminho.pt/~jno/html/ipm-1718.html); [18-19](http://wiki.di.uminho.pt/twiki/bin/view/Education/IPM/IPM1819); [20-21](http://wiki.di.uminho.pt/twiki/bin/view/Education/IPM/WebHome); [21-22](https://haslab.github.io/IPM/2122/); [22-23](https://haslab.github.io/IPM/2223/); [23-24](https://haslab.github.io/IPM/)
 

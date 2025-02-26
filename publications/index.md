@@ -11,13 +11,10 @@
 
 * H.D. Macedo and J.N. Oliveira. <em>Typing Linear Algebra: a Biproduct-oriented Approach</em>. Science of Comp. Programming. Volume 78, pp.2160-2191, 2012 ([DOI:10.1016/j.scico.2012.07.012](http://dx.doi.org/10.1016/j.scico.2012.07.012)).
 
-<!--
+
 ## Submitted
 
-* J.N. Oliveira. *How much is in a square? Calculating functional programs with squares*. Journal of Functional Programming. 2025;35:e7. [doi:10.1017/S0956796825000012](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/how-much-is-in-a-square-calculating-functional-programs-with-squares/F48258008F47DC9F53AA2E61B4E511A7)
-
--->
-
+* P. Silva, N. Macedo and J.N. Oliveira. *On Quantitative Solution Iteration in QAlloy*. Conference paper, 2025. 
 
 ---
 

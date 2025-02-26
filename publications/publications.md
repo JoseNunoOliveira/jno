@@ -13,6 +13,8 @@
 
 **2023**
 
+* J.N. Oliveira. [Why Adjunctions Matter - a Functional Programmer Perspective](https://link.springer.com/chapter/10.1007/978-3-031-43345-0_2). LNCS, volume 13710, 25–59 (2023).
+
 * J.N. Oliveira. *ENSICO and the new "Trivium" for Computing in Schools*. InfoBlender talk, HASLab/INESC TEC / U.Minho, 22nd February 2023. ([Slides](http://www.di.uminho.pt/~jno/ps/haslab23sl.pdf)).
 
 **2022**

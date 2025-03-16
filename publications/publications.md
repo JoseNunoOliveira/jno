@@ -9,7 +9,9 @@
 * F.L. Neves, J.N. Oliveira. *First Steps towards K-12 Computer Science Education in Portugal ﻿﻿﻿Experience Report*, 2024,  	
 [doi.org/10.48550/arXiv.2411.10142](https://doi.org/10.48550/arXiv.2411.10142).
 
-* J.N. Oliveira. <em>"How much is in a square?" An appraisal of relational thinking</em>. Contributed talk to [IFIP WG 2.1 #81](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Germany2024), Kloster Neustadt, Germany, 4th April 2024.
+* J.N. Oliveira. <em>"How much is in a square?" An appraisal of relational thinking</em>. Contributed talk to [IFIP WG 2.1 #81](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Germany2024), Kloster Neustadt, Germany, 4th April 2024.
+
+* J.N. Oliveira, J.J. Almeida and N.R. Carvalho. *On the “maths” of 18c tonality through data mining*. In *3M+1: Estudos de História da Matemática, da Música e Militar*, ISBN: 978-989-8561-12-1, M.A. Forjaz and M.E. Ralha (Eds.), pages 220-239, 2024.
 
 **2023**
 
@@ -24,18 +26,18 @@
 
 **2021**
 
-* J.N. Oliveira. <em>On the power of adjoint recursion</em>. Contributed talk to [IFIP WG 2.1 Short On-line Meeting #O6](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/OnlineOct21), 26 October 2021.
+* J.N. Oliveira. <em>On the power of adjoint recursion</em>. Contributed talk to [IFIP WG 2.1 Short On-line Meeting #O6](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Online_Oct21), 26 October 2021.
 
 **2020**
 
 * A. Santos, J.N. Oliveira. <a href="https://dl.acm.org/doi/10.1145/3406088.3409019"><em>Type Your Matrices for Great Good (Functional Pearl)</em></a>. Proceedings of the [ Haskell Symposium 2020](https://www.haskell.org/haskell-symposium/2020/index.html), 27-28 August 2020, pages 54-66.
 * J.N. Oliveira. [A Note on the Under-Appreciated For-Loop](http://www.di.uminho.pt/~jno/ps/haslabtr202010.pdf). Technical Report TR-HASLab:01:2020, HASLab/U.Minho and INESC TEC.
-* J.N. Oliveira. <em>Biproducts of Galois connections</em>. Contributed talk to [IFIP WG 2.1 Meeting #79](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Otterlo), Otterlo (NL), January 2020.
+* J.N. Oliveira. <em>Biproducts of Galois connections</em>. Contributed talk to [IFIP WG 2.1 Meeting #79](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Otterlo), Otterlo (NL), January 2020.
 
 **2018**
 
 * J.M. Afonso, F. Oliveira, B. Ribeiro, R. Pontes, G. Fernandes, J.P. Fernandes, J.N. Oliveira, A.J. Proenca. [Typed Linear Algebra for Efficient Analytical Querying]( https://arxiv.org/abs/1809.00641). Ref: arXiv:1809.00641, Sep, 2018.
-* J.N. Oliveira. <em>Compiling quantamorphisms for the IBM Q-Experience</em>. Contributed talk to [IFIP WG 2.1 Meeting #77](https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Brandenburg), Brandenburg, Germany, July 2018.
+* J.N. Oliveira. <em>Compiling quantamorphisms for the IBM Q-Experience</em>. Contributed talk to [IFIP WG 2.1 Meeting #77](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Brandenburg), Brandenburg, Germany, July 2018.
 * J.N. Oliveira. [Preparing programmers for quantum](http://www.di.uminho.pt/~jno/ps/pth18sl.pdf). [Porto Tech Hub 2018](https://portotechhub.com/), May 2018.
 * J.N. Oliveira (joint work with R.S. Barbosa and A. Neri). [Towards quantamorphisms - some thoughts on (constructive) reversibility](http://www.di.uminho.pt/~jno/ps/nii18sl.pdf), talk at NII, Tokyo, 23 Jan 2018.
 * J.N. Oliveira. <em>Programming from Metaphorisms</em>. Journal paper. JLAMP Volume 94, January 2018, Pages 15-44 (DOI:[10.1016/j.jlamp.2017.09.003](https://doi.org/10.1016/j.jlamp.2017.09.003)). See [slides](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs) of homonym talk at [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn, Apr 28th, 2016.

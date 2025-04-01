@@ -18,7 +18,7 @@
 
 ---
 
-[Other papers, talks, reports](./publications)
+[Other papers, talks, reports](./publications.md)
 
 ---
 

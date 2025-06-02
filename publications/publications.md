@@ -1,5 +1,9 @@
 ## Other papers, talks, reports etc
 
+**2025**
+
+* Oliveira, J.N. [Using ChatGPT in education - a personal experience](https://science-society.inesctec.pt/index.php/inesctecesociedade/article/view/143). INESC TEC Science&Society, 1(7), 2025. 
+
 **2024**
 
 * J.N. Oliveira.  [On the Relational Basis of Early R/G Work](https://doi.org/10.1007/978-3-031-66673-5_4).  In *The Practice of Formal Methods: Essays in Honour of Cliff Jones*, LNCS 14781, pages 56-76, 2024

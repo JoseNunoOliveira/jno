@@ -1,3 +1,4 @@
+
 [1]
 
 Autobiografia de
@@ -16,6 +17,8 @@ Pôrto,
 Agôsto de 1938
 
 1 [3]
+
+#---
 
 As Antas
 
@@ -232,7 +235,7 @@ praga dos prefeitos e da rigidez disciplinar atrofiadora da personali-
 dade. Aos estudantes mais velhos era exclusivamente atribuída a vigi-
 lância dos mais novos; êstes serviam aqueles nos pequenos serviços do-
 mésticos dos seus quartos privativos. Á mesa, bem servida em qualidade
-e quantidade, juntavam-se indistintamente com os alunos o Regente do co
+e quantidade, juntavam-se indistintamente com os alunos o Regente do co-
 légio e os professores de francês e inglês, contratados das respectivas
 nacionalidades para o ensino destas línguas, os quais viviam no colégio
 com o Regente. As aulas distribuídas pela manhã, após o primeiro almo-
@@ -316,7 +319,7 @@ litécnica, a cursar os preparatórios de Medicina. As classificações obti-
 das eram óptimo prenúncio duma carreira brilhante. Porém o seu irmão
 mais velho que aconteceu ir a Lisboa em vésperas dos actos de Eugénio
 foi encontra-lo tão desfigurado que procurou por todos os meios distraí-
-lo, durante a sua estadia ali, da intensa aplicação ao estudo; e,
+-lo, durante a sua estadia ali, da intensa aplicação ao estudo; e,
 regressado à aldeia, fez ali constar que quasi não reconhecera o seu irmão em Lisboa. Efectivamente
 Eugénio chegou exausto ao fim do 1ª ano dos cursos de Veterinária e Pre-
 paratórios de Medicina, e tinha de optar por um deles na certeza de não
@@ -335,7 +338,7 @@ vir, analfabeta mas inteligente e nervosa, de quem teve 3 filhos que ao
 tempo estudavam os primeiros anos do liceu.
 
 Eugénio ocupou-se então de explicar as lições aos seus sobrinhos,
-соmо indemnização pela comida e dormida que recebia graciosamente. A sua
+como indemnização pela comida e dormida que recebia graciosamente. A sua
 tarefa saia-lhe, porém, árdua, pois que todo o tempo fora das aulas, de tar-
 de e noite, era pouco para mastigar o alimento cerebral que áqueles cus-
 tava a digerir -- um, o mais novo, Adélio de nome, por hereditária negação
@@ -411,7 +414,7 @@ ele cérebro raciocinante.
 Monotonamente avançava, pois, a vida de Eugénio na mais calma e
 pacata placidez.
 
-Um dia regressava da última aula da manhã, para almoçar. Era 5 ª feira, e frequentava nessa altura o 1º ano.
+Um dia regressava da última aula da manhã, para almoçar. Era 5ª feira, e frequentava nessa altura o 1º ano.
 Vinha atrazado uns minutos da sua habitual pontualidade em virtude dum
 incidente ocorrido no carro ao subir a rua de Santa Catarina por altu-
 ras da Fontinha; incendiou-se o motor e tiveram os passageiros de mu-
@@ -588,7 +591,7 @@ de posse de preciosos dados. Sabia já o nome e a presumível idade de
 quem tanto o impressionara. Até o nome lhe parecia encantador como a
 pessoa que o possuía.
 
-Os dias decorriam sempre, com baldadas olhadelas na passagem por а-
+Os dias decorriam sempre, com baldadas olhadelas na passagem por a-
 quêle sítio. Só uma ou duas 5ªs feiras à mesma hora pôde presenciar o
 quadro tal qual o avistara semanas antes.
 
@@ -924,11 +927,15 @@ va volume à ideia. Pois se em só a vendo ao longe todo éle tremia…
 
 :-:-:-:-:
 
+
 18 [25->27]
+
 
 O novo médico
 
+
 #[ TEXTO INTERCALADO
+
 Não obstante os precalços sofridos, sobretudo relativos á escassez de
 tempo com que lutava, Eugénio singrava no seu curso sem desfalecimen-
 to, as classificações obtidas ficavam pelo preço do seu intensivo tra-
@@ -957,7 +964,7 @@ ver-se compreendido por Princesa. Então, sim, é que veria realizado o
 seu sonho.
 [Já um ano antes o facto, que constara vagamente entre os condiscíplos, tivera influência na biografia de Eugénio inserta no tradicional livro dos quintanistas. Transcrever aqui os versos que falam de amor.]
 
- # NB: inserir nota de rodapé a explicar que o texto está incompleto.
+# NB: inserir nota de rodapé a explicar que o texto está incompleto.
 
 O seu curso estava completo, é certo. Lá estava a atestá-lo o di-
 ploma, e os termos dêste deviam ser motivo de orgulho para Eugénio. Não
@@ -1909,7 +1916,7 @@ ade.
 39 [54] #SEGUE PEDAÇO DE FOLHA
 
 Tôda a pessoa tem necessidade de fazer mensalmente o seu orçamento
-раrа que as despezas nunca ultrapassem as receitas, nem sequer as
+para que as despezas nunca ultrapassem as receitas, nem sequer as
 igualem; antes fiquem sempre aquém prevenindo as contingências do dia
 de amanhã. Que felicidade sente todo aquêle que, com todos os compro-
 missos solvidos no último dia de cada mês, pode proclamar bem alto
@@ -3262,7 +3269,7 @@ ouvido falar dela me autoriza a convencer-me que ambos gostam muito um do
 outro.
 
 - Ora isso é que eu não sei, retorquiu Toninho. Há dois anos ofereceu-
-se-me ensejo de conduzir certa conversa nêsse sentido, muito discretamente,
+-se-me ensejo de conduzir certa conversa nêsse sentido, muito discretamente,
 muito a medo. Que era muito nova para pensar nisso, foi a resposta que obtive.
 
 - E então? Volte ao caso. A resposta à primeira invectiva deve aumentar
@@ -3325,7 +3332,7 @@ cia.
 Até Eugénio numa mal disfarçada altivez, pretendeu muitas vezes si-
 mular indiferença á sua passagem, que mais o torturava ainda como todos
 os actos que não correspondessem firmemente ao sentimento que os origi-
-nаrа.
+nara.
 
 [91
 
@@ -3570,7 +3577,7 @@ enquanto fechava o portão. E outras cenas análogas se sucederam. Depois,
 como de costume, umas vezes era naquêles olhares inequívocos, quer à saída
 quer durante o percurso no regresso a casa, outras vezes a indiferença.
 
-64а [96]
+64a [96]
 
 Eugénio debalde procurava mil explicações para esta atitude đúbia,
 para esta notável duplicação da personalidade de Princeza. Um caso de
@@ -3588,7 +3595,7 @@ vidosa. Não quis dar-se, porém, por achado. Mas os gestos repetiam-se, e o
 Zequinha, que acompanhava Eugénio, pretendeu invectiva-la, furioso. E mais fu-
 rioso ficou quando Eugénio o procurou dissuadir da interpretação dada.
 
-- Pois quê? Você tem os olhos tão tapados que não về?
+- Pois quê? Você tem os olhos tão tapados que não vê?
 
 Podia muito bem serem movimentos inconscientes, observou Eugénio. De-
 certo que tratando-se de outra pessoa acreditaria no significado obsceno
@@ -3598,7 +3605,7 @@ to, nem ele, nem o Zéquinha, de o fazerem.
 
 - Que cegueira a sua! Os argumentos não destroem os factos, e êstes
 estão bem á vista. Pois não vê como se repete o gesto, e como, para o confir-
-mar, ela e a amiga do meio, olham para traz em ares de escârneo ?
+mar, ela e a amiga do meio, olham para traz em ares de escârneo?
 
 Era bem verdade tudo quanto o Zequinha observava, e Eugénio, meio venci-
 do, notou que Princesa não podia responsabilizar-se pelos actos duma irmã
@@ -3834,7 +3841,7 @@ já trôpego pela idade, encostado a uma bengala e de cabeleira postiça, passa
 por ter grande fortuna em dinheiro, e assim deve ser pelo número de talhos
 de que é proprietário e de prédios que possue.
 
-o relojoeiro pegado também por ali aparece, rapaz novo de maneiras deli-
+O relojoeiro pegado também por ali aparece, rapaz novo de maneiras deli-
 cadas, e assim outros vizinhos.
 
 Uns, palradores por ofício, outros ouvintes por hábito, o que é certo é
@@ -7184,7 +7191,6 @@ Eis as conversas com que todos os sectores da festiva casa preen-
 chiam o tempo, auxiliando com a boa disposição as difíceis digestões de
 tão empanzinados convivas.
 
-
 117 [161]
 
 A derrota da França
@@ -7433,10 +7439,9 @@ nacional e da restauração. As gazetas enchiam páginas com grandes foto-
 grafias dos cortejos organizados pelo paiz fora, e as boas-vindas ás
 embaixadas especiais das nações que em grande número se haviam dignado
 fazer-se representar. A Exposição do Mundo Português, em Lisboa, alardava-
-se como pedindo meças ás grandes exposições.
+-se como pedindo meças ás grandes exposições.
 
-
-----------------------
+===
 
 Memória biográfica
 

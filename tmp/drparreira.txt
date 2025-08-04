@@ -1,7 +1,7 @@
 
 [1]
 
-Autobiografia de
+Autobiografia de 
 
 Ludgero Lopes Parreira
 1900 - 1974.
@@ -56,7 +56,7 @@ mo da Rua da Alegria, se inflectia a seguir em arco para a esquerda in-
 do juntar-se a distância à Rua das Antas depois de contornar a quinta
 
 2 [4]
-Nuno
+
 dêste mesmo nome.
 
 Quási no ângulo de confluência dêstes dois caminhos, e a-dentro-dos
@@ -356,7 +356,7 @@ se preparar durante as férias grandes.
 
 Um encontro
 
-Em casa dos parentes com quem morava, no Monte Aventino
+Da  casa dos parentes com quem morava, no Monte Aventino, 
 Eugénio passava habitualmente nas Antas para tomar o carro eléctrico em
 Silva Tapada.
 Entre os caminhos que se lhe antolhavam para alcançar o carro,
@@ -435,9 +435,7 @@ viam ser irmãs, e despediam-se duma senhora que acompanhavam à porta
 da casa.
 
 Eugénio moderou o passo. Aquêles olhos sonhadores perturbaram-no
-profundamente. E o almoço já não decorreu com a calma do costume...
-
-# [13] FOI INTERCALADO AQUI, cf: (Segue na folha aparte)
+profundamente. E o almoço  já não decorreu com a calma do costume…
 
 O fenómeno não era tão banal como
 poderia parecer a primeira vista.
@@ -928,13 +926,12 @@ va volume à ideia. Pois se em só a vendo ao longe todo éle tremia…
 :-:-:-:-:
 
 
-18 [25->27]
+18-a- [25->27]
 
 
 O novo médico
 
 
-#[ TEXTO INTERCALADO
 
 Não obstante os precalços sofridos, sobretudo relativos á escassez de
 tempo com que lutava, Eugénio singrava no seu curso sem desfalecimen-
@@ -952,17 +949,34 @@ idade a comer de tudo sem restrições de caprichos. Disso mesmo se van-
 gloriava, prestando homenagem ao seu Pai, sempre que tinha ensejo, por as-
 sim o ter educado.
 Terminou enfim, Eugénio, a sua formatura. Guardou a sua carta de alforria
-#......]
 num misto de alegria e indiferença. Ela marcava o final das suas li-
 des escolares mas ao mesmo tempo o início da luta pela vida. Desenha-
 -se perante os seus olhos o grande ponto de interrogação que é o fu-
-turo. Não era isso porêm que o dominava. Vencera sempre na vida, e de
+turo. Não era isso porem que o dominava. Vencera sempre na vida, e de
 hoje em diante também havia de sair vitorioso. A carta de formatura
 tomava-o feliz, por um lado. Mas alguma coisa lhe faltava para que
 a sua felicidade fôsse completa, e essa alguma e única coisa era o
 ver-se compreendido por Princesa. Então, sim, é que veria realizado o
 seu sonho.
-[Já um ano antes o facto, que constara vagamente entre os condiscíplos, tivera influência na biografia de Eugénio inserta no tradicional livro dos quintanistas. Transcrever aqui os versos que falam de amor.]
+[Já um ano antes o facto, que constara vagamente entre os condiscíplos, tivera influência na biografia de Eugénio inserta no tradicional livro dos quintanistas :
+
+“Vinde a vê-lo,cachopas, vinde a vê-lo,
+Este jovem, simpático Doutor!
+Q’ às difíceis manobras d’escalpelo,
+Junta ainda…umas práticas d, amor!
+
+Correi a vê-lo! e reparai atentas,
+Do seu andar na angélica maneira,
+Nas galochas sem brilho, poeirentas,
+Tão próprias ao Dr. Lopes Parreira!
+
+Tem medo à água… e gestos delicados…
+Uns languidos requebros, completados
+Pelas voltas qu’imprime ao guarda-chuva
+
+Que vem a ser,co’as galochas despolidas
+As duas coisas para êle mais queridas
+E ficam, ao perfil, como uma luva.”
 
 # NB: inserir nota de rodapé a explicar que o texto está incompleto.
 
@@ -1622,7 +1636,7 @@ escaldantes, e não sabem cozinhar porque nunca tiveram tempo para apren-
 der e as mãos perdiam o mimo da frescura, e que coleccionam as contas
 da modista à espera duma herança com que o marido as possa solver.
 
-[44] #TEXTO INTERCALADO[
+[44] 
 
 Caso curioso: essas mulheres atentam inclusiva-
 mente contra as leis da natureza. Numa rápida
@@ -1634,7 +1648,7 @@ do galo, do faisão. O macho é sempre o chamariz
 da fêmea, e nunca inversamente, como acontece com
 todos os seres vivos... excepto com o ser humano
 ultra-moderno em que o pudor desapareceu.
-]
+
 
 Mas além das do século XXV e entre aqueles extremos há classifi-
 cação para a maioria do que para aí se vê.
@@ -1645,11 +1659,23 @@ nura e carinhos que só ela conhece, e que se preocupa em transmitir aos
 
 [46]
 
-[
+32-a
 
-(Para intercalar abaixo)
 
-Por isso, e porque constitue nos
+]
+
+33
+
+seus filhos o nome herdado dos pais, que não exige do marido um vesti-
+do quando êste lho não possa dar.
+
+- Já tinha notado que o Sr. Doutor detesta a vida fictícia mo-
+derna, como eu também detesto. Os princípios que defende são apanágio
+da vida sã que eu já lhe adivinhara. Ainda bem que há um rapaz, e pa-
+ra mais da sua cultura, que abomina a podridão. Pois olhe que aquela
+família de que tanto lhe tenho falado é a encarnação do seu sentimento.
+
+-Por isso, e porque constitue nos
 tempos de hoje um caso invulgar, tenho
 lido com o maior interêsse as nar-
 rativas que se lhe referem. Porque,
@@ -1665,21 +1691,6 @@ gar da esposa que regressa dos seus
 deveres mundanos, inglòriamente alhea-
 da das mais nobres funções que são
 as que lhe competem.
-
-]
-
-33
-
-seus filhos o nome herdado dos pais, que não exige do marido um vesti-
-do quando êste lho não possa dar.
-
-- Já tinha notado que o Sr. Doutor detesta a vida fictícia mo-
-derna, como eu também detesto. Os princípios que defende são apanágio
-da vida sã que eu já lhe adivinhara. Ainda bem que há um rapaz, e pa-
-ra mais da sua cultura, que abomina a podridão. Pois olhe que aquela
-família de que tanto lhe tenho falado é a encarnação do seu sentimento.
-
-(Seque na folha aparte)
 
 - Oxalá não dêem aquelas raparigas com um estouvado que não lhes
 admire outra coisa além da sua fortuna. Não o merecem por princípio
@@ -1777,31 +1788,7 @@ de viajarmos comodamente; e não reconhecemos êstes mesmos direitos
 nos outros que parece terem mais de que nós o dever de se deixarem
 invadir na sua esfera de acção, de restringirem os benefícios colhidos,
 
-[50][
-
-(Para intercalar abaixo)
-
-E que significado teem os partidos? Dois grupos politicos inimigos ôn-
-tem, conluiam-se amanha para combater um terceiro; e no dia seguinte não
-admira que êste último esteja mancomunado com um daqueles. Os filiados
-deixam de ser cérebros pensantes para se tornarem acorrentados á iđea
-dum só homem, cujas ambições e interêsses servem, na esperança em geral
-de verem os seus interêsses e ambições servidos. Não é a luta de ideas,
-mas sim a dos interesses quasi sempre, que impulsiona o indivíduo; mesmo
-assim acontece se, nem sempre a separação é suficientemente nítida
-para justificar a intolerância, e ainda que o fôsse não é fácil dizer
-desapaixonadamente, de que lado está a verdade que os adversários disputam
-com igual direito. Bastará dizer que aquilo que hoje temos como verdade
-amanhã deixa de o ser. Por isso a discussão resulta quasi sempre estéril
-acarretando incompatibilidades pessoais, até daquêles que eram amigos
-se sobrepõem á amizade o falso jugo do partido a que o facciosismo dá
-intenso colorido que só a razão desvanece. Não é tão pouco a filiação
-partidária que caracteriza o indivíduo, mas o seu temperamento. Não vê
-muitos indivíduos com o rótulo de liberais serem os mais intransigentes
-déspotas na sociedade ou a-dentro da família, e, inversamente, como outros
-se dizem retrógrados e são por actos e factos estruturalmente liberais?
-O rótulo exterior nada vale; o que vale é o interior que só a conduta
-traz á superfície.
+35-a[50]
 ]
 
 36 [51]
@@ -1833,8 +1820,27 @@ Em matéria de política sucede o mesmo. Todos se arrogam o direito
 de mandarem e ninguém se arroga o dever de obedecer. Todos o de cri-
 ticar e ninguém o de ser criticado. Os partidos são retaliações de
 obcecados que não se compreendem porque a paixão lhes cega o juízo.
-
-(Segue na folha intercalar)
+E que significado teem os partidos? Dois grupos politicos inimigos ôn-
+tem, conluiam-se amanha para combater um terceiro; e no dia seguinte não
+admira que êste último esteja mancomunado com um daqueles. Os filiados
+deixam de ser cérebros pensantes para se tornarem acorrentados á iđea
+dum só homem, cujas ambições e interêsses servem, na esperança em geral
+de verem os seus interêsses e ambições servidos. Não é a luta de ideas,
+mas sim a dos interesses quasi sempre, que impulsiona o indivíduo; mesmo
+assim acontece se, nem sempre a separação é suficientemente nítida
+para justificar a intolerância, e ainda que o fôsse não é fácil dizer
+desapaixonadamente, de que lado está a verdade que os adversários disputam
+com igual direito. Bastará dizer que aquilo que hoje temos como verdade
+amanhã deixa de o ser. Por isso a discussão resulta quasi sempre estéril
+acarretando incompatibilidades pessoais, até daquêles que eram amigos
+se sobrepõem á amizade o falso jugo do partido a que o facciosismo dá
+intenso colorido que só a razão desvanece. Não é tão pouco a filiação
+partidária que caracteriza o indivíduo, mas o seu temperamento. Não vê
+muitos indivíduos com o rótulo de liberais serem os mais intransigentes
+déspotas na sociedade ou a-dentro da família, e, inversamente, como outros
+se dizem retrógrados e são por actos e factos estruturalmente liberais?
+O rótulo exterior nada vale; o que vale é o interior que só a conduta
+traz á superfície.
 
 Podia, enfim, estar um dia inteiro a enumerar factos demonstrativos de
 quanto os direitos e a razão estão longe de ser compreendidos, e de quanto a
@@ -1914,7 +1920,7 @@ pegar num lápis a verem o que podem gastar em face dos proventos
 seguros, e ainda a ambição de se mostrarem mais do que são na realid-
 ade.
 
-39 [54] #SEGUE PEDAÇO DE FOLHA
+39 [54] 
 
 Tôda a pessoa tem necessidade de fazer mensalmente o seu orçamento
 para que as despezas nunca ultrapassem as receitas, nem sequer as
@@ -1939,7 +1945,7 @@ Todos podem andar decentes a-dentro das suas posses. Todos podem ter
 as comodidades que o seu orçamento comporte. Podem e devem. O dinhei-
 ro só tem valor quando convertido em confôrto para nós. Amontoado,
 
-39a [56] # CONTINUA TEXTO PRINCIPAL
+39a [56] 
 
 sem utilidade, é a avareza. Repugna tanto à minha consciência desperdiçar
 inutilmente um tostão, como faltar com o necessário à saúde física ou ao
@@ -2697,7 +2703,7 @@ não apareceu nesse dia á costumada lição.
 A felicidade não protegeu Eugénio ainda desta vez, e as férias do
 verão vinham pôr termo a todas as actividades lectivas.
 
-[76]
+55b[76]
 
 Veio enfim a época balnear. Como nos anos anteriores, procurou
 não ir à praia frequentada por Princeza. Procurou mas não o conseguiu
@@ -3326,7 +3332,7 @@ Toninho no à-vontade que sentia em face de Eugénio, confessou-lhe hesi-
 tar entre as duas raparigas, mas mostrando que a aldeã o seduzira de preferên-
 cia.
 
-[91]
+61[91]
 
 Eugénio persiste na ofensiva
 
@@ -4773,12 +4779,12 @@ de que dependesse uma sucessão dinástica a pesar nos destinos da nação.
 
 A Travessia do Atlântico
 
-As férias da Páscoa chegam, finalmente, O tempo apresenta-se ora franca-
+As férias da Páscoa chegam, finalmente. O tempo apresenta-se ora franca-
 mente chuvoso, ora densamente brumoso, por vezes tempestuoso, e sempre tristo-
 nho, a lembrar a passagem recente do equinócio. Fazem-se previsões quanto
 ao tempo em que vai decorrer a próxima excursão, aprazada para a semana ime-
 diata ás festas pascais, mas os vaticínios são discordantes conforme o maior
-ou menor optimismo de cada um. O domingo de Páscoa, véspera da partida, estava
+ou menor optimismo de cada um. O domingo de Páscoa, véspera da partida, estave
 ainda péssimo de chuva miúda e vento.
 
 Uma pregunta trazia Eugénio na mente, desde há muito, para fazer a Marí-
@@ -4841,7 +4847,7 @@ uma parte espalhada pelo jardim de inverno, outra pelo salão, e os mais animoso
 instalados nos seus aposentos privativos.
 
 Eugénio acordou cedo. Pela vigia da sua câmara entravam raios de sol
-dum dia limpido, mas o barco baloiçava ainda fortemente, como na véspera, em-
+dum dia límpido, mas o barco baloiçava ainda fortemente, como na véspera, em-
 balando-o em vários sentidos. Em certos momentos afigurava-se-lhe faltar
 apoio ao barco, para submergir na imensidade da água. Um ou outro safanão
 
@@ -4858,7 +4864,7 @@ um estado nauseoso o acometeu, e, a outra, vómitos repetidos e impertinentes
 dum conteúdo gástrico limitado aos sucos, que o prostraram.
 
 Repetiram-se as tentativas frustradas por tão incómodo enjôo, até que,
-num esfôrço máximo, saltou da cama para se vestir, sempre entre vómitos, meto
+num esfôrço máximo, saltou da cama para se vestir, sempre entre vómitos, meio
 exausto, cambaleando a cada sacudidela do barco, e conseguiu enfim ir tomar
 um pequeno almôço para ir engrossar as fileiras daqueles que nos tombadilhos
 procuravam o repouso nas cadeiras de bordo.
@@ -4877,7 +4883,7 @@ elas contava-se Princesa, estendida na sua cadeira com as faces lívidas e a
 modorra do enjôo.
 
 Seguiram-se, após o serviço do chá, as corridas de cavalos
-e de automóveis, para que algumas gentis passageiras passavam senhas diferen-
+e de automóveis, para que algumas gentís passageiras passavam senhas diferen-
 temente coloridas. Nas últimas corridas também a irmã de Princesa vendeu
 senhas, mas, caso curioso, ao contrário do que acontecêra com as demais, passou
 por Eugénio sem lhas oferecer; e foi a sua côr, a verde, que venceu.
@@ -4916,7 +4922,7 @@ mo da excursão.
 
 O que será dado ver aos nossos olhos daqui a pouco? Quais as primeiras
 impressões que sentiremos ao aproximarmo-nos daquelas belezas universalmente
-apregoados sôbre a Flor do Oceano?
+aprègoados sôbre a Flor do Oceano?
 
 Eugénio havia-se preparado para a viagem, folheando todos os livros que
 pôde consultar sôbre a Ilha da Madeira; com os conhecimentos adquiridos che-
@@ -4932,7 +4938,7 @@ ver dentro de breves horas.
 
 80 (1)-[119]
 
-Quando em 1418 os cavaleiros da casa do Infante D. Henrique, Gonsal-
+Quando em 1418 os cavaleiros da casa do Infante D. Henrique, Gonçal-
 ves Zarco e Tristão Vaz, se dirigiam para costa da Guiné, uma tempestade des-
 viou-os da sua rota arrastando-os até uma ilha que, pelo feliz abrigo for-
 necido, foi denominada de Porto Santo.
@@ -4958,7 +4964,7 @@ cânica dotou a Madeira, construíssem as magníficas levadas para a condu-
 A cana de açúcar, trazida da Sicília, foi a primeira cultura explora-
 da na ilha, chegando a produzir 400 mil arrobas de açúcar. Transplantada
 depois a cana para o Brazil, decaiu a indústria sacarina ali. Começou então a
-plantação das vinhas, que em 1846 as doenças raras destruiram mas ainda hoje
+plantação das vinhas, que em 1846 as doenças  destruiram, mas ainda hoje
 constituem fonte de receita notável, pois em 1920,
 atingindo somente metade de uma centena de anos atraz, produziram 55.500
 hectolitros do afamado vinho da Madeira, ou seja 1/5 da produção vínico-
@@ -5007,7 +5013,7 @@ globo? Mais paz entre os povos, menos dissidências, como mais paz e menos
 dissidências ambicionaria ver a-dentro-do lar que é a maior e melhor vida
 que vivemos.
 
-A profissão que abraço é daquelas que mais intimo contacto proporcio
+A profissão que abraço é daquelas que mais íntimo contacto proporcio
 nam no seio das famílias. Como é triste sentir, desde a classificada de alta
 sociedade até á sociedade proletária, a lama em que vegeta grandíssimo nú-
 mero de famílias, onde a harmonia é um mito e que a felicidade nunca bafejou!
@@ -5082,7 +5088,7 @@ A grandiosidade do aspecto dá a impressão dum sonho.
 
 Á medida que o barco progride, pequenos aglomerados de habitações se di-
 visam ladeando de pressões do acidentado terreno, verdadeiros leitos de torren-
-tes agora secas originadas nos cumes da serra que ao longe domina longitudinal-
+tes agora sêcas originadas nos cumes da serra que ao longe domina longitudinal-
 mente a ilha. O Machico e Santa Cruz vão-nos ficando agora para traz. Disper-
 sas, alvejam a distância inúmeras casas semelhando pedras caiadas de branco,
 cada vez mais densas, até que o Funchal se começa a avistar com a sua baía
@@ -5103,12 +5109,12 @@ bos festeja o acontecimento. E ao colocar-se o pontilhão para terra, um rancho
 de mulheres madeirenses vem entregar a bordo um ramo de flores a cada passa-
 geiro.
 
-Começa imediatamente o desembarque por entre os pregões dos ardinas que sobra-
+Começa imediatamente o desembarque por entre os prègões dos ardinas que sobra-
 çam diários locais onde se dedicam desenvolvidas e encomiásticas referências
 á excursão. Um comboio de caminhetas, que aguardavam os recém-chegados, põe-se
 agora em andamento, sob uma atmosfera pesada e quente, em direcção à sede do clube do Funchal, onde são dadas as
 boas-vindas e é fornecido um cálix de vinho da Madeira. Desculpem, disse entre outras
-palavras o presidente no seu discurso, o não termos escolhido um local amplo e com maior
+afirmações o Presidente no seu discurso, o não termos escolhido um local amplo e com maior
 confôrto para a vossa recepção. Achamos mais interessante fazê-la no modesto
 restaurante onde temos as nossas reuniões semanais, propositadamente modesto,
 não por ser mais económico para nós, mas para ficarem disponibilidades
@@ -5197,9 +5203,9 @@ esquecimento da época que se atravessa! E que ignorância sôbre o que no
 continente se exibe nas reuniões dançantes!
 
 As famílias excursionistas começaram, com efeito, a chegar gradualmen-
-te. Com espanto seu, Eugénio vira assomar á porta do salão, volverem um olhar
+te. Com espanto seu, Eugénio vi-as assomar á porta do salão, volverem um olhar
 sôbre a assistência e ingressarem imediatamente sem hesitação. Viu dançar
-seguidamente toda aquela gente, sem observância de nacionalidades na esco-
+seguidamente toda aquela gente, sem observância de nacionalidades na escô-
 lha dos pares, o que é natural, indivíduos do sexo masculino sem distinção
 de idade ou de estado com mulhers casadas, semi-nuas, como esquecidas dos
 deveres que os laços matrimoniais lhes impuseram, e tudo isso com a maior
@@ -5212,8 +5218,8 @@ Pois não é toda a mesma sociedade que ali se reúne, a sociedade ele-
 gante, chique, de capitalistas e de nobres, a alta sociedade? Para quê então
 o pudor entre pessoas de igual distinção? Para quê a arcaica peia dos la-
 ços matrimoniais? - Velharias impertinentes, anacrónicas, que nada justifi-
-cam a actualidade, em que a mulher revindica os mesmos direitos que a tra-
-dição conferia aos homens, e mais o de ser olhada com superioridade, ciosa
+ca na actualidade, em que a mulher revindica os mesmos direitos que a tra-
+dição conferia ao homen, e mais o de ser olhada com superioridade, ciosa
 de gôzo, sobrepondo os deveres mundanos aos domésticos, a exposição da carne
 á pureza do espírito...
 
@@ -5234,21 +5240,21 @@ elegante se inibe de graças picantes, acoimam-no de sensaborão.
 
 Eugénio não compreende que a mulher de hoje viva exclusivamente para
 o prazer e se inferiorize ao dirigir a sua casa.
-# (a)
+
 Eugénio não abdica da velha moral. O mundanismo que sempre detestou
 por questão de princípios inerentes ao seu temperamento, causa-lhe hoje náuseas
 ao conhecê-lo um pouco mais de perto. E mais: a mulher, que estava
 habituado a colocar muito alto no seu conceito, cada vez mais se reduz a um simples
 instrumento de gôzo, falho de toda a personalidade, verdadeiro monstro que de humano
 só tem a sensibilidade e que a razão nunca penetrou.
-#
+
 Entretanto Eugénio, encostado, seguia atentamente toda aquela bacanal
 coreográfica. Do grupo de Princesa, a menos solicitada para dançar era pre-
 cisamente ela. Sucediam-se as músicas, e Princesa ficava frequentes vezes
 sentada, libertada das companheiras que bailavam quasi, ininterruptamente.
 
 Foi num dêstes momentos, já de madrugada, que Eugénio quis estrear-se.
-Planeara muitas vezes já ir convidar Princesa para dançar mas com a devida
+Planeara muitas vezes  ir convidar Princesa para dançar mas com a devida
 discreção para se não expôr á troça das amigas perante uma possível evasiva.
 Tinha, é certo, na mente as palavras ouvidas a Marília de que aquela era in-
 capaz duma incorrecção, mas a dúvida persistia.
@@ -5270,7 +5276,7 @@ dançar. Haviam sido trocadas as primeiras palavras entre Eugénio e Princesa.
 Poucas é certo, mas as bastantes para ajuizar da hostilidade desta para com
 aquele.
 
-Marília tinha-se enganado. Verdade é que saira da sua boca a afirma-
+Marília tinha-se enganado. Verdade é que saíra da sua boca a afirma-
 ção de que as irmãs Frazão se haviam modificado profundamente desde que
 estreitaram relações com as suas novas amigas... Princesa nem sequer quis
 justificar a sua atitude, formulando qualquer desculpa, ou mantendo-a em fu-
@@ -5280,10 +5286,10 @@ Passava-se isto nas primeiras horas dum fatídico dia 13. Eugénio não
 dançou mais, e retirou-se, algum tempo passado, para bordo. Que se passaria
 no seu espírito? Iria convencido desta feita que se tinha enganado duran-
 te tantos anos sôbre o carácter de Princesa? Daria agora razão aos amigos
-que lhe afirmaram múltiplas vezes que Princesa era como as outras: Nem
-Eugénio sabia prescrutar o seu espirito naquela emergência de confusão men-
+que lhe afirmaram múltiplas vezes que Princesa era como as outras?Nem
+Eugénio sabia prescrutar o seu espírito naquela emergência de confusão men-
 tal, nem tãm pouco o tentou.
-a)
+
 
 87 [126]
 
@@ -5293,7 +5299,7 @@ caminhetas, prevenidos com agasalhos. E a caravana lá debandou, serra acima,
 até á Ribeira das Cales numa altitude de 1420 metros, onde o frio por vezes
 se fazia sentir bem áspero, para se começar a descer em direcção ao Ribeiro
 Frio onde o almôço estava preparado. A aridez dos cumes talhados em escar-
-pas quase a pique, por onde a estrada zig-zagueava com declives formidáveis,
+pas quasi a pique, por onde a estrada zig-zagueava com declives formidáveis,
 contrastava agora com a fertilidade da costa sul. A distância,
 o Atlântico. Mais longe os contornos de Porto Santo.
 
@@ -5311,7 +5317,7 @@ ambiente familiar aqui respirado.
 
 Seguidamente a caravana regressou á procedência. O Funchal, sempre
 dominado do alto mas escondido a intervalos pelas colunas de nevoeiro ou
-pelos pinhais, a meia encosta, lá no fundo, sorridente na sua baía que
+pelos pinhais, a meia encosta, lá está no fundo, sorridente na sua baía que
 lhe realça a beleza. As caminhetas vão descendo, proporcionando sempre novos
 horizontes de panoramas variados a cada curva que faz a estrada.
 
@@ -5362,7 +5368,7 @@ flectindo depois para a vertente norte até á Portela, umas série de pitores-
 
 cos quadros se desenrolou aos olhos dos excursionistas como gigantesca
 tela. Era aqui a fragrante verdura em múltiplas tonalidades do Minho,
-ali as leiras encostadas a declives brutais de Traz-os-Montes, acolá
+ali as leiras encostadas a declives brutais de Traz-os-Montes, acolá os
 casebres pobres da Beira. Ao lado sempre o mar, deixando aflorar a pequena
 distância as ilhas Desertas. Ao fim, a Portela com os seus horizontes des-
 lumbrantes de beleza e amplidão.
@@ -5372,7 +5378,7 @@ quiz brindar a excursão fazendo-a saborear uma suculenta e variada refei-
 ção de doces e vinho da Madeira, e, atravessando sempre para a costa sul
 por entre pinhais, apareceu de novo o Funchal.
 
-O Savoy Hotel forneceu agora o almôço, e, após uma visita á sua bela-
+O Savoy Hotel forneceu agora o almôço, e, após uma visita á sua bela
 piscina á beira-mar, ficou a tarde livre para compras na cidade. Descon-
 gestionaram-se as lojas dos seus preciosos bordados, que avalanches de ex
 cursionistas invadiam para trazerem valiosas recordações de tão mimosa
@@ -5409,8 +5415,8 @@ Com a alegria que presidiu a êste almôço, contrastava agora a quasi-
 tristeza do regresso. Era o último adeus á ilha, de que tantas e tão gra-
 tas recordações todos levavam. Na volta, Câmara de Lobos acolheu festiva-
 mente os visitantes que não quizeram passar por lá sem admirarem as bele-
-zas do seu porto. E novamente a caravana se poz em marcha, e o Funchal apa-
-receu para receber os despedidas.
+zas do seu porto. E novamente a caravana se pôz em marcha, e o Funchal apa-
+receu para receber as despedidas.
 
 Dentro de poucas horas o vapor levantaria ferro. Logo de manhã acen-
 deram-se as suas caldeiras. O chá, servido a bordo em honra ás famílias
@@ -5419,7 +5425,7 @@ horas locais o barco descolou do cais apinhado de gente que correspondia
 com os lenços aos acenos de bordo.
 
 Ninguém escondia a saudade com que partia, após tantos encantos vivi-
-dos em pouco tempo. As atenções com que os continentais foram sempre cu-
+dos em pouco tempo. As atenções com que os continentais fôram sempre cu-
 mulados durante esta estadia, desde a recepção até final, a forma impecável
 como foi organizado o programa e posto em prática, não são mais, de-resto,
 que o reflexo do elevado civismo que caracteriza o público ilheu que bem
@@ -5434,8 +5440,8 @@ quele lindo rincão de terra. As tabuletas são em grande número impressas
 89 [128]
 
 em inglez, ou pelo menos lê-se êsse idioma ao lado do nacional. As grandes
-empresas exploradoras do açúcar e do vínho são inglesas. Toda a gente fala
-e entende o inglês, para agradar á numerosa colónia inglesa que é detentora
+emprêsas exploradoras do açúcar e do vínho são inglesas. Toda a gente fala
+e entende o inglês, para agradar á numerosa colónia inglêsa que é detentora
 dos melhores palacetes dispersos pela ilha, e a pronúncia do idioma portu-
 guês ressente-se profundamente da influência inglêsa.
 
@@ -5481,7 +5487,7 @@ Hitler, falando ao mundo, invectiva tudo e todos, declarando opôr a fôrça
 à resistência que porventura encontre no seu pretenso direito de alcançar
 um lugar ao sol... como há 4 anos Mussolini, arrogando-se uma bravura des-
 medida, desafiava tudo e todos para que se opuzessem à sua entrada na Abis-
-sinia no altruista desejo de levar ali uma civilização europeia.
+sínia no altruista desejo de levar ali uma civilização europeia.
 
 A Itália, a Alemanha e o Japão formam o eixo duma ideologia nacional-
 -sindicalista, imposta por ditaduras, em que a avidez de predomínio é a carac-
@@ -5511,7 +5517,7 @@ tornar realizável.
 Sempre assim foi. Quando dois homens se encontram pela primeira vez, o
 mais ávido e activo procura conquistar a supremacia sôbre o outro; se ambos
 são tímidos, aquele que primeiro refrear a timidez será entre eles o indiví
-duo dominador. O que acontece com os indivíduos, acontece com os povos, Eis
+duo dominador. O que acontece com os indivíduos, acontece com os povos. Eis
 a génese do despotismo. Mussolini é, em avidez e actividade, em audácia e te-
 meridade, o condutor de povos, falando com arrogância aos seus apaniguados e
 desafiando com as suas palavras destemidas o mundo.
@@ -5527,7 +5533,7 @@ das Nações faliu. O balão de ensaio italiano surtira o melhor resultado.
 
 Hitler não fala alto ao mundo, não empolga multidões, não electriza
 o seu povo para o conduzir, como faz Mussolini. Não é um condutor de povos.
-Recorre a astucia, a que se convencionou chamar, diplomacia. Procura antes
+Recorre à astúcia, a que se convencionou chamar, diplomacia. Procura antes
 que tudo a oportunidade na fraqueza do adversário e, se a não encontra, pro-
 voca-a semeando a intriga. A sua actuação é surda, os seus queixumes de ne-
 cessidades colonizadoras contrastam com a arrogância de Mussolini.
@@ -5537,7 +5543,7 @@ audácia aliada à perspicácia do outro eixo. O sistema democrático reconhece
 a sua impotência.
 
 A Espanha lança-se na fogueira da guerra. Debatem-se precisamente ali
-as duas ideologias opostas e irreconciliáveis entre dente da mesma nação. Acor-
+as duas ideologias opostas e irreconciliáveis entredente da mesma nação. Acor-
 rem os dois eixos a enviar lenha que mantenha o fogo. Francezes, inglezes e
 russos com espanhois governamentais: italianos, alemãis e portuguezes com
 espanhois de Franco. As abundantes reservas de ouro da Espanha transformam-
@@ -5557,7 +5563,7 @@ flando-lhes o senso da paz, ao destino dos povos.
 É uma boa oportunidade de Hitler chamar a si a Áustria, enquanto aquele
 poderio adverso não é atingido. Em 1938 anexa os sudetes. O tratado de
 Munich, agora assinado pelas grandes potências de um e outro lado, vai opôr-
-se de ora-avante a que novos esbulhos se produzam sôbre os paises mais fra-
+se de òra-avante a que novos esbulhos se produzam sôbre os paises mais fra-
 cos. Mas o tratado de Munich é um papel como os outros, e atraz dos sudetes
 vai toda a Tcheco há pouco mais de um mês. Pouco antes tinha sido anexada
 Memel.
@@ -5567,28 +5573,28 @@ nham à sua necessidade de espaço vital, enquanto as democracias se agacham
 timidamente. Já não restam dúvidas que a Alemanha pretende ser senhora da
 Europa, como em 1914 sonhava ser seu imperador Guilherme II.
 
-Poucos dias antes da partida para a ladeira, já em plena semana santa,
+Poucos dias antes da partida para a Madeira, já em plena semana santa,
 a inquietação da Europa Central dá motivo a que os diários noticiosos en-
 cham mais uma vez as suas colunas de letras gordas. É desta vez a Albânia
-que pede socorro, ameaçada de invasão pela Itália. O terror da rapinagem
+que pede socôrro, ameaçada de invasão pela Itália. O terror da rapinagem
 próxima foi de curta duração. Os pródromos foram sumários. E, numa noite 
 a Albânia tornou-se quasi imprevistamente uma colónia italiana, não sem ter
 procurado defender com denodo e até ao último reduto a sua independência.
 
 A atmosfera internacional conserva-se sobrecarregadíssima. A Alemanha
-e a Itália são o fulcro do desassossego mundial, com a sua megalomania in-
+e a Itália são o fulcro do desassossêgo mundial, com a sua megalomania in-
 vasora, ameaçando anexar tudo à insaciabilidade das suas exigências terri-
 toriais, semeando o pânico, precipitando as invasões em vertigem louca. Que
-revindicações viriam mais as cobiça das colonias portuguesas, há muito con-
+revindicações viriam mais? As cobiçadas colónias portuguesas, há muito con-
 denadas à partilha entre os nossos amigos inglêses e alemãis? O próprio
-Portugal, chave do Atlântico e do mediterrâneo? Ah, não: Nêste, mais que a
+Portugal, chave do Atlântico e do Mediterrâneo? Ah, não!Nêste, mais que a
 amizade, havia os interesses da Inglaterra a manter íntegra a sua indepen-
 dência, e só êsse facto nos dava a certeza de ainda pisarmos solo nosso ao
 abordarmos a costa...
 
 Guerra!  imploram uns, como único remédio salvador com que se extermine
 aquele foco de desordem. Paz! reclamam outros, aqueles que tremem ao ver
-a chacina das lanças e obuzes, a destruição duma civilização:
+a chacina das lanças e obuzes, a destruição duma civilização.
 As democracias ameaçam sair do marasmo para pôr côbro à voracidade in-
 vasora, mas ainda se não sentem suficientemente fortes. Só em 1940. A França
 e a Inglaterra estão bem certas da fidelidade do seu recente tratado de
@@ -5598,10 +5604,10 @@ enfileirarão a seu lado? É uma pregunta que todos fazem.
 Com a terminação da guerra de Espanha, cabe agora a vez da Itália re-
 vindicar compensações para o auxilio que trouxe à vitória de Franco. Volta-
 se para Gibraltar, a porta do Mediterâneo, de que pretende assenhorear-se
-para melhor dominar este mar. As esquadras ingleza e italiana começam a 
-exibir-se. Portugal está ameaçado de servir agora de teatro de guerra.
+para melhor dominar êste mar. As esquadras ingleza e italiana começam de se 
+exibir. Portugal está ameaçado de servir agora de teatro de guerra.
 
-Eis a enervante expectativa com que as últimas notícias recebidas na
+Eis a ennervante expectativa com que as últimas notícias recebidas na
 Madeira eram disputadas com sofreguidão pelos continentais, como agora, no
 alto mar, o são as notícias do rádio. Portugal, teatro de guerra! Aquele tor-
 rão em que nascemos, que vimos progredir, condenado a ser amanhã um montão
@@ -5616,7 +5622,7 @@ mostrando-lhes a responsabilidade duma guerra, e apela para o
 seu bom-senso no sentido de se evitar a efusão de sangue.
 
 E a incerteza do dia de amanhã cai não só sôbre todos os pequenos
-povos, com o pesadelo tremendo da absorção, como sobre toda a Europa, perante
+povos, com o pesadelo tremendo da absorção, como sôbre toda a Europa, perante
 a iminência duma conflagração mundial...
 
 92 [131]
@@ -5637,7 +5643,7 @@ tecido em todos os jantares de bordo.
 Eugénio fôra convidado pelo Comissário para se sentar na sua mesa.
 
 Uma interessante surpreza estava reservada aos convivas nesta refei-
-ção levantados os pratos de sôpa, apagam-se as luzes dum sector da sala. Fu-
+ção. Levantados os pratos de sôpa, apagam-se as luzes dum sector da sala. Fu-
 são de fios ou qualquer outro acidente, conjecturavam uns e outros. Em bre-
 ve se apagam as restantes, e os convivas mergulham nas trevas. Após uns
 momentos de geral inquietação, uma formatura de criados entra na sala ras-
@@ -5650,14 +5656,14 @@ viu-se a lagosta no meio de quente ovação à oficialidade e a toda a tripu-
 lação sem esquecer o cozinheiro.
 
 O serviço de jantar foi primoroso. O Comandante, e com êle toda a ofi-
-cialidade, que em toda a viagem não puderam ter maior requintes de gentile-
+cialidade, que em toda a viagem não puderam ter mais requintes de gentile-
 za para os excursionistas, quizeram fechar com chave de ouro a fidalguia
 do trato com que sempre se houveram para com êles. Até o baile desta noi-
 te, o último a bordo, promovido pelos oficiais, teve especial animação.
 
 Amanheceu o dia de 2 º feira com um horizonte límpido como os anterio-
-res, e o mar calmo. A crescia agora a saudade dos momentos vividos, no sem-
-blante de todos: Aproximava-se cada vez mais a terra., 100 milhas, 90, 80...
+res, e o mar calmo. Acrescia agora a saudade dos momentos vividos, no sem-
+blante de todos. Aproximava-se cada vez mais a terra. 100 milhas, 90, 80...
 A chegada a Lisboa está marcada para as 15 horas, e já os binóculos acusam
 
 93 [132]
@@ -5676,7 +5682,7 @@ ge, Paço de Arcos, Belém, os Jerónimos, o casario de Lisboa, e eis o desembar
 que em Santos sob um calor abafado de trovão.
 
 Separam-se os excursionistas com as famílias que aguardavam a sua
-chegada. Uns ainda confraternizam á noite com jantar e baile de despe-
+chegada. Uns ainda confraternizaram á noite com jantar e baile de despe-
 dida no Hotel Aviz. Outros seguiram para as suas residências.
 
 Eugénio tomou o primeiro comboio para o Porto, onde chegou cêrca da
@@ -5702,7 +5708,7 @@ da razão consciente, depois de afastada a nebulosa da paixão..
 
 Já não via nela os olhos encantadores, a beleza do seu rosto oval de tez
 branco - pálida, a expressão mística dum semblante magestoso, e outras quejandas
-propriedades físicas, paralelamente a uma educação superior a coroar um tem
+propriedades físicas, paralelamente a uma educação superior a coroar um tem-
 peramento indefectível; perpassavam agora pela mente de Eugénio somente as
 qualidades pejorativas que lhe notara a bordo - o amor-próprio exagerado com
 que a ouvira contrariar os seus Pais, numa voz débil de falsete denotando uns
@@ -5710,16 +5716,16 @@ pulmões pouco resistentes a condizer com a magreza de feições que de há tem-
 pos se lhe vem notando.
 
 Acrescia a incongruência de Princesa naquela noite fatídica, que se man-
-tinha inexplicável sob todos os aspectos. Que razões levaram a proceder
+tinha inexplicável sob todos os aspectos. Que razões a levaram a proceder assim,
 se Eugénio nunca teve a mínima incorrecção para com a sua pessoa?
-Quer ele constituisse no seu pensamento, o antigo apaixonado, quer a convidasse
+Quer êle constituisse no seu pensamento, o antigo apaixonado, quer a convidasse
 a dançar como qualquer indiferente, Eugénio nunca lhe havia dado motivo para
 receber de Princesa a mínima desconsideração. De-resto, mais do que um legítimo
 direito, o convite impunha-se como um dever de polidez de quem havia já dan-
 çado com todas as raparigas excepto consigo.
 
 Por outro lado, como qualquer indiferente, Eugénio podia bem orgulhar-se
-de não ter qualquer acto na sua conduta que o envergonhasse; e sob esse aspec-
+de não ter qualquer acto na sua conduta que o envergonhasse; e sob êsse aspec-
 to ela não poderia ter dúvida sem aceder ao seu convite, como acedera ao de
 todos os demais, sem excluir de pessoas cuja reputação havia sido por si pró-
 pria posta outrora em dúvida.
@@ -5728,10 +5734,10 @@ Não podiam todos êstes factos deixar de influenciar profundamente o es-
 pírito de Eugénio, que viveu semanas de atroz revolta interior tanto mais pe-
 nosa quanto ela era recalcada. Com efeito, exceptuando a evasiva de Princesa
 em dançar consigo, que Eugénio declinou a Marília, nenhuma outra exterioriza-
-ção sua deixou perceber a quem quer que fôsse o que se lhe ia no íntimo...
+ção sua deixou perceber a quem quer que fôsse o que se lhe ia no íntimo.
 
 Por outro lado, da bisbilhotice feminina que tanto falara nas vésperas
-da excursão, nada chegava agora aos ouvidos de Eugénio em redor de quem se
+da excursão, nada chegava agora aos ouvidos de Eugénio em redor de quem se formava como que um extranho vácuo.Sem dúvida que a curiosidade daquelas mesmas que carrearam abundantes notícias à família Frazão, antes da viagem,
 não se daria por satisfeita sem conhecer pormenores do passado durante a ex-
 cursão, e haviam de comentar atravez da lente amplificativa e maliciosamente
 deturpadora os factos que provavelmente Princesa narrou.
@@ -5753,7 +5759,7 @@ Mas que poderia interessar agora o que se passava ou dizia? Se a figura
 de Princesa se varrera do espírito de Eugénio, como explicar a curiosidade
 que era de esperar de Eugénio, partindo da hipótese que esquecera defini-
 
-93 134]
+95 134]
 
 tivamente Princesa.
 
@@ -5768,7 +5774,7 @@ simpatia tão entranhada no seu espírito. E esta revivescência do passado
 suplantava intimamente a realidade actual. O consciente pretendia ver a rea-
 lidade do presente, sim, mas o inconsciente esmagava-o com o seu poder mais
 elevado. As noites sucediam-se até, mais do que nunca, em sonhos múltiplos e va-
-riados em que princesa era sistematicamente a protagonista, e, este facto não
+riados em que princesa era sistematicamente a protagonista, e  êste facto não
 podia deixar de ter abundante actuação durante o dia no espírito de Eugénio.
 Com efeito, ao vê-la de novo passar na rua, já a sua figura, de belo rosto
 oval e olhos magnéticos, o fazia outra vez vibrar da emoção dos apaixonados
@@ -5786,12 +5792,12 @@ Isolava-se a ler e escrever, e êsse isolamento era, o único consôlo dum espí
 rito consumido pelas intempéries da adversidade.
 
 Via em redor de si rapazes sem as suas faculdades, sem qualidades abso-
-lutamente nenhumas, a serem felizes, amando e serem amados, e só êle não encon-
+lutamente nenhumas,  serem felizes, amando e serem amados, e só êle não encon-
 trava um oásis no deserto da sua vida afectiva, êle que bem sabia ter facul-
 dades superiores a muitos outros.
 
 Por quê a hostilidade sistemática de Princesa? Na Madeira, em plena ex-
-cursão, nos passeios em conjunto, ela acercava-se frequentes vezes do grupo
+cursão, nos passeios em conjunto, ela acercava-se frequèntes vezes do grupo
 de Eugénio com familariedade natural, sem qualquer espécie de constrangimen-
 to, o que parecia denotar uma atitude muito diferente para com êste. Mas
 aquela fatídica noite do Casino...
@@ -5801,13 +5807,13 @@ Como sempre, incompreensível!
 Eugénio assistia positivamente a uma duplicação ciclotímica da sua
 personalidade. Era umas vezes a razão consciente a afastá-lo das circumvi-
 zinhanças de Princesa, procurando esquecê-la na convicção de que nem os afec-
-tos dela eram concordantes com os seus, nem tam pouco ele os podia manter
-porque ela já não constituia o seu ideal de beleza moral e fisica. Ressoavam-
-lhe então aos ouvidos as críticas que escutou múltiplas vezes sobre os ha-
+tos dela eram concordantes com os seus, nem tam pouco êle os podia manter
+porque ela já não constituia o seu ideal de beleza moral e física. Ressoavam-
+lhe então aos ouvidos as críticas que escutou múltiplas vezes sôbre os ha-
 bitos de grandeza e de mundanismo que de há tempos levava, e recordava as
 desconsiderações dela recebidas.
 
-Outras vezes imperava o inconsciente apoiado na inveteração do hábito.
+Outras vezes imperava o inconsciente apoiado na inveteração do hábito.E
 Eugénio via-a mais bela fisicamente, e desmentia energicamente as críticas
 ouvidas a seu respeito, teimando em só dar crédito ao que via com os seus
 olhos, e o que via nela era bem pelo contrário a modéstia na apresentação
@@ -5816,13 +5822,13 @@ com que se distinguia ao seu espírito. Ao mesmo tempo imaginava justifica-
 ções para qualquer acto de menos cortezia dimanado da parte dela. E os seus
 olhares representavam-se na mente de Eugénio como luz vinda duma estrela
 de primeira grandeza, que o fulminava a ponto de o fazer desviar os seus
-olhos temidos. Chegava a mal dizer o temperamento emotivo que o levava a es-
+olhos tímidos. Chegava a mal dizer o temperamento emotivo que o levava a es-
 conder-se quando a via, quando é certo que tantas ocasiões tivera em se acer-
 car do grupo dela e por essa forma insinuar-se no seu espírito.
 
 Sucediam-se assim as fases antagónicas de actividade e depressão no
 seu estado de humor em relação á sua paixão, fases opostas em si, mas tendo
-um traço de união a cingi-las, com o único traço a ligar as duas personalida-
+um traço de união a cingí-las, com o único traço a ligar as duas personalida-
 des de Eugénio: o sentimento de respeito, íntegro, permanente, que nunca lhe
 permitiu qualquer acto ou palavra em desabôno da pessoa amada que, no fundo,
 era sempre Princesa.
@@ -5841,11 +5847,11 @@ com um professor de letras das suas relações. Ainda bem poucos dias antes
 haviam cavaqueado ambos, sem que nada fizesse prever o rumo da conversa de
 hoje.
 
-- Oh doutor: Por quem é desculpe-me o desabafo de noutro dia, começou
+- Oh doutor: Por quem é desculpe-me o desabafo de noutrodia, começou
 o professor ao mesmo tempo que estendia a mão a Eugénio. Fui inconveniente
-e, sobre tudo, importuno, ao fazer lhe a apologia do celibato, supondo-o comun-
+e, sobretudo, importuno, ao fazer lhe a apologia do celibato, supondo-o comun-
 gar nas minhas ideias. Quem diria então que estava a falar com um noivo, que
-aliás teve a gentileza de não querer opor-me objecções? Fui incorrecto.
+aliás teve a gentileza de não querer opôr-me objecções? Fui incorrecto.
 Mas creia que de nada sabia, e agora que mo comunicaram aqui me tem a pedir-
 lhe mil desculpas.
 
@@ -5862,7 +5868,7 @@ ficante e construtivo tem o amor.
 
 96a [136]
 
-#[ só até aqui o que se segue passa a intercalar-se adiante do capítulo "Princeza"
+
 
 Que seria do homem, se a par das suas fadigas com que luta nas
 angústias dêste escarcéu que é a vida, de incertezas e ilusões e espi-
@@ -5882,7 +5888,7 @@ confortável amparo e carinho na senilidade?
 
 Talqualmente a flôr nos fere a retina com as suas belas côres e os
 seus aromas, em que a natureza se envaidece de mostrar retratada a
-sua transcendência, a mulher, no estado de perfeição que caracteriza,
+sua transcendência, a mulher, no estado de perfeição que a  caracteriza,
 com a delicadeza da sua compleição, nos arrebata estendendo-nos a sua
 rede sedutora por cujas malhas se entrevê um idílio de quimeras, se
 planeiam mil castelos de areia... Porque, como a flôr que reune à be-
@@ -5898,9 +5904,9 @@ podem isolar porque formam fundamentalmente os alicerces em que se
 baseia a conservação da espécie e a riqueza das Nações, e o bem estar
 da Humanidade.
 
-Nada há que mais nos sensibilize o espírito que ver encarnada a
+Nada há que mais  sensibilize o espírito que ver encarnada a
 igualdade, a harmonia dos génios, a homogeneidade do pensamento, em um
-casal deve rescendente a felicidade, baseado nos laços do amôr, única ba-
+casal de que rescendente a felicidade, baseado nos laços do amôr, única ba-
 se sôbre que se pode implantar solidamente o futuro dos nubentes, e
 cada vez tendendo mais a serem estreitados pelo desabrochar das novas
 vergônteas dêles resultantes, comêço de uma nova geração.
@@ -5912,27 +5918,18 @@ suas entranhas, que com ternura oscula em seus braços! É que o amôr
 corações amantes que se fascinaram, criando-lhes um mundo de venturas!
 É que o amôr, além disso, é êsse manto infinito que protege e ampara
 
-97a [138]
+ [138]
 
-#
-(no fim do 2º §)
 
-E esquecendo que a hierarquia das
-profissões e diluiu já com a das
-castas, e o orgulho dos intelectuais,
-semelhante ao dos nobres, não tem
-mais razão de existir, devendo bastar-
-lhes a vantagem que aqueles ainda
-possuem de verem melhor remunerado
-o seu trabalho e realizado em con-
-dições mais confortáveis.
+
+
 
 98 [139]
 
 uma humanidade inteira, fraternizando-a em uma doce e pura harmonia!...
 
 Aquele homem não compreende, porém o amor no seu significado transcen-
-dente, mas só com amor a que se podia chamar mercenário se este adjectivo
+dente, mas só o amor a que se podia chamar mercenário se êste adjectivo
 inutilizasse de por si a ideia que encerra tão bela expressão. Aquele co-
 ração empedernido nunca experimentou os afectos duma família constituída.
 Vegetava no concubinato, e todo o seu enlêvo ia para os canários que possuia
@@ -5944,10 +5941,9 @@ deviam ter, não realçam na sociedade como era mister, e a ideia de se ver ni-
 velado com outras camadas sociais, analfabetas ou quasi, obcecava-o ao ponto
 de defender uma cultocracia organizada que se impuzesse nos destinos da
 nação. Assim pensava o pedagogo, egoistamente, como o obreiro manual podia
-defender a manuctacia, esquecendo que é do concurso comum, e por igual, que
-resulta o progresso da sociedade.
+defender a manucracia, esquecendo que é do concurso comum, e por igual, que
+resulta o progresso da sociedade. E esquecendo que a hierarquia das profissões se diluiu já como a das castas,e o orgulhos dos intelectuais semelhante ao dos nobres, não tem mais razão de existir,devendo bastar-lhes a vantagem que aqueles ainda possuem de verem melhor remunerado o seu trabalho e realizado em condições mais confortáveis.
 
-# E esquecendo...(na folla intercalar)
 
 Os argumentos com que viera em apoio do celibato não assentavam em
 bases sérias para que houvessem merecido sequer a atenção de Eugénio, por
@@ -5970,7 +5966,7 @@ tando uma zona da cidade muito distante da sua, onde podia êle ter colhido
 tal informação?
 
 O interlocutor não se lembrava, e Eugénio muito menos o podia imaginar.
-Decorria esta conversa três meses após o regresso da excursão à Madei-
+Decorria esta conversa três mêses após o regresso da excursão à Madei-
 ra, e outras se haviam de suceder no mesmo gôsto, a breve trecho.
 
 Ainda não haveriam passado três semanas sôbre êste encontro quando, nu-
@@ -5978,7 +5974,7 @@ ma noite, Eugénio se avistou em casa de Marília com um sujeito que êle via
 pela primeira vez. Também era a primeira vez que ali se encontrava o
 Sr. Gentil, que tal era o seu nome, homem de meia idade e estatura mediana,
 com uns olhos vivos sobressaindo da sua cara arredondada, e uma pera bem cui-
-dada a esconder-lhe o mento e as unhas envernizadas condiziam com o esmero
+dada a esconder-lhe o mento ; as unhas envernizadas condiziam com o esmero
 da indumentária.
 
 Não demoraram as apresentações. Falou-se sôbre variados assuntos, e de-
@@ -5995,7 +5991,7 @@ que fiz de quando se casava uma das filhas dêste que consta estar noiva. E
 virando-se para Eugénio: sabe a resposta do Dr.? Que ainda se não pensa
 nisso. Que a filha mais velha do Frazão, essa sim, é que está noiva dum médico.
 
-Eugénio ficou perplexo num misto de estranheza e embaraço no interro-
+Eugénio ficou perplexo num misto de estranheza e embaraço ao interro-
 gar-se a si próprio: Como é que um indivíduo que se lhe apresenta pela pri-
 meira vez e que nunca vira, mostrava, com conhecimento de causa, saber da sua
 simpatia? Como é que o Dr. Segismundo, amigo inseparável do Sr. Frazão, como
@@ -6006,7 +6002,7 @@ Marília e a irmã apressaram-se, mal o Sr. Gentil virou costas, a afirmar
 
 99 [140]
 
-a Eugénio que não pensasse ter partido delas, porventura, indiscreção
+a Eugénio que não pensasse ter partido delas, porventura, a indiscreção
 que habilitara o novo visitante a abordar tal assunto. Sim, porque era natu-
 ral supô-lo perante tão inesperada revelação, acrescentaram em uníssono.
 
@@ -6036,7 +6032,7 @@ se bem que a não conheça, sei possuir os melhores predicados. Por isso o fe-
 licito.
 
 E preparava-se para se despedir, mas Eugénio é que já não deixou o co-
-lega sem que este, o informasse donde proviera a infundamentada informação,
+lega sem que êste, o informasse donde proviera a infundamentada informação,
 o que só conseguiu após grande insistência.
 
 - A pessoa que mo disse não a conhece você, nem ela a você. É uma senho-
@@ -6059,13 +6055,13 @@ E assim ficou Eugénio mais uma vez ciente de quanto está espalhada a
 infundada noticia. Mais uma vez ficou sem atinar a origem e o propósito
 daquilo que corria a seu respeito e de Princesa. A origem não podia deixar
 de estar na família Frazão. Mas o objectivo é que se conserva deveras enig-
-mática, como enigmática foi sempre a conduta de Princesa para consigo.
+mático, como enigmática foi sempre a conduta de Princesa para consigo.
 
 100 [141]
 
 Um verão confuso
 
-O verão decorre este ano nebuloso e frio, como nebulosa é a tétrica
+O verão decorre êste ano nebuloso e frio, como nebulosa é a tétrica
 expectativa duma situação internacional indesejável e frio o ânimo de todos aqueles que
 albergam em si um pouco de sensibilidade. Tempos de guerra em que a atmos-
 fera se mantém pesada a irritar os nervos, proémio da borrasca que ameaça
@@ -6074,12 +6070,12 @@ continuamente descarregar sôbre a Europa inteira.
 
 Agora está na berlinda a aspiração da Alemanha em anexar Dantzig, a
 cidade livre que lhe daria preciosa saída para o Báltico. A Polónia, refor-
-çada com a aliança ingleza, não cede os seus direitos sobre aquele porto
+çada com a aliança ingleza, não cede os seus direitos sôbre aquele pôrto
 de mar. Mas a Alemanha exige-o.
 
 A Inglaterra e a França unidas, procuram a aliança da Rússia, cujas
 negociações já se arrastam há mêses em estudo, sem resultado positivo por
-ora - Na esperança certa de a conseguirem, começam aquelas potências a bra-
+ora . Na esperança certa de a conseguirem, começam aquelas potências a bra-
 dar com firmeza a sua disposição de socorrerem a Polónia.
 
 Em meados de Agosto surge a situação mais imprevista que considerar
@@ -6090,7 +6086,7 @@ Alemanha perante a estupefacção de todo mundo.
 A Alemanha, ôntem inimiga figadal da sua nova aliada, rasgo uma vez mais
 o tratado anti-Komintern em que se mancomunava com outras potências no sen-
 tido de combater o comunismo; a mesma Alemanha que dizia o pior que se
-pode dizer da Rússia, apregoando uma ideologia política incompatível com a
+pode dizer da Rússia, aprègoando uma ideologia política incompatível com a
 sua, e que ainda há pouco combateu nos campos de Espanha contra tropas da-
 quela nação; a Rússia, amiga da França e da Inglaterra, e a elas ligada por
 afinidades políticas, rompe com as negociações entaboladas. Alemanha e Rús-
@@ -6102,7 +6098,7 @@ aniquilar um terceiro, primitivamente aliado, desde que os interesses duma
 eleição, ou outros, o imponham? Com os indivíduos sucede a mesmíssima coisa.
 Entretanto os facciosos não o vêem, não o sentem, com a razão obscurecida
 pela obcessão, não descortinam que com o seu sectarismo são levados para
-onde melhor apraz, aos chefes que os dominam como a carneiros abúlicos, e ma-
+onde melhor apraz  aos chefes que os dominam como a carneiros abúlicos, e ma-
 nejam como a autómatos, para satisfação exclusiva de vaidades ou interesses
 pessoais...
 
@@ -6138,7 +6134,7 @@ Adicionemos-lhe por último aqueles que, sem opinião, crença ou ideal que não
 seja o interêsse, esperam a última hora para verem para onde pende o fiel da
 balança antes de se pronunciarem.
 
-Nêste momento o Japão protesta acerbadamente contra a inesperada aliança
+Nêste momento o Japão protesta acerbamente contra a inesperada aliança
 germano-soviética, contrária na essência ao pacto anti-Komintern que aquela
 nação assinou igualmente.
 
@@ -6149,7 +6145,7 @@ mente a carnificina e a destruição que assolou recentemente o país.
 
 A Itália, nação tradicionalmente católica, manter-se-á na esteira da
 Alemanha, profundamente ateia, e hoje ligada ao seu maior inimigo comum de
-ontem?
+ôntem?
 
 A Grécia, União Sul-Africana, a Austrália, prometem o seu auxílio ao
 bloco franco-inglez, assim como a Hungria, amiga da Polónia.
@@ -6171,8 +6167,8 @@ possibilidades de vitória. A Rússia que ameaçava fazer aumentar o po-
 derio em favor do bloco adversário, é bem agora uma fôrça a seu lado. De-
 pende nêste momento da atitude da Itália o desiquilíbrio das forças dos
 dois blocos contrários, afora os imprevistos que sempre aparecem até antes
-do final da contenda... A Áustria, o Tcheco, a Albânia, procuram de-certo
-recobrar a sua independência ao ouvirem soar os clarins de guerra
+do final da contenda... A Áustria, o Tcheco, a Albânia, procurarão de-certo
+recobrar a sua independência ao ouvirem soar os primeiros  clarins de guerra
 e tornar-se -ão outras tantas causas de fraqueza do eixo Berlim-Roma.
 
 Estamos na última semana de Agosto.
@@ -6180,7 +6176,7 @@ Estamos na última semana de Agosto.
 . . . . . . . . . . . .
 
 Estava destinado o ano de 1939 para ser manchada uma vez mais a histó-
-ria da Europa com o sangue da guerra. No 19 de Setembro a Alemanha de Hitler
+ria da Europa com o sangue da guerra. No 1º de Setembro a Alemanha de Hitler
 invade de súbito a Polónia.
 
 Eis o rastilho acêso.
@@ -6197,9 +6193,9 @@ contra os dois invasores. Mais uma nação desaparecida sob a voracidade in-
 saciável das grandes potências.
 
 As tropas francesas e britânicas, comandadas as de terra por Gamelin,
-e as do mar e ar por [espaço em branco], continuam na sua acção. As primeiras estão
+e as do mar e ar por [.........], continuam na sua acção. As primeiras estão
 desde início instaladas em território alemão, e forçam Sarrebruck a render-
-se, enquanto a esquadra marítima dá capa á praga dos submarinos inimigos,
+se, enquanto a esquadra marítima dá caça á praga dos submarinos inimigos,
 e a aérea auxilia uma e outra e sobrevoa Berlim.
 
 Mas Hitler pede a paz. Declara não querer guerra com o Ocidente nada
@@ -6217,7 +6213,7 @@ sidências. O pacto germano-soviético não obriga a Rússia a auxiliar militar-
 mente a Alemanha, e esta, sem o almejado auxílio daquela nação, e economica-
 mente bloqueada, volve-se para o Ocidente, sozinha, saindo pela primeira vez
 da defeza para arremeter, nervosamente, na ofensiva, num estertor de morte
-próxima. A Turquia alia-se à França e á Inglaterra. A Itália ainda se não
+próxima. A Turquia alia-se á França e á Inglaterra. A Itália ainda se não
 manifestou.
 
 Estamos em meados dum Outubro frio, em que á calamidade da guerra se
@@ -6229,7 +6225,7 @@ Estamos em meados dum Outubro frio, em que á calamidade da guerra se
 junta a da fome, após um verão nada criador que tornou escassas as colheitas.
 É certo que tudo isso, como se pouco fôra, não modificou ainda o aspecto nor-
 mal do mundanismo, que continua nas suas reuniões dançantes, placidamente
-alheio ao que se passa. No estrangeiro, as máscaras antigas com espelho e
+alheio ao que se passa. No estrangeiro, as máscaras anti-gas com espelho e
 aprestos para as pinturas do frívolo sexo, estão na moda, para exibir em subs-
 tituição das carteiras de mão. Em Portugal só a ganância de extorquir o pú-
 blico consumidor, aproveitando a oportunidade duma situação anómala, nos lem-
@@ -6246,8 +6242,8 @@ a docilidade de servidores modificou-se imenso, como que adquirissem a cons-
 ciência do valor com que contribuem para a sociedade. Ainda outro resultado
 da guerra foi o desenvolvimento prodigioso da mecânica, belo em princípio,
 mas funesto pelas consequências desastrosas que trouxe dispensando uma gran-
-de parte das necessidade sem operariado manual. Resumindo: demissão de tra-
-balhadores atirados para a miséria: aumento de necessidades, agravando a mi-
+de parte das necessidades sem operariado manual. Resumindo: demissão de tra-
+balhadores atirados para a miséria; aumento de necessidades, agravando a mi-
 séria daqueles que não puderam acompanhar as novas condições de vida pro-
 fundamente modificadas, de entre as quais avulta a ostentação e o comodismo.
 
@@ -6306,7 +6302,7 @@ de pratas e iluminadas por candelabros vistosos, á vista de um mendigo que
 passa a cambalear de fome ou negando a um faminto os sobejos, que prefere
 deitar fora. São todos aqueles, em suma, capitalistas, industriais, comerciantes, agricultores,
 que abusam do capital realizado com o auxílio, de outrem a quem negam o sa-
-lário indispensável. Direitos de gozar o supérfluo, para uns, dever de mor-
+lário indispensável. Direitos de gozar o supérfluo, para uns; dever de mor-
 rer na miséria para os outros...
 
 Eis os grandes inimigos da sociedade, êstes miseráveis que da explora-
@@ -6346,11 +6342,11 @@ São pois todos êstes comunizantes que, com os seus desvarios, desorgani-
 zam e dissolvem a sociedade, abalando o que esta tem de mais belo a harmo-
 nia, conduzindo ao nervosismo e á efervescência constante os indivíduos.
 
-Mas os desvarios são tanto sem quantidade, e tão variados em qualidade,
+Mas os desvarios são tantos sem quantidade, e tão variados em qualidade,
 que emprêsa difícil seria enumerá-los. Ainda há bem pouco tempo correu cé-
-lere pela cidade o seguinte episódio, passado num salão de chá
-de, nas tardes de certos dias da semana tidos como da moda, as mesas costumam
-estar replectas. Estes dias depressa se revelam ao transeunte curioso pelo
+lere pela cidade o seguinte episódio, passado num salão de chá da baixa,
+onde, nas tardes de certos dias da semana tidos como da moda, as mesas costumam
+estar replectas. Êstes dias depressa se revelam ao transeunte curioso pelo
 estacionamento de grande fileira de automóveis que então ali se juntam, uns
 conhecidos como pertencentes a famílias falidas material ou moralmente, ou-
 tros a rapazes tendo por única profissão a conquista duma noiva cujo dote
@@ -6359,7 +6355,7 @@ uns a divorciados por culpa da mulher que o mundanismo tolheu, outros a di-
 vorciados por culpa do homem que não nasceu para constituir lar. Dentro
 prepondera o elemento feminino representado pela mais requintada sociedade
 elegante que empolga habitualmente com a sua presença as reuniões chiques,
-as sessões de moda dos teatros, os casinos fazendo brilhar joias caras com-
+as sessões de moda dos teatros, os casinos, fazendo brilhar joias caras com-
 pradas a crédito, ou pagas com desfalques, e para quem a vida se limita ao
 gôzo enquanto o lar se dissolve; senhoras casadas ou raparigas solteiras,
 tomando o seu chá ou queimando cigarros, de pernas terçadas, a apreciar em
@@ -6379,7 +6375,7 @@ formado em estendal de bolos e fragmentos de chávenas e estilhaços de cris-
 tal. Acodem criados a recolher a mesa mutilada e limpar o pavimento, e inter-
 veem circunstantes a apaziguar os ânimos, enquanto naquele selecto ambiente
 de perfumes e cores garridas, incidentalmente confuso, se cruzam com os gri-
-tos nervosos as censuras contra o escândalo e as interrogações sobre o mo-
+tos nervosos as censuras contra o escândalo e as interrogações sôbre o mo-
 tivo de tal desaforo. Eram para mais parentes muito próximas as senhoras de-
 savindas, e ambas casadas. O mistério desvendou-se, porém, depressa, ao espa-
 lhar-se que a razão da contenda foi a passagem dum oficial do exército, tam-
@@ -6392,25 +6388,25 @@ profissões liberais se pejassem em detrimento das manuais. Os campos ficaram
 
 sem braços, e as cidades congestionaram-se na espectativa duma vida mais
 fácil, com mais comodidades e prazeres e, presumivelmente, com melhores proven-
-tos. As vagas do Estado, no comércio, ou nos escritórios, começaram a disputar
+tos. As vagas do Estado, no comércio, ou nos escritórios, começaram a disputar-
 se por indivíduos com habilitações superiores ás exigidas, tal a luta pela
 vida que se verifica perante a plétora que cada um vai encontrar na profis-
 são a que se destinava. Aparecem novas profissões, de mal limitado âmbito,
-cujos interêsses se vão chocar com os das já existentes; dos enfermeiros,
+cujos interêsses se vão chocar com os das já existentes;a  dos enfermeiros,
 por exemplo, vegeta á sombra do comodismo dos médicos e dizima-lhes a acti-
 vidade, invadindo a sua esfera o que, com a plétora, contribue muito, para fazer
 cair os profissionais da medicina num proletariado próximo que já
 os ameaça.
 
 Outra profissão, fácil, deriva do aumento do automobilismo: onde quer
-que se aglomerem carros, logo alguns moços correm a revindicar a direito de
+que se aglomerem carros, logo alguns moços correm a revindicar o direito de
 guardar... objectos que aliás não teem guarda, como mero expediente para
-fazer jus a uma espórtula. Em certas ruas, por exemplo, onde nos dias de jogo
+fazer jus a uma espórtula. Em certas ruas, por exemplo, onde nos dias de jôgo
 da bola se aglomeram centenas de carros, é fácil observar como os moços cor-
 rem em azáfama constante a oferecer os seus serviços aos que chegam: depois,
 ao verem que não veem mais, desaparecem, para só voltarem aos seus postos
 quando o jogo está a terminar, com o fim de cobrarem a gorgeta por uma fic-
-ticia guarda. Entretanto, os garotos mexem impunemente nos carros, certos de não serem
+tícia guarda. Entretanto os garotos mexem impunemente nos carros, certos de não serem
 incomodados...
 
 Junto dos teatros e cinematógrafos os contractadores açambarcam os
@@ -6422,7 +6418,7 @@ Eis aqui exemplos de profissões que se não justificam, enquanto que os
 campos lutam com a falta de braços, e que revertem em puro parasitismo. Origi-
 naram-se nas novas necessidades que a guerra de 1914 trouxe á vida.
 
-Essas necessidades levaram ainda à criar processos ilícitos de ampliar
+Essas necessidades levaram ainda a criar processos ilícitos de ampliar
 os proventos: as fraudes alimentícias tomaram vulto de flagêlo social. Estas
 são as primeiras responsáveis pelo acréscimo de doenças verificadas na
 humanidade, ao lado dos gases tóxicos, espalhados na atmosfera
@@ -6430,20 +6426,21 @@ a-quando-da conflagração europeia.
 
 Enfim, a guerra de 1914 modificou radicalmente a economia dos povos e
 a saúde do povo. Que nos trará a actual? É a interrogação que todos fazem,
-e para cuja resposta não ser necessário ser demasiado pessimista auguran-
+e para cuja resposta não será necessário ser demasiado pessimista auguran-
 do-lhe calamitosas consequências.
-
-Para já, nota-se a confusão das ideias políticas, apanágio dos sectários.
 
 105
 
- As praias e termas, ressentiram-se. A Foz esteve desanimada como nunca.
 
+Para já, nota-se a confusão das ideias políticas, apanágio dos sectários.Ainda há pouco tempo se podiam reduzir a duas as correntes ideológicas  portuguêsas : Uma conservadora, outra democrática, ou, mais modernamente, a dos nacionalistas e a dos oposicionistas. Na presente conjuntura,a barreira entre conservadores e liberais diluiu-se.Há germanófilos e germanófobos. A Alemanha,dizem uns, necessita de ocupar o merecido lugar na Europa como nação que é dum povo de admiráveis qualidades de actividade. Para outros impõe-se o aniquilamento daquele foco de efervescência europeia. Os primeiros consideram arbitrária a forma como o tratado de Versalhes desmantelou o povo vencido em 1918, enquanto que os segundos afirmam que o desmantelamento ficou aquém do necessário para a manutenção duma paz duradoura.
+Ideias germanófilas e germanófobas não se sobrepõem, porém, ás ideologias anteriormente existentes. Se conservadores e democráticos se conluiaram para, na sua maioria, apoiarem  as democracias francêsa e britânica, opondo-se á megalomania germânica, outros há que, do lado conservador, manteem-se em atitude hostil para com as democracias ás quais preferem o comunismo vermelho, ou, do lado democrático, evoluiram para ideias mais avançadas que outra coisa não são que comunistas. Eis aqui a confusão: conservadores, na sua maioria católicos, feitos simpatizantes da Alemanha, que é ateia e aliada dos comunistas; democráticos infieis á sua doutrina, apologistas dum sistema totalitário, como o é o alemão, e mancomunados com uma ditadura como o é a russa. Outros ainda desejariam o impossível: apoiar a Alemanha e não a Rússia , e ainda outros apoiar a Rússia e não a Alemanha. Finalmente há quem preconize a modificação radical dos dois sistemas antagonistas que se debatem: em lugar das democracias procurarem aniquilar o germano-sovietismo, deveriam coligar-se com a Alemanha para formarem barreira comum contra o perigo comunista.
+  As ideias, muitas vezes incoerentes, explicam-se. Domina no espírito de uns a solidariedade religiosa noutros a política, noutros a raça, noutros ainda o interêsse particular.Na  actual conjuntura prevalece,porém, o sentimentalismo que condena as invasões ou as admite, a dividir em dois grandes sectores a opinião pública,  independentemente de ideologias que se confundiram, porque, tomadas em bloco, são fundamentalmente insustentáveis e só discutíveis parceladamente.  Eis o que para já nos trouxe a actual guerra, além das muitas vidas ceifadas e dos milhares de contos que se desperdiçam diariamente, afundando navios ou queimando torpedos, e que melhor destino tinham na redução da miséria dos necessitados.
+ Assim se passou êste verão nervosamente. A catástrofe iminente, e mais do que isso,a inconstância do tempo,frio e chuvoso,não permitiu grandes exibições mundanas nesta época.
+ As praias e termas, ressentiram-se. A Foz esteve desanimada como nunca.
 Miramar foi a praia da moda êste ano, com a inauguração do Parque da
 Gândara que lhe insuflou desusada actividade vital. Ali, os arraiais minho-
 tos, e chás dançantes aos domingos, descongestionavam a sociedade elegante
 do Porto.
-
 A família Frazão, açodada pelos cuidados que a irmã de Princesa começou
 a inspirar com a sua febrícula renitente, teve de procurar estância, a con-
 selho médico, onde pudesse beneficiar simultaneamente dos ares do mar e dos
@@ -6451,12 +6448,8 @@ pinheirais. A ridente praia de Miramar, com os seus palacetes ajardinados e
 as suas avenidas muito limpas, foi o retiro escolhido. O sossêgo ali é abso-
 luto, só interrompido pelos silvos dos comboios, e os ares são magníficos. A
 proximidade do Porto é outro factor a juntar àqueles.
-
 Eugénio teve ensejo de por ali ir nalguns domingos. Só uma das vezes
 viu Princeza. Tê-la-ia visto de-certo todas as outras vezes se entrasse no Parque.
-
-
-
 
 106 [150]
 
@@ -6493,7 +6486,7 @@ vezes, maliciosas, vindas da massa anónima dos espectadores que abrem filei-
 ras á saída da igreja. E os múltiplos convidados que vão fazer? Exteriori-
 zar, em brindes, a hipocrisia dos votos que fazem pela felicidade dos noivos?
 Mas êste desejo só é bem sentido pelas famílias dos nubentes, e a elas se
-deve limitar a gala. Grande comezaina, e muitos foguetes, para quê? Melhor
+deve limitar a gala. Grande comezaina e muitos foguetes, para quê? Melhor
 comemoração da cerimónia seria servir uma refeição aos pobres. E rematou
 alegando que, se alguma coisa tiver concorrido para a simplicidade do casa-
 mento do Zequinha, com as conversas que com ele teve nesse sentido, por muito feliz se dá
@@ -6505,7 +6498,7 @@ mo. Mas um médico... objectou êle. Um médico tem responsabilidades sociais.
 
 - Tem sim, como toda a pessoa, professe ela a advocacia, o ensino ou as
 artes. Como todas as pessoas, o médico tem a responsabilidade do juízo na
-conduta, e o juízo conduz a modéstia e á sobriedade, como únicos princípios
+conduta, e o juízo conduz à modéstia e á sobriedade, como únicos princípios
 duma vida sã, e á personalidade que lhe traça a rota das ideias e hábitos
 sem a peia dos princípios e costumes que foram ou são apanágio de mentali-
 dades antiquadas.
@@ -6523,7 +6516,7 @@ Com a transmontana parecia que se daria a primeira excepção, mas tal
 107 [151]
 
 não aconteceu. Após uns idílios há um ano, pela mesma ocasião em que Eugénio a conheceu, o
-entusiasmo de Toninho desvaneceu-se como uma espirala de fumo. Pouco tempo
+entusiasmo de Toninho desvaneceu-se como uma espírala de fumo. Pouco tempo
 depois era êle próprio que falava da sua antiga apaixonada com desdém: -
 Pinta-se, monta a cavalo, guia Vau-8 e joga hockey em patins. Tal qual o Sr.
 Dr. a caracterizou, acrescentava êle.
@@ -6566,7 +6559,7 @@ superioridade numérica dos invasores é subjugada pela superioridade in-
 telectual dos invadidos.
 
 E o mundo inteiro palpita de emoção e exulta de contentamento nos
-transes gloriosos por que a Finlândia, credora da simpatia geral, resis-
+transes gloriosos por que a Finlândia, crèdora da simpatia geral, resis-
 te aos ímpetos do adversário espumando rancor nas suas arremetidas. Ain-
 da mais que na conquista da Polónia, a bravura do pequeno povo finlandez
 faz vibrar em uníssono a alma de todo universo cada vez mais sequioso
@@ -6587,7 +6580,7 @@ Improvizam-se bailes e récitas de caridade a favor das vítimas fin-
 landezas. Uns e outras parece que pela primeira vez dão lucro para mi-
 norar a miséria a que se destinam. A sociedade elegante, ao encontrar
 mais um pretexto para dar largas á sua ociosidade, torna-se desta vez
-útil: A iniciativa resulta feliz, embora a finalidade seja discutível
+útil. A iniciativa resulta feliz, embora a finalidade real seja discutível
 como o meio empregado. De resto, o gôzo mundano decorre em todas as suas
 modalidades, plácido e sereno, como se nada houvesse a denegrir a humani-
 dade. A quadra de Carnaval, porém, só de nome ainda existe, mas mais por
@@ -6596,7 +6589,7 @@ entrudo que pela sensibilidade embotada dos homens; só de portas a dentro
 se permitiram folias.
 
 Tinha Eugénio por esta ocasião o tempo todo tomado no exercício dos
-seus deveres profissionais, e as noites que ele já normalmente aproveitava
+seus deveres profissionais, e as noites que êle já normalmente aproveitava
 para o merecido descanso eram desta vez ainda mais esperadas para recupe-
 rar as energias gastas durante o dia. Mas, contrafeito ou não, todas as
 desculpas foram indeferidas para passar a noite do sábado gordo em casa
@@ -6626,7 +6619,7 @@ a simpatia dos rapazes.
 - Tú não os olhas de frente, quando êles falam, explicava a mais no-
 va. Assim não arranjas namôro. Eu olho-os bem, para os conquistar.
 
-Noutro sector das alas, uma rapariga pedia conselho à companheira.
+Noutro sector da  sala, uma rapariga pedia conselho à companheira.
 
 - Estou indecisa, dizia. Tenho dois pretendentes: um, muito rico, mas sem
 modo de vida; o outro é pobre, mas possui uma licenciatura. Por qual
@@ -6638,7 +6631,7 @@ componentes do sexo contrário que se acotovelavam na sala, á mistura com
 o jôgo da metralha carnavalesca.
 
 Laurinda derivava todas as conversas para o cepticismo com que via
-todos os homens, que cuidava de incoerentes. Só quem soubesse a vida
+todos os homens, que acoimava de incoerentes. Só quem soubesse a vida
 íntima desta rapariga, compreendia a razão da sua má-vontade para com o sexo forte que
 lhe proporcionara a maior das desilusões. Namorava ela com um rapaz, de
 quem gostava muito, quando êste se casou quasi repentinamente com outra
@@ -6685,15 +6678,15 @@ E acordou.
 
 As Baronezas (10-3-40)
 
-Chegara o mês de Março. O céu agora desanuviado contrasta com o dos
+Chegara o mês de Março. O ceu agora desanuviado contrasta com o dos
 intermináveis mêses de inverno que o antecederam, de copiosa chuva, como
 a atmosfera agora tépida contrasta com o frio que abundou.
 
 O ar dos campos e as flores que os exornam são chamarizes que de
-ora avante descongestionam as cidades aos domingos. Com efeito, todo o
+òra avante descongestionam as cidades aos domingos. Com efeito, todo o
 indivíduo sente a imperiosa necessidade de espairecer após uma semana
 de trabalho, e só quem não pode abandonar a cidade nos dias de descanso
-é que eu não faz, porque só longe é que o repouso é completo, desembaraça-
+é que o não faz, porque só longe é que o repouso é completo, desembaraça-
 do dos ruídos, do bulício e da pasmaceira das ruas ao domingo. Largam
 por essas estradas fora aqueles que possuem algo de seu nos arredores,
 que visitar; largam aqueles que nada teem, a passar o dia por algum
@@ -6713,10 +6706,10 @@ Um lugar há, porém, que se torna obrigatório em tais dias para toda
 a pessoa com pretensões a chique, ou porque tal se convencionasse entre
 a sociedade elegante, ou porque êsse lugar constitui já de facto uma
 praia que usufrui foros de aristocrática. É Vila do Conde. A sua
-casa de chá é, sem favor, esmeradamente servida, e a nova instalação e a prova
+casa de chá é, sem favor, esmeradamente servida, e a nova instalação é a prova
 evidente que a casa deu ao dono bom rendimento, com o bom doce fabricado.
 Disputam-se ali as mesas nas tardes dos domingos de sol, não tanto pelo
-esmero do serviço, mas sobretudo porque abundam os pretendentes a
+esmero do serviço, mas sobretudo… porque abundam os pretendentes a
 chique.
 
 Foi num dêstes domingos, em vésperas do solstício da Primavera, que
@@ -6728,7 +6721,7 @@ novos freguezes, que tinham de aguardar vez para se sentarem.
 No centro da sala, haviam-se juntado 2 mesas para abancarem duas
 famílias da mais elegante estirpe tripeira: os barões do Corvo com
 seus dois rebentos, do sexo feminino, e os Ortigões. Formavam os papás
-barões com os papás Ortigões secção a parte de grave cavaqueira em que
+barões com os papás Ortigões secção à parte de grave cavaqueira em que
 nos não vamos intrometer, mas cujo assunto deveria á - certa andar em re-
 dor da situação crítica que no momento passa a Finlândia, possivelmente
 em vésperas de capitulação por causa da tão comentada atitude da Suécia
@@ -6736,12 +6729,12 @@ e da Noruega, que não só a não auxiliam como não deixam passar os alia-
 dos em seu socôrro. Formavam grupo autónomo as filhas de um e outro la-
 do, as baronezas do Carvão, como no Pôrto eram conhecidas (talvez por
 analogia de côr com a ave que ostentavam no seu brazão), e as amigas
-Ortigões em número de três, e umas e outras bem se podiam incluir numa
-fealdade, com os seus dentes superiores projectados para fora dos lábios
+Ortigões em número de tres, e umas e outras bem se podiam incluir numa escala de idades
+entre os dezoito e os vinte e cinco anos.Fisicamente nada devia,nenhuma delas, à boniteza, mas as baronesas sempre suplantavam as Ortigões em fealdade, com os seus dentes superiores projectados para fora dos lábios
 por debaixo duns narizes aduncos de papagaio.
 
 A conversação de tão elegantes raparigas realçava, pela sua anima-
-ção, sôbre a dos papás. Talvez que pelo hábito do corte, tão adstrito ao sexo femi-
+ção, sôbre a dos papás. Talvez que pelo hábito do corte,  adstrito ao sexo femi-
 nino, em que a tesoura constitui o instrumento tão precioso como imp-
 rescindível, o belo-sexo tem sempre que dizer porque, á míngua de outro
 assunto, sobeja sempre o que sôbre as amigas ausentes há que criticar.
@@ -6754,7 +6747,7 @@ ao chá dos anos de Julieta? preguntou Ambrósia, a mais velha das baro-
 
 nezas do Carvão, embora a mais baixa e espevitada das irmãs.
 
-- Muito bem: apoiaram todas.
+- Muito bem! apoiaram todas.
 
 - Vocês ainda as lá vão aturar ao jantar, interrompeu uma Ortigão,
 enquanto que nós descartámo-nos delas, e só lá vai uma de nós porque
@@ -6767,11 +6760,11 @@ dizendo qualquer coisa.
 - Ora o que se há -de passar? respondeu a Ambrósia. Aquilo que se
 verifica sempre nas reuniões daquela casa. Tudo gente "pires".
 
-- Uf: interrompe uma das Ortigões, virando a cara. Que roda ali se
-junta: Que insipidez de amigas teem aquelas raparigas!
+- Uf! interrompe uma das Ortigões, virando a cara. Que roda ali se
+junta! Que insipidez de amigas teem aquelas raparigas!
 
 - Que mistura! atalha Henriqueta. Como é que a gente se há-de sen-
-tir ali bem? Aquelas primas são tão antipáticas, credo!
+tir ali bem?! Aquelas primas são tão antipáticas, credo!
 
 - E aquelas duas do Pinheiro Manso, e as de Barros Lima, e as da Lapa,
 de quem nem sei o nome nem nunca procurei sabê- lo? acrescentou uma das
@@ -6779,8 +6772,8 @@ Ortigões. Oxalá que tudo aquilo debande antes do jantar.
 
 - Oxalá! repetiram as baronezas em uníssono.
 
-- E fôssemos nós aturar aquelas sensaboronas: continuou outra das
-Ortigões. Que tarde de tão mau passadio nos estava reservada:
+- E fôssemos nós aturar aquelas sensaboronas! continuou outra das
+Ortigões. Que tarde de tão mau passadio nos estava reservada!
 
 - Isto aqui entre nós, que ninguém nos ouve, recomeçou Ambrósia em
 voz segredada para as outras, nós precisamos de presumir um pouco mais
@@ -6793,9 +6786,9 @@ desembaraçá-las daqueles empecilhos que ainda as visitam. Felizmente
 já se casaram muitas das do grupo, e as outras morreram, segundo elas contam.
 Isso é que devia ser uma sociedade completa, quando se juntavam todas!
 
-- O que é pena, interveio a baroneza mais nova com ares de contris-
+- O que é pena, interveiu a baroneza mais nova com ares de contris-
 tada, é que a Julieta não pudesse ir aos bailes do Carnaval êste ano.
-Aquela doença dela... quando a vida lhe começava a sorrir é que adoece.
+Aquela doença dela... quando a vida lhe começava a sorrir é que adoece.É
 azar! Com o andamento que leva, nem para as próximas festas do Cente-
 nário ela está em condições de as gozar. Eu não sei que doença é aquela,
 mas não é coisa boa; quando a febre é teimosa e os médicos começam a
@@ -6820,7 +6813,7 @@ e nunca nos nossos bailes. No verão passado, todos os domingos em que a
 sociedade elegante do Pôrto se reunia na Gândara, êle tinha todo ensejo
 de lá aparecer. Pois nunca o enxerguei. Apenas uma vez, ao passar por
 nós um carro na estrada de Miramar, ouvi dizer a Princesa: "Ele ali vai";
-êsse "êle" não podia ser outro senão de quem falava amiudadas vezes. Mas
+êsse "êle" não podia ser outro senão de quem falava amiùdadas vezes. Mas
 o doutor lá seguiu em direcção á Granja, como quem vai de passeio, e nin-
 guem mais o viu.
 
@@ -6833,7 +6826,7 @@ tenda... E isto cá entre nós: Que atractivos tem Princesa para que um
 112 [156]
 
 rapaz ande babado por ela?.. Nem sequer sabe esconder com um pouco de
-rouge a palidez daquelas faces, que é o melhor chamariz para os rapazes
+rouge a palidez daquelas faces, que é o melhor chamariz para os rapazes.
 Até nisso é insípida, credo!... Já vês quanto um doutor há-de andar
 babado por aquilo que cheira a bota de elástico... Porque, sabes, todo
 o rapaz aprecia o senso estético da mulher na arte com que se pinta, com
@@ -6843,14 +6836,14 @@ que cuida das sobrancelhas, das pestanas e das unhas...
 não podemos furtar, que a sociedade nos impõe.
 
 - Infelizmente, interveio Henriqueta, são exigências que ultrapassam
-já os limites da burguesia e não nos distinguem já muitas vezes das ou-
+já os limites da burguesia e desta forma não nos distinguem  muitas vezes das ou-
 tras de meia tigela.
 
 - É como acontece no campo, confirmou ingenuamente a Henriqueta, que
-por vezes tinha uns assomos de literatura campestre. Sob as mesmas cores
+por vezes tinha uns assomos de literatura campestre. Sob as mesmas côres
 variegadas e lindas adejam no espaço borboletas benéficas ao lado das
-ruins. Notem como a do útil bicho da seda é até a mais modesta na
-alvura, enquanto que a do pavão da noite, insecto altamente nocivo, e a
+ruins. Notem como a do útil bicho da seda é até a mais modesta na sua
+alvura, enquanto que a do pavão da noite, insecto altamente nocivo, é a
 mais garrida.
 
 - Eu detesto o campo, disse Ambrósia para derivar a conversa cujo
@@ -6899,13 +6892,13 @@ a mãi: Esqueces, porventura, os compromissos que temos para amanhã? A
 recepção em casa das Camanhos e a ceia americana nas Godinhos?
 
 A energia da resposta, acompanhada dum jôgo fisionómico em que
-os olhos cintilantes tomaram parte importante, fez reconsiderar a mama
+os olhos cintilantes tomaram parte importante, fez reconsiderar a mamã
 que na verdade os deveres mundanos eram incompatíveis com qualquer possibilidade
 de pneumonia:
 
 - É verdade, filha, não me recordava.
 
-- Se eu tivesse o vagar que têm os camponezes lá da aldeia...
+- Se eu tivesse o vagar que teem os camponezes lá da aldeia...
 disse entre um encolher de ombros a Ambrósia, como revivescência da con-
 
 113 [157]
@@ -6919,7 +6912,7 @@ hora a distância ao Pôrto.
 
 Era quasi noite quando as duas famílias deram ingresso na casa da
 festejada. Da família Ortigão, porém, só os papás e a filha mais nova apa-
-receram, porque à filha mais velha sobreviera um ligeiro incómodo de saú-
+receram, porque á filha mais velha sobreviera um ligeiro incómodo de saú-
 de e a outra irmã ficara a fazer-lhe companhia.
 
 Trocaram-se então beijos entre as recém-chegadas e a Julieta, de
@@ -6930,11 +6923,11 @@ que se formulavam desculpas por não poderem ter passado a tarde com ela.
 rosnava lamuriosamente a Ambrósia.
 
 - Nem imaginas o nosso pesar de não podermos comungar contigo a
-alegria de tarde inteira mas acredita que nos foi inteiramente impossi-
+alegria de tarde inteira, mas acredita que nos foi inteiramente impossi-
 vel, juntou a Henriqueta.
 
 - Minhas irmãs estão retidas em casa, terminou a Ortigão, uma por
-doença e a outra por lhe ficar a fazer companhia. E eu sou portadora
+doença e a outra por lhe ficar a fazer companhia. E eu sou a  portadora
 duma imensidade de beijos da sua parte, que tenho de acrescentar aos meus.
 A imensidade dos beijos era na verdade infindável como que a devo-
 rarem-se mutuamente as faces já todas lambujadas.
@@ -7024,7 +7017,7 @@ mostrou quem é; olhem como ela trocou a nossa companhia nessa noite de
 reinadio, entre família, entre as suas antigas amigas, para ir ao baile
 do Grande Hotel do Pôrto com a outra sociedade das baronezas e parceiras
 semelhantes. Não repararam na fotografia do Primeiro de Janeiro com que
-vestido ela lá apareceu? Como ela está mudada!
+vestido ela lá apareceu? Como ela está mudada!..
 
 - É a escola das baronezas, replicou outra Garcia.
 
@@ -7061,7 +7054,7 @@ so foi a Sr.ª D. Maria barafustar quando êle apareceu casado com uma
 
 115 [159]
 
-loira toda pintada, porque afinal, dizia ela, o Pinchinhas não dava aprêço
+loira toda pintada, porque afinal, dizia ela,” o Pinchinhas não dava aprêço
 nenhum ao natural da minha Princeza, nem ao seu tipo moreno, por quanto o
 trocou por muito diversa mulher..."
 
@@ -7081,7 +7074,7 @@ porte.
 
 - É verdade, respondeu: agora me lembro que deixei em casa uma carta
 dêle recebida de manhã que ainda não abri. E por causa disso estou em
-o mandar embora. Porque é uma massada, de manhã logo vir a creada com a
+o mandar embora. Porque é uma massada, de manhã cedo vir a creada com a
 correspondência enquanto estou recolhida. Ainda não era bem meio-dia, e
 já me batia á porta aquela parva: "menina Henriqueta, tem aqui uma carta".
 Confesso-te que me apeteceu lançar pela janela fora a salva de prata que
@@ -7092,27 +7085,27 @@ me lembrei nem da carta... nem do remetente.
 E mudando de tom: Coitado, êle é massador mas tem bons predicados.
 Dança muito bem, veste a primor, é elegante e frequenta a melhor sociedade.
 Em todas as sessões da moda êle lá está, quer se trate de cinemas, ou de
-bailes. Porque nem doutra forma eu o tolerava. E realmente simpático, e
+bailes. Porque nem doutra forma eu o tolerava. E rialmente simpático, e
 tem dinheiro. Há porém um defeito nele que não me agrada: é a sua tei-
 mosia em usar água da Colónia de Flores del Campo, de que eu não gosto;
 já lhe tenho dito que prefiro que use a Houbigant. Mas, enfim, remedeia
 até encontrar outro melhor...
 
-Na roda das mamãs discutia-se o modêlo dos chapéus comprados na vés-
+Na roda das mamãs discutia-se o modêlo dos chapeus comprados na vés-
 pera pelas filhas dos Senhores do Corvo.
 
 - A verdade é esta, dizia a senhora baroneza: no nosso tempo cor-
-riam-nos se nos apresentassem os com semelhantes modelos. Mas agora estão
+riam-nos se nos apresentassemos com semelhantes modelos. Mas agora estão na moda e eu não posso privar as minhas filhas de se exibirem consoante os últimos figurinos de Paris. Lá de bonito nada teem aqueles chapeus que
 que mais parecem de palhaços, pequenos e afunilados, que nem o cocuruto
 da cabeça escondem, e ainda para mais abertos em cima!
 
 - La noblesse oblige, corroborou a mamã Ortigão a quem a alusão á
 grande capital veio recordar o universal lugar comum. As minhas 3 filhas
-quiseram chapéus todos diferentes, que tanto são precisamente os que es-
-tão em voga. O da Francelina é uma toreade que em nada difere - Deus me
+quiseram chapeus todos diferentes, que tanto são precisamente os que es-
+tão em voga. O da Francelina é uma torsade que em nada difere - Deus me
 perdoe - das rodilhas que as camponezas põem na cabeça para carregarem
 com cestos, mas vá lá uma pessoa dizer-lho, que toda ela se irrita; é mo-
-da e pronto: A Anacleta quis um dos tais de funil arrombado. E a Natér-
+da e pronto!A Anacleta quis um dos tais de funil arrombado. E a Natér-
 cia escolheu aquele modêlo de banda, direito para cima, que deixa a cabe-
 ça toda a amostra, como de resto acontece com os outros.
 
@@ -7139,7 +7132,7 @@ ce que trazem um carvão negro agarrado, exclamou um criado!
 
 - A criada de sala das meninas Frazões explicou então perante aquela
 assembleia que as meninas já uma vez lhe haviam posto em pratos limpos
-a significação daqueles anéis. Os brasões são solares, porque o sangue
+a significação daqueles aneis. Os brasões são solares, porque o sangue
 daquela gente é genuíno; não são como aqueles que se vêem amiúde divididos
 em dois ou mais compartimentos a representar misturas de outras tantas
 famílias. As armas são constituídas por um corvo, que deu o nome aos srs.
@@ -7172,9 +7165,9 @@ tal revelação.
 - São cá coisas, que se não podem dizer, respondeu o que havia falado.
 É o que se diz lá por fora. Eu como nunca vi, nada posso acrescentar.
 
-- Má lingua, bradou a cozinheira.
+- Má língua, bradou a cozinheira.
 
-- E má língua, é..., repontou o mesmo, com ares de quem está no segre-
+- É má língua, é..., repontou o mesmo, com ares de quem está no segre-
 do dos deuses. Ora diga-me cá: como é que a massagista pode ter automo-
 vel, e o marido outro? Logo 2 automóveis numa casa, e a girarem todo o
 dia, cada qual para seu lado...
@@ -7226,7 +7219,7 @@ portância vital na guerra, - estrebuchava furiosamente. Já muitos a con-
 sideravam no estertor da morte.
 
 Eis, porém, que repentinamente, na madrugada de 10 de Maio, a Alemanha,
-em arremetida violenta, invade a Holanda e Bélgica mal tempo tive-
+em arremetida violenta, invade a Holanda e Bélgica que  mal tempo tive-
 ram para pôrem em acção as suas defesas.
 
 Em Inglaterra, o govêrno de Chamberlain é imediatamente substituído
@@ -7304,7 +7297,7 @@ te favorável á Alemanha.
 
 O dia 10 de Junho era assinalado pela declaração de guerra da Itália
 á França e á Inglaterra. Era a última machadada que havia de precipitar
-a tragédia prestes a desenrolar-se: Redobram de intensidade os pedidos
+a tragédia prestes a desenrolar-se. Redobram de intensidade os pedidos
 de armamento á America do Norte para a França agonizante. A guerra, ago-
 ra no Mediterrânio, ameaça alastrar a mais paizes. A armada e a aviação
 britânicas começam a ter duros encontros com os italianos, quer nas cos-
@@ -7408,7 +7401,7 @@ por entre um público deprimido ante tanta surpreza internacional.
 120 [164]
 
 Chegara o mês de Julho, frio, a pronunciar um verão nada criador como
-já o fora o do ano passado, e tristonho como o ambiente internacional. Con-
+já o fôra o do ano passado, e tristonho como o ambiente internacional. Con-
 tinuava Portugal a constituir uma das raras nações onde ainda havia bem-
 estar material. A fome e o luto que assolavam a maior parte da Europa
 não se tinham feito sentir aqui, assim como o permanente desassossêgo dos
@@ -7434,7 +7427,7 @@ nacional e da restauração. As gazetas enchiam páginas com grandes foto-
 grafias dos cortejos organizados pelo paiz fora, e as boas-vindas ás
 embaixadas especiais das nações que em grande número se haviam dignado
 fazer-se representar. A Exposição do Mundo Português, em Lisboa, alardava-
--se como pedindo meças ás grandes exposições.
+-se como pedindo meças ás grandes exposições internacionais realizadas lá fora.
 
 ===
 
@@ -7478,7 +7471,7 @@ de Ludgero Lopes Parreira
 
  - Médico efectivo dos Serviços Médico - Sociais desde há 23 anos, na cidade do Porto, a
 quem foi oferecido há já 9 anos um lugar de Inspector - Médico nesses serviços,que então não lhe convinha.
- - Curso de Medicina Sanitária com 17 valores
+ - Curso de Medicina Sanitária com 17 valores.
  - Aprovação em dois concursos por provas públicas, para médicos escolares em 1934 e para assistentes de vacinação do B.C.G. em 1961, cujos lugares desempenhou até 1970.
  - Louvor publicado no Diário do Governo, 2ä série, nº97, de 27 - 4 - 34.
  - Oferta duma bolsa de estudo no estrangeiro pela Fundação Gulbenkian, em 1956, por intermédio do então Governador Civil Dr. Domingos Braga da Cruz e do Diretor do Instituto Superior de Higiene do Porto Dr. Gonçalves Ferreira, que não pôde ser aproveitada.

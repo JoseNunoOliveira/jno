@@ -1,4 +1,3 @@
-
 [1]
 
 Autobiografia de 
@@ -16,9 +15,10 @@ Ludgero Lopes Parreira
 Pôrto,
 Agôsto de 1938
 
-1 [3]
+===
 
-#---
+
+1 [3]
 
 As Antas
 
@@ -45,7 +45,6 @@ cêdo servia de passagem a magotes de operários vindos dos lados da
 Areosa e Ermezinde, que deixavam a rua de Costa Cabral em Silva Tapa-
 da para meterem ao caminho das Antas e se dirigirem às fábricas das
 imediações do Bonfim, ou então à tardinha ao despegar do trabalho.
-
 De-resto poucas pessoas passavam por sítio tão êrmo, com aspecto
 mais de aldeia que de cidade. De noite, pior. A iluminação pública era
 só a bastante para dar ao local aspecto ainda mais lúgubre.
@@ -88,6 +87,10 @@ fim multiplicavam-se. Estamos em fins de 1926. Havia mesmo quem adian-
 tasse que a Avenida, ponto de partida do novo bairro, deveria ser inau-
 gurada em 9 de Abril do ano seguinte.
 
+
+
+%\fotoA
+
 De facto um dia veio em que os trabalhos preliminares começaram.
 As bandeirolas alinhadas e as miras, as pranchetas e o teodolito, mar-
 caram o início da obra. E os operários daí em diante, revezados por
@@ -100,9 +103,7 @@ de Costa Cabral até às Antas.
 
 :-:-:-:
 
-[6]
-
-[7]
+[6] [7]
 
 Eugénio
 
@@ -928,10 +929,7 @@ va volume à ideia. Pois se em só a vendo ao longe todo éle tremia…
 
 18-a- [25->27]
 
-
 O novo médico
-
-
 
 Não obstante os precalços sofridos, sobretudo relativos á escassez de
 tempo com que lutava, Eugénio singrava no seu curso sem desfalecimen-
@@ -948,6 +946,7 @@ quanto lhes serviam, satisfazia muito bem a Eugénio habituado desde tenra
 idade a comer de tudo sem restrições de caprichos. Disso mesmo se van-
 gloriava, prestando homenagem ao seu Pai, sempre que tinha ensejo, por as-
 sim o ter educado.
+
 Terminou enfim, Eugénio, a sua formatura. Guardou a sua carta de alforria
 num misto de alegria e indiferença. Ela marcava o final das suas li-
 des escolares mas ao mesmo tempo o início da luta pela vida. Desenha-
@@ -958,27 +957,37 @@ tomava-o feliz, por um lado. Mas alguma coisa lhe faltava para que
 a sua felicidade fôsse completa, e essa alguma e única coisa era o
 ver-se compreendido por Princesa. Então, sim, é que veria realizado o
 seu sonho.
-[Já um ano antes o facto, que constara vagamente entre os condiscíplos, tivera influência na biografia de Eugénio inserta no tradicional livro dos quintanistas :
-
-“Vinde a vê-lo,cachopas, vinde a vê-lo,
+Já um ano antes o facto, que constara vagamente entre os condiscíplos, tivera influência na biografia de Eugénio inserta no tradicional livro dos quintanistas:
+%\footnote{Explicar .... “Transcrever versos que falam de amor”…}
+%\begin{quote}
+“Vinde a vê-lo, cachopas, vinde a vê-lo,
+%\\
 Este jovem, simpático Doutor!
+%\\
 Q’ às difíceis manobras d’escalpelo,
+%\\
 Junta ainda…umas práticas d, amor!
 
 Correi a vê-lo! e reparai atentas,
+%\\
 Do seu andar na angélica maneira,
+%\\
 Nas galochas sem brilho, poeirentas,
+%\\
 Tão próprias ao Dr. Lopes Parreira!
 
 Tem medo à água… e gestos delicados…
+%\\
 Uns languidos requebros, completados
+%\\
 Pelas voltas qu’imprime ao guarda-chuva
 
-Que vem a ser,co’as galochas despolidas
+Que vem a ser, co’as galochas despolidas
+%\\
 As duas coisas para êle mais queridas
+%\\
 E ficam, ao perfil, como uma luva.”
-
-# NB: inserir nota de rodapé a explicar que o texto está incompleto.
+%\end{quote}
 
 O seu curso estava completo, é certo. Lá estava a atestá-lo o di-
 ploma, e os termos dêste deviam ser motivo de orgulho para Eugénio. Não
@@ -1005,25 +1014,39 @@ Foi recebido de braços abertos. Ao jantar, após a chegada, uma peque-
 na afilhada, botão de rosa a abrir-se para a vida, recitou-lhe de surpre-
 sa as seguintes quadras:
 
+%\begin{quote}
 Três anos que se passaram
+%\\
 Sem eu o tornar a ver:
+%\\
 Três anos longos e tristes
+%\\
 que não poderei esquecer.
 
 Se eu conseguisse umas asas
+%\\
 Com que pudesse voar,
+%\\
 Quando acabou o seu curso
+%\\
 Alegre o ia abraçar.
 
 Se meus Avós e seus Pais
+%\\
 Vivessem nêste bocado,
+%\\
 Que santa alegria tinham
+%\\
 Dever um filho formado!
 
 Aceite, querido Padrinho,
+%\\
 Esta pequena florinha,
+%\\
 Pedindo que se não esqueça
+%\\
 Desta sua afilhadinha.
+%\end{quote}
 
 O novel médico entrou com o pé direito. Uns casos difíceis de
 entrada deram-lhe fama. O seu prestígio aumentou mais quando constou que até Lentes de Medicina, de Lisboa, ao serem
@@ -1228,8 +1251,8 @@ riosidade dos companheiros de Eugénio nas trocas dos olhares deste com
 Princesa...
 
 
-Um dia Eugénio, incitado pelo António Ferreira, encheu-se dum pouc-
-de coragem. Cruzou, sozinho, as do grupo, e fitou Princesa. Esta fitou-o
+Um dia Eugénio, incitado pelo António Ferreira, encheu-se dum pouco
+mais de coragem. Cruzou, sozinho, as do grupo, e fitou Princesa. Esta fitou-o
 também energicamente, e Eugénio manteve com energia o olhar. Estava então
 todo o grupo debruçado sobre as guardas de ferro do Molhe, voltado para o
 mar, e Princeza tivera, para fitar Eugénio, de se voltar obliquamente para
@@ -1264,10 +1287,10 @@ tância e persistência com que a admirava e seguia desde há anos?
 
 Escreveu-lhe pelo correio uma longa carta na qual procurou tra-
 duzir o melhor que pôde e soube a sinceridade que a inspirava. Ei-la:
-
-# FALTA O ENCARTE
+% (...)\footnote{Não se encontra no original dactilografado o texto desta carta. } 
 
 25 [35]
+
 
 Alguns dias passados estava Eugénio abancado a uma mesa de chá,
 com a familia de António Ferreira. O grupo de Princeza veiu ocupar a
@@ -1303,7 +1326,7 @@ que te servem. Tu é que, obcecado como andas, não as vês. Supões que
 só existe essa a quem tanto te prendeste? Segue o meu conselho: pro-
 cura outra e não penses mais nessa.
 
--Eugénio, cabisbaixo, respondia: Era de facto o único remédio o es-
+- Eugénio, cabisbaixo, respondia: Era de facto o único remédio o es-
 
 26 [36]
 
@@ -1338,7 +1361,7 @@ lhes dirigem, ainda que imbecis.
 
 Cerco a Princesa
 
-Em Eugénio subsistia a como pesado fardo a eterna dúvida. Ela
+Em Eugénio subsistia como pesado fardo a eterna dúvida. Ela
 gostará ou não dêle? A última carta, como as anteriores, chegaria ao
 seu destino? Se soubesse por forma inequívoca que era indiferente a
 Princesa, conformar-se-ia. Mas qual o significado daquêles olhares com
@@ -1649,7 +1672,6 @@ da fêmea, e nunca inversamente, como acontece com
 todos os seres vivos... excepto com o ser humano
 ultra-moderno em que o pudor desapareceu.
 
-
 Mas além das do século XXV e entre aqueles extremos há classifi-
 cação para a maioria do que para aí se vê.
 
@@ -1657,14 +1679,7 @@ Ao século XIX pertencem aquelas que cozinham e dirigem uma casa,
 vivem para a família constituída que manteem indestrutível com a ter-
 nura e carinhos que só ela conhece, e que se preocupa em transmitir aos
 
-[46]
-
-32-a
-
-
-]
-
-33
+[45] [46] 33 [47]
 
 seus filhos o nome herdado dos pais, que não exige do marido um vesti-
 do quando êste lho não possa dar.
@@ -1788,10 +1803,7 @@ de viajarmos comodamente; e não reconhecemos êstes mesmos direitos
 nos outros que parece terem mais de que nós o dever de se deixarem
 invadir na sua esfera de acção, de restringirem os benefícios colhidos,
 
-35-a[50]
-]
-
-36 [51]
+35-a [50] 36 [51]
 
 de trabalharem mais e terem menos descanso, de receberem as nossas gros-
 serias, de serem mais sóbrios na alimentação, de darem satisfações, dos seus
@@ -1865,7 +1877,7 @@ formação moral: não lhe invejamos o esfôrço que fez para conseguir
 elevar-se e não pensamos na sorte dos desgraçados inferior à nossa.
 
 - Ver as coisas desapaixonadamente, apreciá-las a frio, criticá-
--los imparcialmente, bilateralmente, pelo lado que nos respeita e pe-
+-las imparcialmente, bilateralmente, pelo lado que nos respeita e pe-
 lo que nos poderia respeitar, devia ser a norma de quem se preza, de
 quem tem um cérebro a caracterizá-lo de racional. A meu favor ou
 contra mim, a favor ou contra um parente ou amigo, a nossa razão deve-
@@ -2237,7 +2249,7 @@ de várias amigas, aquela sua indiferença deveria manter-se indefini-
 damente? teimosamente?
 
 Acontece um dia passar por um antigo condiscípulo que desfecha a
-Eugénio a seguinte observação: - Então essas cartas？
+Eugénio a seguinte observação: - Então essas cartas?
 
 - Que cartas? Preguntou Eugénio intrigado.
 
@@ -3502,8 +3514,6 @@ parou-se bem, não fôsse aí encontrar o primeiro insucesso como examinan-
 do, e alcançou a sua carta de condução.
 
 64 [95]
-
-(1938 )
 
 Na missa
 
@@ -5944,7 +5954,6 @@ nação. Assim pensava o pedagogo, egoistamente, como o obreiro manual podia
 defender a manucracia, esquecendo que é do concurso comum, e por igual, que
 resulta o progresso da sociedade. E esquecendo que a hierarquia das profissões se diluiu já como a das castas,e o orgulhos dos intelectuais semelhante ao dos nobres, não tem mais razão de existir,devendo bastar-lhes a vantagem que aqueles ainda possuem de verem melhor remunerado o seu trabalho e realizado em condições mais confortáveis.
 
-
 Os argumentos com que viera em apoio do celibato não assentavam em
 bases sérias para que houvessem merecido sequer a atenção de Eugénio, por
 ventura solicitada para outros assuntos.
@@ -6193,7 +6202,9 @@ contra os dois invasores. Mais uma nação desaparecida sob a voracidade in-
 saciável das grandes potências.
 
 As tropas francesas e britânicas, comandadas as de terra por Gamelin,
-e as do mar e ar por [.........], continuam na sua acção. As primeiras estão
+e as do mar e ar por
+%(...) \footnote{Espaço deixado em branco.}
+ , continuam na sua acção. As primeiras estão
 desde início instaladas em território alemão, e forçam Sarrebruck a render-
 se, enquanto a esquadra marítima dá caça á praga dos submarinos inimigos,
 e a aérea auxilia uma e outra e sobrevoa Berlim.
@@ -6217,8 +6228,6 @@ próxima. A Turquia alia-se á França e á Inglaterra. A Itália ainda se não
 manifestou.
 
 Estamos em meados dum Outubro frio, em que á calamidade da guerra se
-
-
 
 102 [144]
 
@@ -6429,18 +6438,36 @@ a saúde do povo. Que nos trará a actual? É a interrogação que todos fazem,
 e para cuja resposta não será necessário ser demasiado pessimista auguran-
 do-lhe calamitosas consequências.
 
-105
+Para já, nota-se a confusão das ideias políticas, apanágio dos sectá-
 
+[149]
 
-Para já, nota-se a confusão das ideias políticas, apanágio dos sectários.Ainda há pouco tempo se podiam reduzir a duas as correntes ideológicas  portuguêsas : Uma conservadora, outra democrática, ou, mais modernamente, a dos nacionalistas e a dos oposicionistas. Na presente conjuntura,a barreira entre conservadores e liberais diluiu-se.Há germanófilos e germanófobos. A Alemanha,dizem uns, necessita de ocupar o merecido lugar na Europa como nação que é dum povo de admiráveis qualidades de actividade. Para outros impõe-se o aniquilamento daquele foco de efervescência europeia. Os primeiros consideram arbitrária a forma como o tratado de Versalhes desmantelou o povo vencido em 1918, enquanto que os segundos afirmam que o desmantelamento ficou aquém do necessário para a manutenção duma paz duradoura.
+rios. Ainda há pouco tempo se podiam reduzir a duas as correntes ideológi-
+cas  portuguêsas : Uma conservadora, outra democrática, ou, mais modernamente, 
+a dos nacionalistas e a dos oposicionistas. Na presente conjuntura, a barrei-
+ra entre conservadores e liberais diluiu-se. Há germanófilos e germanófobos. 
+A Alemanha, dizem uns, necessita de ocupar o merecido lugar na Europa como 
+nação que é dum povo de admiráveis qualidades de actividade. Para outros 
+impõe-se o aniquilamento daquele foco de efervescência europeia. Os primei-
+ros consideram arbitrária a forma como o tratado de Versalhes desmantelou 
+o povo vencido em 1918, enquanto que os segundos afirmam que o desmantela-
+mento ficou aquém do necessário para a manutenção duma paz duradoura.
 Ideias germanófilas e germanófobas não se sobrepõem, porém, ás ideologias anteriormente existentes. Se conservadores e democráticos se conluiaram para, na sua maioria, apoiarem  as democracias francêsa e britânica, opondo-se á megalomania germânica, outros há que, do lado conservador, manteem-se em atitude hostil para com as democracias ás quais preferem o comunismo vermelho, ou, do lado democrático, evoluiram para ideias mais avançadas que outra coisa não são que comunistas. Eis aqui a confusão: conservadores, na sua maioria católicos, feitos simpatizantes da Alemanha, que é ateia e aliada dos comunistas; democráticos infieis á sua doutrina, apologistas dum sistema totalitário, como o é o alemão, e mancomunados com uma ditadura como o é a russa. Outros ainda desejariam o impossível: apoiar a Alemanha e não a Rússia , e ainda outros apoiar a Rússia e não a Alemanha. Finalmente há quem preconize a modificação radical dos dois sistemas antagonistas que se debatem: em lugar das democracias procurarem aniquilar o germano-sovietismo, deveriam coligar-se com a Alemanha para formarem barreira comum contra o perigo comunista.
-  As ideias, muitas vezes incoerentes, explicam-se. Domina no espírito de uns a solidariedade religiosa noutros a política, noutros a raça, noutros ainda o interêsse particular.Na  actual conjuntura prevalece,porém, o sentimentalismo que condena as invasões ou as admite, a dividir em dois grandes sectores a opinião pública,  independentemente de ideologias que se confundiram, porque, tomadas em bloco, são fundamentalmente insustentáveis e só discutíveis parceladamente.  Eis o que para já nos trouxe a actual guerra, além das muitas vidas ceifadas e dos milhares de contos que se desperdiçam diariamente, afundando navios ou queimando torpedos, e que melhor destino tinham na redução da miséria dos necessitados.
+
+ As ideias, muitas vezes incoerentes, explicam-se. Domina no espírito de uns a solidariedade religiosa noutros a política, noutros a raça, noutros ainda o interêsse particular.Na  actual conjuntura prevalece,porém, o sentimentalismo que condena as invasões ou as admite, a dividir em dois grandes sectores a opinião pública,  independentemente de ideologias que se confundiram, porque, tomadas em bloco, são fundamentalmente insustentáveis e só discutíveis parceladamente. 
+
+Eis o que para já nos trouxe a actual guerra, além das muitas vidas ceifadas e dos milhares de contos que se desperdiçam diariamente, afundando navios ou queimando torpedos, e que melhor destino tinham na redução da miséria dos necessitados.
+
+. . . . . . . . . . .  .
+
  Assim se passou êste verão nervosamente. A catástrofe iminente, e mais do que isso,a inconstância do tempo,frio e chuvoso,não permitiu grandes exibições mundanas nesta época.
  As praias e termas, ressentiram-se. A Foz esteve desanimada como nunca.
+
 Miramar foi a praia da moda êste ano, com a inauguração do Parque da
 Gândara que lhe insuflou desusada actividade vital. Ali, os arraiais minho-
 tos, e chás dançantes aos domingos, descongestionavam a sociedade elegante
 do Porto.
+
 A família Frazão, açodada pelos cuidados que a irmã de Princesa começou
 a inspirar com a sua febrícula renitente, teve de procurar estância, a con-
 selho médico, onde pudesse beneficiar simultaneamente dos ares do mar e dos
@@ -6448,6 +6475,7 @@ pinheirais. A ridente praia de Miramar, com os seus palacetes ajardinados e
 as suas avenidas muito limpas, foi o retiro escolhido. O sossêgo ali é abso-
 luto, só interrompido pelos silvos dos comboios, e os ares são magníficos. A
 proximidade do Porto é outro factor a juntar àqueles.
+
 Eugénio teve ensejo de por ali ir nalguns domingos. Só uma das vezes
 viu Princeza. Tê-la-ia visto de-certo todas as outras vezes se entrasse no Parque.
 
@@ -6463,6 +6491,7 @@ quer pretexto; efectivamente, se o estatuto de tal colectividade era belo,
 a sua prática limitava-se a dois números primordiais - a gastronomia e o
 exibicionismo. Nada interessava, pois, a sociedade a Eugénio, com a agravante
 de se tornar dispendiosa e incompatível com os seus hábitos de economia.
+
 . . . . . . . .
 
 O casamento do Zèquinha, realizado durante à ausência de Eugénio, era
@@ -7429,6 +7458,35 @@ embaixadas especiais das nações que em grande número se haviam dignado
 fazer-se representar. A Exposição do Mundo Português, em Lisboa, alardava-
 -se como pedindo meças ás grandes exposições internacionais realizadas lá fora.
 
+===  Nota introdutória
+
+Com a publicação deste romance autobiográfico, escrito pelo meu Pai entre 1924 e 1943, pretendo homenagear a sua memória, 125 anos passados do seu nascimento.
+
+Com uma personalidade tímida e discreta, o autor descreve uma paixão entre as personagens Eugênio e Maria Princesa, ficcionada na cidade do Porto na primeira metade do séc. XX. Esta ficção mostra o carácter repleto de valores e princípios que orientaram o autor na sua gloriosa luta contra as adversidades que enfrentou desde tenra idade. Assim se vê resgatada, também, a evocação da sua vida,  que muitos não terão imaginado ser tão rica e interessante.
+
+Órfão de tenra idade, constituiu sempre uma obsessão de meu Pai a construção de uma Família e de um lar harmonioso onde nada faltasse sempre sob o preceito de uma economia ponderada –- a única que em sua opinião se traduz em poupança e equilíbrio.
+
+Da leitura deste texto que nos deixou (escrito na sua velha Remington Portable model 5)  bem como da inúmera correspondência existente, compreendi melhor, como filho, os anseios  de meu Pai  no rigor da minha educação, pelo que expresso a minha reconhecida gratidão.
+
+Os opúsculos que publicou enquanto Médico Escolar mostram grande preocupação com a Higiene, Alimentação e Saúde Física e Moral dos jovens estudantes, inquietação que perpassa o próprio romance em trechos onde se revela uma severa crítica social à época.
+
+Na transcrição do texto dactilografado achou-se por bem respeitar a grafia original, por se achar que torna a percepção do seu conteúdo mais autêntica.
+
+Finalmente, que a apresentação deste romance despretensioso, mas com valor literário e autobiográfico, sirva para promover mais uma reunião de Família, culto que verdadeiramente herdamos dos nossos antepassados. 
+
+=== Breve Biografia
+
+Ludgero Lopes Parreira nasceu em Penha-Longa, Marco de Canavezes, Entre-Douro e Minho, a 23 de Junho de 1900, e faleceu no Porto em 1974.
+
+Formado em Medicina pela Escola Médica do Porto (1930), iniciou a sua carreira clínica no Alentejo, em Portalegre (1930-1933), onde permaneceu três anos. Regressou ao Norte, exercendo, também, o cargo de Médico Escolar (1934-1970) em várias escolas e liceus da cidade do Porto bem como assistente de vacinação no BCG (1961-1970). Em 1948 torna-se médico efectivo dos Serviços Médico-Sociais e posteriormente convidado para um  lugar de Inspector-Médico nestes serviços.
+
+Publicou mais de três dezenas de trabalhos  académicos, sendo-lhe atribuída pela Fundação Calouste Gulbenkian (1956) uma bolsa de estudo no estrangeiro que, por motivos pessoais, não pôde ser aproveitada. Recebeu um louvor publicado no Diário do Governo (2ª
+série, nº97, de 27/4/34).
+
+Do seu casamento com Ângela Martins Albuquerque Oliveira, em 1945, nasceu José Henrique Oliveira Parreira (1946), seu único filho, igualmente licenciado em Medicina pela Universidade do Porto (1972).
+
+Este é o seu único romance conhecido.
+
 ===
 
 Memória biográfica
@@ -7522,24 +7580,6 @@ Colaboração agrícola, e outra,dispersa por vários semanários noticiosos do 
 
 Novembro de 1971.
 __________________________________________________________
-Sugestão de abertura pedida pelo Zé Henrique
-
-Com a publicação deste romance autobiográfico, escrito pelo meu Pai entre 1924 e 1943, pretendo homenagear a sua memória, 125 anos passados do seu nascimento.
-
-Com uma personalidade tímida e discreta, o autor descreve uma paixão entre as personagens Eugênio e Maria Princesa, ficcionada na cidade do Porto na primeira metade do séc. XX. Esta ficção mostra o carácter repleto de valores e princípios que orientaram o autor na sua gloriosa luta contra as adversidades que enfrentou desde tenra idade. Assim se vê resgatada, também, a evocação da sua vida,  que muitos não terão imaginado ser tão rica e interessante.
-
-Órfão de tenra idade, constituiu sempre uma obsessão de meu Pai a construção de uma Família e de um lar harmonioso onde nada faltasse sempre sob o preceito de uma economia ponderada - a única que se traduz em poupança e equilíbrio.
-
-Da leitura deste texto que nos deixou - escrito na sua velha Remington Portable model 5 - bem como da inúmera correspondência existente, compreendi melhor, como filho, os anseios  de meu Pai  no rigor da minha educação, pelo que expresso a minha reconhecida gratidão.
-
-Em anexo consta a relação dos opúsculos que o autor publicou enquanto Médico Escolar muito preocupado com a Higiene, Alimentação e Saúde Física e Moral dos jovens estudantes, inquietação que perpassa o próprio romance em trechos onde se revela subtil crítica social à época.
-
-Na transcrição do texto dactilografado achou-se por bem respeitar a grafia original, por tornar - achamos -  a percepção do seu conteúdo mais autêntica.
-
-Finalmente, que a apresentação deste romance - com qualidade literária-, sirva para promover mais uma reunião de Família, culto que verdadeiramente herdamos dos nossos antepassados. 
-
-ZH
-
 
 
 Notas: A viagem à Madeira é em Abril de !939

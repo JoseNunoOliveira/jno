@@ -1,0 +1,48 @@
+Option	Transport	Company	Viana do Castelo	Braga bus station	Porto railway station (Campanhã)	Airport	Price (*)	About
+DB	Bus (direct)	"<a href=""https://rede-expressos.pt/en"">Rede Expressos</a>"	03:45	-	-	04:50	€8,00	"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+DB	Bus (direct)	"<a href=""https://rede-expressos.pt/en"">Rede Expressos</a>"	05:00	-	-	05:45	€8,00	"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+DB	Bus (direct)	"<a href=""https://rede-expressos.pt/en"">Rede Expressos</a>"	07:45	-	-	08:30	€8,00	"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+DB	Bus (direct)	"<a href=""https://rede-expressos.pt/en"">Rede Expressos</a>"	08:15	-	-	09:00	€8,00	"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+DB	Bus (direct)	"<a href=""https://rede-expressos.pt/en"">Rede Expressos</a>"	18:00	-	-	19:05	€8,00	"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+DB	Bus (direct)	"<a href=""https://rede-expressos.pt/en"">Rede Expressos</a>"	21:00	-	-	22:05	€8,00	"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+SDB	Bus (1 transfer)	"<a href=""https://www.flixbus.in/?atb_pdid=e26b8c75-f4a7-4c13-98d5-7b8ec938d864&amp;_sp=52bd98f5-6f2e-4186-9f96-a6a65175ec4b.1740149613090&amp;noRedirect=true&amp;_spnuid=a4d26829-ac95-43f7-9ca0-9a9be60f24d0_1740149613082"">Flexibus</a>"	10:40	-	(11:40,12:55)	13:20	€8,00	
+SDB	Bus (1 transfer)	"<a href=""https://www.flixbus.in/?atb_pdid=e26b8c75-f4a7-4c13-98d5-7b8ec938d864&amp;_sp=52bd98f5-6f2e-4186-9f96-a6a65175ec4b.1740149613090&amp;noRedirect=true&amp;_spnuid=a4d26829-ac95-43f7-9ca0-9a9be60f24d0_1740149613082"">Flexibus</a>"	07:40	-	(08:40,09:40)	10:05	€8,00	
+APV	Metro (Line E)	"<a href=""https://en.metrodoporto.pt/"">Porto Metro</a>"	-	-	every.... mins	every.... mins		"<a href=""https://en.wikipedia.org/wiki/Rede_Nacional_de_Expressos#References"">Wikipedia</a>"
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	05h57	-	07h40	-	€7,50	R|U
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	06h42	-	08h20	-	€7,90	R
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	07h37	-	08h43	-	€14,35/€13,25	IC
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	08h03	-	09h15	-	€8,70	IR
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	09h17	-	10h20	-	N/A	IN
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	10h07	-	11h19	-	€8,70	IR
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	12h38	-	14h10	-	€7,50	R|U
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	13h46	-	15h40	-	€7,50	R|U
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	15h08	-	16h20	-	€8,70	IR
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	16h07	-	18h10	-	€7,50	R|U
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	17h45	-	19h40	-	€7,50	R|U
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	18h48	-	20h10	-	€8,70	IR
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	20h14	-	21h18	-	N/A	IN
+APV	Train (1 transfer)	"<a href=""https://www.cp.pt/passageiros/en"">CP</a>"	21h08	-	22h30	-	€8,70	IR
+ABV	Bus (6 stops)	"<a href=""https://www.avic.pt/transportes/pt/transportes/interurbanos/braga-viana-do-castelo"">AVIC</a>"	07:00	08:40	-	-	TBC	"<a href=""https://www.avic.pt/transportes/pt/Grupo_Avic#"">About AVIC</a>"
+ABV	Bus (6 stops)	"<a href=""https://www.avic.pt/transportes/pt/transportes/interurbanos/braga-viana-do-castelo"">AVIC</a>"	13:20	15:00	-	-	TBC	"<a href=""https://www.avic.pt/transportes/pt/Grupo_Avic#"">About AVIC</a>"
+ABV	Bus (6 stops)	"<a href=""https://www.avic.pt/transportes/pt/transportes/interurbanos/braga-viana-do-castelo"">AVIC</a>"	16:35	18:15	-	-	TBC	"<a href=""https://www.avic.pt/transportes/pt/Grupo_Avic#"">About AVIC</a>"
+ABV	Bus (6 stops)	"<a href=""https://www.avic.pt/transportes/pt/transportes/interurbanos/braga-viana-do-castelo"">AVIC</a>"	18:35	20:15	-	-	TBC	"<a href=""https://www.avic.pt/transportes/pt/Grupo_Avic#"">About AVIC</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	05:00	-	05:50	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	07:00	-	07:50	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	08:30	-	09:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	09:30	-	10:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	10:30	-	11:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	11:30	-	12:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	12:30	-	13:15	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	13:00	-	13:50	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	13:30	-	14:15	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	14:15	-	15:05	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	14:30	-	15:15	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	15:30	-	16:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	16:30	-	17:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	17:45	-	18:35	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	19:00	-	19:50	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	20:30	-	21:20	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	23:00	-	23:50	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+ABV	Bus (direct)	"<a href=""https://www.getbus.eu/en/braga-aeroporto-porto"">getBUS</a>"	-	00:45	-	01:35	€9,00	"<a href=""https://www.youtube.com/watch?v=N1eE-f4Uo0g&amp;t=87s"">YouTube</a>"
+TAX	Taxi	"<a href=""https://airportstaxitransfers.com/"">Airport Transfers</a>"		-	-			
+TAX	Taxi	"<a href=""https://www.vianataxis.pt/en/"">VianaTaxis</a>"		-	-			

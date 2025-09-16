@@ -9043,7 +9043,7 @@ f \comp in = h \comp \ff{\split f {\split g j}}
 \end{exercise}
 
 \begin{exercise}
-Prove the law
+Prove the following law
 \begin{eqnarray}
 \begin{lcbr}
 	|f = inT . fF(either f g) . h|
@@ -9054,7 +9054,7 @@ Prove the law
 	|either f g = ana(either h k)|
 \label{eq:190720a}
 \end{eqnarray}
-which dualizes the mutual recursion law, cf.
+which dualizes the mutual recursion law (\ref{eq:fokkinga}), cf.
 \begin{eqnarray*}
 \xymatrix{
         |fT|
@@ -9300,11 +9300,11 @@ As example of application of (\ref{eq:fokkinga}) for $\muF$ other than $\N_0$,
 consider the following recursive predicate which checks whether a (non-empty) list is ordered,
 \begin{eqnarray*}
 \begin{array}{rcl}
-&& ord : \rarrow {A^+} {} {2}
+&& ord : \rarrow {A^+} {} {|Bool|}
 \\
-&& \ap{ord}{\enseq a} = \true
+&& |ord [a] = True|
 \\
-&& \ap{ord}{(cons(a,l))} = a \geq (\ap{listMax}l) \land (\ap{ord}l)
+&& |ord(cons(a,l)) = a >= (listMax l) && (ord l)|
 \end{array}
 \end{eqnarray*}
 where $\geq$ is assumed to be a total order on datatype $A$ and
@@ -9334,16 +9334,16 @@ However, the following diagram depicting $ord$
         A + A \times A^+ \ar[d]^{id + id \times \split{listMax}{ord}}
 		 \ar[ll]_-{\alt{\singl{}}{cons}}
 \\
-        2 && A + A \times (A \times 2) \ar[ll]^-{\alt{\kons\true}{\alpha}}
+        |Bool| && A + A \times (A \times |Bool|) \ar[ll]^-{\alt{\kons\true}{\alpha}}
 }
 \end{eqnarray*}
-(where
-\(
+--- where
+\[
 \alpha\tuple{a,\tuple{m,b}} \deff a \geq m \land b
-\))
-suggests the possibility of using the mutual recursion law.
+\]
+--- suggests the possibility of using the mutual recursion law.
 One only has to find a way of letting $listMax$ depend also on $ord$, which
-isn't difficult:
+is not difficult:
 for any \( \rarrow {A^+} g B \), one has
 \begin{eqnarray*}
        \xymatrix{
@@ -9356,7 +9356,7 @@ for any \( \rarrow {A^+} g B \), one has
 \end{eqnarray*}
 where the extra presence of $g$ is cancelled by projection $\p1$.
 
-For \( B = 2 \) and \( g = ord \) we are in position to apply Fokkinga's
+For |B = Bool| and \( g = ord \) we are in position to apply Fokkinga's
 law and obtain:
 \begin{eqnarray*}
 \split{listMax}{ord} & = &
@@ -9377,7 +9377,7 @@ ord l = let (a,b) = aux l in b
 where
 \begin{eqnarray*}
 \start
-	aux : \rarrow {A^+} {} {A \times 2}
+	aux : \rarrow {A^+} {} {A \times |Bool|}
 \more |aux [a] = (a,True)|
 \more |aux(cons(a,l)) =
          (max(a,m),a > m && b) where (m,b) = aux l
@@ -12526,7 +12526,7 @@ which was the starting point of section \ref{sec:180409b},
 mathematicians are more interested in expressing the input/output \emph{relationship} of |f|,
 that is, the set of all pairs $(y,x)$ such that |y=f x|. Such a set of pairs is often
 referred to as the ``graph" of |f|, which can be plotted two-dimensionally in case types
-|A| and |B| are linearly ordered. (As is the standard case, in which |A|=|B|=|Real|,
+|A| and |B| are linearly ordered. (As is standard in e.g.\ mathematical analysis, where |A|=|B|=|Real|,
 the real numbers.)
 
 It turns out that such a \emph{graph} can be regarded as a special case of a
@@ -12636,7 +12636,8 @@ Relations obeying (\ref{eq:041213a}) will be referred to as \emph{simple},
 according to a terminology to follow shortly.
 
 Implication (\ref{eq:041213b}) expresses the (philosophically) interesting fact that
-no function (observation) can be found able to distinguish between two equal objects.
+no function (observation) can be found able to distinguish between two equal objects.\footnote{%
+That is, if some function (observation) |f| is found such that |f a /= f a'|, then |a/=a'|) }
 This is another fact true about functions which does not generalize to binary relations,
 as we shall see when we come back to this later.
 
@@ -12649,10 +12650,10 @@ which relates
 	\mbox{$b \ f \ a\ $ literally means $\ b=f\ a$}
 	\label{eq:131015a}
 \end{eqnarray}
-The purpose of this chapter is to generalize from
+The main purpose of this chapter is to give a smooth generalization of
 \begin{eqnarray*}
 	\fbox{$\arrayin{&\rule{0pt}{1.3em}\larrow A f B&\\ &b = f \ a&}$}
-& \mbox{~ to ~ } &
+& \mbox{~ towards ~ } &
 	\fbox{$\arrayin{&\rule{0pt}{1.3em}\larrow A R B&\\ &b \ R \ a&}$}
 \end{eqnarray*}
 
@@ -12729,7 +12730,7 @@ details that any particular functional implementation is bound to include.
 
 Wherever a post-condition is intended to specify a function $f$, one refers
 to such a condition as an \emph{implicit specification} of $f$. Examples:
-\emph{explicit} definition of the |abs| function
+the \emph{explicit} definition of the |abs| function
 \begin{code}
 	abs: Int -> Int
 	abs i = if i<0 then -i else i
@@ -12740,14 +12741,14 @@ followed by an \emph{implicit specification} of the same function:
 \\
 	|post (r >= 0 && (r=i |||| r=-i))|
 \end{quote}
-Explicit definition of |max| function:
+The explicit definition of |max| function
 \begin{quote}
 	|max: Int >< Int -> Int|
 \\
 	|max(i,j) = if i <= j then j else i|
 	%label{eq:111012b}
 \end{quote}
-Its \emph{implicit specification}:
+and its \emph{implicit specification}:
 \begin{quote}
 	|max (i:Int,j:Int) r:Int|
 \\
@@ -12830,12 +12831,12 @@ in (\ref{eq:051118b-def}) can be written
 Note how (\ref{eq:051118b-def})
 % of the \textbf{PF}\footnote{PF stands for ``point-free''.}-transform
 \emph{removes} |exists| and bound variable |a| when applied from right to left.
-This is an example of conversion from pointwise to pointfree notation, since ``point" |a| also disappears.
-Indeed, we shall try and avoid lengthy, complex |forall,exists|-formulae by converting them to \emph{pointfree}
+This is an example of conversion from \emph{pointwise} to \emph{pointfree} notation, since ``point" |a| also disappears.
+Indeed, we shall try and avoid lengthy, complex |forall,exists|-formulae by converting them to {pointfree}
 notation, as is the case in (\ref{eq:051118b-def}) once relational composition is used.
 
 A simple calculation will show how (\ref{eq:051118b-def}) instantiates to (\ref{eq:990115c}) for the
-special case where $R$ and $S$ are functions, |R,S := f,g|:
+special case where $R$ and $S$ are functions (|R,S := f,g|):
 \begin{eqnarray*}
 %
 	b (f \comp g) c & \equiv & |rcb exists a () (b f a && a g c)|
@@ -12990,9 +12991,9 @@ since
 {R \subseteq R}
 \end{eqnarray}
 holds for every |R|;
-it is \emph{transitive}, since for all $R,S,T$
+it is \emph{transitive}, since for all $R,S,Q$
 \begin{eqnarray}
-	R \subseteq S \land S \subseteq T & \implies & R \subseteq T
+	R \subseteq S \land S \subseteq Q & \implies & R \subseteq Q
         \label{eq:161013a}
 \end{eqnarray}
 holds; and it is \emph{antisymmetric}, as established by circular-inclusion (\ref{eq:020616a}) itself.
@@ -13244,7 +13245,7 @@ Thus we see how relation diagrams ``hide'' logically quantified formul\ae\
 capturing properties of the systems one wishes to describe.
 
 Compared with the commutative diagrams of previous chapters, a diagram
-\begin{eqnarray*}
+\begin{eqnarray}
 \xymatrix@@R=3mm@@C=3mm{
 	   |A|
 		   \ar[dd]_{|R|}
@@ -13260,7 +13261,8 @@ Compared with the commutative diagrams of previous chapters, a diagram
 	   |D|
 		   \ar[ll]^{|Q|}
 }
-\end{eqnarray*}
+	\label{eq:260916e}
+\end{eqnarray}
 is said to be \emph{semi-commutative} because |Q . P atmost R . S| is not
 forced to hold, only |R . S atmost Q . P| is. In case both inclusions hold, the |atmost|
 symbol is dropped, cf.\ (\ref{eq:020616a}).
@@ -13571,7 +13573,12 @@ Recall the definition of a constant function (\ref{eq:Kons}),
    \end{array} %label{eq:Kons}
 \end{eqnarray*}
 where |K| is assumed to be non-empty.
-Using (\ref{eq:051118b-def}), show that |ker (const k) = top| and compute which relations are defined by the  expressions
+Using (\ref{eq:051118b-def}), show that
+\begin{eqnarray}
+	|ker (const k) = top|
+	\label{eq:260916d}
+\end{eqnarray}
+and compute which relations are defined by the  expressions
 \begin{eqnarray}
 \xarrayin{
 	~ |const b . (conv (const a))|,
@@ -14705,7 +14712,7 @@ holds for every function $f$, prove that |ker f| (\ref{eq:161014b}) is an
 \end{exercise}
 
 \begin{exercise}
-From |ker bang = top| and (\ref{eq:180826b}) infer
+From |ker bang = top| --- recall (\ref{eq:260916d}) ---  and (\ref{eq:180826b}) infer
 \begin{eqnarray}
 	|top . R atmost top . S| & |<=>| & |R atmost top . S|
 	\label{eq:180826c}
@@ -14897,17 +14904,22 @@ For instance, cancellation becomes:
 This tells us that pairing |R| with |S| has the (side) effect of deleting
 from |R| all those inputs for which |S| is undefined (and vice-versa), since output pairs
 require that \emph{both} relations respond to the input. Thus, for relations, laws
-such as the |><|-\emph{fusion} rule (\ref{eq:702e}) call for a side-condition:
+such as the |><|-\emph{fusion} rule (\ref{eq:702e}) call for a side-condition:\footnote{
+In general:
+	|split R S . Q atmost (split (R . Q)(S . Q))|
+holds.
+}
 \begin{eqnarray}
 \arrayin{
-\start	\split R S \comp T =
-	\split{R \comp T}{S \comp T}
+\start	\split R S \comp Q =
+	\split{R \comp Q}{S \comp Q}
 \more \rule{3em}{0pt} \implied ~
-	R \comp (\img T) \subseteq R \lor
-	S \comp (\img T) \subseteq S
+	R \comp (\img Q) \subseteq R \lor
+	S \comp (\img Q) \subseteq S
 }
 	\label{eq:050415b}
 \end{eqnarray}
+%
 Clearly,
 \begin{eqnarray}
 	\split RS \comp f \wider= \split{R\comp f}{S \comp f}
@@ -14927,9 +14939,9 @@ where |R >< S| is defined in the same way as for functions:
 \end{eqnarray}
 As a generalization of (\ref{eq:131016b}) and also immediate by monotonicity,
 \[
-	|split R S . T = split (R . T)(S . T)|
+	|split R S . Q = split (R . Q)(S . Q)|
 \]
-holds for |T| simple.
+holds for |Q| simple.
 
 Because (\ref{eq:060319a}) is not the universal property of a product, we tend
 to avoid talking about relational \emph{products} and rather talk about relational \emph{pairing} instead.\footnote{Relational products do exist but are not obtained by |split R S|. For more about this see section \ref{seq:180915a} later on.}
@@ -15109,11 +15121,11 @@ as seen above. The converse implication (|<=.|) holds:
 %
 \just\implied{ Leibniz }
 %
-	|X . i1 . conv i1  = R . conv i1  && X . i2 . conv i2 = S . conv i2|
+	|lcbr(X . i1 . conv i1  = R . conv i1)(X . i2 . conv i2 = S . conv i2)|
 %
 \just\implied{ monotonicity}
 %
-	|X . i1  = R  && X . i2 = S|
+	|lcbr(X . i1  = R)(X . i2 = S)|
 \qed
 \end{eqnarray*}
 Thus (\ref{eq:081008c}) holds in general, for relations:
@@ -15189,6 +15201,30 @@ Moreover, prove
 \end{eqnarray}
 \vskip -2em
 \end{exercise}
+
+\paragraph{Biproducts}
+It turns out that universal property
+\begin{eqnarray}
+	|X=(conv(either (conv R)(conv S))) <=> conv i1 . X = R && conv i2 . X = S|
+	\label{eq:260916a}
+\end{eqnarray}
+also holds, being easy to derive from (\ref{eq:081008c}). So |(conv(either (conv R)(conv S)))|
+is the \emph{categorial} product for relations:
+\begin{eqnarray*}
+        \arIso  {\rel A {(B + C)}}
+                {(\rel A B) × (\rel A C)}
+                {} % {\coJoin}
+                {} % {\uncojoin}
+	%label{eq:333o-ar}
+\end{eqnarray*}
+That is, among relations, the product is obtained as the converse dual of
+the coproduct. This is called a \emph{biproduct} \cite{MO13c}.
+The effect of |(conv(either (conv R)(conv S)))| is just ``merge" relations
+|R| and |S| into a single one in a way that never confuses their outputs:
+\begin{eqnarray}
+	|conv(either (conv R)(conv S)) = cup (i1 . R)(i2 . S)|
+	\label{eq:260916b}
+\end{eqnarray}
 
 \begin{exercise}
 From (\ref{eq:180814a}) infer that (\ref{eq:180825a}) is a re-statement of (\ref{eq:703b}). 
@@ -16309,7 +16345,11 @@ That is, |b(syd S R)c| means that |b| and |c| are related to exactly the same ou
 \end{eqnarray}
 where |`pT`| is the \emph{power transpose} operator\footnote{See section \ref{sec:180827a} for more details about this operator.} which maps
 a relation |Q : Y <- X| to the set valued function |pT Q : X -> fP Y| such
-that |(pT Q) x ={ y || y Q x}|.
+that
+\begin{eqnarray}
+	|(pT Q) x ={ y || y Q x}|
+	\label{eq:260916c}
+\end{eqnarray}
 %
 Another way to define |(syd  S R)| is %cite{FS90}
 \begin{eqnarray}
@@ -16346,7 +16386,7 @@ Thus |syd R R| is always an \emph{equivalence relation}, for any given |R|. Furt
 	|R = syd R R| & \equiv & \mbox{|R| is an equivalence relation}
 	\label{eq:160115b}
 \end{eqnarray}
-holds.%footnote{\label{fn:170320a}This is proved by Riguet on page 134 of \cite{Ri48}, where the symmetric division |syd R R| is denoted by $noy.(R)$, for ``noyaux" of |R| (``noyaux" means ``kernel"). For those readers not wishing to delve into the notation of \cite{Ri48} we give a simple proof of (\ref{eq:160115b}) in \ref{sec:150329b} based on the laws of relation division.}
+holds. %footnote{\label{fn:170320a}This is proved by Riguet on page 134 of \cite{Ri48}, where the symmetric division |syd R R| is denoted by $noy.(R)$, for ``noyaux" of |R| (``noyaux" means ``kernel"). For those readers not wishing to delve into the notation of \cite{Ri48} we give a simple proof of (\ref{eq:160115b}) in \ref{sec:150329b} based on the laws of relation division.}
 Also note that, even in the case of functions, (\ref{eq:151118d}) remains an inclusion,
 \begin{eqnarray}
 	|sse ((syd f g) . (syd h f)) (syd h g) |
@@ -17050,7 +17090,7 @@ For |g=id| above we get that any function |f| being difunctional can be expresse
 by |f.(syd f f) = f|.
 
 Recall that an equivalence relation can always be represented by the kernel of some function,
-typically by |R=syd(pT R)(pT R)|. So equivalence relations are difunctional.
+typically by |R=syd(pT R)(pT R)| --- recall (\ref{eq:260916c}). So equivalence relations are difunctional.
 The following rule is of pratical relevance:
 \begin{eqnarray}
 (\mbox{|R| transitive} |<=>| \mbox{|R| difunctional}) & \implied &
@@ -17363,19 +17403,7 @@ Note the meaning of the glb of |R| and |S|,
 since |(conv(either (conv R)(conv S))) = (cup (i1. R)(i2. S)|.
 This is the most injective relation that is less injective than |R| and |S|
 because it just ``collates" the outputs of both relations without confusing
-them.\footnote{It turns out that universal property
-|X=(conv(either (conv R)(conv S))) <=> conv i1 . X = R && conv i2 . X = S|
-holds, as is easy to derive from (\ref{eq:081008c}). So |(conv(either (conv R)(conv S)))|
-is the \emph{categorial} product for relations:
-\begin{eqnarray*}
-        \arIso  {\rel A {(B + C)}}
-                {(\rel A B) × (\rel A C)}
-                {} % {\coJoin}
-                {} % {\uncojoin}
-	%label{eq:333o-ar}
-\end{eqnarray*}
-That is, among relations, the product is obtained as the converse dual of
-the coproduct. This is called a \emph{biproduct} \cite{MO13c}.}
+them, recall (\ref{eq:260916b}).
 
 \begin{exercise}
 The Peano algebra |larrow (1+Nat) inT Nat = either (const 0) succ| is an isomorphism\footnote{Recall section \ref{sec:120409a}.}, and therefore injective. Check what (\ref{eq:180113b}) means in this case.
@@ -17839,7 +17867,9 @@ the way (typed) relation algebra was perceived afterwards, for instance in the w
 shrinking was introduced in the algebra \cite{MO12a,OF13}. Galois connections
 are also the ``Swiss knife" of \cite{MO12a}.
 
-Most of the current chapter was inspired by \cite{Ba04a}.
+Most of the current chapter was inspired by \cite{Ba04a}. The omnipresent role of
+generic diagrams such as (\ref{eq:260916e}) in relational ``thinking'' is illustrated  in \cite{Ol25},
+where they are termed ``magic squares''.
 
 \chapter{Theorems for free by calculation} \label{ch:181108a}
 \section{Introduction}
@@ -21434,7 +21464,7 @@ The intermediate type |muF| generated by |conv (cata S)| and consumed by
 |cata R| is known as the \emph{virtual data structure} \cite{SM93} of the
 hylomorphism. This is regarded as the basis of so-called \emph{divide-and-conquer} programming
 strategies. The opposite composition |conv(cata S).(cata R)|, for suitably
-typed |S| and |R|, is sometimes termed a \emph{metamorphism} \cite{Gi07}.
+typed |S| and |R|, is sometimes termed a \emph{metamorphism} \cite{Gi07} or \emph{metaphorism} \cite{Ol17}.
 
 \begin{figure}
 \centering
@@ -21468,7 +21498,7 @@ Below we show that
 \start
 	|cata R . (conv (cata S)) atmost X|
 %
-\just\equiv{ indirect equality over the cancellation of both catas; converses }
+\just\equiv{ cancellation of both catamorphisms; converses }
 %
 	|R . fF(cata R) . (conv inT) . inT . fF(conv(cata S)) . (conv S) atmost X|
 %

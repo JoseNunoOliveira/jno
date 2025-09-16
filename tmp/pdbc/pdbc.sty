@@ -1,0 +1,140 @@
+%------ using pstricks (rnode etc) ------------------------------------------
+\usepackage{pstricks,pst-node,pst-text,pst-3d}
+
+\input{jno.mac}
+\usepackage{jnobasics}
+\usepackage{jno-dmac}
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\def\doc{monograph} 
+\def\theequation{\thechapter.\arabic{equation}}
+\def\thefigure{\thechapter.\arabic{figure}}
+\@addtoreset{equation}{chapter}
+%%------------- lhs interface --------------------
+%\newcommand{\Conid}[1]{\mathit{#1}}
+%\newcommand{\Varid}[1]{\mathit{#1}}
+%\newenvironment{inlinehscode}%
+%  {\(\def\column##1##2{}%
+%   \let\>\undefined\let\<\undefined\let\\\undefined
+%   \newcommand\>[1][]{}\newcommand\<[1][]{}\newcommand\\[1][]{}%
+%   \def\fromto##1##2##3{##3}%
+%   \def\nextline{}}{\) }%
+%%------------------------------------------------
+\def\ifthenelsepic{
+%unitlength=1mm
+\mbox{
+\begin{picture}(72.00,100.00)(0,-4)
+%  X levels
+\def\m{70.00}
+\def\k{64.00}
+\def\z{58.00}
+\def\yz{46.00}
+\def\y{40.00}
+\def\xy{26.00}
+\def\x{20.00}
+\def\v{15.00}
+%  Y levels
+\def\i{92.00}
+\def\a{80.00}
+\def\b{58.00}
+\def\bbc{54.00}
+\def\bc{46.00}
+\def\c{42.00}
+\def\cd{32.00}
+\def\d{22.00}
+\def\e{12.00}
+\def\ee{11.00}
+%
+\put(\z,\a){\circle*{2.00}}
+\put(\z,\e){\circle{2.00}}
+\put(\x,\b){\framebox(12.00,12.00)[cc]{$p$}}
+\put(\y,\d){\framebox(12.00,12.00)[cc]{$g$}}
+\put(\k,\d){\framebox(12.00,12.00)[cc]{$h$}}
+\put(\y,\c){\framebox(36.00,08.00)[cc]{$T$ \rule{20\unitlength}{0pt} $F$}}
+\put(\x,\bbc){\dashbox{1.00}(60.00,0.00)[cc]{}}
+%
+\put(\xy,\b){\line(0,-1){12.00}}
+\put(\yz,\d){\line(0,-1){10.00}}
+\put(\z,\a){\line(-1,0){32.00}}
+\put(\m,\d){\line(0,-1){10.00}}
+%
+\put(\xy,\a){\vector(0,-1){10.00}}
+\put(\z,\a){\vector(0,-1){30.00}}
+\put(\yz,\c){\vector(0,-1){8.00}}
+\put(\m,\c){\vector(0,-1){8.00}}
+\put(\z,\i){\vector(0,-1){11.00}}
+\put(\xy,\bc){\vector(1,0){14.00}}
+\put(\z,\ee){\vector(0,-1){11.00}}
+\put(\yz,\e){\vector(1,0){11.00}}
+\put(\m,\e){\vector(-1,0){11.00}}
+%
+\put(\z,\a){\makebox(8.00,10.00)[cc]{$x$}}
+\put(\z,\b){\makebox(8.00,10.00)[cc]{$x$}}
+\put(\y,\a){\makebox(8.00,10.00)[cc]{$x$}}
+\put(\v,\bc){\makebox(10.00,0.00)[cc]{$p\ x$}}
+
+\end{picture}
+}}
+
+%%------------------------------------------------
+
+\def\commEq#1#2#3#4{ #2 \comp #3 &=& #4 \comp ( #2 \times #2 ) \label{eq:#1} }
+
+\def\EXIT{ \bibliographystyle{alpha} \bibliography{/Users/jno/share/texinputs/jno} \end{document}}
+
+\def\myvspace#1{\noindent\rule{1mm}{#1}\\\noindent}
+
+\def\Iso#1#2{{#1}&\iso&{#2}}
+
+\def\N{\fun{I\!N}}
+\def\Z{\fun{Z\!\!Z}}
+\def\R{\fun{I\!R}}
+\def\inseg#1{\mathbf{#1}}
+\def\hd#1{\unary{hd}{#1}}
+\def\tl#1{\unary{tl}{#1}}
+
+\def\wrt{{\em wrt.}}
+\def\eg{{\em e.g.}}
+\def\ie{{\em i.e.}}
+\def\etc{{\em etc.}}
+\def\cf{{\em cf.}}
+\def\ibid{{\em ibid}}
+
+\def\tf#1{\ap{\fun T}#1}
+\def\tg#1{\ap{\fun U}#1}
+
+\def\f{\fun F}
+\def\g{\fun G}
+%def\ff#1{\ap\f{#1}}
+%def\fff#1{\ap{\f^2}{#1}}
+\def\gg#1{\ap\g{#1}}
+\def\bb#1#2{\ap{\fun B}{\tuple{#1,#2}}}
+\def\BB#1{ 1 + (A \times B) \times #1}
+
+%def\iso{=}
+\def\tuple#1{\mathopen{(}#1\mathclose{)}} % (a,b,...z)
+\let\enseq=\enlist
+\def\ap#1#2{#1\,#2}
+\def\conv#1{#1^\circ}
+\def\split#1#2{\const{#1,#2}}
+\def\xplit#1#2{\const{#1,#2}}
+
+\def\Alt#1{\mathopen{[~}#1\mathclose{~]}}
+\def\pfunc#1{\rightharpoonup #1}
+\def\alt#1#2{\Alt{#1,#2}}
+\def\const#1{\mathopen{\langle}#1\mathclose{\rangle}}
+
+\def\emptymap{\bot}
+\def\ap#1#2{#1\,#2}
+\def\enlist#1{\mathopen{[}#1\mathclose{]}} % [a,b,...z]
+\let\enseq=\enlist
+\def\xheta{\mathbin\theta}
+\def\conc{\mathbin{+\!\!\!+}}
+\def\CONC{\mathbin{\mbox{\Huge $\conc$}}}
+
+\newenvironment{defs}{\jnowarning{defs environment in}}{\jnowarning{defs environment out}}
+
+\def\hylo#1#2#3#4#5{\mean{#3,#2,#1}_{\fun #4,\fun #5}}
+\def\shylo#1#2#3#4#5{\mean{#3,#2,#1}}
+\def\sshylo#1#2{\mean{#1,#2}}
+

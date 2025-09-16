@@ -15219,7 +15219,7 @@ is the \emph{categorial} product for relations:
 \end{eqnarray*}
 That is, among relations, the product is obtained as the converse dual of
 the coproduct. This is called a \emph{biproduct} \cite{MO13c}.
-The effect of |(conv(either (conv R)(conv S)))| is just ``merge" relations
+The effect of |(conv(either (conv R)(conv S)))| is to just ``merge" relations
 |R| and |S| into a single one in a way that never confuses their outputs:
 \begin{eqnarray}
 	|conv(either (conv R)(conv S)) = cup (i1 . R)(i2 . S)|

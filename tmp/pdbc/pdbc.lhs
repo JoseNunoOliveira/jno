@@ -15086,6 +15086,7 @@ since |i1| and |i2| are the \emph{only} constructors of data of type |A+B|.
 Another property implicit in this construction is:
 \begin{eqnarray}
 	|conv i1.i2 = bot|
+	\label{eq:250923a}
 \end{eqnarray}
 equivalent to its converse |conv i2.i1 = bot|. It spells out that, for any |a ins A| and |b ins B|, |i1 a = i2 b| is impossible.\footnote{Note that in (\ref{eq:60c}) this is ensured by always choosing two different tags |t1 /= t2|.} In other words, the union is a \emph{disjoint} one.
 
@@ -15203,13 +15204,13 @@ Moreover, prove
 \end{exercise}
 
 \paragraph{Biproducts}
-It turns out that universal property
+Further to (\ref{eq:081008c}), it turns out that universal property
 \begin{eqnarray}
 	|X=(conv(either (conv R)(conv S))) <=> conv i1 . X = R && conv i2 . X = S|
 	\label{eq:260916a}
 \end{eqnarray}
-also holds, being easy to derive from (\ref{eq:081008c}). So |(conv(either (conv R)(conv S)))|
-is the \emph{categorial} product for relations:
+also holds, being easy to derive from (\ref{eq:081008c}) itself. So |(conv(either (conv R)(conv S)))|
+is the \emph{categorial product} for relations:
 \begin{eqnarray*}
         \arIso  {\rel A {(B + C)}}
                 {(\rel A B) × (\rel A C)}
@@ -15219,12 +15220,14 @@ is the \emph{categorial} product for relations:
 \end{eqnarray*}
 That is, among relations, the product is obtained as the converse dual of
 the coproduct. This is called a \emph{biproduct} \cite{MO13c}.
+
 The effect of |(conv(either (conv R)(conv S)))| is to just ``merge" relations
 |R| and |S| into a single one in a way that never confuses their outputs:
 \begin{eqnarray}
 	|conv(either (conv R)(conv S)) = cup (i1 . R)(i2 . S)|
 	\label{eq:260916b}
 \end{eqnarray}
+Cancellation amounts to the \emph{projections} |conv i1| and |conv i2| extracting the corresponding ``slice" of |cup (i1 . R)(i2 . S)|, thanks to (\ref{eq:250923a}) etc. 
 
 \begin{exercise}
 From (\ref{eq:180814a}) infer that (\ref{eq:180825a}) is a re-statement of (\ref{eq:703b}). 
@@ -19941,7 +19944,7 @@ invariant specified by the relational type (\ref{eq:161120a}) statement below, o
 \end{eqnarray*}
 \end{exercise}
 
-\paragraph{Abstract interpretation}
+\paragraph{Abstract interpretation scheme}
 Suppose that one wishes to show that |q:B->Bool| is an invariant of some operation |rarrow B R B|, i.e.\
 that |rarrow q R q| holds and you know that |q=p.h|, for some |h:B->A|, as shown in the diagram.
 Then one can factor the proof in two steps:
@@ -20050,7 +20053,7 @@ by finding an abstract simulation |phi| of |theta| in the diagram:
 \end{exercise}
 
 Abstract interpretation techniques usually assume that |h| is an adjoint
-of a Galois connection. The examples below do not assume this, for an easy start.
+of a Galois connection --- see section \ref{sec:250923a}. The examples below do not assume this, for an easy start.
 
 \section{Safety and liveness properties}
 Before showing examples of abstract interpretation, let us be more specific
@@ -20707,7 +20710,7 @@ Show that this property is a contract arising (for free) from the polymorphic ty
 of the \emph{cons} operation |(:)| on lists.
 \end{exercise}
 
-\section{Reasoning by approximation}
+\section{Reasoning by approximation} \label{sec:250923a}
 Abstraction interpretation situations
 	|larrow R h S|
 \begin{eqnarray*}
@@ -20725,21 +20728,23 @@ that is,
 \begin{eqnarray*}
 	|conv alpha . (<=) = (<<=) . gamma|
 \end{eqnarray*}
-holds (\ref{eq:100109b}). Given concrete function |f|, we seek for functional abstract \emph{simulations} |g|
-as solutions to the equation
+holds (\ref{eq:100109b}).
+Given a concrete function |f : C -> C|, we seek for functional abstract \emph{simulations}
+|g : A -> A| as solutions to the equation
 \begin{eqnarray}
 	|alpha.f (pw (<=)) g . alpha|
 	\label{eq:180923a}
 \end{eqnarray}
 that is, |rcb forall x (x ins C)(alpha(f x) <= g(alpha x))|.
 In words: abstract |g| is a ``good" simulation of concrete |f| with respect to the |(<<=)| ordering.
-Note that (\ref{eq:180923a}) is equivalent to
+In fact, (\ref{eq:180923a}) is equivalent to
 \begin{eqnarray}
 	|f (pw (<<=)) gamma . g . alpha|
+	\label{eq:250923b}
 \end{eqnarray}
-So, the performance of concrete |f| is at most as good as that of simulation |g| at abstract level.
+meaning that the performance of concrete |f| is at most as good as that of simulation |g| at abstract level.
 
-Let us try and solve the equation for unknown |g|:
+Let us try and solve (\ref{eq:250923b}) for unknown |g|, starting from the more convenient (\ref{eq:180923a}):
 \begin{eqnarray}
 \start
 	|alpha.f (pw (<=)) g . alpha|
@@ -20835,7 +20840,8 @@ holds where
 &=&
 	|(rcb largest c (alpha c <<= a)((alpha.f)c))|
 \end{eqnarray*}
-Example: suppose that, for some reason, we decide to abstact finite non-empty lists (of suitably ordered data) by
+
+\paragraph{Example} Suppose that, for some reason, we decide to abstact finite non-empty lists (of suitably ordered data) by
 their suprema and infima,
 \begin{eqnarray*}
 	|alpha = split minimum maximum|

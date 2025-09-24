@@ -18,7 +18,7 @@ Finalmente:
 
 * Aos alunos com nota final no intervalo **[8..10[** será facultada a possibilidade de fazerem uma **oral**.
 
-* Há lugar a **exame de recurso** para os alunos que tenham tido nota TE negativa. As componentes TG e AO não tem recurso.
+* A nota mínima da componente TE é 8 valores, havendo lugar a **exame de recurso** para os alunos que tenham tido nota TE negativa. As componentes TG e AO têm nota mínima de 10 valores e não têm recurso.
 
 * Os alunos deverão comunicar a sua **escolha** de regime de avaliação até uma data que será aqui afixada brevemente.
   

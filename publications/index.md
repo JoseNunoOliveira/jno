@@ -1,8 +1,8 @@
 ## Selected publications
 
-* R.C. Backhouse and J.N. Oliveira. [On difunctions](https://www.sciencedirect.com/science/article/pii/S2352220823000329). JLAMP, volume 134, p. 100878, 2023.
-
 * J.N. Oliveira. *How much is in a square? Calculating functional programs with squares*. Journal of Functional Programming. 2025;35:e7. [doi:10.1017/S0956796825000012](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/how-much-is-in-a-square-calculating-functional-programs-with-squares/F48258008F47DC9F53AA2E61B4E511A7) (Selected as **JFP Journal-first** paper at [ICFP'25](https://conf.researchr.org/program/icfp-splash-2025/program-icfp-splash-2025/?date=Wed%2015%20Oct%202025) - [Slides](http://www.di.uminho.pt/ps/icfp25sl.pdf))
+
+* R.C. Backhouse and J.N. Oliveira. [On difunctions](https://www.sciencedirect.com/science/article/pii/S2352220823000329). JLAMP, volume 134, p. 100878, 2023.
 
 * A. Neri, R.S. Barbosa, and J.N. Oliveira. [Compiling quantamorphisms for the IBM Q-Experience](https://ieeexplore.ieee.org/document/9557827). In IEEE Transactions on Software Engineering, Volume: 48, Issue: 11, 01 November 2022. DOI: [10.1109/TSE.2021.3117515](https://ieeexplore.ieee.org/document/9557827).
 

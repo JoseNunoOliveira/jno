@@ -48,6 +48,9 @@
 
 **2017**
 
+* C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal. [Computer Aided Verification of Relational Models by
+Strategic Rewriting](https://journal.info.unlp.edu.ar/JCST/article/view/437) (Invited article). Journal of Computer Science & Technology, vol. 17,
+no. 2, pp. 140–148, 2017.
 * J.N. Oliveira and H.D. Macedo. <em>The data cube as a typed linear algebra operator</em>. In <em>Proc. of the 16th Int. Symposium on Database Programming Languages</em>, DBPL '17, pages 6:1-6:11, New York, NY, USA, 2017. ACM. (DOI:[10.1145/3122831.3122834](http://doi.acm.org/10.1145/3122831.3122834); [Slides](http://www.di.uminho.pt/%7Ejno/ps/dbpl17sl.pdf).)
 * R. Pontes, M. Matos, J.N. Oliveira, J.O. Pereira. [Implementing a Linear Algebra Approach to Data Processing](https://link.springer.com/chapter/10.1007%2F978-3-319-60074-1_9). LNCS 10223, 215-222, 2017.
 * J.N. Oliveira. <em>Going quantitative in software modeling</em> ([Slides](http://www.di.uminho.pt/%7Ejno/ps/trust17sl.pdf)). Contributed talk to the [Trust 2nd Workshop](http://haslab.github.io/TRUST/), Braga, Oct 2017.

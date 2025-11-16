@@ -87,10 +87,6 @@ fim multiplicavam-se. Estamos em fins de 1926. Havia mesmo quem adian-
 tasse que a Avenida, ponto de partida do novo bairro, deveria ser inau-
 gurada em 9 de Abril do ano seguinte.
 
-
-
-%\fotoA
-
 De facto um dia veio em que os trabalhos preliminares começaram.
 As bandeirolas alinhadas e as miras, as pranchetas e o teodolito, mar-
 caram o início da obra. E os operários daí em diante, revezados por
@@ -139,6 +135,8 @@ altura da missão cometida. Os rigores da punição não se faziam demorar
 para todo aquele que violasse o silêncio monótono daquele internato, on-
 de se respirava uma atmosfera de terror paralizadora de todas as funções
 orgânicas.
+
+%\fotoE
 
 A quinta pertencente ao colégio mal os educandos a conheciam. E do
 exterior daquele casarão de grandes galerias, com uma capela ao centro
@@ -1202,6 +1200,8 @@ Pouco depois da chegada de Eugénio ao Porto começava a animar-se a
 praia da Foz. Era a época calmosa. Estavamos em férias e a calidez da cidade
 tornava-se insuportável. Eugénio dispunha de algumas horas por dia. A praia,
 ali a dois passos, convidava. Uma tarde foi até lá.
+
+%\fotoB
 
 As barracas estavam cheias, e o areal do Molhe coberto de crianças
 semi-nuas, bronzeadas pelo sol, em alegre chilreadeira, brincando despreocupada-
@@ -5241,7 +5241,7 @@ vel a arma poderosa que faz arredar tudo e curvar todos por onde passa;
 sonha enfim, com velharias de museu, com coisas que de há muito deixaram de
 existir.
 
-Eugénio não compreende que a mulher de hoje aceite como graça, ou mes -
+Eugénio não compreende que a mulher de hoje aceite como graça, ou mes-
 mo o exija com o delicadeza madrigalesca, uma frase mais apimentada de obsce-
 nidade, desde que venha dum rapaz elegante, aquela mesma graça que da boca
 dum maltrapilho seria tomada como a maior das afrontas para a sua dignidade;
@@ -6189,6 +6189,8 @@ ria da Europa com o sangue da guerra. No 1º de Setembro a Alemanha de Hitler
 invade de súbito a Polónia.
 
 Eis o rastilho acêso.
+
+%\fotoC
 
 Os exércitos franco-británicos, fieis à aliança polaca, declaram guerra
 á Alemanha, invadindo-a, não sem chamarem á razão Hitler e o intimarem a re-
@@ -7436,6 +7438,8 @@ estar material. A fome e o luto que assolavam a maior parte da Europa
 não se tinham feito sentir aqui, assim como o permanente desassossêgo dos
 ataques aéreos.
 
+%\fotoD
+
 Se não fôra a boataria derrotista referente ao paiz, ou a solidária
 vibração dos nacionais com os estranjeiros que sofrem os horrores da
 guerra, dir-se-ia que a vida em Portugal era a mais edénica e despreocu-
@@ -7489,99 +7493,130 @@ Este é o seu único romance conhecido.
 
 ===
 
-Memória biográfica
+%%Memória biográfica
 
-Ludgero Lopes Parreira
+Ludgero Lopes Parreira nasceu a 22 de Junho de 1900 em Penha-Longa, Marco de Canaveses, filho do Prof. Henrique Fernandes Lopes Parreira (1843-1906) e de Emília Augusta de São José (1861-1900). Casou-se a 23 de Março de 1945 com Ângela Martins Albuquerque Oliveira Parreira, na Igreja de S. José, em Lisboa. O seu filho Dr. José Henrique Oliveira Parreira nasceu a 19 de Março de 1946 na freguesia de Paranhos, Porto.
 
-1900.06.22 - nasce em Penha-Longa, Marco de Canaveses, filho do Prof. Henrique Fernandes Lopes Parreira (1843-1906) e de Emília Augusta de São José (1861 - 1900).
-23 de março de 1945 - Casamento com: Ângela Martins Albuquerque Oliveira Parreira, Igreja de S. José, Lisboa
-19 de março de 1946 - Nascimento de filho: Dr José Henrique Oliveira Parreira, Paranhos, Porto
-1972.12.17: Casamento de filho Dr José Henrique Parreira com Dr. Maria José Alves Moreira Parreira, em Penafiel
-Falecido: 1 de set de 1974 (com a idade de 74) no Porto-Bonfim-Rua do Lima, 52
-Funeral: Marrancos, Vila Verde.
+%%1972.12.17: Casamento de filho Dr José Henrique Parreira com Dr. Maria José Alves Moreira Parreira, em Penafiel
+%%Falecido: 1 de set de 1974 (com a idade de 74) no Porto-Bonfim-Rua do Lima, 52
+%%Funeral: Marrancos, Vila Verde.
+%%
+%%Profissão: Médico
+%%Liceu Rodrigues de Freitas – Porto e B.C.G.-- Porto
+%%Também foi Médico Escolar das Escolas do Porto (na época,existiam dois Médicos escolares para todas as Escolas do Porto )
 
-Profissão: Médico
-Liceu Rodrigues de Freitas – Porto e B.C.G.-- Porto
-Também foi Médico Escolar das Escolas do Porto (na época,existiam dois Médicos escolares para todas as Escolas do Porto )
+Teve como irmãos o Inspector Escolar Acácio Fernandes Lopes Parreira (1885-1955),
+%%casou com Prof. Maria Rocha da Conceição em 31 Janeiro 1909, em São Cristóvão de Nogueira, Cinfães, Viseu, Portugal. Eles eram os pais de quatro filhos e duas filhas.. Morreu em 24 Outubro de 1955, em Marco de Canaveses, Porto, Portugal, com a idade de 69 anos
+Alcino Lopes Parreira (1886-1969),
+%% Alcino Fernandes nasceu em 23 Novembro de 1886, in Penha Longa, Marco de Canaveses, Porto, Portugal.Casou com Germana Ferreira Dias Torres em 23 Maio 1909, no Bonfim, Porto, Portugal. Viveu no Porto, Portugal em 1909. Morreu em 24 Junho 1969, em São João do Souto, Braga, Portugal, com a idade de 82 anos
+Demétrio Lopes Parreira (1894-1960) e José Lopes Parreira (1891-?)
 
-O seu irmão
-Inspetor Escolar Acácio Fernandes Lopes Parreira
-8 November 1885–24 October 1955
-casou com Prof. Maria Rocha da Conceição em 31 Janeiro 1909, em São Cristóvão de Nogueira, Cinfães, Viseu, Portugal. Eles eram os pais de quatro filhos e duas filhas.. Morreu em 24 Outubro de 1955, em Marco de Canaveses, Porto, Portugal, com a idade de 69 anos
+Em 1971 compilou o Curriculum Vitae que se segue.
 
-O seu irmão Alcino Lopes Parreira (1886 - 1969) Alcino Fernandes nasceu em 23 Novembro de 1886, in Penha Longa, Marco de Canaveses, Porto, Portugal.Casou com Germana Ferreira Dias Torres em 23 Maio 1909, no Bonfim, Porto, Portugal. Viveu no Porto, Portugal em 1909. Morreu em 24 Junho 1969, em São João do Souto, Braga, Portugal, com a idade de 82 anos
-
-O seu irmão Demétrio Lopes Parreira 1894–1960
-
-José Lopes Parreira
-O seu irmão
-1891 - Falecido
-
-Ângela Martins Albuquerque Oliveira Parreira
-A sua esposa
-1906 - 1981
-
-
-
-
+\vskip 2em\begin{center}
 CURRICULUM VITAE
 de Ludgero Lopes Parreira
+\end{center} \vskip 1em
 
  - Médico efectivo dos Serviços Médico - Sociais desde há 23 anos, na cidade do Porto, a
 quem foi oferecido há já 9 anos um lugar de Inspector - Médico nesses serviços,que então não lhe convinha.
+\\
  - Curso de Medicina Sanitária com 17 valores.
+\\
  - Aprovação em dois concursos por provas públicas, para médicos escolares em 1934 e para assistentes de vacinação do B.C.G. em 1961, cujos lugares desempenhou até 1970.
- - Louvor publicado no Diário do Governo, 2ä série, nº97, de 27 - 4 - 34.
+\\
+ - Louvor publicado no Diário do Governo, 2ä série, nº97, de 27-4-34.
+\\
  - Oferta duma bolsa de estudo no estrangeiro pela Fundação Gulbenkian, em 1956, por intermédio do então Governador Civil Dr. Domingos Braga da Cruz e do Diretor do Instituto Superior de Higiene do Porto Dr. Gonçalves Ferreira, que não pôde ser aproveitada.
- - Inquéritos alimentares na Régua,em 1954,de colaboração com o Dr. Rocha Faria, e no Porto em 1969 - 70.
+\\
+ - Inquéritos alimentares na Régua,em 1954,de colaboração com o Dr. Rocha Faria, e no Porto em 1969-70.
+\\
  - Publicação de mais de 3 dezenas de trabalhos respeitantes a vários sectores de actividade médica e não médica, dentre os quais um,não publicado senão parcialmente,versou o tema “O Seguro na Doença e os Serviços Médico - Sociais”.Eis a lista desses trabalhos:
 
-1 - A Higiene na Tuberculose (Conferência realizada pela Semana da Tuberculose em 4 - 6 - 31, no Liceu de Portalegre).
+1 - A Higiene na Tuberculose (Conferência realizada pela Semana da Tuberculose em 4-6-31, no Liceu de Portalegre).
+\\
 2 - Legislação Médica - Porto, 1932 (esg.).
+\\
 3 - Cadastro Sanitário do Liceu Mouzinho da Silveira (Tese apresentada ao concurso para médicos escolares).
+\\
 4 - Un Caso Clínico de Adenites Bacilares - Barcelona, 1933, Separata de La Clínica nº 4 .
+\\
 5 - 1 º Suplemento (relativos ao ano de 1933) da Legislação Médica - Porto, 1934.
-6 - A Higiene no combate da Tuberculose (Conf.ª realizada pela Semana da Tuberculose, em 5 - 5 - 34, na Escola Industrial de Portalegre.
+\\
+6 - A Higiene no combate da Tuberculose (Conf.ª realizada pela Semana da Tuberculose, em 5-5-34, na Escola Industrial de Portalegre.
+\\
 7 - Preceitos de higiene Física, Higiene Moral,Higiene Intelectual - Porto,1935.
+\\
 8 - Higiene Moral – A Formação do Carácter - Porto,1936.
-9 - A Medicina Escolar (Palestra realizada no Clube dos Rotários do Porto, em 17 - 11 - 38)
+\\
+9 - A Medicina Escolar (Palestra realizada no Clube dos Rotários do Porto, em 17-11-38)
+\\
 10 - Os Desportos na Formação Moral (em A Saúde Escolar,nº18, de Dezembro de 1937).
-11 - Cruzeiro à Madeira (Palestra feita no Clube dos Rotários do Porto, em 27 - 7 - 39,sobre a viagem realizada em Abril deste ano.
+\\
+11 - Cruzeiro à Madeira (Palestra feita no Clube dos Rotários do Porto, em 27-7-39, sobre a viagem realizada em Abril deste ano.
+\\
 12 - Vizinhanças incómodas, insalubres ou deterioradas dos estabelecimentos de ensino (em a Saúde Escolar, nº 26, de Abril de 1939, e noutras revistas)
+\\
 13 - A Lei de 1917 e a Saúde Escolar (em a Saúde escolar, nº27, de Junho de 1939).
+\\
 12 - Vizinhanças incômodas, insalubres ou deletérias dos estabelecimentos de ensino (em a Saúde Escolar, nº 26, de Abril de 1939, e noutras revistas).
+\\
 14 - Bases para um Estatuto do Exercício de Medicina e Artes Afins (na Gazeta Médica, nº 2 e 3 - Lisboa, 1940 ) .
+\\
 15 - Higiene Elementar (Geral e Escolar) - Porto, 1941
+\\
 16 - Anomalias Vertebrais (dois casos de espondiloesquise) - Sep. do Arquivo de Anatomia e Antropologia,vol.22 - Lisboa,1942.
+\\
 17 - A Medicina Escolar - Palestra radiofónica emitida pela Ideal Rádio, na noite de 25-3-943, a convite da delegação no Porto da Cruz Vermelha.
-1 8 - Antropometria Escolar - , Sep. do Jornal do Médico nas 381 e 41 2 - Porto, 1950.
+1 \\
+8 - Antropometria Escolar - , Sep. do Jornal do Médico nas 381 e 41 2 - Porto, 1950.
+\\
 19 - 0 Imposto Profissional → Separatas do Jornal do Médico nº 18 0 e 37 1 - Porto, 1946 e 1950.
+\\
 20 - A Saúde Escolar a Instrução Primária do Porto (conferência) Sep. Jornal do Médico nº 40 3 - Porto, 1950.
+\\
 21 - Alimentação nas Cantinas da M.P - Lisboa 1951.
+\\
 23 - A Profilaxia Estomatológica na Saúde Escola (conferência).
-Separata da Odontoestomatologia Portuguesa, nº9 - Lisboa 1952 .
+Separata da Odontoestomatologia Portuguesa, nº\\
+9 - Lisboa 1952 .
+\\
 24 - A Saúde Escolar no ensino primário e Infantil (Tese apresen
-tada no I Congresso de Protecção à Infância) Lisboa, 1952 Sep.do Jornal do Médico nº 528, de 7 - 3 - 953.
+tada no I Congresso de Protecção à Infância) Lisboa, 1952 Sep.do Jornal do Médico nº 528, de \\
+7 - 3 - 953.
+\\
 25 - Vacinaçãopelo B.C.G. nas escolas Primárias (Conferência) Sep. do Jornal Médico nº557 - Porto,1953.
+\\
 26 - Normas Científicas da Alimentação (Conf.na delegação do Porto da Sociedade Portuguesa de Ciências Veterinárias,em 30 - 10 - 954.
+\\
 27 - Noções Indispensáveis sobre a Vacinação Antituberculosa (Lição ao Curso de Aperfeiçoamento do Professorado Primário
 d o Porto, em 29 e 30-6-956)
+\\
 28 - A Refeição dos Escolares, Uma experiência com proteínas animais. Sep. do Jornal do Médico nº 727 - Porto 1956.
+\\
 29 - A Assistência Alimentar através das cantinas escolares - Sep. do jornal médiconº 383 - porto,1959. 1l entar porquet.69 das Cantinas Escolares la
+\\
 30 - A Reforma da Medicina Escolar - Sep. de O Médico nº 402 - Porto, 1959 .
+\\
 31 - A Refeição nas Cantinas Escolares do Porto - Sep. do J orn al do Medico nº 880 - Porto, 1959.
-32 - As Condições Higiênicas dos Edifícios Escolares do Porto Sep. do Boletim Cultural da Cãmara municipal do porto,vol.XXVIII, Fasc. 1 - 2 e 3 - 4.Porto, 1965 .
+\\
+32 - As Condições Higiênicas dos Edifícios Escolares do Porto Sep. do Boletim Cultural da Cãmara municipal do porto,vol.XXVIII, Fasc. 1-2 e 3-4. Porto, 1965.
+\\
 33 - A Soja na Nutrição - Sep. do Jornal do Médico nº 922, de 24 de Setembro de 1960 .
+\\
 34 - Aplicação simultânea das vacinas do B.C.G. e tríplice (de colaboração com o Dr.J.M.Rodrigues Pereira) - - sep. do Jornal do Médico nº 1173, de Julho de 1965.
+\\
 35 - Assistência alimentar aos Escolares na Prevenção dos Estados Subnutricionais (Conferência proferida em 22-7-969, na Figueira da Foz, ao 1º Curso de aperfeiçoamento para Médicos Escolares em Educação Físico - Desportiva - Saúde - Escolar, nº 20,de Outubro de 1969).
+\\
 36 - O Seguro na Doença e os Serviços Médico - Sociais (não publicado).
 
 Colaboração agrícola, e outra,dispersa por vários semanários noticiosos do Marco, Caldas das Taipas e Guimarães, em alguns números da Gazeta das Aldeias (Porto), na revista de Medicina Veterinária nº 220, de Junho de 1920(Lisboa), e ainda na Mensagem dos Campos e em o Pelicano (Porto). E de medicina escolar, em o Diário de lisboa de 28-8-34, e em alguns números de A Saúde Escolar (Lisboa) e do Boletim do Liceu Rodrigues de Freitas (Porto).
 
+\vskip 1em\noindent
 Novembro de 1971.
-__________________________________________________________
-
-
-Notas: A viagem à Madeira é em Abril de !939
-           A data que se encontra no término do romance é Agosto de 1939( deve o tio Parreira ter acrescentando notas após à data referida dado que fala da guerra.
-
+%%__________________________________________________________
+%%
+%%
+%%Notas: A viagem à Madeira é em Abril de !939
+%%           A data que se encontra no término do romance é Agosto de 1939( deve o tio Parreira ter acrescentando notas após à data referida dado que fala da guerra.
+%%

@@ -1,0 +1,627 @@
+%-------------------------------------------------------------------------------
+\def\EXIT{\end{document}}
+%-------------------------------------------------------------------------------
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue]{hyperref}
+%def\href#1#2{#2}
+%def\url#1{\emph{#1}}
+%------- lista de figuras (lof) ------------------------------------------------
+\gdef\lofsel#1#2{#2} % mostra segunda opção (mais longa)
+\gdef\lofout#1{#1}   % será alterada antes de listoffigures para omitir o respectivo argumento
+%-------------------------------------------------------------------------------
+\usepackage{hyphenat}
+%hyphenation{o-lhan-do}
+%-------------------------------------------------------------------------------
+\usepackage[utf8x]{inputenc}
+\usepackage{palatino}
+\usepackage{wrapfig}
+\usepackage{makeidx}
+\usepackage{myisolatin1}
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{longtable}
+\usepackage[english,portuguese]{babel}
+\usepackage{po}
+\input{jno.mac}
+\def\easpas#1{\emph{\aspas{#1}}}
+\long\def\ipsis#1{\emph{\aspas{#1}}}
+\def\pdff#1{\texttt{#1.pdf}}
+\renewenvironment{quote}
+               {\list{}{\rightmargin=0pt}%
+                \item\relax}
+               {\endlist}
+\def\averb#1#2{\paragraph{\textbf{#1}} \textsc{#2} ---}
+\newenvironment{detalhes}{\begin{quote}\small\em}{\end{quote}}
+% <C-T><C-T>   'ai\begin{detalhes}<CR><Esc>'bA<CR>\end{detalhes}<CR><Esc>
+%---------------------- FOTOS--------------------------------------------------------
+
+\def\figA{
+\begin{figure}
+{
+  \includegraphics[width=1.0\textwidth]{llp_files/quintanistas_39.jpg}
+}
+\caption{\label{fig:figA}\footnotesize\em Ludgero Lopes Parreira, Livro dos Quintanistas, Escola Médica do Porto, 1930.}
+\end{figure}
+}
+
+\def\fotoA{
+
+\begin{wrapfigure}[18]{r}{11em}
+\vskip -1em
+\unitlength=1.0em 
+\hskip 1ex
+\framebox (11.00,15.00)[cc]{
+  \includegraphics[width=10em]{llp_files/FOZDODOUROPRAIADOMOLHE.jpg}
+}
+\caption{\label{fig:fotoA}\footnotesize\em Praia do Molhe (Foz do Douro) nos anos XXXX.}
+\end{wrapfigure}
+}
+
+\def\fotoB{
+\begin{figure}
+\centering
+  \includegraphics[width=0.9\textwidth]{llp_files/FOZDODOUROPRAIADOMOLHE.jpg}
+\caption{\label{fig:fotoB}\footnotesize\em A praia do Molhe (Foz do Douro) num postal da época.}
+\end{figure}
+}
+
+\def\fotoC{
+\begin{figure}
+\centering
+  \includegraphics[width=0.99\textwidth]{llp_files/il-19390901.png}
+\caption{\label{fig:fotoC}\footnotesize\em DANTZIG --- notícia de primeira página da revista Ilustração, nº 329, 14º ano, de 1 de Setembro de 1939.}
+\end{figure}
+}
+
+\def\fotoE{
+
+\begin{wrapfigure}[26]{r}{17.5em}
+%vskip -1em
+\unitlength=1.0em 
+\hskip 1ex
+\makebox (17.00,24.00)[cc]{
+  \includegraphics[width=17em]{llp_files/combatentes.png}
+}
+\caption{\label{fig:fotoE}\footnotesize\em Vista parcial da avenida dos Combatentes da Grande Guerra, em 1937. Fonte: Arquivo Municipal do Porto, cotas F-P-CMP/9/285; F-NP/CMP/1/4184.}
+\end{wrapfigure}
+}
+
+\def\fotoD{
+
+\begin{wrapfigure}[18]{r}{18.5em}
+\vskip -1em
+\unitlength=1.0em 
+\hskip 1ex
+\makebox (17.00,17.00)[cc]{
+  \includegraphics[width=17em]{llp_files/remington.png}
+}
+\caption{\label{fig:fotoD}\footnotesize\em A Remington Portable Model 5 usada para dactilografar o original deste texto.}
+\end{wrapfigure}
+}
+
+\def\fotB{Carro.......}
+
+\def\fotF{Vila do Conde}
+
+
+\def\fotC{Portalegre anos 30}
+
+\def\fotE{Paquete Funchal}
+
+%---------------------- CAPA --------------------------------------------------------
+\def\folhavazia{\newpage\thispagestyle{empty}~\newpage\thispagestyle{empty}~\newpage}
+\def\capa{\thispagestyle{empty}
+\rule{0pt}{0.05\textheight}
+\begin{center}
+	\fontfamily{ptm}\selectfont\fontsize{0.07\textwidth}{0.07\textwidth}\selectfont
+	\sc AS \\ ATRIBULAÇÕES DE EUGÉNIO
+\\~\\
+	\fontfamily{ptm}\selectfont\fontsize{0.04\textwidth}{0.04\textwidth}\selectfont
+	Ludgero Lopes Parreira 
+\\~\\
+	Pôrto, Agôsto de 1938
+\vskip 0.5\textheight
+% 	\includegraphics[width=0.65\textwidth]{llp_files/llp.jpeg}
+\vskip 5em\raisebox{-1em}{%
+	\fontfamily{ptm}\selectfont\fontsize{0.045\textwidth}{0.045\textwidth}\selectfont
+	Marrancos, 2025}
+\end{center}
+}
+%------ Entradas para o índice -------------------------------------------------
+\def\Documental{\vskip 1em\textsc{Documental}\vskip 1ex}
+\def\Imobiliario{\vskip 1em\textsc{Imobiliário}\vskip 1ex}
+\def\Instituicoes{\vskip 1em\textsc{Instituições}\vskip 1ex}
+\def\Onomastico{\vskip 1em\textsc{Onomástico}\vskip 1ex}
+\def\Sociedades{\vskip 1em\textsc{Sociedades/Firmas}\vskip 1ex}
+\def\Toponimico{\vskip 1em\textsc{Toponímico}\vskip 1ex}
+\newcommand{\ano}[1]{#1\index{Cronológico}}
+\newcommand{\fvv}[1]{#1\index{\Documental!Jornais e revistas!Folha de Vila Verde}}
+\newcommand{\almanak}[1]{#1\index{\Documental!Jornais e revistas!Almanak Administrativo, Mercantil e Industrial da Província de Pernambuco}}
+\newcommand{\liberal}[1]{#1\index{\Documental!Jornais e revistas!O Liberal Pernambucano}}
+\newcommand{\gazetal}[1]{#1\index{\Documental!Jornais e revistas!Gazeta de Lisboa}}
+\newcommand{\jdp}[1]{#1\index{\Documental!Jornais e revistas!Jornal do Porto}}
+\newcommand{\ddp}[1]{#1\index{\Documental!Jornais e revistas!Diário de Pernambuco}}
+\newcommand{\jdr}[1]{#1\index{\Documental!Jornais e revistas!Jornal do Recife}}
+\newcommand{\echo}[1]{#1\index{\Documental!Jornais e revistas!Echo Pernambucano}}
+\newcommand{\di}[1]{#1\index{\Documental!Jornais e revistas!Diário Ilustrado}}
+\newcommand{\aordem}[1]{#1\index{\Documental!Arquivo da Casa da Ordem (Marrancos)}}
+\newcommand{\doc}[1]{ACO/#1\index{\Documental!Arquivo da Casa da Ordem (Marrancos)!#1}}
+%newcommand{\llp}[1]{ACO/#1\index{\Documental!Arquivo da Casa da Ordem (Marrancos)!Livro de Lançamentos Particulares de Thomaz José de Oliveira}}
+\newcommand{\llp}[1]{#1\index{\Documental!Arquivo da Casa da Ordem (Marrancos)!D038}}
+\newcommand{\adb}[1]{#1\index{\Documental!Arquivo Distrital de Braga}}
+\newcommand{\inventario}[1]{#1\index{\Documental!Arquivo Distrital de Braga!Inventário Orfanológico de Thomaz José de Oliveira}}
+\newcommand{\agendasj}[2]{#2\index{\Documental!Arquivo da Casa de S.~José (Marrancos)!Ind@Índice, nr.º #1}}
+\newcommand{\vinculo}[1]{#1\index{\Documental!Arquivo da Casa de S.~José (Marrancos)!Certidão do Vínculo de Morgado e Capela de S.~José}, 1766}
+\newcommand{\apl}[1]{#1\index{\Documental!Arquivo de Ponte de Lima}}
+\newcommand{\rp}[1]{#1\index{\Documental!Registo paroquial!{#1}}}
+\newcommand{\ajbv}[1]{#1\index{\Onomastico!António Joaquim Barbosa Viana}}
+\newcommand{\avvb}[1]{#1\index{\Onomastico!António Vicente Vilas Boas (1862--1924)}}
+\newcommand{\tiozeca}[1]{#1\index{\Onomastico!José de Oliveira Faria Figueiredo e Matos (1899-1978)}}
+\newcommand{\antoninho}[1]{#1\index{\Onomastico!António de Oliveira Faria Figueiredo e Matos (1894- \\ 1918)}}
+\newcommand{\mamelia}[1]{#1\index{\Onomastico!Maria Amélia Oliveira Figueiredo e Matos (1897-1898)}}
+\newcommand{\aao}[1]{#1\index{\Onomastico!António Augusto de Oliveira, médico}}
+\newcommand{\joma}[1]{#1\index{\Onomastico!José de Oliveira Martins de Albuquerque (1882-1944)}}
+\newcommand{\tiofaria}[1]{#1\index{\Onomastico!António de Faria Figueiredo e Matos (1858-1941)}}
+\newcommand{\tiofariapai}[1]{#1\index{\Onomastico!António Faria Figueiredo e Matos}}
+\newcommand{\tjs}[1]{#1\index{\Onomastico!Tomás José da Silva ($\dagger$1893)}}
+\newcommand{\jjsj}[1]{#1\index{\Onomastico!Joaquim José da Silva Júnior}}
+\newcommand{\jjg}[1]{#1\index{\Onomastico!José Joaquim Gonçalves}}
+\newcommand{\vasseca}[1]{#1\index{\Onomastico!D.~Maria Rita Correia de Sá e Benevides Velasco da Câmara (1821-1868), Viscondessa de Asseca}}
+\newcommand{\jcrc}[1]{#1\index{\Onomastico!Joaquim Cordeiro Ribeiro Campos, major}}
+\newcommand{\jmp}[1]{#1\index{\Onomastico!Joao@João Marques de Pinho}}
+\newcommand{\dmsm}[1]{#1\index{\Onomastico!Domingos Mendes de Sousa Machado}}
+\newcommand{\bsra}[1]{#1\index{\Onomastico!D.~Maria Rita de Almada Caldas Ferraz (n.1851), Baronesa de S.~Roque}}
+\newcommand{\mrita}[1]{#1\index{\Onomastico!Maria Rita}}
+\newcommand{\bsro}[1]{#1\index{\Onomastico!José António Cardoso de Oliveira Torres (1835-1907), 3º Barão de S.~Roque}}
+\newcommand{\mmo}[1]{#1\index{\Onomastico!Maria Maximina de Oliveira (1840-1922)}}
+\newcommand{\fa}[1]{#1\index{\Onomastico!Filipe Álvares}}
+\newcommand{\ap}[1]{#1\index{\Onomastico!Angela@Ângela Pereira}}
+\newcommand{\mtq}[1]{#1\index{\Onomastico!Maria Teresa de Queirós}}
+\newcommand{\josefa}[1]{#1\index{\Onomastico!Maria Josefa ($\dagger$1828)}}
+\newcommand{\mj}[1]{#1\index{\Onomastico!Maria Josefa}}
+\newcommand{\RA}[1]{#1\index{\Onomastico!Rosa Afonso}}
+\newcommand{\MF}[1]{#1\index{\Onomastico!Maria Fernandes}}
+\newcommand{\fto}[1]{#1\index{\Onomastico!Francisca Teresa de Oliveira}}
+\newcommand{\aclara}[1]{#1\index{\Onomastico!D.~Antónia Clara Freire de Caldas (1799-1871)}}
+\newcommand{\mrosa}[1]{#1\index{\Onomastico!D.~Maria Rosa Freire de Caldas Ferraz (1791-1873)}}
+\newcommand{\claraj}[1]{#1\index{\Onomastico!D.~Clara Joaquina Freire Caldas Ferraz (1807-1834)}}
+\newcommand{\cbranco}[1]{#1\index{\Onomastico!Maria Luísa da Fonseca Abreu Castelo Branco Nogueira}}
+\newcommand{\jss}[1]{#1\index{\Onomastico!José da Silva e Sousa}}
+\newcommand{\inacia}[1]{#1\index{\Onomastico!Inácia Maria Dias de Rocha}}
+\newcommand{\angelina}[1]{#1\index{\Onomastico!D.~Maria Angelina Pereira de Almada}}
+\newcommand{\arita}[1]{#1\index{\Onomastico!D.~Antónia Rita Roberto Pereira de Almada Portocarreiro (1814-1859)}}
+\newcommand{\henriqueta}[1]{#1\index{\Onomastico!Tomásia Henriqueta Nunes Pereira}}
+\newcommand{\teodora}[1]{#1\index{\Onomastico!Maria Teodora de Oliveira Melo}}
+\newcommand{\corrodi}[1]{#1\index{\Onomastico!Ernesto Korrodi (1870-1944), arquitecto}}
+\newcommand{\avo}[1]{#1\index{\Onomastico!Maria Isilda Martins de Albuquerque Oliveira (1897-1982)}}
+\newcommand{\marocas}[1]{#1\index{\Onomastico!Maria de Oliveira Martins de Albuquerque (1878-1914)}}
+\newcommand{\palmira}[1]{#1\index{\Onomastico!Elisa Palmira Lopes Martins\\ (n.1892)}}
+\newcommand{\primov}[1]{#1\index{\Onomastico!Luís Vítor Nogueira Faria (1907-1967)}}
+\newcommand{\tja}[1]{#1\index{\Onomastico!Teresa de Jesus Araújo (c.1807-1898)}}
+\newcommand{\lmb}[1]{#1\index{\Onomastico!Luísa Maria da Silva (1804-1858)}}
+\newcommand{\jcda}[1]{#1\index{\Onomastico!José Couto de Almada}}
+\newcommand{\marr}[1]{#1\index{\Toponimico!Marrancos, S.~Mamede}}
+\newcommand{\calv}[1]{#1\index{\Toponimico!Calvelo, S.~Pedro}}
+\newcommand{\apul}[1]{#1\index{\Toponimico!Apúlia, S.~Miguel}}
+\newcommand{\neiva}[1]{#1\index{\Toponimico!Rio Neiva}}
+\newcommand{\capareiros}[1]{#1\index{\Toponimico!Capareiros, Couto de, S.~Pedro}}
+\newcommand{\piaes}[1]{#1\index{\Toponimico!Vitorino dos Piães, S.~André}}
+\newcommand{\freixo}[1]{#1\index{\Toponimico!Freixo, S.~Julião}}
+\newcommand{\riomau}[1]{#1\index{\Toponimico!Rio Mau, S.\ Martinho}}
+\newcommand{\punhe}[1]{#1\index{\Toponimico!Vila de Punhe, S.\ Eulália}}
+\newcommand{\mamesc}[1]{#1\index{\Toponimico!Escariz!S.~Mamede}}
+\newcommand{\maresc}[1]{#1\index{\Toponimico!Escariz!S.~Martinho}}
+\newcommand{\plima}[1]{#1\index{\Toponimico!Ponte de Lima}}
+\newcommand{\matosinhos}[1]{#1\index{\Toponimico!Matosinhos}}
+\newcommand{\arcos}[1]{#1\index{\Toponimico!Arcos de Valdevez}}
+\newcommand{\melgaco}[1]{#1\index{\Toponimico!Melgaço}}
+\newcommand{\regua}[1]{#1\index{\Toponimico!Peso da Régua}}
+\newcommand{\braga}[1]{#1\index{\Toponimico!Braga}}
+\newcommand{\astorga}[1]{#1\index{\Toponimico!Astorga, Galiza}}
+\newcommand{\bragasv}[1]{#1\index{\Toponimico!Braga!S.~Vítor}}
+\newcommand{\smarg}[1]{#1\index{\Toponimico!Braga!Rua de S.~Margarida}}
+\newcommand{\bragasl}[1]{#1\index{\Toponimico!Braga!S.~Lázaro}}
+\newcommand{\vverde}[1]{#1\index{\Toponimico!Vila Verde}}
+\newcommand{\anais}[1]{#1\index{\Toponimico!Anais, S.~Marinha}}
+\newcommand{\alheira}[1]{#1\index{\Toponimico!Alheira, S.~Marinha}}
+\newcommand{\fornelos}[1]{#1\index{\Toponimico!Fornelos, S.~Vicente}}
+\newcommand{\parada}[1]{#1\index{\Toponimico!Parada de Gatim, S.~Salvador}}
+\newcommand{\porto}[1]{#1\index{\Toponimico!Porto}}
+\newcommand{\barcelos}[1]{#1\index{\Toponimico!Barcelos}}
+\newcommand{\cedofeita}[1]{#1\index{\Toponimico!Porto!Cedofeita}}
+\newcommand{\lisboa}[1]{#1\index{\Toponimico!Lisboa}}
+\newcommand{\freiriz}[1]{#1\index{\Toponimico!Freiriz, S.~Maria}}
+\newcommand{\gualtar}[1]{#1\index{\Toponimico!Gualtar, S.~Miguel}}
+\newcommand{\cald}[1]{#1\index{\Toponimico!Caldelas, S.~Tiago}}
+\newcommand{\anha}[1]{#1\index{\Toponimico!Anha, S.~Tiago}}
+\newcommand{\fraiao}[1]{#1\index{\Toponimico!Fraião, S.~Tiago}}
+\newcommand{\arco}[1]{#1\index{\Toponimico!Arcozelo, S.~Tiago}}
+\newcommand{\atiaes}[1]{#1\index{\Toponimico!Atiães, S.~Tiago}}
+\newcommand{\goaes}[1]{#1\index{\Toponimico!Goães, S.~Pedro}}
+\newcommand{\ssr}[1]{#1\index{\Toponimico!Requião, S.~Silvestre}}
+\newcommand{\pedregais}[1]{#1\index{\Toponimico!Pedregais, Divino Salvador}}
+\newcommand{\pernambuco}[1]{#1\index{\Toponimico!Pernambuco}}
+\newcommand{\taquaritinga}[1]{#1\index{\Toponimico!Pernambuco!Taquaritinga}}
+\newcommand{\quipapa}[1]{#1\index{\Toponimico!Pernambuco!Quipapá}}
+\newcommand{\baia}[1]{#1\index{\Toponimico!Baía}}
+\newcommand{\olinda}[1]{#1\index{\Toponimico!Olinda}}
+\newcommand{\rio}[1]{#1\index{\Toponimico!Rio de Janeiro}}
+\newcommand{\cverde}[1]{#1\index{\Toponimico!Cabo Verde!S. Vicente}}
+\newcommand{\recife}[1]{#1\index{\Toponimico!Pernambuco, Recife}}
+\newcommand{\vidal}[1]{#1\index{\Toponimico!Pernambuco, Recife!Rua Vidal de Negreiros}}
+\newcommand{\direita}[1]{#1\index{\Toponimico!Pernambuco, Recife!Rua Direita}}
+\newcommand{\cinco}[1]{#1\index{\Toponimico!Pernambuco, Recife!Rua das Cinco Pontas}}
+\newcommand{\carmo}[1]{#1\index{\Toponimico!Pernambuco, Recife!Largo do Carmo}}
+\newcommand{\terco}[1]{#1\index{\Toponimico!Pernambuco, Recife!Largo do Terço}}
+\newcommand{\caxias}[1]{#1\index{\Toponimico!Pernambuco, Recife!Rua Duque de Caxias}}
+\newcommand{\gondo}[1]{#1\index{\Toponimico!Gondoriz, S.~Eulália}}
+\newcommand{\portela}[1]{#1\index{\Toponimico!Portela, S.~Salvador}}
+\newcommand{\coimbra}[1]{#1\index{\Toponimico!Coimbra}}
+\newcommand{\VdC}[1]{#1\index{\Toponimico!Viana do Castelo}}
+\newcommand{\aguiar}[1]{#1\index{\Onomastico!Custódio José de Araújo Aguiar, tabelião em Braga}}
+\newcommand{\acam}[1]{#1\index{\Onomastico!António Carlos de Araújo Mota, tabelião em Braga}}
+\newcommand{\CJdS}[1]{#1\index{\Onomastico!Constantino José da Silva}}
+\newcommand{\ajg}[1]{#1\index{\Onomastico!António José Gonçalves, tabelião em Braga}}
+\newcommand{\tiberio}[1]{#1\index{\Onomastico!Tibério Augusto Pereira Mendes, tabelião no Porto}}
+\newcommand{\acos}[1]{#1\index{\Onomastico!Ana da Conceição Oliveira![sobrinha] (n.1865)}}
+\newcommand{\aninhas}[1]{#1\index{\Onomastico!Ana da Conceição Oliveira![filha] (1875--1924)}}
+\newcommand{\aco}[1]{#1\index{\Onomastico!Ana da Conceição Oliveira![irmã] (1842--1891)}}
+\newcommand{\ajdo}[1]{#1\index{\Onomastico!António José Dias de Oliveira, tabelião em Goães}}
+\newcommand{\ajmag}[1]{#1\index{\Onomastico!António Joaquim Vieira de Magalhães}}
+\newcommand{\ajo}[1]{#1\index{\Onomastico!Amaro José de Oliveira (1882-1966)}}
+\newcommand{\ajp}[1]{#1\index{\Onomastico!António Joaquim Pereira, padre}}
+\newcommand{\jardim}[1]{#1\index{\Onomastico!José António Gonçalves Jardim}}
+\newcommand{\custodio}[1]{#1\index{\Onomastico!Custódio José Rodrigues Pereira}}
+\newcommand{\aljo}[1]{#1\index{\Onomastico!Alexandre José de Oliveira (1797-1863)}}
+\newcommand{\ammag}[1]{#1\index{\Onomastico!D. Antónia Maria Orta de Magalhães}}
+\newcommand{\aaag}[1]{#1\index{\Onomastico!Azevedo Araújo e Gama!Amaro de (1845-1911), juiz conselheiro}}
+\newcommand{\azevedo}[1]{#1\index{\Onomastico!Francisco Lopes de Azevedo Velho da Fonseca (1809-1876), Conde de Azevedo}}
+\newcommand{\anaag}[1]{#1\index{\Onomastico!Azevedo Araújo e Gama!António de}}
+\newcommand{\jaag}[1]{#1\index{\Onomastico!Azevedo Araújo e Gama!Joaquim de}}
+\newcommand{\gaag}[1]{#1\index{\Onomastico!Azevedo Araújo e Gama!Gaspar de}}
+\newcommand{\anjo}[1]{#1\index{\Onomastico!André José de Oliveira (1778-1848)}}
+\newcommand{\apim}[1]{#1\index{\Onomastico!António Alves Pimenta}}
+\newcommand{\carlota}[1]{#1\index{\Onomastico!D.~Carlota Benedita da Silva Rego e Azevedo}}
+\newcommand{\casimira}[1]{#1\index{\Onomastico!Maria Casimira de Oliveira (n.1834)}}
+\newcommand{\rosa}[1]{#1\index{\Onomastico!Rosa Maria de Oliveira (1839--1865)}}
+\newcommand{\dantas}[1]{#1\index{\Onomastico!José Dantas}}
+\newcommand{\curador}[1]{#1\index{\Onomastico!Domingos Manuel Pereira de Carvalho e Abreu, Curador Geral dos Órfãos}}
+\newcommand{\afcf}[1]{#1\index{\Onomastico!António Freire das Caldas Ferraz (1792--1854), abade de Capareiros}}
+\newcommand{\jofcf}[1]{#1\index{\Onomastico!Joaquim Freire das Caldas Ferraz (1797-1882), presbítero}}
+\newcommand{\amg}[1]{#1\index{\Onomastico!Ana Maria Gonçalves (1727-1783)}}
+\newcommand{\anmg}[1]{#1\index{\Onomastico!Angela@Ângela Maria Gonçalves (1754-1825)}}
+\newcommand{\dacf}[1]{#1\index{\Onomastico!Diogo António de Caldas Ferraz}}
+\newcommand{\dfcf}[1]{#1\index{\Onomastico!Diogo Freire das Caldas Ferraz ($\dagger$1827)}}
+\newcommand{\dgs}[1]{#1\index{\Onomastico!Domingos Gonçalves dos Santos (1713--1792), sargento-mor}}
+\newcommand{\domingos}[1]{#1\index{\Onomastico!Domingos de Oliveira (1732--1764)}}
+\newcommand{\doroteia}[1]{#1\index{\Onomastico!Doroteia de Oliveira (1696--1761)}}
+\newcommand{\erf}[1]{#1\index{\Onomastico!Estêvão Rodrigues Fontes}}
+\newcommand{\gjo}[1]{#1\index{\Onomastico!Gabriel José de Oliveira (1817-1888)}}
+\newcommand{\gvb}[1]{#1\index{\Onomastico!Gabriel Vilas Boas, carpinteiro}}
+\newcommand{\jbs}[1]{#1\index{\Onomastico!Joao@João Baptista Soares}}
+\newcommand{\jfcf}[1]{#1\index{\Onomastico!José Freire de Caldas Ferraz (1790--1846), provedor do concelho de Portela de Penela}}
+\newcommand{\jis}[1]{#1\index{\Onomastico!Joaquim Inácio de Sousa, tabelião no Porto}}
+\newcommand{\jjo}[1]{#1\index{\Onomastico!Joaquim José de Oliveira (1880-1935)}}
+\newcommand{\jjr}[1]{#1\index{\Onomastico!José Joaquim Ribeiro, advogado}}
+\newcommand{\mfsn}[1]{#1\index{\Onomastico!Manuel Francisco Soares Nogueira}}
+\newcommand{\jma}[1]{#1\index{\Onomastico!Joao@João Manuel de Abreu, professor primário}}
+\newcommand{\lao}[1]{#1\index{\Onomastico!Luís António de Oliveira (1754-1818)}}
+\newcommand{\lassl}[1]{#1\index{\Onomastico!Luís Alberto Soares de Sousa Lima, professor primário}}
+\newcommand{\lfcf}[1]{#1\index{\Onomastico!Luís Freire de Caldas Ferraz (1812--1885)}}
+\newcommand{\hfcf}[1]{#1\index{\Onomastico!Henrique Freire Caldas Ferraz (1803-1825)}}
+\newcommand{\fradique}[1]{#1\index{\Onomastico!Fradique de Magalhães e Meneses, morgado do Paço de Freiriz}}
+\newcommand{\jeronima}[1]{#1\index{\Onomastico!D.~Jerónima Maria de Sá Barreto e Resende}}
+\newcommand{\ljc}[1]{#1\index{\Onomastico!Luís Joaquim de Carvalho, padre}}
+\newcommand{\luz}[1]{#1\index{\Onomastico!Ricardo José Gomes da Luz ($\dagger$1892)}}
+\newcommand{\martinho}[1]{#1\index{\Onomastico!José Joaquim de Oliveira [cunhado] (n.1844)}}
+\newcommand{\martinhobomba}[1]{#1\index{\Onomastico!Joaquim de Oliveira (n.1912)}}
+\newcommand{\josej}[1]{#1\index{\Onomastico!José Joaquim de Oliveira [irmão] (1845--1873)}}
+\newcommand{\JJO}[1]{#1\index{\Onomastico!José Joaquim de Oliveira [do Recife]}}
+\newcommand{\anae}[1]{#1\index{\Onomastico!Ana das Eirinhas}}
+\newcommand{\melo}[1]{#1\index{\Onomastico!José de Mello Costa Oliveira ($\dagger$1870)}}
+\newcommand{\frp}[1]{#1\index{\Onomastico!Francisco do Rego Pontes}}
+\newcommand{\mendanha}[1]{#1\index{\Onomastico!António Pinto de Mendanha Arriscado (1841-1915)}}
+\newcommand{\mjg}[1]{#1\index{\Onomastico!Manuel José Godinho}}
+\newcommand{\mjgo}[1]{#1\index{\Onomastico!Manuel José Gonçalves}}
+\newcommand{\mjol}[1]{#1\index{\Onomastico!Manuel José de Oliveira [pai] (1812-1890)}}
+\newcommand{\herd}[1]{#1\index{\Onomastico!Manuel de Oliveira (n.1856)}}
+\newcommand{\mjo}[1]{#1\index{\Onomastico!Manuel José de Oliveira [filho] (1877-1918)}}
+\newcommand{\mouta}[1]{#1\index{\Onomastico!José Joaquim Mouta, padre}}
+\newcommand{\mpim}[1]{#1\index{\Onomastico!Manuel Pimenta (1891--1966)}}
+\newcommand{\nicolau}[1]{#1\index{\Onomastico!José Nicolau Carneiro, padre}}
+\newcommand{\pmg}[1]{#1\index{\Onomastico!Manuel Freire de Barros (c.1834-1919), padre}}
+\newcommand{\rosinha}[1]{#1\index{\Onomastico!Rosa Freire de Barros Martins (n.1874)}}
+\newcommand{\crego}[1]{#1\index{\Onomastico!Maria da Conceição Freire dos Santos Rego (1895--1936)}}
+\newcommand{\mdc}[1]{#1\index{\Onomastico!Maria da Conceição}}
+\newcommand{\elias}[1]{#1\index{\Onomastico!Elias Gomes dos Santos (1849--1896), entalhador}}
+\newcommand{\pedroso}[1]{#1\index{\Onomastico!Fernando Maria de Almeida Pedroso (1818-1901), jurista}}
+\newcommand{\piedade}[1]{#1\index{\Onomastico!Marquês de Abrantes!Joa@João Maria da Piedade de Lancastre e Távora (1864-1917), 8º Marquês de Abrantes}}
+\newcommand{\jmplt}[1]{#1\index{\Onomastico!Marquês de Abrantes!José Maria da Piedade de Lancastre e Távora (1819-1870), 7º Marquês de Abrantes}}
+\newcommand{\PdP}[1]{#1\index{\Imobiliario!Poças das Pinheiras (Marrancos)}}
+\newcommand{\sAJPdS}[1]{#1\index{\Onomastico!Abílio João Pereira de Sousa}}
+\newcommand{\sAA}[1]{#1\index{\Onomastico!Agostinho Alves}}
+\newcommand{\amp}[1]{#1\index{\Onomastico!Ana Maria Pereira}}
+\newcommand{\sAFM}[1]{#1\index{\Onomastico!António Ferreira Monteiro}}
+\newcommand{\AJG}[1]{#1\index{\Onomastico!António Joaquim Gonçalves}}
+\newcommand{\AJdO}[1]{#1\index{\Onomastico!António Joaquim de Oliveira}}
+\newcommand{\AJF}[1]{#1\index{\Onomastico!António José Ferreira}}
+\newcommand{\sAJG}[1]{#1\index{\Onomastico!António José Gonçalves}}
+\newcommand{\sAJdC}[1]{#1\index{\Onomastico!António José da Cunha}}
+\newcommand{\sAJdSeS}[1]{#1\index{\Onomastico!António José da Silva e Sá}}
+\newcommand{\sAJPG}[1]{#1\index{\Onomastico!António Justino Pereira Gomes}}
+\newcommand{\sASdSL}[1]{#1\index{\Onomastico!António Soares de Sousa Lima}}
+\newcommand{\sAdQ}[1]{#1\index{\Onomastico!António de Queirós}}
+\newcommand{\BA}[1]{#1\index{\Onomastico!Bento Antunes, oficial de diligências em Vila Verde}}
+\newcommand{\BR}[1]{#1\index{\Onomastico!Bento Rodrigues}}
+\newcommand{\BAM}[1]{#1\index{\Onomastico!Bernardo António Martins}}
+\newcommand{\sBG}[1]{#1\index{\Onomastico!Bernardo Gonçalves}}
+\newcommand{\sCAdA}[1]{#1\index{\Onomastico!Constantino António de Almeida}}
+\newcommand{\MJdNAF}[1]{#1\index{\Onomastico!D.~Maria José da Natividade Azevedo Falcão}}
+\newcommand{\rcm}[1]{#1\index{\Onomastico!D.~Rosa Cândida de Melo, professora pri\-mária}}
+\newcommand{\tomasia}[1]{#1\index{\Onomastico!D.~Tomásia Perpétua de Sá Viana Rego}}
+\newcommand{\DdA}[1]{#1\index{\Onomastico!Delmira dos Anjos}}
+\newcommand{\far}[1]{#1\index{\Onomastico!Francisco António Rodrigues, carpinteiro em Goães}}
+\newcommand{\sFGT}[1]{#1\index{\Onomastico!Francisco Gonçalves Treso}}
+\newcommand{\sFJF}[1]{#1\index{\Onomastico!Francisco José Ferreira}}
+\newcommand{\sFMdS}[1]{#1\index{\Onomastico!Francisco Manuel da Silva}}
+\newcommand{\rego}[1]{#1\index{\Onomastico!Francisco Pinto da Silva Rego, Cavaleiro da Ordem de Cristo}}
+\newcommand{\sFdOL}[1]{#1\index{\Onomastico!Francisco de Oliveira Lopes}}
+\newcommand{\sGF}[1]{#1\index{\Onomastico!Gabriel Fernandes}}
+\newcommand{\teles}[1]{#1\index{\Onomastico!Gaspar Augusto Teles, tabelião em Vila Verde}}
+\newcommand{\jdm}[1]{#1\index{\Onomastico!Joao@João Dantas Malheiro, pároco de Ponte de Lima}}
+\newcommand{\sJEG}[1]{#1\index{\Onomastico!Joao@João Evangelista Gonçalves}}
+\newcommand{\sJVdS}[1]{#1\index{\Onomastico!Joao@João Vieira de Sousa}}
+\newcommand{\sJdSdC}[1]{#1\index{\Onomastico!Joao@João da Silva do Cruzeiro}}
+\newcommand{\sJdSL}[1]{#1\index{\Onomastico!Joao@João de Sousa Lameiro}}
+\newcommand{\JADdC}[1]{#1\index{\Onomastico!Joaquim António Dias de Carvalho}}
+\newcommand{\sJJdS}[1]{#1\index{\Onomastico!Joaquim José da Silva}}
+\newcommand{\jrc}[1]{#1\index{\Onomastico!Joaquim Ribeiro da Cruz}}
+\newcommand{\sJAM}[1]{#1\index{\Onomastico!José António Martins}}
+\newcommand{\sJAdM}[1]{#1\index{\Onomastico!José António da Mota}}
+\newcommand{\sJAdA}[1]{#1\index{\Onomastico!José António de Araújo}}
+\newcommand{\reitor}[1]{#1\index{\Onomastico!José António de Oliveira Barbosa (1821--1902), reitor de Marrancos}}
+\newcommand{\sJAdS}[1]{#1\index{\Onomastico!José António de Sousa}}
+\newcommand{\jcustodio}[1]{#1\index{\Onomastico!José Custódio da Silva}}
+\newcommand{\mcosta}[1]{#1\index{\Onomastico!Manuel da Costa}}
+\newcommand{\fcunha}[1]{#1\index{\Onomastico!Francisco da Cunha}}
+\newcommand{\fsilva}[1]{#1\index{\Onomastico!Francisco da Silva}}
+\newcommand{\sJDFM}[1]{#1\index{\Onomastico!José Dias Ferreira Machado}}
+\newcommand{\sJFC}[1]{#1\index{\Onomastico!José Fernandes Coelho}}
+\newcommand{\jfl}[1]{#1\index{\Onomastico!José Ferreira de Luna}}
+\newcommand{\sJFdSeA}[1]{#1\index{\Onomastico!José Fortunato da Silva e Andrade}}
+\newcommand{\sJFM}[1]{#1\index{\Onomastico!José Francisco Martins}}
+\newcommand{\sJGdR}[1]{#1\index{\Onomastico!José Gonçalves da Rocha}}
+\newcommand{\sJJM}[1]{#1\index{\Onomastico!José Joaquim Martins}}
+\newcommand{\sJJdC}[1]{#1\index{\Onomastico!José Joaquim da Costa}}
+\newcommand{\jjc}[1]{#1\index{\Onomastico!José Júlio da Costa, comendador}}
+\newcommand{\jmtm}[1]{#1\index{\Onomastico!José Maria Torres Machado}}
+\newcommand{\sJMdS}[1]{#1\index{\Onomastico!José Maria da Silva}}
+\newcommand{\sJMdSD}[1]{#1\index{\Onomastico!José Miguel da Silva Duarte}}
+\newcommand{\jnog}[1]{#1\index{\Onomastico!José Nogueira}}
+\newcommand{\JVdSG}[1]{#1\index{\Onomastico!José Veloso de Sousa Guimarães}}
+\newcommand{\sJVdQ}[1]{#1\index{\Onomastico!José Vicente de Queirós}}
+\newcommand{\sJdSB}[1]{#1\index{\Onomastico!José da Silva Barbosa}}
+\newcommand{\sJdA}[1]{#1\index{\Onomastico!José de Abreu}}
+\newcommand{\sJdM}[1]{#1\index{\Onomastico!José de Magalhães}}
+\newcommand{\JdOL}[1]{#1\index{\Onomastico!José de Oliveira Lopes}}
+\newcommand{\sLAdS}[1]{#1\index{\Onomastico!Luís António de Sá}}
+\newcommand{\sLG}[1]{#1\index{\Onomastico!Luís Gonçalves}}
+\newcommand{\sLMdA}[1]{#1\index{\Onomastico!Luís Manuel de Azevedo}}
+\newcommand{\vboas}[1]{#1\index{\Onomastico!Luís Manuel de Faria Velho Vilas Boas, tabelião em Penela}}
+\newcommand{\sLV}[1]{#1\index{\Onomastico!Luís Viana}}
+\newcommand{\sLdS}[1]{#1\index{\Onomastico!Luís da Silva}}
+\newcommand{\MAMC}[1]{#1\index{\Onomastico!Manuel Afonso Morais Carvalho}}
+\newcommand{\sMAP}[1]{#1\index{\Onomastico!Manuel Alves Pereira}}
+\newcommand{\sMCG}[1]{#1\index{\Onomastico!Manuel Coelho Gomes}}
+\newcommand{\sMCR}[1]{#1\index{\Onomastico!Manuel Coelho Ribeiro}}
+\newcommand{\sMFdS}[1]{#1\index{\Onomastico!Manuel Fernandes da Silva}}
+\newcommand{\MGJ}[1]{#1\index{\Onomastico!Manuel Gonçalves Jardim}}
+\newcommand{\MHdF}[1]{#1\index{\Onomastico!Manuel Henrique de Faria, escrivão em Vila Verde}}
+\newcommand{\sMJA}[1]{#1\index{\Onomastico!Manuel José Alves}}
+\newcommand{\sMJG}[1]{#1\index{\Onomastico!Manuel José Gonçalves}}
+\newcommand{\gravinho}[1]{#1\index{\Onomastico!Manuel José Gravinho, capitão}}
+\newcommand{\sMJL}[1]{#1\index{\Onomastico!Manuel José Lopes}}
+\newcommand{\mjs}[1]{#1\index{\Onomastico!Manuel José Sequeira}}
+\newcommand{\sMJV}[1]{#1\index{\Onomastico!Manuel José Vieira}}
+\newcommand{\mjsb}[1]{#1\index{\Onomastico!Manuel José da Silva Barbosa}}
+\newcommand{\sMJdS}[1]{#1\index{\Onomastico!Manuel José da Silva}}
+\newcommand{\sMJoL}[1]{#1\index{\Onomastico!Manuel João Lopes}}
+\newcommand{\sMJQ}[1]{#1\index{\Onomastico!Manuel João Queirós}}
+\newcommand{\sMJd}[1]{#1\index{\Onomastico!Manuel João de Oliveira}}
+\newcommand{\MLdAB}[1]{#1\index{\Onomastico!Manuel Lourenço de Araújo Braga}}
+\newcommand{\sMdSB}[1]{#1\index{\Onomastico!Manuel da Silva Barbosa}}
+\newcommand{\sMdSM}[1]{#1\index{\Onomastico!Manuel da Silva Maciel}}
+\newcommand{\sMdJdR}[1]{#1\index{\Onomastico!Manuel de Jesus de Araújo Rocha}}
+\newcommand{\sMdSeS}[1]{#1\index{\Onomastico!Manuel de Sousa e Silva}}
+\newcommand{\mav}[1]{#1\index{\Onomastico!Maria Alves Vilela}}
+\newcommand{\MC}[1]{#1\index{\Onomastico!Maria Cerqueira}}
+\newcommand{\MLM}[1]{#1\index{\Onomastico!Maria Luiza Malheira}}
+\newcommand{\MRdS}[1]{#1\index{\Onomastico!Maria Rosa da Silva}}
+\newcommand{\mrs}[1]{#1\index{\Onomastico!Maria Rosa da Silva, mulher do professor João Manuel de Abreu}}
+\newcommand{\tnininha}[1]{#1\index{\Onomastico!Maria da Purificação Teixeira de Oliveira (1888-1948)}}
+\newcommand{\miranda}[1]{#1\index{\Onomastico!Maria da Silva Miranda}}
+\newcommand{\sMdV}[1]{#1\index{\Onomastico!Maria de Vilas-Boas}}
+\newcommand{\RMdRO}[1]{#1\index{\Onomastico!Rosa Maria da Rocha Oliveira}}
+\newcommand{\sRdS}[1]{#1\index{\Onomastico!Rosa de Sousa}}
+\newcommand{\sSJC}[1]{#1\index{\Onomastico!Severino José Coelho}}
+\newcommand{\severino}[1]{#1\index{\Onomastico!Severino José Miranda Magalhães, juiz de Direito}}
+\newcommand{\tjo}[1]{#1\index{\Onomastico!Thomaz José de Oliveira (1837--1889)}}
+\newcommand{\sTdAB}[1]{#1\index{\Onomastico!Tomás de Araújo Brandão}}
+\newcommand{\MLB}[1]{#1\index{\Onomastico!Manuel Lima Brandão}}
+\newcommand{\MJF}[1]{#1\index{\Onomastico!Manuel José Fernandes}}
+\newcommand{\trocato}[1]{#1\index{\Onomastico!Trocato Pita Teixeira de Abreu}}
+\newcommand{\sVMP}[1]{#1\index{\Onomastico!Vasco Marinho Pereira}}
+\newcommand{\arpern}[1]{#1\index{\Imobiliario!Armazém Pernambucano (Recife, Brazil)}}
+\newcommand{\BdC}[1]{#1\index{\Imobiliario!Bouça da Corredoura (Marrancos)}}
+\newcommand{\BdS}[1]{#1\index{\Imobiliario!Bouça da Sousa (Marrancos)}}
+\newcommand{\BdPdM}[1]{#1\index{\Imobiliario!Bouça das Poças do Monte (Marrancos)}}
+\newcommand{\rebolido}[1]{#1\index{\Imobiliario!Bouça de Rebolido (Anais)}}
+\newcommand{\BdT}[1]{#1\index{\Imobiliario!Bouça dos Tojos (Marrancos)}}
+\newcommand{\CVG}[1]{#1\index{\Imobiliario!Campo Velho (Goães)}}
+\newcommand{\CdG}[1]{#1\index{\Imobiliario!Campo da Gestoza (Goães)}}
+\newcommand{\campordem}[1]{#1\index{\Imobiliario!Campo da Ordem (Marrancos)}}
+\newcommand{\CdPoG}[1]{#1\index{\Imobiliario!Campo da Porta (Goães)}}
+\newcommand{\CdCoC}[1]{#1\index{\Imobiliario!Campo das Casas ou Cascão (Goães)}}
+\newcommand{\cortinhas}[1]{#1\index{\Imobiliario!Campo de Cortinhas (Marrancos)}}
+\newcommand{\CdAeCdF}[1]{#1\index{\Imobiliario!Campo do Amial e Cortelho da Fontainha (Goães)}}
+\newcommand{\CdPG}[1]{#1\index{\Imobiliario!Campo do Pardão (Goães)}}
+\newcommand{\CdPeG}[1]{#1\index{\Imobiliario!Campo do Peixoto (Goães)}}
+\newcommand{\CdReV}[1]{#1\index{\Imobiliario!Campo do Ressondo e Varziela (Marrancos)}}
+\newcommand{\CdR}[1]{#1\index{\Imobiliario!Campo da Ribeira (Marrancos)}}
+\newcommand{\CdRF}[1]{#1\index{\Imobiliario!Campo da Ribeira de Fora (Anais)}}
+\newcommand{\BdD}[1]{#1\index{\Imobiliario!Bico da Devezinha (Marrancos)}}
+\newcommand{\CdRG}[1]{#1\index{\Imobiliario!Campo do Rio (Goães)}}
+\newcommand{\lusos}[1]{#1\index{\Imobiliario!Campo dos Lusos (Anais)}}
+\newcommand{\CdT}[1]{#1\index{\Imobiliario!Campo dos Texugos (Marrancos)}}
+\newcommand{\CdS}[1]{#1\index{\Imobiliario!Campos dos Seixos (Goães)}}
+\newcommand{\obra}[1]{#1\index{\Imobiliario!Casa da Obra (Marrancos)}}
+\newcommand{\ordem}[1]{#1\index{\Imobiliario!Casa da Ordem (Marrancos)}}
+\newcommand{\cpous}[1]{#1\index{\Imobiliario!Casa de Pousada (Calvelo)}}
+\newcommand{\ccast}[1]{#1\index{\Imobiliario!Casa do Castelo (Apúlia)}}
+\newcommand{\montinho}[1]{#1\index{\Imobiliario!Casa do Montinho (Goães)}}
+\newcommand{\pfreiriz}[1]{#1\index{\Imobiliario!Casa do Paço (Freiriz)}}
+\newcommand{\pmarr}[1]{#1\index{\Imobiliario!Casa do Paço (Marrancos)}}
+\newcommand{\tristega}[1]{#1\index{\Imobiliario!Cortelho da Tristega (Anais)}}
+\newcommand{\CdPRG}[1]{#1\index{\Imobiliario!Cortelho das Poldras (Goães)}}
+\newcommand{\CdPeLdA}[1]{#1\index{\Imobiliario!Cortelho das Poças e Linhar de Abade (Goães)}}
+\newcommand{\cCaramace}[1]{#1\index{\Imobiliario!Cortelho de Caramace (Anais)}}
+\newcommand{\CdCG}[1]{#1\index{\Imobiliario!Cortelho do Carneiro (Goães)}}
+\newcommand{\CdAeAdS}[1]{#1\index{\Imobiliario!Coutada de Alçacova e Alto dos Seixos (Goães)}}
+\newcommand{\velho}[1]{#1\index{\Imobiliario!Eido Velho, no lugar do Souto (Marrancos)}}
+\newcommand{\bdA}[1]{#1\index{\Imobiliario!Bouça de Arranhó (Marrancos)}}
+\newcommand{\deveza}[1]{#1\index{\Imobiliario!Eido da Deveza (Marrancos)}}
+\newcommand{\egj}[1]{#1\index{\Imobiliario!Eido da Gandra ou Jardim\\ (Anais)}} 
+\newcommand{\lagoeira}[1]{#1\index{\Imobiliario!Eido da Lagoeira (Anais)}}
+\newcommand{\EdL}[1]{#1\index{\Imobiliario!Eido da Laura (Marrancos)}}
+\newcommand{\edC}[1]{#1\index{\Imobiliario!Eido do Casal (Marrancos)}}
+\newcommand{\souto}[1]{#1\index{\Imobiliario!Eido do Souto (Marrancos)}}
+\newcommand{\EecdNM}[1]{#1\index{\Imobiliario!Eido e campo da Nogueira (Marrancos)}}
+\newcommand{\monte}[1]{#1\index{\Imobiliario!Eido no lugar do Monte (Marrancos)}}
+\newcommand{\LdE}[1]{#1\index{\Imobiliario!Leira da Erva (Marrancos)}}
+\newcommand{\LdAeM}[1]{#1\index{\Imobiliario!Leira das Agras (Marrancos)}}
+\newcommand{\LdMeV}[1]{#1\index{\Imobiliario!Leira dos Moinhos (Arcozelo)}}
+\newcommand{\fraldega}[1]{#1\index{\Imobiliario!Leiras da Fraldega e Pinheiro (Marrancos)}}
+\newcommand{\PdCeG}[1]{#1\index{\Imobiliario!Prado das Cebolas (Goães)}}
+\newcommand{\barrosa}[1]{#1\index{\Imobiliario!Quinta da Barrosa (S. Mamede de Escariz)}}
+\newcommand{\qco}[1]{#1\index{\Imobiliario!Quinta da Codeçosa (Arcozelo)}}
+\newcommand{\qcn}[1]{#1\index{\Imobiliario!Quinta das Casas Novas (Anais)}}
+\newcommand{\qma}[1]{#1\index{\Imobiliario!Quinta de Monte Aforado (em Marrancos e Goães)}}
+\newcommand{\qreg}[1]{#1\index{\Imobiliario!Quinta de Regadas (Marrancos)}}
+\newcommand{\qsj}[1]{#1\index{\Imobiliario!Quinta de S.~José (ou Quinta do Gondival do Grilo, em Marrancos)}}
+\newcommand{\qst}[1]{#1\index{\Imobiliario!Quinta de Santa Tecla (Braga)}}
+\newcommand{\qvs}[1]{#1\index{\Imobiliario!Quinta de Vila Sambade (Marrancos)}}
+\newcommand{\gondoriz}[1]{#1\index{\Imobiliario!Quinta dos Carvalhedos (Gondoriz)}}
+\newcommand{\cri}[1]{#1\index{\Sociedades!Companhia Real Inglesa}}
+\newcommand{\BO}[1]{#1\index{\Sociedades!Balthar \& Oliveira}}
+\newcommand{\OP}[1]{#1\index{\Sociedades!Oliveira \& Pontes}}
+\newcommand{\PI}[1]{#1\index{\Sociedades!Pontes \& Irmãos}}
+\newcommand{\jmpc}[1]{#1\index{\Sociedades!Joao@João Marques de Pinho \& C.}}
+\newcommand{\mcc}[1]{#1\index{\Sociedades!Mello e Costa \& C.}}
+\newcommand{\tjoc}[1]{#1\index{\Sociedades!Thomaz José de Oliveira \& C.}}
+\newcommand{\vcc}[1]{#1\index{\Sociedades!Viana Castro \& C.}}
+\newcommand{\firma}[1]{#1\index{\Sociedades!Viana e Filhos}}
+\newcommand{\bvr}[1]{#1\index{\Instituicoes!Banco Comercial, Agrícola e Industrial de Vila Real}}
+\newcommand{\jmarr}[1]{#1\index{\Instituicoes!Junta de Paróquia de Marrancos}}
+\newcommand{\consulado}[1]{#1\index{\Instituicoes!Consulado da Nação Portuguesa (Pernambuco)}}
+\newcommand{\TdCP}[1]{#1\index{\Instituicoes!Tribunal de Comércio de Pernambuco}}
+\newcommand{\csp}[1]{#1\index{\Instituicoes!Colégio de S.~Pedro (Coimbra)}}
+\newcommand{\CdC}[1]{#1\index{\Instituicoes!Comenda do Chavão}}
+\newcommand{\OdC}[1]{#1\index{\Instituicoes!Ordem de Cristo}}
+\newcommand{\cssgoaes}[1]{#1\index{\Instituicoes!Confraria do S.~Sacramento, da freguesia de Goães}}
+\newcommand{\cbraga}[1]{#1\index{\Instituicoes!Câmara Municipal de Braga}}
+\newcommand{\cmpl}[1]{#1\index{\Instituicoes!Câmara Municipal de Ponte de Lima}}
+\newcommand{\cvverde}[1]{#1\index{\Instituicoes!Câmara Municipal de Vila Verde}}
+\newcommand{\emcp}[1]{#1\index{\Instituicoes!Escola Médico-Cirúrgica (Porto)}}
+\newcommand{\eal}[1]{#1\index{\Instituicoes!Escola de Agricultura (Lisboa)}}
+\newcommand{\FN}[1]{#1\index{\Instituicoes!Fazenda Nacional}}
+\newcommand{\inscig}[1]{#1\index{\Instituicoes!Irmandade de N.S.\ da Conceição (Igreja da Congregação, Recife)}}
+\newcommand{\CdSNdD}[1]{#1\index{\Instituicoes!Confraria do Santo Nome de Deus (Marrancos)}}
+\newcommand{\lgv}[1]{#1\index{\Instituicoes!Liceu Gil Vicente (Lisboa)}}
+\newcommand{\lbraga}[1]{#1\index{\Instituicoes!Liceu de Braga}}
+\newcommand{\sbraga}[1]{#1\index{\Instituicoes!Seminário de Braga}}
+\newcommand{\uc}[1]{#1\index{\Instituicoes!Universidade de Coimbra}}
+\newcommand{\ul}[1]{#1\index{\Instituicoes!Universidade de Lisboa}}
+\newcommand{\up}[1]{#1\index{\Instituicoes!Universidade do Porto}}
+\newcommand{\SGL}[1]{#1\index{\Instituicoes!Sociedade de Geografia de Lisboa}}
+\newcommand{\tBH}[1]{#1\index{\Instituicoes!Tribunal da Boa Hora, em Lisboa}}
+\newcommand{\CRSM}[1]{#1\index{\Instituicoes!Colégio de Rua de S.~Marcos (Braga)}}
+\newcommand{\CAA}[1]{#1\index{\Onomastico!Caetano António Alves}}
+\newcommand{\fijacos}[1]{#1\index{\Imobiliario!Campo de Fijacos (Anais)}}
+\newcommand{\carrilho}[1]{#1\index{\Imobiliario!Leira do Carrilho (Anais)}}
+\newcommand{\cortinhal}[1]{#1\index{\Imobiliario!Campo do Cortinhal (Anais)}}
+\newcommand{\castanha}[1]{#1\index{\Imobiliario!Bouça Castanha (Anais)}}
+\newcommand{\talho}[1]{#1\index{\Imobiliario!Bouça do Talho (Anais)}}
+\newcommand{\cVM}[1]{#1\index{\Imobiliario!Campo da Várzea do Mouro (Anais)}}
+\newcommand{\DMLP}[1]{#1\index{\Onomastico!D.~Maria Luísa Pimenta ($\dagger$1801)}}
+\newcommand{\BdCF}[1]{#1\index{\Onomastico!Baltazar da Costa Fagundes, Cavaleiro da Ordem de Cristo}}
+\newcommand{\DMJF}[1]{#1\index{\Onomastico!D.~Maria Josefa Fajardo ($\dagger$1787)}}
+\newcommand{\DJFdS}[1]{#1\index{\Onomastico!Domingos José Fajardo dos Santos}}
+\newcommand{\DLBdSM}[1]{#1\index{\Onomastico!D.~Doroteia Luísa Barbosa de Sousa Machado ($\dagger$1782)}}
+\newcommand{\TM}[1]{#1\index{\Onomastico!D.~Teresa Machado ($\dagger$1850)}}
+\newcommand{\TMa}[1]{#1\index{\Onomastico!Teresa Maria Fernandes}}
+\newcommand{\MM}[1]{#1\index{\Onomastico!Manuel Machado}}
+\newcommand{\JGdG}[1]{#1\index{\Onomastico!João Gonçalves do Grilo}}
+\newcommand{\AGdG}[1]{#1\index{\Onomastico!Ana Gonçalves do Grilo}}
+\newcommand{\AG}[1]{#1\index{\Onomastico!Ana Gonçalves}}
+\newcommand{\ASFdA}[1]{#1\index{\Onomastico!Agostinho Soares Ferreira de Abreu}}
+\newcommand{\DMdFB}[1]{#1\index{\Onomastico!D.~Águeda Maria da Fonseca Barbosa}}
+\newcommand{\JFdO}[1]{#1\index{\Onomastico!João Fernandes de Oliveira}}
+\newcommand{\ATB}[1]{#1\index{\Onomastico!Antónia Teresa Barbosa}}
+\newcommand{\abarros}[1]{#1\index{\Onomastico!Antónia de Barros}}
+\newcommand{\amares}[1]{#1\index{\Toponimico!Amares}}
+\newcommand{\DFdP}[1]{#1\index{\Onomastico!Domingos Fernandes da Poça}}
+\newcommand{\FLdS}[1]{#1\index{\Onomastico!Francisca Luísa de Sousa}}
+\newcommand{\AFL}[1]{#1\index{\Onomastico!António Franco Liberato}}
+\newcommand{\GAtdp}[1]{#1\index{\Onomastico!Gabriel Alves, tesoureiro da paróquia de Marrancos}}
+\newcommand{\MJFM}[1]{#1\index{\Onomastico!Manuel José Fernandes Malheiro}}
+\newcommand{\LdO}[1]{#1\index{\Imobiliario!Leira da Ordem (Marrancos)}}
+\newcommand{\leirinhas}[1]{#1\index{\Imobiliario!Campos das Leirinhas (Goães)}}
+\newcommand{\MG}[1]{#1\index{\Onomastico!Maria Gonçalves}}
+\newcommand{\FPP}[1]{#1\index{\Onomastico!Francisco Pereira Pinto, tabelião de Penela}}
+\newcommand{\ME}[1]{#1\index{\Onomastico!Maria Engrácia (1819-1886)}}
+\newcommand{\AJdA}[1]{#1\index{\Onomastico!António Joaquim de Azevedo}}
+\newcommand{\DdAT}[1]{#1\index{\Onomastico!Diogo de Abreu Teixeira}}
+\newcommand{\ASdB}[1]{#1\index{\Onomastico!Antónia Soares de Barros}}
+\newcommand{\JdS}[1]{#1\index{\Onomastico!Joaquim da Silva}}
+\newcommand{\RdQ}[1]{#1\index{\Onomastico!Rosa de Queirós}}
+\newcommand{\JdO}[1]{#1\index{\Onomastico!João de Oliveira}}
+\newcommand{\DMM}[1]{#1\index{\Onomastico!Domingas Maria Martins}}
+\newcommand{\AMF}[1]{#1\index{\Onomastico!Ana Maria Fernandes}}
+\newcommand{\MdF}[1]{#1\index{\Onomastico!Marquês de Fronteira}}
+\newcommand{\CdSa}[1]{#1\index{\Onomastico!Conde de Samodães}}
+\newcommand{\RPV}[1]{#1\index{\Onomastico!Rosa Pereira Vilela, costureira}}
+\newcommand{\AdCL}[1]{#1\index{\Onomastico!António da Costa Lima}}
+\newcommand{\CdA}[1]{#1\index{\Imobiliario!Cortelho dos Arejos (Goães)}}
+\newcommand{\FFC}[1]{#1\index{\Onomastico!Francisco Fernandes Couto}}
+\newcommand{\FMdS}[1]{#1\index{\Onomastico!Francisco Manuel de Sousa, cantoneiro}}
+\newcommand{\JdN}[1]{#1\index{\Onomastico!Joana do Nascimento}}
+\newcommand{\JdA}[1]{#1\index{\Onomastico!Joaquim de Araújo}}
+\newcommand{\CP}[1]{#1\index{\Onomastico!Custódia Pereira}}
+\newcommand{\DB}[1]{#1\index{\Onomastico!Domingos Barcelos}}
+\newcommand{\DCdSBFdA}[1]{#1\index{\Onomastico!D.~Teresa Carolina de Sousa Barbosa Ferreira de Araújo}}
+\newcommand{\serrazim}[1]{#1\index{\Imobiliario!Casa de Serrazim (Pico de Regalados)}}
+\newcommand{\JAdS}[1]{#1\index{\Onomastico!José António da Silva}}
+\newcommand{\cerca}[1]{#1\index{\Imobiliario!Bouça da Cerca (Marrancos)}}
+\newcommand{\BdO}[1]{#1\index{\Imobiliario!Bouça das Oliveiras (Marrancos)}}
+\newcommand{\BdCard}[1]{#1\index{\Imobiliario!Bouça do Cardoso (Arcozelo)}}
+\newcommand{\assento}[1]{#1\index{\Imobiliario!Bouça do Assento ou da Fonte do Monte (Marrancos)}}
+\newcommand{\aalves}[1]{#1\index{\Onomastico!António Alves}}
+\newcommand{\aafonso}[1]{#1\index{\Onomastico!Ana Afonso}}
+\newcommand{\pico}[1]{#1\index{\Toponimico!Pico de Regalados, S.~Paio}}
+\newcommand{\vilar}[1]{#1\index{\Toponimico!Vilar das Almas, S.~Estêvão}}
+\newcommand{\MGo}[1]{#1\index{\Onomastico!Manuel Gonçalves}}
+\newcommand{\DdSL}[1]{#1\index{\Onomastico!Domingos da Silva Leal}}
+\newcommand{\fmendanha}[1]{#1\index{\Onomastico!Francisco Amélio Pinto de Mendanha Arriscado (1862-1939)}}
+\newcommand{\JMDdM}[1]{#1\index{\Onomastico!José Miguel Duarte de Macedo}}
+\newcommand{\sPdAD}[1]{#1\index{\Onomastico!Paulo de Araújo Dias, negociante}}
+\newcommand{\mariaf}[1]{#1\index{\Onomastico!Maria Ferreira}}
+\newcommand{\manf}[1]{#1\index{\Onomastico!Manuel Ferreira}}
+\newcommand{\MJS}[1]{#1\index{\Onomastico!Manuel José Soares}}
+\newcommand{\martinha}[1]{#1\index{\Onomastico!Custódia Martinha}}
+\newcommand{\mcust}[1]{#1\index{\Onomastico!Mestre Custódio, pedreiro}}
+\newcommand{\vinha}[1]{#1\index{\Imobiliario!Terra da Vinha (Marrancos)}}
+\newcommand{\bpassal}[1]{#1\index{\Imobiliario!Bouça chamada das Poças do Passal (Marrancos)}}
+\newcommand{\coto}[1]{#1\index{\Imobiliario!Eido denominado \aspas{do Coto} (Marrancos)}}
+%-------------------------------------------------------------------------------
+\usepackage{trees}
+\def\makeleaf{\box\treebox \rule{1pt}{5.4em}} %JNO             % Add leaf box to horiz list.
+%-------------------------------------------------------------------------------

@@ -191,7 +191,6 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 
 **2001**
 
-
 * G. Villavicencio and J.N. Oliveira.  [Formal reverse calculation supported by code slicing ]( wcre01.abs.html ).  In <em>Proceedings of the Eighth Working Conference on Reverse Engineering ([WCRE 2001](http://www.reengineer.org/wcre2001/)) 2-5 October 2001, Stuttgart, Germany</em>, pages 35-46. IEEE Computer Society, 2001.
 * [Bagatelle in C arranged for VDM SoLo](bagatelle.abs.html).  <em>[Journal of Universal Computer Science](http://www.jucs.org)</em>, 7(8):754-781, 2001.  Special Issue on <em>Formal Aspects of Software Engineering</em> ([Colloquium ]( http://www.ist.tugraz.at/events/coll01) in Honor of Peter Lucas , [Institute for Software Technology](http://www.ist.tu-graz.ac.at/), Graz University of Technology, May 18-19, 2001).
 * [Data processing by calculation](http://www.di.uminho.pt/~jno/ps/ewscs01.ps.gz).  Lecture notes for the [6th Estonian Winter School in Computer Science](http://www.cs.ioc.ee/yik/schools/win2001/), 4-9 March 2001, Palmse, Estonia.
@@ -268,15 +267,25 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 
 **1990**
 
-* <A HREF = "https://www.sciencedirect.com/science/article/abs/pii/009784939090005I"> Archetype-Oriented User Interfaces </a> (by Martins F.M. & Oliveira J.N.), Computers & Graphics, 17--28, Vol.14(1), 1900, Jan. 1990.
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/fac90.pdf"> <i>A Reification Calculus for Model-Oriented Software Specification</i> </a>. <A HREF = "http://link.springer.de/link/service/journals/00165/index.htm"> Formal Aspects of Computing </a>, Vol.2, 1-23, 1990, Springer Verlag.
+* <A HREF = "https://www.sciencedirect.com/science/article/abs/pii/009784939090005I"> Archetype-Oriented User Interfaces </a> (by Martins F.M. & Oliveira J.N.), Computers & Graphics, 17--28, Vol.14(1), 1900, Jan. 1990.
 
-**<1990**
+**1985**
+
+* [Graphics Programming with `Archetypes' - A Preliminary Study](https://diglib.eg.org/handle/10.2312/13303) (by F.M. Martins, J.N. Oliveira). Proceedings of the EUROGRAPHICS'85 Conference, 401-412, September 1985, Nice, France.
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/r285.ps">The Transformational Paradigm as a Means of Smoothing Abrupt Software Design Steps.</a> Int.Report #CCES-JNO:R2/85, University of Minho, Dec.85.
 * <i>Using FP for Dataflow Program Development Through Flowgraph level Transformation</i> (by Oliveira J.N., J.R.Gurd). Internal Report CCES-JNO/JRG:R1/85, September 1985, Univ. of Minho.
-* [Graphics Programming with `Archetypes' - A Preliminary Study](https://diglib.eg.org/handle/10.2312/13303) (by F.M. Martins, J.N. Oliveira). Proceedings of the EUROGRAPHICS'85 Conference, 401-412, September 1985, Nice, France.
+
+**1984**
+
 * <i>The Formal Semantics of Deterministic Dataflow Programs.</i> Ph.D. Thesis, Department of Computer Science, University of Manchester, February 1984.
+
+**1983**
+
 * [An Analysis of Microcomputer Implementation of Pascal](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380130406) (by J.N. Oliveira, I.R. Wilson). Software-Practice & Experience, Vol.13, 373-384, [John Wiley & Sons](http://www.wiley.com/) (1983).
+
+**1981**
+
 * <i>Pascal on Small Microcomputers.</i> M.Sc. Thesis, <A HREF = "http://info.mcc.ac.uk/MAN/science.html"> Department of Computer Science</a>, University of Manchester, October 1981.
 
 ---

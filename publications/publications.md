@@ -8,7 +8,7 @@
 
 * J.N. Oliveira.  [On the Relational Basis of Early R/G Work](https://doi.org/10.1007/978-3-031-66673-5_4).  In *The Practice of Formal Methods: Essays in Honour of Cliff Jones*, LNCS 14781, pages 56-76, 2024
 
-* P.R. Pereira, J.N. Oliveira. [Haskell meets Evariste](https://doi.org/10.48550/arXiv.2411.10142), June 2024. arXiv:2602.16809 [cs.PL]
+* P.R. Pereira, J.N. Oliveira. [Haskell meets Evariste](http://arxiv.org/abs/2602.16809), June 2024. arXiv:2602.16809 [cs.PL]
 
 * P. Silva, J.N. Oliveira, N. Macedo and A. Cunha. [Alloy Goes Fuzzy](https://link.springer.com/chapter/10.1007/978-3-031-63790-2_4). Proc. ABZ 2024, LNCS 14759, pages 61-79, 2024.
 

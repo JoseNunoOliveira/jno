@@ -274,7 +274,7 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 
 **1985**
 
-* [Graphics Programming with `Archetypes' - A Preliminary Study](https://diglib.eg.org/handle/10.2312/13303) (by F.M. Martins, J.N. Oliveira). Proceedings of the EUROGRAPHICS'85 Conference, 401-412, September 1985, Nice, France.
+* [Graphics Programming with `Archetypes' - A Preliminary Study](https://www.di.uminho.pt/~jno/ps/MO85.pdf) (by F.M. Martins, J.N. Oliveira). Proceedings of the [EUROGRAPHICS'85](https://diglib.eg.org/handle/10.2312/13303) Conference, 401-412, September 1985, Nice, France.
 * <A HREF = "http://www.di.uminho.pt/~jno/ps/r285.ps">The Transformational Paradigm as a Means of Smoothing Abrupt Software Design Steps.</a> Int.Report #CCES-JNO:R2/85, University of Minho, Dec.85.
 * <i>Using FP for Dataflow Program Development Through Flowgraph level Transformation</i> (by Oliveira J.N., J.R.Gurd). Internal Report CCES-JNO/JRG:R1/85, September 1985, Univ. of Minho.
 

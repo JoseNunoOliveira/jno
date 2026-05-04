@@ -1,27 +1,5 @@
-## Regime de Avaliação
-
-Os elementos de avaliação desta UC são:
-
-* 1 teste escrito (TE) individual, sem consulta, passível de exame de recurso
-
-* 1 apresentação oral (AO) individual de um artigo técnico na área científica da UC
-
-* 1 trabalho de grupo (TG) de 3 alunos.
-
-Há dois regimes à escolha para obter aprovação à UC:
-
-* **Regime A**) TE + AO a valerem respectivamente 60% e 40% da nota final. A nota máxima neste regime é **14** valores.
-
-* **Regime B**) TE + AO + TG a valerem respectivamente 40%, 20% e 40% da nota final. O trabalho (TG) é avaliado através de uma defesa oral.
-
-Finalmente:
-
-* Aos alunos com nota final no intervalo **[8..10[** será facultada a possibilidade de fazerem uma **oral**.
-
-* A nota mínima da componente TE é 8 valores, havendo lugar a **exame de recurso** para os alunos que tenham tido nota TE negativa. As componentes TG e AO têm nota mínima de 10 valores e não têm recurso.
-
-* Os alunos deverão comunicar a sua **escolha** de regime de avaliação até uma data que será aqui afixada brevemente.
-  
-* A escolha de regime de avalição é **vinculativa**, isto é, não irá ser permitido mudar de regime a meio.
-
-* Por omissão, aos alunos que não comunicarem a sua escolha será atribuído o **Regime A**.
+| Maps | Transportation | Sites |
+|------|----------------|-------|
+|  [HND](https://maps.app.goo.gl/PqQyzJvt64KLaisX8)    |     [Shonan Village Center](https://www.shonan-village.co.jp/eng/), 1560-39 Kamiyamaguchi, Hayama Miura-gun, Kanagawa 240-0198     | [[Visit Japan Web]([https://vjw-lp.digital.go.jp/en](https://services.digital.go.jp/en/visit-japan-web/))](https://services.digital.go.jp/en/visit-japan-web/) |
+|[Shonan Village Center](https://www.google.com/maps/place/Shonan+Village+Center/@35.2506444,139.6063356,13.85z/data=!3m1!5s0x60184754acdba2a7:0x2b614a54cf2a0439!4m9!3m8!1s0x60184754a9f32865:0x7708c6faa4945487!5m2!4m1!1i2!8m2!3d35.2596843!4d139.609164!16s%2Fg%2F1tgdnj6r?entry=ttu&g_ep=EgoyMDI2MDMwOC4wIKXMDSoASAFQAw%3D%3D) | [Trains](https://www.jreast.co.jp/multi/) | [Fast, furious, and yet correct tensor processing](https://shonan.nii.ac.jp/seminars/249/) |
+| [fm 26](https://maps.app.goo.gl/oEL8rkPNXJ4c8Z259)  | [Limousine bus](https://www.limousinebus.co.jp/en/) | [fm 26](https://conf.researchr.org/home/fm-2026)

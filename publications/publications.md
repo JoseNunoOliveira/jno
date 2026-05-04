@@ -1,5 +1,9 @@
 ## Other papers, talks, reports etc
 
+**2026**
+
+* J.N. Oliveira. [On the (Relational) Algebra of Algorithmic Complexity](https://www.di.uminho.pt/~jno/ps/wg21-84-sl.pdf). Contributed talk to [IFIP WG 2.1 #84](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Estonia2026), KVihula (Estonia), 30th April 2026.
+
 **2025**
 
 * Oliveira, J.N. [Using ChatGPT in education - a personal experience](https://science-society.inesctec.pt/index.php/inesctecesociedade/article/view/143). INESC TEC Science&Society, 1(7), 2025. 

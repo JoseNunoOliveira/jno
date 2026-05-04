@@ -56,8 +56,8 @@ no. 2, pp. 140–148, 2017.
 * J.N. Oliveira and H.D. Macedo. <em>The data cube as a typed linear algebra operator</em>. In <em>Proc. of the 16th Int. Symposium on Database Programming Languages</em>, DBPL '17, pages 6:1-6:11, New York, NY, USA, 2017. ACM. (DOI:[10.1145/3122831.3122834](http://doi.acm.org/10.1145/3122831.3122834); [Slides](http://www.di.uminho.pt/%7Ejno/ps/dbpl17sl.pdf).)
 * R. Pontes, M. Matos, J.N. Oliveira, J.O. Pereira. [Implementing a Linear Algebra Approach to Data Processing](https://link.springer.com/chapter/10.1007%2F978-3-319-60074-1_9). LNCS 10223, 215-222, 2017.
 * J.N. Oliveira. <em>Going quantitative in software modeling</em> ([Slides](http://www.di.uminho.pt/%7Ejno/ps/trust17sl.pdf)). Contributed talk to the [Trust 2nd Workshop](http://haslab.github.io/TRUST/), Braga, Oct 2017.
-* J.N. Oliveira. [Measuring probabilistic contracts](https://www.di.uminho.pt/~jno/ps/wg21-75a-sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #75](http://foswiki.cs.uu.nl/foswiki/IFIP21/Uruguay), Montevideo, Febr 2017.
-* J.N. Oliveira. [First steps in a (linear) algebra of (quantum) functional programming](https://www.di.uminho.pt/~jno/ps/wg21-75b-sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #75](http://foswiki.cs.uu.nl/foswiki/IFIP21/Uruguay), Montevideo, Febr 2017.
+* J.N. Oliveira. [Measuring probabilistic contracts](https://www.di.uminho.pt/~jno/ps/wg21-75a-sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #75](http://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Uruguay), Montevideo, Febr 2017.
+* J.N. Oliveira. [First steps in a (linear) algebra of (quantum) functional programming](https://www.di.uminho.pt/~jno/ps/wg21-75b-sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #75](http://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Uruguay), Montevideo, Febr 2017.
 
 **2016**
 
@@ -65,7 +65,7 @@ no. 2, pp. 140–148, 2017.
 * C.M. Necco, J.N. Oliveira, J. Visser and R. Uzal. *Computer Aided Verification of Relational Models*. Pages 647-658 of the proc. of [CACIC'16](http://www.cacic2016.unsl.edu.ar/), San Luis, Argentina, 3-7th October, 2016.
 * J.N. Oliveira. [What can Industry 4.0 learn from software engineering?](http://www.di.uminho.pt/~jno/ps/cirp16sl-rev.pdf) Special lecture 2, Opening Session Programme, [CIRP'16](https://cirp2016.org), Guimar&#227;es, 21-27th August 2016.
 * J.N. Oliveira. <em>On the 'divide &amp; conquer' metaphor - the 'quinta essentia' of programming</em>. [InfoBlender talk](http://haslab.uminho.pt/infoblender), HASLab/INESC TEC &amp; U.Minho, 13th Jul. 2016. ([Slides](http://www.di.uminho.pt/~jno/ps/infoblender16-1sl.pdf)).
-* J.N. Oliveira. [Towards a linear algebra semantics for query languages](https://www.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #74](http://foswiki.cs.uu.nl/foswiki/IFIP21/GlasgowScotland), University of Strathclyde in Glasgow, June 2016. ([Slides](http://www.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf) of this talk, also given at the [School of Computer Science](http://www.ncl.ac.uk/computing) of the Univ. of Newcastle, UK, and [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn).
+* J.N. Oliveira. [Towards a linear algebra semantics for query languages](https://www.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #74](http://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/GlasgowScotland), University of Strathclyde in Glasgow, June 2016. ([Slides](http://www.di.uminho.pt/~jno/ps/wg21-74a-sl.pdf) of this talk, also given at the [School of Computer Science](http://www.ncl.ac.uk/computing) of the Univ. of Newcastle, UK, and [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn).
 * J.N. Oliveira, <em>'Keep definition, change category' -- a practical approach to monadic model evolution</em>. Seminar, [TT&#220; K&#252;berneetika Instituut](http://www.ioc.ee/wiki/doku.php?id=et:seminarid&amp;a=2016&amp;lang=et&amp;liik=Scs), Tallinn, Apr 21st, 2016.
 * J.N. Oliveira. [Exploiting Galois connections for 'Rely/Guarantee Thinking'](http://www.di.uminho.pt/~jno/ps/haslabtr201601.pdf) Technical Report TR-HASLab:01:2016, May 2016.
 
@@ -74,6 +74,7 @@ no. 2, pp. 140–148, 2017.
 * D. Murta and J.N. Oliveira. <em>A study of risk-aware program transformation</em>. <em>Science of Computer Programming</em>, 110:51-77, 2015. DOI: [10.1016/j.scico.2015.04.008](http://www.sciencedirect.com/science/article/pii/S0167642315000908)
 * J.N. Oliveira. <em>Metaphorisms in Programming</em>. In <em>RAMICS 2015</em>, volume 9348 of LNCS, pages 171-190. Springer, 2015. DOI: [10.1007/978-3-319-24704-5_11](http://link.springer.com/chapter/10.1007%2F978-3-319-24704-5_11) ([Slides](https://www.researchgate.net/publication/283451657_ramics-metaphsl))
 * H.D. Macedo and J.N. Oliveira. [A linear algebra approach to OLAP](http://link.springer.com/article/10.1007%2Fs00165-014-0316-9#page-1). <em>Formal Aspects of Computing</em>, 27(2):283-307, 2015.
+* J.N. Oliveira. [Programming from Metaphorisms](https://www.di.uminho.pt/~jno/ps/metaphsl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #73](Goteborg), Lökeberg Conference Hotel, August 2015.
 * J.N. Oliveira. [Why category theory matters: a functional programmer's perspective.](https://www.researchgate.net/publication/282868977_Why_category_theory_matters_a_functional_programmers_perspective) Tutorial talk, AMS/EMS/SPM 2015 Meeting (Special Session 7), FCUP, Porto. 13th June 2015.
 
 **2014**

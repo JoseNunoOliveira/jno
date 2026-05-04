@@ -1,4 +1,4 @@
-[## Other papers, talks, reports etc
+## Other papers, talks, reports etc
 
 **2025**
 
@@ -74,7 +74,7 @@ no. 2, pp. 140–148, 2017.
 * D. Murta and J.N. Oliveira. <em>A study of risk-aware program transformation</em>. <em>Science of Computer Programming</em>, 110:51-77, 2015. DOI: [10.1016/j.scico.2015.04.008](http://www.sciencedirect.com/science/article/pii/S0167642315000908)
 * J.N. Oliveira. <em>Metaphorisms in Programming</em>. In <em>RAMICS 2015</em>, volume 9348 of LNCS, pages 171-190. Springer, 2015. DOI: [10.1007/978-3-319-24704-5_11](http://link.springer.com/chapter/10.1007%2F978-3-319-24704-5_11) ([Slides](https://www.researchgate.net/publication/283451657_ramics-metaphsl))
 * H.D. Macedo and J.N. Oliveira. [A linear algebra approach to OLAP](http://link.springer.com/article/10.1007%2Fs00165-014-0316-9#page-1). <em>Formal Aspects of Computing</em>, 27(2):283-307, 2015.
-* J.N. Oliveira. [Programming from Metaphorisms](https://www.di.uminho.pt/~jno/ps/metaphsl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #73](Goteborg), Lökeberg Conference Hotel, August 2015.
+* J.N. Oliveira. [Programming from Metaphorisms](https://www.di.uminho.pt/~jno/ps/metaphsl.pdf). Contributed talk to [IFIP WG 2.1 Meeting #73](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Goteborg), Goteborg, Lökeberg Conference Hotel, August 2015.
 * J.N. Oliveira. [Why category theory matters: a functional programmer's perspective.](https://www.researchgate.net/publication/282868977_Why_category_theory_matters_a_functional_programmers_perspective) Tutorial talk, AMS/EMS/SPM 2015 Meeting (Special Session 7), FCUP, Porto. 13th June 2015.
 
 **2014**
@@ -295,4 +295,3 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 
 [back](https://www.di.uminho.pt/~jno)
 
-](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Goteborg)

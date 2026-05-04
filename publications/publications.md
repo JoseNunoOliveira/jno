@@ -1,4 +1,4 @@
-## Other papers, talks, reports etc
+[## Other papers, talks, reports etc
 
 **2025**
 
@@ -295,3 +295,4 @@ Academia Sinica, Taiwan, Technical Report No. TR-IIS-10-009, Dec. 16, 2010.
 
 [back](https://www.di.uminho.pt/~jno)
 
+](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Goteborg)

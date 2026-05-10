@@ -1,8 +1,7 @@
 Venue
-
 |Maps|Transportation|Sites|
 |------|----------------|-------|
-|[HND](https://maps.app.goo.gl/PqQyzJvt64KLaisX8)||[Fast, furious, and yet correct tensor processing](https://shonan.nii.ac.jp/seminars/249/)|
+|[HND](https://maps.app.goo.gl/PqQyzJvt64KLaisX8)|[Keikyu company](https://www.haneda-tokyo-access.com/en/)|[Fast, furious, and yet correct tensor processing](https://shonan.nii.ac.jp/seminars/249/)|
 |[Shonan Village Center](https://www.google.com/maps/place/Shonan+Village+Center/@35.2506444,139.6063356,13.85z/data=!3m1!5s0x60184754acdba2a7:0x2b614a54cf2a0439!4m9!3m8!1s0x60184754a9f32865:0x7708c6faa4945487!5m2!4m1!1i2!8m2!3d35.2596843!4d139.609164!16s%2Fg%2F1tgdnj6r?entry=ttu&g_ep=EgoyMDI2MDMwOC4wIKXMDSoASAFQAw%3D%3D)|[Shonan Village Center](https://www.shonan-village.co.jp/eng/), 1560-39 Kamiyamaguchi, Hayama Miura-gun, Kanagawa 240-0198|[Visit Japan Web](https://services.digital.go.jp/en/visit-japan-web/)|
 |[Zushi-Hayama Station]( https://maps.app.goo.gl/x8S7G5VXMYPnfYhD8)|[Zushi-Hayama Station - KK53]( https://en.wikipedia.org/wiki/Zushi-Hayama_Station)||
 ||[Keikyu Bus](https://www.keikyu-bus.co.jp/en)||
@@ -10,7 +9,6 @@ Venue
 ||[Trains](https://www.jreast.co.jp/multi/)||
 ||[Limousine bus](https://www.limousinebus.co.jp/en/)||
 |[fm 26](https://maps.app.goo.gl/oEL8rkPNXJ4c8Z259)||[fm 26](https://conf.researchr.org/home/fm-2026)|
-
 
 
 

@@ -13,8 +13,6 @@
 
 
 ## Recent
-
-* J.N. Oliveira. <em>Reducing Logic to Arithmetics - Why not?</em>. Contributed talk to [IFIP WG 2.1 meeting #83](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Portugal2025#Technical_presentations_in_scheduled_order), Viana do Castelo, Portugal, 8-12 Sept. 2025.
  
 * P. Silva, N. Macedo and J.N. Oliveira. *On Quantitative Solution Iteration in QAlloy*. [ABZ'25](https://abz-conf.org/site/2025/program/), [LNCS 15728](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_6), pp. 88-105.
 

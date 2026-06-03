@@ -10,6 +10,8 @@
 
 * Oliveira, J.N. [Using ChatGPT in education - a personal experience](https://science-society.inesctec.pt/index.php/inesctecesociedade/article/view/143). INESC TEC Science&Society, 1(7), 2025. 
 
+* J.N. Oliveira. <em>Qien Sabe por Algebra Sabe Scientificamente</em>. Jubilation lecture, U.Minho, 14-Nov-2025. ([slides](https://www.di.uminho.pt/~jno/ps/jub25sl.pdf) in Portuguese).
+
 * J.N. Oliveira. <em>Reducing Logic to Arithmetics - Why not?</em>. Contributed talk to [IFIP WG 2.1 meeting #83](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Portugal2025#Technical_presentations_in_scheduled_order), Viana do Castelo, Portugal, 8-12 Sept. 2025.
   
 **2024**

@@ -1,3 +1,34 @@
+
+> Changing subject: what is the formal definition of a “quadratic activation” in neural networks?
+
+A **quadratic activation function** is an activation function of the form:
+
+$$f(x) = x^2$$
+
+or more generally, a second-degree polynomial:
+
+$$f(x) = ax^2 + bx + c$$
+
+where $a$, $b$, $c$ are constants (often just $a=1, b=0, c=0$ for the pure squaring case).
+
+**Key formal properties**
+
+- **Non-linearity**: Unlike identity/linear activations, $f(x)=x^2$ is non-linear, so networks using it can still, in principle, approximate non-linear functions — this is the basic requirement for an activation function to be useful in a multi-layer network at all.
+- **Non-monotonic**: It decreases for $x<0$ and increases for $x>0$, with a minimum at $x=0$. This is unlike ReLU, sigmoid, or tanh, which are monotonic.
+- **Even function**: $f(-x) = f(x)$, meaning it treats positive and negative inputs symmetrically (loses sign information).
+- **Unbounded above, bounded below**: $f(x) \in [0, \infty)$ for the pure case $x^2$, so it never outputs negative values.
+- **Derivative**: $f'(x) = 2x$ (or $f'(x) = 2ax + b$ in the general form), which is linear — this contrasts with the derivatives of sigmoid/tanh, which saturate (flatten) for large $|x|$.
+
+**Where it's used**
+
+- In some **polynomial neural networks** or **quadratic neurons**, where the neuron itself computes a quadratic form of its inputs (not just squaring a linear combination), e.g. $y = \mathbf{x}^T A \mathbf{x} + \mathbf{b}^T \mathbf{x} + c$.
+- Sometimes used in **radial basis function (RBF) networks** or in specific architectures designed to approximate quadratic/polynomial relationships more efficiently than piecewise-linear activations like ReLU.
+- Occasionally appears in physics-informed neural networks or scientific ML contexts, where the underlying phenomena are known to have quadratic relationships.
+
+**Practical caveat**: Pure quadratic activations are rarely used in standard deep learning because they tend to cause exploding gradients/activations in deep networks (since values compound multiplicatively through layers) and because the loss of sign information can discard useful input structure. They're more of a specialized or research tool than a mainstream choice like ReLU or GELU.
+
+Want me to go into how quadratic neurons compare mathematically to standard neurons (i.e., the second-order polynomial neuron formulation), or is this more about activation functions specifically?
+
 > I would like to relate this kind of activation with that proposed in this talk, https://www.di.uminho.pt/~jno/ps/wg21-83-sl.pdf, in the proposed activation calculated to implement XOR with a single neuron.
 
 I found the talk (Oliveira, "Reducing Logic to Arithmetics — Why not?", IFIP WG2.1 #83). Here's the relevant part and how it connects to quadratic activations.

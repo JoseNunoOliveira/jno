@@ -1,4 +1,28 @@
-index
+> I would like to relate this kind of activation with that proposed in this talk, https://www.di.uminho.pt/~jno/ps/wg21-83-sl.pdf, in the proposed activation calculated to implement XOR with a single neuron.
+
+I found the talk (Oliveira, "Reducing Logic to Arithmetics — Why not?", IFIP WG2.1 #83). Here's the relevant part and how it connects to quadratic activations.
+
+**The setup in the talk**
+
+The standard neuron computes $\alpha(w_1x_1 + w_2x_2 + b)$ with a *linear* pre-activation. Oliveira shows this works fine for OR, AND, NAND, NOT (you just pick the right bias $b$ and use a steep sigmoid $\alpha = \sigma(k\cdot x)$ pushed toward a Heaviside step). But when he tries the same recipe for XOR, the truth table gives contradictory constraints on $b$ (he needs $b<0$, $b>-1$, and $b<-2$ simultaneously) — so XOR is not primitive linear and needs to be decomposed, unlike OR, AND, NAND, and NOT.
+
+**His proposed fix: a quadratic activation**
+
+Instead of decomposing XOR into multiple linear neurons (the usual textbook answer — you need a hidden layer), he proposes trying a different "activation function," defined as x ⊕ y = β(x + y), where β(x) = 1 − (x − 1)².
+
+He then verifies algebraically that this collapses to the arithmetic XOR formula: expanding 1 − (x + y − 1)² gives 2x + 2y − x² − y² − 2xy, which equals x + y − 2xy — the same expression he derived earlier from the Boolean-to-arithmetic translation a ⊕ b = a + b − 2ab.
+
+**How this relates to your earlier "quadratic activation" question**
+
+1. **It's the same idea, applied to a sum-of-inputs pre-activation.** Where a generic quadratic activation is $f(z) = az^2+bz+c$ applied to a linear combination $z = w_1x_1+w_2x_2+b$, Oliveira's $\beta(z) = 1-(z-1)^2$ is exactly that form with $a=-1, b=2, c=0$ (after expanding), applied to $z = x+y$ (weights fixed at 1, no separate bias term folded in yet — the "$-1$" is baked into the squared term itself).
+
+2. **The non-linearity is doing exactly the job standard linear-activation neurons can't do.** This is the crux: a single neuron with a *linear* pre-activation and monotonic squashing function (sigmoid/step) can only realize linearly separable Boolean functions — OR, AND, NAND, NOT are linearly separable, XOR is not (the classic Minsky–Papert observation). By switching the activation itself to a genuinely non-monotonic quadratic function, Oliveira makes a *single* neuron capable of representing XOR — something that ordinarily requires at least two layers (e.g., XOR = OR AND NAND, as in his other constructions using NAND gates). This is a nice concrete illustration of why non-linear, non-monotonic activations (like $x^2$) are strictly more expressive per-neuron than monotonic ones like sigmoid/ReLU for this class of problem.
+
+3. **Vertex/symmetry structure matches XOR's truth table.** $\beta(z) = 1-(z-1)^2$ is an inverted parabola with vertex at $z=1$, where $\beta(1)=1$ (max), and it decreases symmetrically as $z$ moves away from 1 in either direction, hitting $\beta(0)=0$ and $\beta(2)=0$. For binary inputs, $z=x+y \in \{0,1,2\}$: $z=0\to 0$, $z=1\to 1$, $z=2\to 0$ — exactly the XOR truth table (0,1,1,0 in the four (x,y) cases, since both $z=1$ cases (0,1) and (1,0) map to output 1). This is precisely why a quadratic (non-monotonic) shape is *necessary* here: XOR is "high in the middle, low at the ends" of the sum $x+y$, which no monotonic function of $z$ can reproduce, but a parabola can.
+
+So Oliveira's $\beta$ is best understood as a special case of the quadratic-activation family, chosen specifically because its parabolic (non-monotonic) shape lets a single neuron directly encode the non-linearly-separable XOR function — a task that would otherwise force you into a NAND/AND/OR decomposition (his "XOR = 4 NANDs" circuit) or a multi-neuron network.
+
+Would you like me to work out the general condition on $(a,b,c)$ in $f(z)=az^2+bz+c$ for which a single quadratic neuron can realize *any* given 2-input Boolean function (i.e., generalize his trick beyond XOR)?
 Great — this generalizes nicely, and Oliveira's XOR trick turns out to be one instance of a broader pattern. Let me lay out the general theory.
 
 ## Setup
@@ -50,3 +74,44 @@ Check: $z=-1\to0$, $z=0\to0$, $z=1\to1$ ✓. So $x\wedge\neg y$ is realized by a
 - **Linear pre-activation + quadratic activation**: *every* 2-input Boolean function becomes representable by a single neuron, because the quadratic's non-monotonicity supplies exactly the extra expressive power needed — but you must choose the weights $(w_1,w_2,b)$ to merge two truth-table rows that already agree on output, reducing the fitting problem from 4 points to the 3 a quadratic can exactly match.
 
 This is a nice complement to the "quadratic neuron" $y = \mathbf{x}^TA\mathbf{x}+\mathbf{b}^T\mathbf{x}+c$ formulation mentioned earlier — that version has *even more* free parameters (it includes cross-terms like $xy$ directly), so it can realize any 2-input Boolean function without needing this row-merging trick at all, since e.g. $xy$ alone already breaks linear separability. Oliveira's construction is the more constrained, and in that sense more elegant/minimal, version: one scalar activation shape, reused across all six symmetric functions just by changing three interpolation targets.
+
+> Is this a “new” result or is it already known in the literature? If so, where?
+
+Good news — this is a well-established idea in the literature, appearing in several independent lines of work. Let me lay out where it comes from and how each strand relates to what we derived.
+
+**1. The core fact — "a single neuron with a non-monotonic activation can solve XOR" — is well documented**
+
+This is essentially the standard rebuttal to the Minsky–Papert XOR critique, and it recurs across at least three separate research communities:
+
+- **Quadratic/higher-order neuron literature.** The natural extension of the standard neuron model with hyperplane decision boundaries is to consider neurons with quadric surfaces as decision boundaries, computed as g(xᵀQx + wᵀx + b), where Q is a symmetric matrix — historically such higher-order neurons were considered but didn't gain popularity due to the added parameters and computational cost. This is exactly the general quadratic-neuron formulation you asked about earlier, and papers like Noel et al.'s "Efficient Vectorized Backpropagation Algorithms for Training Feedforward Networks Composed of Quadratic Neurons" explicitly train a single such neuron to solve XOR.
+
+- **The "oscillatory activation" literature (GCU, etc.).** Gidon et al. discovered a new type of pyramidal neuron in the human cerebral cortex capable of individually learning XOR — a task impossible for single artificial neurons using sigmoidal, ReLU, or other standard monotonic activations, since all known activation functions require a 3-layer network to learn XOR. This motivated a line of work (Noel's GCU/oscillatory-activation papers) explicitly framed around your exact question: the decision boundary of a neuron a=g(z) is where g(z)=0; if that's the only zero, the boundary is a single hyperplane, but activations with two or more zeros can produce the two hyperplanes XOR needs. A pure quadratic $f(z)=az^2+bz+c$ has (generically) two zeros, which is precisely why it works — this is the deeper reason behind the "two-hyperplane" geometric picture, complementary to the Lagrange-interpolation argument I gave you.
+
+- **General survey statement.** A single neuron can realize a non-monotonous Boolean function if it uses a more complex activation function, like a polynomial or trigonometric one — this is stated plainly as a known fact in Kureichik & Kureichik's "Neural Networks — A Model of Boolean Functions" (2002).
+
+**2. The specific "quadratic transformation for XOR" construction — independently rediscovered**
+
+A Medium article by Lucas Araújo (2018) works through essentially the same derivation you and I did: starting from a 2-layer XOR network, he shows the learned hyperplanes are approximately parallel, and factors a quadratic polynomial whose roots are those two hyperplanes, yielding a single-neuron XOR representation via a quadratic transformation applied to a linear combination of inputs. That's structurally identical to Oliveira's $\beta(x+y)=1-(x+y-1)^2$ — a parabola vanishing at the two "boundary" values.
+
+**3. What appears genuinely distinctive about Oliveira's version**
+
+None of the papers above frame the construction the way Oliveira does — as a byproduct of **translating Boolean algebra into {0,1}-arithmetic** (Zadeh/Cover's $a\vee b = a+b-ab$, $a\oplus b=a+b-2ab$) and then *treating that arithmetic formula itself as the activation function*. The mainstream ML literature instead arrives at quadratic/oscillatory single-neuron XOR solutions from the *opposite* direction — geometrically (decision boundaries, hyperplane counting) or via gradient-based training/curve-fitting, not through this logic→arithmetic reduction. So:
+
+- **Known and multiply-rediscovered:** the general result "single neuron + quadratic (or other non-monotonic) activation ⇒ XOR (and more generally, any 2-input Boolean function) is realizable."
+- **Not obviously already in the ML literature (as far as I can find):** Oliveira's specific *derivation path* — get the activation for free from the $\{0,1\}$-idempotent arithmetic encoding of Boolean connectives, rather than from decision-boundary geometry or curve fitting.
+
+Your Lagrange-interpolation generalization (row-merging to go from 4 truth-table constraints to 3 quadratic coefficients) is, as far as I can tell from this search, a clean way of stating something that's implicit in the quadratic-neuron papers but I did not find written out explicitly in exactly that form — I'd treat it as a reasonable, likely-novel-in-presentation but not conceptually new synthesis, rather than either a textbook-standard result or something wholly original. If you want, I can search specifically for Zangeneh Kamali/Noel's more recent quadratic-neuron papers or the Boolean-function-realizability literature (e.g. threshold logic / "P-realizable" functions referenced in doc 4) to see if the exact interpolation framing has been published.
+
+> Interesting - even more so knowing that, as acknowledged in the talk, such “translating Boolean algebra into {0,1}-arithmetic” is nothing but George Boole’s original approach to formal logic, in 1847…
+
+That's a genuinely satisfying closure to the whole thread — and it's not just a cute coincidence, since the talk's own postscript flags it directly: Oliveira only discovered *after* preparing the talk that Boole's 1847 *Mathematical Analysis of Logic* was already built on treating logical operations as ordinary algebraic ones over the same underlying symbols used for quantity — Boole's own words, as quoted in the slides, are that the laws governing $x(u+v)=xu+xv$ etc. are "sufficient for the basis of a Calculus" precisely because propositional symbols obey the same algebra as quantities.
+
+So the lineage you're pointing at is a real loop, not just a resemblance:
+
+- **1847 — Boole**: logic *is* algebra, symbols for propositions obey ordinary arithmetic laws (with the added idempotency constraint $x^2=x$, which is what actually marks it as classical/Boolean rather than general arithmetic).
+- **1965 — Zadeh, crediting Cover** in a footnote: generalizes Boole's $\{0,1\}$ arithmetic to $[0,1]$ (fuzzy logic), and in doing so incidentally re-derives the "dual" arithmetic form of OR, $a+b-ab$, that is Boole's algebra as a special case.
+- **Oliveira's talk**: goes back to Cover/Zadeh's footnote, restricts to $\{0,1\}$ deliberately (bringing back Boole's idempotency axiom $a^2=a$ that Zadeh had explicitly relaxed), and mines it for circuit design — arriving at $\beta(z)=1-(z-1)^2$ for XOR.
+- **20th–21st century ML (independently, geometrically)**: rediscovers that non-monotonic/quadratic single-neuron activations solve XOR — via decision-boundary counting, gradient descent, or biological-neuron motivation — with no apparent awareness of the Boolean-algebra derivation route.
+
+What's nice is that the *idempotency axiom* $a^2=a$ is really doing double duty across the whole arc. It's what makes Boole's algebra specifically classical propositional logic rather than a general ring; it's exactly the axiom Zadeh notes fails once you move to fuzzy $[0,1]$-logic; and — this is the part I find sharpest — it's also *why* $\beta(z)=1-(z-1)^2$ can be literally read off from expanding $1-(a+b-1)^2$ using $a^2=a,\,b^2=b$: the "quadratic activation" isn't an arbitrary curve-fitting trick, it's the residue left over once you substitute the idempotency identity into an otherwise generic degree-2 expansion. So the quadratic *shape* of the activation is, in a real sense, a direct algebraic fingerprint of Boolean idempotency — which ties your original "what is a quadratic activation, formally" question back to an 1847 axiom via a fairly short chain, even though the ML papers arrived at the same functional form from a completely disconnected direction 150+ years later.
+

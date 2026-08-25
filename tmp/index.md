@@ -146,3 +146,82 @@ So the lineage you're pointing at is a real loop, not just a resemblance:
 
 What's nice is that the *idempotency axiom* $a^2=a$ is really doing double duty across the whole arc. It's what makes Boole's algebra specifically classical propositional logic rather than a general ring; it's exactly the axiom Zadeh notes fails once you move to fuzzy $[0,1]$-logic; and — this is the part I find sharpest — it's also *why* $\beta(z)=1-(z-1)^2$ can be literally read off from expanding $1-(a+b-1)^2$ using $a^2=a,\,b^2=b$: the "quadratic activation" isn't an arbitrary curve-fitting trick, it's the residue left over once you substitute the idempotency identity into an otherwise generic degree-2 expansion. So the quadratic *shape* of the activation is, in a real sense, a direct algebraic fingerprint of Boolean idempotency — which ties your original "what is a quadratic activation, formally" question back to an 1847 axiom via a fairly short chain, even though the ML papers arrived at the same functional form from a completely disconnected direction 150+ years later.
 
+(chatGPT)
+
+> I think I read somewhere that von Neumann had a negative opinion about formal logic as a branch of mathematics. Can you find anything about this?
+
+Yes. You are remembering a real remark, and it is stronger than merely saying that von Neumann disliked *formalism*. He explicitly criticized **formal logic as a mathematical discipline**, although he did not reject logic itself.
+
+The clearest source is a 1948 lecture by von Neumann, **“The General and Logical Theory of Automata,”** delivered at the Hixon Symposium in Pasadena. It was subsequently published in *The World of Mathematics* (1956) and in von Neumann's *Collected Works*. The relevant passage is on p. 302–303 of the latter. ([Department of Computer Science][1])
+
+His formulation is remarkably blunt:
+
+> “There exists today a very elaborate system of formal logic, and, specifically, of logic as applied to mathematics. This is a discipline with many good sides, but also with certain serious weaknesses.”
+
+He then says that formal logic is **“one of the technically most refractory parts of mathematics”**, because its rigid, all-or-none concepts have little contact with the continuous concepts of real and complex numbers. He contrasts this with analysis, which he calls the most successful and best-developed part of mathematics. ([Department of Computer Science][1])
+
+And he goes further: formal logic, because of its methodology, is
+
+> “cut off from the best cultivated portions of mathematics, and forced onto the most difficult part of the mathematical terrain, into combinatorics.”
+
+That's particularly interesting coming from von Neumann, since he was himself a major contributor to combinatorics, set theory, mathematical logic, and the theory of computing. So this isn't simply a mathematician dismissing an area he didn't understand.
+
+### But there is an important qualification
+
+I would **not** characterize von Neumann's position as “he thought formal logic was bad mathematics” or “he was opposed to mathematical logic.”
+
+In fact, his early career was deeply involved with logic and foundations. In the 1920s he worked on Hilbert's proof theory and published *Zur Hilbertschen Beweistheorie* (1927). He was also one of the first people to recognize the significance of Gödel's incompleteness results. In a November 1930 letter to Gödel, von Neumann independently arrived at essentially the second incompleteness theorem. ([Stanford Encyclopedia of Philosophy][2])
+
+And his attitude toward Gödel was certainly not dismissive: much later he described Gödel's achievement as **“singular and monumental”** and a landmark in modern logic. ([Institute for Advanced Study][3])
+
+So there is an apparent tension:
+
+**Early von Neumann:** deeply engaged in formal logic and foundations.
+
+**Later von Neumann:** increasingly skeptical that formal logic, in its existing form, was the right mathematical framework for important problems.
+
+That distinction becomes especially clear in the 1948 automata lecture.
+
+### What was he actually objecting to?
+
+His target seems to have been the **discrete, purely symbolic character of formal logic**, rather than deduction or rigor as such.
+
+He was thinking about computers and automata. Digital computers are naturally describable in terms of Boolean/discrete operations, and therefore seem to invite a purely logical theory. Von Neumann thought this was misleading.
+
+His argument was roughly:
+
+1. Formal logic deals with propositions as **all-or-none** objects.
+2. Consequently, its natural mathematics is discrete and combinatorial.
+3. But many of the most powerful mathematical techniques come from **analysis**, where quantities vary continuously.
+4. Real physical automata—especially biological systems—are not perfectly discrete. They involve noise, timing, degradation, continuous variables, etc.
+5. Therefore, a genuinely satisfactory theory of automata should somehow incorporate analysis rather than simply extending formal logic.
+
+The next part of the lecture is particularly revealing. After criticizing formal logic, he argues that the theory of automata needs to take account of something that traditional formal logic largely ignores: **the number of steps required to achieve a result**, rather than merely whether a result can be achieved in a finite number of steps. ([LessWrong][4])
+
+That's a very modern-sounding criticism of the traditional foundations of computer science: **computational complexity matters, not merely computability.**
+
+### There is also a historical irony
+
+Von Neumann's criticism occurred just as he was helping create the field that would eventually make formal logic enormously important to computer science.
+
+He was essentially saying: *Don't assume that because digital machines are discrete, their deepest mathematical theory will simply be formal logic.*
+
+His proposed alternative was considerably more **analytical** and concerned with physical processes, probability, timing, robustness, and the interaction between continuous and discrete phenomena. Modern computer science subsequently went in both directions: formal logic became enormously important, while numerical analysis, probability, dynamical systems, complexity theory, information theory, etc. also became central.
+
+So your recollection is quite well-founded. The particularly striking sentence to remember is:
+
+> **“Everybody who has worked in formal logic will confirm that it is one of the technically most refractory parts of mathematics.”** ([Department of Computer Science][1])
+
+There is a good scholarly literature around this passage. One especially useful historical discussion is in the *Rutherford Journal*, which places the remark in the context of von Neumann's broader conception of automata and his dissatisfaction with traditional mathematical logic. ([rutherfordjournal.org][5])
+
+If you're interested, I can also dig into **what von Neumann meant by this philosophically—especially whether he was criticizing Hilbert-style formalism, symbolic logic generally, or something closer to today's notion of theoretical computer science.** That turns out to be a surprisingly interesting question.
+
+[1]: https://www.cs.jhu.edu/~basu/Papers/VonNeumann1951.pdf?utm_source=chatgpt.com "John von 
+Neumann 
+ 
+COLLECTED WORKS"
+[2]: https://plato.stanford.edu/entries/proof-theory/appendix-a.html?utm_source=chatgpt.com "Proof Theory > A. Formal Axiomatics: Its Evolution and Incompleteness (Stanford Encyclopedia of Philosophy)"
+[3]: https://www.ias.edu/ideas/2007/godelian-challenge?utm_source=chatgpt.com "The Gödelian Challenge | Ideas | Institute for Advanced Study"
+[4]: https://www.lesswrong.com/posts/Eve2miBH8wAhhxNwT/von-neumann-s-critique-of-automata-theory-and-logic-in?utm_source=chatgpt.com "Von Neumann’s critique of automata theory and logic in computer science — LessWrong"
+[5]: https://www.rutherfordjournal.org/article030102.html?utm_source=chatgpt.com "The Rutherford Journal - The New Zealand Journal for the History and Philosophy of Science and Technology"
+

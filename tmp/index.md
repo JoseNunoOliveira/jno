@@ -225,3 +225,180 @@ COLLECTED WORKS"
 [4]: https://www.lesswrong.com/posts/Eve2miBH8wAhhxNwT/von-neumann-s-critique-of-automata-theory-and-logic-in?utm_source=chatgpt.com "Von Neumann’s critique of automata theory and logic in computer science — LessWrong"
 [5]: https://www.rutherfordjournal.org/article030102.html?utm_source=chatgpt.com "The Rutherford Journal - The New Zealand Journal for the History and Philosophy of Science and Technology"
 
+> Yes - even more so if one goes back to George Boole original formulation of propositional logic (1847), which was "arithmetic", and therefore more in "contact with the continuous concepts of real and complex numbers.
+
+Yes — and I think you've put your finger on a **very important historical complication** in von Neumann's criticism.
+
+Boole is almost the *counterexample* to von Neumann's characterization of formal logic. In fact, if we take Boole's 1847 project seriously, **logic did not originally become “formal” by becoming detached from mathematics; it became mathematical precisely by being connected to algebra.**
+
+Boole's title itself is revealing: *The Mathematical Analysis of Logic: Being an Essay Towards a Calculus of Deductive Reasoning*. And his opening conception was explicitly that symbolic algebra could provide a calculus of reasoning. ([Cambridge University Press][1])
+
+### Boole's logic really was algebra
+
+The crucial point is that Boole did not begin with something like modern truth tables:
+
+[
+p,q,r\in{0,1}
+]
+
+and then define logical operations as truth-functions.
+
+His starting point was much more *algebraic*. He represented classes by symbols and used ordinary-looking algebraic operations:
+
+[
+xy,\qquad x+y,\qquad 1-x
+]
+
+with the special condition
+
+[
+x^2=x.
+]
+
+Thus, for example:
+
+[
+xy=0
+]
+
+could express “No (X) is (Y),” while
+
+[
+x(1-y)=0
+]
+
+expressed “All (X)'s are (Y)'s.” ([Stanford Encyclopedia of Philosophy][2])
+
+And this is exactly where your observation becomes interesting: **Boole's algebra is not merely an imitation of arithmetic. It is a modification of ordinary algebra.**
+
+The equation
+
+[
+x^2=x
+]
+
+is what forces the logical variables into the idempotent algebra characteristic of (0) and (1). But Boole's *method of reasoning* remains recognizably algebraic. The later, more explicit restriction to (0,1) is what he called his “Rule of 0 and 1.” ([Stanford Encyclopedia of Philosophy][3])
+
+And Boole himself explicitly emphasized the generality of symbolic algebra: the validity of an algebraic process does not depend on the interpretation assigned to its symbols. The same symbolic calculation could represent a problem about numbers, geometry, dynamics, or optics. ([Cambridge University Press][4])
+
+That is a very different philosophical picture from the one von Neumann was attacking.
+
+---
+
+## And there's an even deeper connection to von Neumann
+
+I think we can sharpen the apparent disagreement considerably.
+
+Von Neumann says that formal logic has:
+
+> “very little contact with the continuous concept of the real or of the complex number, that is with mathematical analysis.”
+
+But **Boole's conception of algebra was not fundamentally restricted to the discrete**.
+
+Algebra, in the nineteenth-century sense, was the general theory of symbolic operations. Boole himself had already been working as a mathematician in areas such as differential equations and transformations; his logic was an *application of mathematical analysis/algebraic technique to reasoning*. His 1847 book explicitly describes symbolic algebra as a system whose calculations can acquire different interpretations. ([georgeboole.com][5])
+
+So there's a historical transformation here:
+
+**Boole (1847):**
+
+> Logic → algebra → mathematics
+
+where the mathematics supplies a *calculus* for reasoning.
+
+**Frege/Russell → modern mathematical logic:**
+
+> Logic → formal language → formal derivation → foundations
+
+and increasingly the mathematical subject becomes the **formal system itself**.
+
+**Von Neumann (1940s):**
+
+> Formal logic → rigid discrete combinatorics
+
+and therefore, he thinks, something increasingly remote from the continuous mathematics that has made analysis so powerful.
+
+That makes his criticism much more intelligible.
+
+### In other words, von Neumann may have been objecting to a *historically specific form* of mathematical logic
+
+This is the point I would investigate rather than simply saying “von Neumann disliked formal logic.”
+
+There is a tremendous difference between:
+
+**Boole's algebraic logic**
+
+[
+\text{logic as a mathematical calculus}
+]
+
+and
+
+**the formalist conception**
+
+[
+\text{logic as manipulation of strings according to formal rules}.
+]
+
+Boole's symbols are *variables in an algebra*. Formalist logic eventually makes the **syntax itself** into the mathematical object of study.
+
+And that distinction maps remarkably well onto von Neumann's complaint.
+
+---
+
+## There is an especially interesting irony concerning (0) and (1)
+
+Modern computer science makes Boole look like the ancestor of digital logic because we tend to read his algebra backwards:
+
+[
+0=\text{false},\qquad 1=\text{true}.
+]
+
+But that isn't quite where Boole started.
+
+In the 1847 work, (1) primarily represents the **universal class**, and (0) the empty class. His logical algebra therefore has a set/class-theoretic interpretation. Only subsequently does the (0/1) interpretation become the familiar truth-functional one. ([Stanford Encyclopedia of Philosophy][6])
+
+And Boole's later work is even more interesting because he explicitly connected his logical calculus with **probability**, which is intrinsically quantitative. His 1854 title is *An Investigation of the Laws of Thought, on which are founded the Mathematical Theories of Logic and Probabilities*. ([georgeboole.com][5])
+
+So Boole's trajectory is actually rather close to what von Neumann later wanted:
+
+[
+\boxed{\text{logic} \longleftrightarrow
+\text{algebra} \longleftrightarrow
+\text{probability} \longleftrightarrow
+\text{continuous mathematics}}
+]
+
+rather than
+
+[
+\boxed{\text{logic} \longleftrightarrow
+\text{formal syntax} \longleftrightarrow
+\text{discrete combinatorics}}.
+]
+
+That's a fascinating distinction.
+
+### And I think it changes how we should read von Neumann
+
+It may be that von Neumann's complaint wasn't really:
+
+> **“Logic is too formal.”**
+
+It was closer to:
+
+> **“The particular formalization of logic that has come to dominate mathematical logic has lost the mathematical structures—especially analysis, probability, and quantitative notions of complexity—that are needed to understand real computational systems.”**
+
+That interpretation fits extraordinarily well with the *automata* context in which he made the famous remark. His concern wasn't philosophical logic in isolation. He was asking **what mathematics should actually describe a complicated physical computing machine**.
+
+And then the Boole connection becomes almost uncanny: **Boole began by turning reasoning into algebra; von Neumann was asking whether computation could again be given a mathematics richer than bare formal deduction.**
+
+There is a very worthwhile next step here: **trace the line from Boole → Peirce → Schröder → Whitehead/Russell → Hilbert → Gödel → von Neumann**, and see exactly *where* the algebraic conception of logic gets replaced by the syntactic/formal conception that von Neumann found so refractory. I suspect that would get us much closer to what he actually meant.
+
+[1]: https://www.cambridge.org/core/books/abs/mathematical-analysis-of-logic/preface/1F175B56D918AF5A5D70CEF4D2A266CB?utm_source=chatgpt.com "Preface - The Mathematical Analysis of Logic"
+[2]: https://plato.sydney.edu.au/entries/boole/?utm_source=chatgpt.com "George Boole (Stanford Encyclopedia of Philosophy)"
+[3]: https://plato.stanford.edu/archives/sum2015/entries/boole/?utm_source=chatgpt.com "George Boole (Stanford Encyclopedia of Philosophy/Summer 2015 Edition)"
+[4]: https://www.cambridge.org/core/books/abs/mathematical-analysis-of-logic/mathematical-analysis-of-logic/CBE2D2C421D559DFAEB216ECD55939B0?utm_source=chatgpt.com "Mathematical Analysis of Logic - The Mathematical Analysis of Logic"
+[5]: https://georgeboole.com/boole/work/boolebibliography/?utm_source=chatgpt.com "Bibliography of Boole's Published Works|His Work|| George Boole 200"
+[6]: https://plato.stanford.edu/archives/sum2014/entries/boole/?utm_source=chatgpt.com "George Boole (Stanford Encyclopedia of Philosophy/Summer 2014 Edition)"
+
+

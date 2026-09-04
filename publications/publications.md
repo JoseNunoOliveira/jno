@@ -2,7 +2,9 @@
 
 **2026**
 
- * J.N. Oliveira. [From Categories to HPC Code — a Path for Correctness?](https://www.di.uminho.pt/~jno/ps/shonan26sl.pdf). Contributed talk to [Shonan Meeting #249](https://shonan.nii.ac.jp/seminars/249/), Shonan Village Center (Japan), 17-22 May 2026.
+* Cláudia Faria, Patrícia Bastos and J:N. Oliveira. Formal foundations for the Pocket+ algorithm: the RLE component. Presented at INForum 2026, UNL-FCT, Lisbon.
+
+* J.N. Oliveira. [From Categories to HPC Code — a Path for Correctness?](https://www.di.uminho.pt/~jno/ps/shonan26sl.pdf). Contributed talk to [Shonan Meeting #249](https://shonan.nii.ac.jp/seminars/249/), Shonan Village Center (Japan), 17-22 May 2026.
 
 * J.N. Oliveira. [On the (Relational) Algebra of Algorithmic Complexity](https://www.di.uminho.pt/~jno/ps/wg21-84-sl.pdf). Contributed talk to [IFIP WG 2.1 #84](https://ifipwg21wiki.cs.kuleuven.be/wiki/index.php/Estonia2026), Vihula (Estonia), 30th April 2026.
   

@@ -2,7 +2,7 @@
 
 **2026**
 
-* Cláudia Faria, Patrícia Bastos and J:N. Oliveira. Formal foundations for the Pocket+ algorithm: the RLE component. Presented at INForum 2026, UNL-FCT, Lisbon.
+* Cláudia Faria, Patrícia Bastos and J.N. Oliveira. [Formal foundations for the Pocket+ algorithm: the RLE component](./paper.pdf). Presented at [INForum 2026](https://inforum.pt/index), UNL-FCT, Lisbon.
 
 * J.N. Oliveira. [From Categories to HPC Code — a Path for Correctness?](https://www.di.uminho.pt/~jno/ps/shonan26sl.pdf). Contributed talk to [Shonan Meeting #249](https://shonan.nii.ac.jp/seminars/249/), Shonan Village Center (Japan), 17-22 May 2026.
 

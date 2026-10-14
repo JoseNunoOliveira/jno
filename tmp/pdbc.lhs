@@ -229,10 +229,9 @@ to be based on the types of theoretical foundations and practical disciplines,
 that are traditional in the established branches of engineering.
 \end{quote}
 Provocative or not, the need for sound theoretical foundations has clearly
-been under concern since the very beginning of the discipline --- exactly fifty
-years ago, at the time of writing. However, how
-``scientific'' do such foundations turn out to be,
-now that five decades have since elapsed?\footnote{
+been under concern since the very beginning of the discipline.
+However, how ``scientific'' do such foundations turn out to be,
+now that nearly six decades  have since elapsed?\footnote{
 The title of a communication of another ACM President, Vinton Cerf (2012),
 does not sound particularly optimistic \cite{Ce12}.
 }
@@ -250,10 +249,10 @@ The formul\ae\ and equations mentioned in this quotation
 are those of a discipline known as the \emph{Algebra
 of Programming}. Many others have contributed to this
 body of knowledge, notably Roland Backhouse and his colleagues
-at Eindhoven and Nottingham, see e.g.\ \cite{ABHVW92,Ba04a},
-Jeremy Gibbons and Ralf Hinze at Oxford
-see e.g.\ \cite{Hi1_}, among many others. Unfortunately,
-references \cite{ABHVW92,Ba04a} are still unpublished.
+at Eindhoven and Nottingham --- see e.g.\ \cite{ABHVW92,Ba04a} ---
+and Jeremy Gibbons and Ralf Hinze at Oxford --- see e.g.\ \cite{Hi1_} ---
+among many others.\footnote{ Unfortunately,
+references \cite{ABHVW92,Ba04a} are still unpublished.}
 
 When the author of this draft textbook decided to teach
 \emph{Algebra of Programming} to 2nd year students of
@@ -265,7 +264,7 @@ slides and notes helping the students to read the book.
 Eventually, such notes became chapters \ref{ch:990122a}
 to \ref{ch:050419a} of the current version of the monograph.
 The same procedure was taken when teaching the relational approach of \cite{BM97}
-to 4th year students (master level), see chapters \ref{ch:120411a} to \ref{ch:180828d}.
+at master level --- see chapters \ref{ch:120411a} to \ref{ch:180828d}.
 
 This draft book is incomplete, all subsequent chapters being still in
 \emph{slide form}\footnote{See e.g.\ see technical report \cite{Ol15c}.
@@ -276,7 +275,7 @@ and a typed-matrix library written in Haskell \cite{SO20}.}.
 Such half-finished chapters are omitted from the current print-out.
 Altogether, the idea is to show that software engineering and, in particular,
 computer programming can adopt the \emph{scientific method} as other branches
-of engineering do. Somehow, it's like following in the footsteps of those
+of engineering do. Somehow, it is like following in the footsteps of those
 who marveled at the power of algebraic reasoning in the remote past, in different
 contexts and disciplines:
 \begin{quote}\emph{
@@ -290,16 +289,15 @@ The draft of this "book" has been available online for many years, during which 
 
 \vskip 1cm
 \noindent
-University of Minho, Braga, September 2022
+University of Minho, Braga, September 2026
 
-\vskip 2em
+\vskip 1em
 
 \hskip-2em \includegraphics[width=0.5\textwidth]{sign.jpg}
 
-\vskip 2em
+\vskip 1em
 
 \noindent José N.\ Oliveira
-
 
 %\CUT{
 
@@ -5244,13 +5242,15 @@ solving the isomorphism equation $out \comp in=id$ we easily obtain the definiti
 of $out$, the converse of $in$~\footnote{Note how the singularity of type
 $1$ ensures $out$ a function: what would the outcome of $out\ 0$ be
 should $A$ be arbitrary?}:
-   \begin{eqnarray*}
-&& out\ 0 = i_1 ()
+\begin{eqnarray*}
+&&
+	 out\ 0 = i_1 ()
 \\
-	&& out(n+1) = i_2\ n
-	\end{eqnarray*}
+&&
+	out(n+1) = i_2\ n
+\end{eqnarray*}
 Finally, we generalize the target $\N_0$ to any non-empty type $B$, $(+a)$
-to any function $\rarrow BgB$ and $0$ to any constant $k$ in $B$ (this is
+to any function $\rarrow BgB$ and $0$ to any constant $b$ in $B$ (this is
 why $B$ has to be non-empty).
 %
 The corresponding generalization of $(a\times)$ is denoted by $f$ below:
@@ -5270,29 +5270,29 @@ The corresponding generalization of $(a\times)$ is denoted by $f$ below:
 	&
 	&
 	1+ {B}
-\ar@@/^1pc/[ll]^-{\junc{\kons k}{g}}
+\ar@@/^1pc/[ll]^-{\junc{\kons b}{g}}
 }
 \end{eqnarray*}
 
-It turns out that, given $k$ and $g$, there is a unique solution to the equation
+It turns out that, given $b$ and $g$, there is a unique solution to the equation
 (in $f$) captured by the diagram:
 \(
-f \comp in = \junc{\kons k}{g} \comp (id +f)
+f \comp in = \junc{\kons b}{g} \comp (id +f)
 \). We know this solution already, recall (\ref{eq:110305a}):
 \begin{eqnarray*}
-f & = & \for g k
+f & = & \for g b
 \end{eqnarray*}
 As we have seen earlier on, solution uniqueness is captured by universal properties.
 In this case we have the following property, which we will refer to by writing
 ``for-loop-universal'':
 \begin{eqnarray}
-f = \for g k & \wider\equiv & f \comp in = \junc{\kons k}{g} \comp (id +f)
+f = \for g b & \wider\equiv & f \comp in = \junc{\kons b}{g} \comp (id +f)
 \label{eq:110401b}
 \end{eqnarray}
 
 From this property it is possible to infer a basic theory of for-loops. For
 instance, by making $f=id$ and solving the for-loop-universal equation
-(\ref{eq:110401b}) for $g$ and $k$ we obtain the reflection law:
+(\ref{eq:110401b}) for $g$ and $b$ we obtain the reflection law:
 \begin{eqnarray}
 \for {|succ|} 0 &=& id
 \end{eqnarray}
@@ -5315,8 +5315,8 @@ concept termed \emph{catamorphism}.\footnote{See e.g.\ section \ref{sec:991127a}
 In the usual "\emph{banana-bracket}" notation of catamorphisms, to be introduced later,
 the for-combinator will be written:
 \begin{eqnarray}
-	|for g k = cata(either (const k) g)|
-	\label{eq:for-as-cata}
+	|for g b = cata(either (const b) g)|
+%	\label{eq:for-as-cata}
 \end{eqnarray}
 
 In the sequel, we shall study the (more general) theory of {catamorphisms}
@@ -5344,7 +5344,7 @@ Following the same strategy that was adopted above for $(a \times)$, show that
 \begin{exercise}
 The following \emph{fusion}-law
 \begin{eqnarray}
-h \comp (\for g k) = \for j (h\ k) & \implied & h \comp g = j \comp h
+h \comp (\for g b) = \for j (h\ b) & \implied & h \comp g = j \comp h
 \label{eq:150316c}
 \end{eqnarray}
 can be derived from universal-property  (\ref{eq:110401b}) \footnote{
@@ -8008,6 +8008,10 @@ Prove (\ref{eq:231109b}).
 \qed
 \end{eqnarray*}
 }
+%format muF = "\fun{T}"
+%format muG = "\fun{T}"
+%format inF = "\mathsf{in}"
+%format inG = "\mathsf{in}"
 \end{exercise}
 
 \section{A catalogue of standard polynomial inductive types}\label{sec:polyCat}
@@ -8828,12 +8832,11 @@ int fib(int n)
 where the extra variable $a$ is required for ensuring that \emph{simultaneous} assignment
 $x,y := x+y,x$ takes place in a sequential way.
 
-Recall from section \ref{sec:120409a}
-that all $\N_0$ catamorphisms are
-of shape $\scata{\alt{\kons k}g}$ and such that $\scata{\alt{\kons k}g} n = g^n k$, where
+Recall from section \ref{sec:120409a} that all $\N_0$ catamorphisms are of
+shape $\scata{\alt{\kons i}g}$ and such that $\scata{\alt{\kons i}g} n = g^n i$, where
 $g^n$ is the $n$-th iteration of $g$, that is,
 $g^0 = id$ and $g^{n+1}=g \comp g^n$. That is, $g$ is the body of a ``for-loop''
-which repeats itself $n$-times, starting with initial value $k$.
+which repeats itself $n$-times, starting with initial value $i$.
 %
 Recall also that the for-loop combinator is nothing but the ``fold combinator''
 (\ref{eq:110305a}) associated to the natural number data type.
@@ -8874,7 +8877,12 @@ lin\ 0 &=& 3
 \\
 lin (n+1) &=& 2 + lin\ n
 \end{eqnarray*}
-By redefining
+Observe that |lin| is already the catamorphism |cata(either (const 3) (2+))|,
+and so it does nor need to be further decomposed.\footnote{\label{fn:261004a} Recalling the
+\emph{finite difference} operator |vDelta f n = f(n+1) - f n|, it can be observed that
+|bnm = vDelta ns|, |lin = vDelta bnm|, |const 2 = vDelta lin| and |vDelta (const 2) = const 0|.
+}
+ By redefining
 \begin{eqnarray*}
 bnm'\ 0 &=& 1
 \\
@@ -9011,7 +9019,7 @@ where
 \\
 	|out = conv inT|
 \end{quote}
-Show that the same function can be defined in terms of a loop-\textsf{for}, as follows:
+Show that the same function can be defined in terms of a \textsf{for}-loop, as follows:
 \end{minipage}
 &
 \begin{minipage}{0.5\textwidth}
@@ -9093,7 +9101,7 @@ which dualizes the mutual recursion law (\ref{eq:fokkinga}), cf.
 \end{exercise}
 
 \begin{exercise} %label{ex:cp1819q15}
-The mutual recursion law generalizes to hylomorphisms sharing the same anamorfism coalgebra:
+The mutual recursion law generalizes to hylomorphisms sharing the same anamorphism coalgebra:
 \begin{eqnarray}
 	|split f g = cata (split h k) . (ana q)|
 &\equiv&
@@ -9167,12 +9175,12 @@ and obtain the following linear version,
 \begin{code}
 exp x n = let (e,b,c) = aux x n
           in e where
-               aux x 0 = (1,2,x)
+               aux x 0 = (1,x,2)
                aux x (n+1) =
-                   let (e,s,h) = aux x n
-                   in  (e+h,s+1,(x/s)*h)
+                   let (e,h,s) = aux x n
+                   in  (e+h,(x/s)*h,s+1)
 \end{code}
-which translates directly to the encoding in C:
+which translates directly to this encoding in C:
 \begin{quote}\em\small
 \begin{verbatim}
 float exp(float x, int n)
@@ -9183,6 +9191,8 @@ float exp(float x, int n)
 };
 \end{verbatim}
 \end{quote}
+\textbf{Hint}: recalling footnote \ref{fn:261004a}, start by showing that the finite difference
+|t x n = exp x (n+1) - exp x n| is such that |frac(t x(n+1))(t x n) = frac x (n+1)|.
 \end{exercise}
 
 \begin{exercise}
@@ -9193,11 +9203,11 @@ Consider the formula that gives the |n|-th {Catalan number}:
 \end{eqnarray}
 The aim of this exercise is to find an efficient implementation of $C_n$ that, derived by mutual recursion,
 does not calculate any factorials.
-Let this be prepared by the following calculations:
+Let this be prepared by the following calculations, which unfold the ``finite quotient" $\frac{C_{n+1}}{C_n}$:
 \begin{eqnarray*}
-	C_{n+1} = \frac{(2n+2)!}{(n+2)! (n+1)! } = \frac{(2n+2)(2n+1)}{(n+2)(n+1)} C_n = \frac{4n^2+6n+2}{(n+2)(n+1)} C_n
+	\frac{C_{n+1}}{C_n} = \frac{(2n+2)(2n+1)}{(n+2)(n+1)} = \frac{4n^2+6n+2}{(n+2)(n+1)}
 \end{eqnarray*}
-Then:
+Since
 \begin{eqnarray*}
 \begin{array}{ccccc||ccc}
 	4n^2 & + & 6n & + & 2 & n & + & 1
@@ -9207,17 +9217,17 @@ Then:
 	&&0&&0
 \end{array}
 \end{eqnarray*}
-Therefore:
+we have:
 \begin{eqnarray*}
 \start
 	C_{n+1} = \frac{4n+2}{n+2} C_n
 \end{eqnarray*}
-Now define:
+By defining
 \begin{eqnarray*}
 \start	|f n| = 4n+2
 \more	|g n| = n+2
 \end{eqnarray*}
-Clearly:
+one has (taking the corresponding finite differences):
 \begin{eqnarray*}
 \start	|f 0| = 2
 \more	|f(n+1)| = |f n + 4|
@@ -9556,6 +9566,90 @@ A
 }
 \end{eqnarray*}
 Identify all functions $f_1$ to $f_7$.
+\end{exercise}
+
+\begin{exercise}
+\def\x#1#2#3{\hskip -1ex \begin{tabular}{lll}
+\makebox(070,0)[l]{#1} &
+\makebox(140,0)[l]{#2} &
+\makebox(70,0)[l]{#3}
+\end{tabular}\vskip 2ex
+}
+The famous |minimax| algorithm is a method for minimizing potential maximum losses between two players (for example, |alice| and |bob|).
+%format recLTree = "{\fun F}"
+Recalling the type,
+\begin{quote}
+\x{|fT = LTree A|} {|lcbr(fF X = A + (raise 2 X))(fF f = id + (raise 2 f))|} {|inT = either Leaf Fork|}
+Haskell: |data LTree a = Leaf a || Fork (LTree a, LTree a)|
+\end{quote}
+consider the mutually recursive functions:
+\begin{code}
+alice : LTree A -> A
+alice = either id (uncurry max) . recLTree bob . outLTree
+
+bob :: LTree A -> A
+bob = either id (uncurry min) . recLTree alice . outLTree
+\end{code}
+Use the law of mutual recursion to express |minimax = split alice bob| as a |LTree|-catamorphism,
+to be converted to \emph{pointwise} notation.
+\def\resolucao{Tem-se:
+\begin{eqnarray*}
+\start
+|
+	lcbr(
+		alice = either id (uncurry max) . recLTree bob . outLTree 
+	)(
+		bob   = either id (uncurry min) . recLTree alice . outLTree
+	)
+|
+\cjust{}
+|
+	lcbr(
+		alice . inLTree = either id (uncurry max) . recLTree (p2 . split alice bob) 
+	)(
+		bob . inLTree   = either id (uncurry min) . recLTree (p1 . split alice bob)
+	)
+|
+\cjust{}
+|
+	lcbr(
+		alice . inLTree = either id (uncurry max) . recLTree p2 . recLTree (split alice bob) 
+	)(
+		bob . inLTree = either id (uncurry min) . recLTree p1 . recLTree (split alice bob)
+	)
+|
+\cjust{}
+|
+	split alice bob = cata g where g =
+	                    split 
+				(either id (uncurry max) . recLTree p2)
+				(either id (uncurry min) . recLTree p1)
+|
+\cjust{}
+|
+	minimax = cata g where g =
+	                    split 
+				(either id (uncurry max) . recLTree p2)
+				(either id (uncurry min) . recLTree p1)
+|
+\end{eqnarray*}
+NB: pode-se desenvolver mais, mas não é pedido neste caso.
+\def\xxxx{Isto vem de um TP de LCC de há vários anos, cf
+
+\begin{code}
+joga f g = f . recLTree g . outLTree
+
+both :: Ord d => LTree d -> (d, d)
+both = bananas mx mn where
+       bananas j k  = cataLTree((j><k) . split (recLTree p2)(recLTree p1))
+
+mx :: Ord c => Either c (c, c) -> c
+mx = either id (uncurry max)
+
+mn :: Ord c => Either c (c, c) -> c
+mn = either id (uncurry min)
+\end{code}
+}}
 \end{exercise}
 
 \begin{exercise} \label{ex:240531g}
@@ -10173,26 +10267,6 @@ The remainder of this section is devoted to such properties.
 First of all, the properties implicit in the following diagrams will be
 \emph{required} for $\T$ to be regarded as a monad:
 
-\law{mon-mul}{
-Multiplication
-}{
-\xymatrix{
-	\ap{\T^2}A
-		\ar[d]_{µ}
-&
-	\ap{\T^3}A
-		\ar[d]^{\tfµ}
-		\ar[l]_{µ}
-\\
-	\ap{\T  }A
-&
-	\ap{\T^2}A
-		\ar[l]^{µ}
-}
-}{
-µ \comp µ = µ \comp \tfµ
-}
-
 \law{mon-unit}{
 Unit
 }{
@@ -10213,6 +10287,27 @@ Unit
 }{
 µ \comp \u = µ \comp \tf \u = id
 }
+
+\law{mon-mul}{
+Multiplication
+}{
+\xymatrix{
+	\ap{\T^2}A
+		\ar[d]_{µ}
+&
+	\ap{\T^3}A
+		\ar[d]^{\tfµ}
+		\ar[l]_{µ}
+\\
+	\ap{\T  }A
+&
+	\ap{\T^2}A
+		\ar[l]^{µ}
+}
+}{
+µ \comp µ = µ \comp \tfµ
+}
+
 \noindent The simple and beautiful symmetries apparent in these diagrams will make it
 easy to memorize their laws and check them for particular cases.
 For instance, for the $(1+)$ monad, law (\ref{eq:mon-unit}) will read as
@@ -14235,7 +14330,7 @@ show that the ``starvation" property (\ref{eq:161027a}) is satisfied by
 any of the two constant functions that model the start or end states of the Alcuin puzzle.
 \end{exercise}
 
-\section{Monotonicity}
+\section{Monotonicity} \label{sec:261011a}
 As expected, relational composition is monotonic:
 \begin{eqnarray}
 \begin{array}{c}
@@ -14343,6 +14438,7 @@ Two others are:
 \start	\mbox{- \emph{smaller} than injective (simple) is injective (simple)}
 	\label{eq:180829e}
 \more	\mbox{- \emph{larger} than entire (surjective) is entire (surjective)}
+	\label{eq:261011b}
 \end{eqnarray}
 Let us see these rules in action in trying to infer what can be said of two
 functions |f| and |r| such that
@@ -14523,6 +14619,299 @@ Dualmente:
 |
 \end{eqnarray*}
 }
+\end{exercise}
+
+\section{``Magic squares"} 
+
+Starting with (\ref{eq:180828c}), so far we have seen many instances of diagrams
+involving squares whose four sides, say |R|, |P|, |S|, |Q|, are binary relations,
+each square being a comparison between two paths of two relations each:
+\begin{eqnarray}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|P|}
+&&
+	|B|
+		\ar[dd]^{|Q|}
+		\ar[ll]_{|R|}
+\\
+&	|atmost|
+\\
+	|C|
+&&
+	|D|
+		\ar[ll]^{|S|}
+}}
+& ~~~~~~~ &
+	|sse(P . R) (S . Q)|
+	\label{eq:230830a}
+\end{eqnarray}
+This very simple geometric construct (a semi-\emph{commutative square}) is
+so expressive that elsewhere it is termd the ``magic square''
+(MS).\footnote{See e.g.\ \cite{Ol25}.} In fact, much of what we do in logic,
+functional programming, database modeling, formal semantics, etc fits in
+some MS geometry. 
+
+For instance, stating that a function |f| is entire and simple amounts to drawing the following
+squares:
+\begin{eqnarray}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|id|}
+&&
+	|A|
+		\ar[dd]^{|f|}
+		\ar[ll]_{|id|}
+&&
+	|B|
+		\ar[ll]_{|conv f|}
+		\ar[dd]^{|id|}
+\\
+&
+	|atmost|
+&&
+	|atmost|
+\\
+	|A|
+&&
+	|B|
+		\ar[ll]^{|conv f|}
+&&
+	|B|
+		\ar[ll]^{|id|}
+}}
+	\label{eq:230929a}
+\end{eqnarray}
+Moreover, shunting rule (\ref{eq:020617e}) can be stated as the following
+square equivalence,
+\begin{eqnarray*}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|f|}
+&&
+	|C|
+		\ar[dd]^{|S|}
+		\ar[ll]_{|R|}
+&&
+\\
+&
+	|atmost|
+&&
+\\
+	|B|
+&&
+	|B|
+		\ar[ll]^{|id|}
+&&
+}}
+	|<=>|
+&
+&
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|    id|}
+&&
+	|C|
+		\ar[ll]_{|     R|}
+		\ar[dd]^{|     S|}
+\\
+&	|atmost|
+\\
+	|A|
+&&
+	|B|
+		\ar[ll]^{|conv f|}
+}}
+\end{eqnarray*}
+--- similarly for (\ref{eq:020617f}).
+
+It is useful to know (and easy to prove) that ``magic'' squares compose, not only horizontally
+\begin{eqnarray}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|P|}
+&&
+	|C|
+		\ar[dd]^{|Q|}
+		\ar[ll]_{|R|}
+&&
+	|C'|
+		\ar[ll]_{|R'|}
+		\ar[dd]^{|Q'|}
+\\
+&
+	|atmost|
+&&
+	|atmost|
+\\
+	|B|
+&&
+	|D|
+		\ar[ll]^{|S|}
+&&
+	|D'|
+		\ar[ll]^{|S'|}
+}}
+&
+	\implies
+&
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|P|}
+&&
+	|C'|
+		\ar[ll]_{|R . R'|}
+		\ar[dd]^{|Q'|}
+\\
+&	|atmost|
+\\
+	|B'|
+&&
+	|D'|
+		\ar[ll]^{|S . S'|}
+}}
+	\label{eq:231207b}
+\end{eqnarray}
+but also vertically:
+\begin{eqnarray}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|P|}
+&&
+	|C|
+		\ar[dd]^{|Q|}
+		\ar[ll]_{|R|}
+\\
+&	|atmost|
+\\
+	|B|
+		\ar[dd]_{|P'|}
+&&
+	|D|
+		\ar[ll]^{|S|}
+		\ar[dd]^{|Q'|}
+\\
+&	|atmost|
+\\
+	|B'|
+&&
+	|D'|
+		\ar[ll]^{|S'|}
+}}
+&
+	\implies
+&
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|P' . P|}
+&&
+	|C|
+		\ar[dd]^{|Q' . Q|}
+		\ar[ll]_{|R|}
+\\
+&	|atmost|
+\\
+	|B'|
+&&
+	|D'|
+		\ar[ll]^{|S'|}
+}}
+	\label{eq:231106a}
+\end{eqnarray}
+Moreover, the converse of a square is a square of converses: 
+\begin{eqnarray*}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|P|}
+&&
+	|C|
+		\ar[dd]^{|Q|}
+		\ar[ll]_{|R|}
+&&
+\\
+&
+	|atmost|
+&&
+\\
+	|B|
+&&
+	|D|
+		\ar[ll]^{|S|}
+&&
+}}
+	|<=>|
+&
+&
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	|A|
+		\ar[dd]_{|conv R|}
+&&
+	|B|
+		\ar[ll]_{|conv P|}
+		\ar[dd]^{|conv S|}
+\\
+&	|atmost|
+\\
+	|C|
+&&
+	|D|
+		\ar[ll]^{|conv Q|}
+}}
+\end{eqnarray*}
+Drawing these squares and and exploiting their properties will prove quite useful in the sequel.
+
+\begin{exercise}
+Using the rules A and B of section \ref{sec:261011a}, prove (\ref{eq:231207b}) and (\ref{eq:231106a}).
+\end{exercise}
+
+\begin{exercise}
+Which of the thumb rules (\ref{eq:180829e}) or (\ref{eq:261011b}) is proved
+by putting the following magic squares together?
+\begin{eqnarray*}
+\vcenter{\xymatrix@@R=3mm@@C=3mm{
+	A
+		\ar[dd]_{|id|}
+&
+&
+	A
+		\ar[ll]_{|id|}
+		\ar[dd]_{|id|}
+&
+&
+	B
+		\ar[dd]^{|id|}
+		\ar[ll]_{|conv S|}
+\\
+&
+	|atmost|
+&&
+	|atmost|
+\\
+	|A|
+		\ar[dd]_{|S|}
+&&
+	|A|
+		\ar[dd]^{|R|}
+		\ar[ll]_{|id|}
+&&
+	|B|
+		\ar[ll]_{|conv R|}
+		\ar[dd]^{|id|}
+\\
+&
+	|atmost|
+&&
+	|atmost|
+\\
+	|B|
+&&
+	|B|
+		\ar[ll]^{|id    |}
+&&
+	|B|
+		\ar[ll]^{|id|}
+}}
+\end{eqnarray*}
 \end{exercise}
 
 \section{Endo-relations}
@@ -15321,7 +15710,7 @@ Naturally, the implementation team asks you: which functions are |f| and |g|? He
 choose the ones you like as long as
 \begin{itemize}
 \item	both are injective
-\item	there are not two keys |k| and |k'| such that |f k = g k'|.
+\item	there are no two keys |k| and |k'| such that |f k = g k'|.
 \end{itemize}
 As your suggestion worked well, the team's leader asks you to justify your solution. Write the relational calculations with which you would justify it, taking into account that the key-value-pair data model only admits simple relations.
 \def\resolucao{
@@ -15524,7 +15913,7 @@ represented by another entry in any other aggregate, for instance:
 	|(c,b)((split Q M).(conv P))d|
 %
 \end{eqnarray*}
-Thus: |alpha((split P Q).(conv M))=((split Q M)).(conv P)|.
+Thus: |alpha((split P Q).(conv M))= (split Q M) . (conv P)|.
 
 \begin{exercise}
 Express |alpha| in terms of $trans$ (\ref{eq:180915b}) and its converse (\ref{eq:180915c}).
@@ -18158,6 +18547,7 @@ which establishes a relation on two functions |f| and |g| parametric on two othe
 	|simplediag A B D C f R g S|
 	\label{eq:040123b}
 \end{eqnarray}
+Note how this higher-order relational operator is expressed by a ` magic square"  (\ref{eq:230830a}).
 % that generalizes (\ref{eq:161120a}).
 The typing rule is:
 \begin{eqnarray*}
@@ -19247,7 +19637,7 @@ As |R-S| is smaller than |R| (exercise \ref{ex:161113c})
 and \emph{``smaller than injective is injective"} (\ref{eq:180829e}),
 it is immediate that |inv| (\ref{eq:161113e}) is preserved.
 \end{quote}
-To see this better, we unfold and draw definition (\ref{eq:161113e}) in the form of a diagram:
+To see this better, we unfold and draw definition (\ref{eq:161113e}) in the form of a MS:\footnote{Recall (\ref{eq:230830a}).}
 \begin{eqnarray*}
 |inv R|&=&
 \xymatrixrowsep{0.8em}
@@ -19946,7 +20336,7 @@ invariant specified by the relational type (\ref{eq:161120a}) statement below, o
 
 \paragraph{Abstract interpretation scheme}
 Suppose that one wishes to show that |q:B->Bool| is an invariant of some operation |rarrow B R B|, i.e.\
-that |rarrow q R q| holds and you know that |q=p.h|, for some |h:B->A|, as shown in the diagram.
+that |rarrow q R q| holds (\ref{eq:080116a}) and you know that |q=p.h|, for some |h:B->A|, as shown in the diagram.
 Then one can factor the proof in two steps:
 \par\noindent\hskip-1ex\mbox{
 \begin{minipage}{0.60\textwidth}
@@ -21042,16 +21432,16 @@ pointwise notation:
              (y >= x +1 <=> (rcb exists z (y = z+1)(z>= x)))|
 %qed
 \end{eqnarray*}
-We get |(>=)| defined inductively over the natural numbers.
+Thus we get |(>=)| defined inductively over the natural numbers.
 
 The cancellation law
 \begin{eqnarray}
 	|cata R = R . fF (cata R) . (conv inF)|
-	\label{eq:xxx-a}
+	\label{eq:260301a}
 \end{eqnarray}
 arises immediately from (\ref{eq:cataUniv-rel}) and the fact that the initial
 algebra |larrow (fF muF) inF muF| is an isomorphism. By indirect equality
-over (\ref{eq:xxx-a}) we get:
+over (\ref{eq:260301a}) we get:
 \begin{eqnarray*}
 \start
 	|X atmost (cata R)|
@@ -21079,11 +21469,11 @@ Similarly:
 	|R . fF X . (conv inF) atmost X|
 	\label{eq:190508b}
 \end{eqnarray}
-Note that the cancellation law (\ref{eq:xxx-a}) expresses |cata R| as solution (fixpoint) to the equation
+Note that the cancellation law (\ref{eq:260301a}) expresses |cata R| as solution (fixpoint) to the equation
 \begin{quote}
  |X = R . fF X . (conv inF)|.
 \end{quote}
-Law (\ref{eq:190508c}) --- resp.\ (\ref{eq:190508b}) --- tells that it is the greatest post-fixpoint --- resp.\ least pre-fixpoint --- of such an equation. Thus it is its unique solution.\footnote{Cf.\ the Knaster-Tarski fixpoint theorem.}
+Law (\ref{eq:190508c}) --- resp.\ (\ref{eq:190508b}) --- says that it is the greatest post-fixpoint --- resp.\ least pre-fixpoint --- of such an equation. Thus it is its unique solution.\footnote{Cf.\ the Knaster-Tarski fixpoint theorem.}
 
 As expected, the relational catamorphism combinator is monotonic:
 \begin{eqnarray}
@@ -21120,7 +21510,7 @@ being coreflexive and reflexive:
 Thus |(>=)| is reflexive, recall (\ref{eq:081008b}).
 
 Can we calculate the converse |(<=) = conv((>=))| from its defining catamorphism (\ref{eq:081008b})?
-By taking converses over cata-cancellation (\ref{eq:xxx-a}) we get:
+By taking converses over cata-cancellation (\ref{eq:260301a}) we get:
 \begin{eqnarray*}
 \start
 |
@@ -21419,7 +21809,7 @@ These are also quite useful in calculations. Consider, for instance, that |R| in
 %
 	 |(conv(cata R)) . R atmost inT . fF (conv(cata R)) |
 %
-\just\equiv{ cata-cancellation (\ref{eq:xxx-a}) ; converses  }
+\just\equiv{ cata-cancellation (\ref{eq:260301a}) ; converses  }
 %
 	 |inT . fF (conv(cata R)) . (conv R) . R atmost inT . fF (conv(cata R)) |
 %
@@ -21441,48 +21831,150 @@ As follow up to exercise \ref{ex:240531g} (page \pageref{ex:240531g}) show that
 |unzip| is injective. % amounts to showing that |mu = split (p1 >< p1) (p2 >< p2)| is injective, which is actually a bijection.
 \end{exercise}
 
+\section{Converse of a function theorem}
+	Some problems are easily specified by the converse of a function.
+For instance, the square root is the converse of the square function |sq x = expn x 2|, i.e.\ |Sqrt = conv sq|.
+The following is a standard result expressing the converse of a function as a relational catamorphism, provided two side conditions hold:
+\begin{eqnarray}
+	|(conv f) = (cata R)| \wider{\wider\implied}
+		\begin{lcbr}
+ 		|sse (f . R) (inT . fF f)|
+		\\
+		\mbox{|R : A <- fF A| is surjective}
+		\end{lcbr}
+\end{eqnarray}
+given |larrow A f muF| and |larrow (fF muF) inT muF|.
+(Proof: see theorem 6.4 in \cite{BM97}.)
+
 \section{Relational hylomorphisms}
 Given |fF|-algebras |R: A <- fF A| and |S: B <- fF B|, the composition
 \begin{eqnarray}
 	|H=cata R . (conv (cata S))|
+	\label{eq:260301b}
 \end{eqnarray}
 of type |A<-B|, is usually referred to as a \emph{hylomorphism} \cite{BM97}.
-As an example, define |delta = either id id|. Then the |(1+)|-hylomorphism
-\begin{quote}
-|H = cata(Q . delta) . (conv(cata delta))|
-\end{quote}
-is known as the transitive closure of |Q|, usually denoted by $Q^{+}$, cf:
+|cata R| is the \emph{catamorphism} part of |H| and |conv (cata S)| is its \emph{anamorphism} part.
+The intermediate type |muF| generated by |conv (cata S)| and consumed by
+|cata R| is known as the \emph{virtual data structure} of the
+hylomorphism.\footnote{See \cite{SM93}.
+The opposite composition |conv(cata S).(cata R)|, for suitably typed |S|
+and |R|, is sometimes termed a \emph{metamorphism} \cite{Gi07} or \emph{metaphorism} \cite{Ol17}.
+}
+
+By applying (\ref{eq:260301a}) to (\ref{eq:260301b}) --- twice --- and knowing
+that the algebra |inF| is an isomorphism and that |fF| is a relator,\footnote{Recall section
+\ref{sec:081203a}.} we get:
+\begin{eqnarray}
+	|H=R . fF H . (conv S)|
+	\label{eq:260301d}
+\end{eqnarray}
+Thus relational hylomorphisms can be regarded as a suitable formal basis
+for so-called \emph{divide-and-conquer} programming techniques (Fig.~\ref{fig:260301c}), where 
+|conv S| performs the \emph{divide} strategy and |R| performs the \emph{conquer} strategy.
+Taking converses,
+\begin{eqnarray*}
+	|conv H=S . fF (conv H) . (conv R)|
+\end{eqnarray*}
+--- i.e.\ |conv H =cata S . (conv (cata R))| --- we see that, to obtain the converse
+of a hylomorphism, we just have to swap the divide and conquer relation.
+
+%format (tclos (r)) = "{" r "}^{+} " 
+Relational hylomorphisms are a very powerful construct for expressing and
+reasoning about inductive programs or definitions. For instance, the transitive
+closure of a relation |Q|, usually denoted by |tclos Q|,
+\begin{eqnarray*}
+	|tclos Q = cup Q (Q . tclos Q)|
+\end{eqnarray*}
+is the hylomorphism
+|H = cata(Q . junc) . (conv(cata junc))|
+where
+\begin{eqnarray}
+	|junc = either id id|
+	\label{eq:260301d}
+\end{eqnarray}
+cf.:
 \begin{eqnarray*}
 \start
-	|X = (either Q Q) . (id + X) . (conv(either id id))|
+	|tclos Q = cup Q (Q . tclos Q)|
 %
-\just\equiv{ relational coproducts }
+\just\equiv{ relational coproducts (\ref{eq:060303c}) }
 %
-	|X = either Q (Q . X) . (conv(either id id))|
+	|tclos Q = either Q (Q . tclos Q) . (conv(either id id))|
 %
-\just\equiv{ relational coproducts }
+\just\equiv{ relational coproducts (\ref{eq:040201d}) }
 %
-	|X = cup Q (Q . X)|
+	|tclos Q = (either Q Q) . (id + tclos Q) . (conv(either id id))|
 %
+\just\equiv{ coproduct fusion; above }
+%
+	|tclos Q = cata(Q . junc) . (conv(cata junc))|
+%
+\qed
 \end{eqnarray*}
-
-The intermediate type |muF| generated by |conv (cata S)| and consumed by
-|cata R| is known as the \emph{virtual data structure} \cite{SM93} of the
-hylomorphism. This is regarded as the basis of so-called \emph{divide-and-conquer} programming
-strategies. The opposite composition |conv(cata S).(cata R)|, for suitably
-typed |S| and |R|, is sometimes termed a \emph{metamorphism} \cite{Gi07} or \emph{metaphorism} \cite{Ol17}.
 
 \begin{figure}
 \centering
 	\includegraphics[width=0.7\textwidth]{dc.jpg}
 	%the policy of maintaining control over one's subordinates or subjects by encouraging dissent between them.
-	\caption{\small The divide \& conquer programming metaphor.}
+	\caption{\small The divide \& conquer programming metaphor.} \label{fig:260301c}
 \end{figure}
 
-It can be shown that |H=cata R . (conv (cata S))| is the least solution
-(fixpoint) of the relational equation |X = R . (fF X) . (conv S)| --- details in the following paragraph.
+An interesting example of relational hylomorphism is the finite list membership relation, |larrow (Seq A) inl A|, defined by
+\begin{code}
+a inl [] = False
+a inl (h:t) = (a = h) || a inl t 
+\end{code}
+which converts to the point-free
+\begin{eqnarray}
+	|inl . inT = either bot (cup p1 (inl . p2))|
+	\label{eq:260301e}
+\end{eqnarray}
+for
+	|inT = either nil cons|,
+	|nil _ = []| and
+	|cons(h,t) = h:t|, as usual.
+In spite of having to do with finite lists, whose relator is |fF X = 1 + A >< X| (for some |A|),
+|inl| is not a hylomorphism of |fF| but rather of functor
+|fG X = 1 + (A + X)| --- see the exercise below.\footnote{This list membership hylomorphism will be addressed again in section \ref{sec:210115b}.}
 
-\paragraph{Fixpoints.} Let |psi| be a monotonic, relation-valued function.
+\begin{exercise}\label{ex:cf.csi22233q2}
+Show that that |inl| (\ref{eq:260301e}) is the relational hylomorphism
+\begin{eqnarray}
+|
+	inl = cata (either bot junc) . conv(cata(inT .  S))
+|
+\end{eqnarray}
+of functor |fG X = 1 + (A + X)|, where |junc| was given above in (\ref{eq:260301d}) and
+|
+	S =  id + either(conv p1)(conv p2)
+|.
+\def\X{
+Consider the following definition of a relation |blue(larrow (Seq A) R A)|,
+\begin{quote}
+	|blue(R . inT = either bot (cup p1 (R . p2)))|
+\end{quote}
+where
+\begin{eqnarray}
+\start
+	|inT = either nil cons|
+\more
+	|nil _ = []|
+\more
+	|cons(h,t) = h:t|
+%
+\end{eqnarray}
+(a) Rely on the co-product laws to derive (formally) the \emph{pointwise} definition of |blue(R)|.
+\\
+(b) Based on this, spell out the meaning of |blue((a R x))| in you own words.
+}
+\end{exercise}
+
+\paragraph{Fixpoints.}
+Equality (\ref{eq:260301d}) says that |H| is a solution (fixpoint) to the
+relational relational equation |X = R . (fF X) . (conv S)|. Below we show
+that it is the \emph{least} such solution.
+
+Let |psi| be a monotonic, relation-valued function.
 Any solution to the equation |X = psi X| is usually termed a \emph{fixpoint} of |psi|,
 and any solution to the equation |psi X atmost X| a \emph{pre-fixpoint} of |psi|.
 The least fixpoint of |psi| is usually denoted by |mu psi|.
@@ -21562,7 +22054,7 @@ Similarly,
 	\label{eq:200830a}
 \end{eqnarray}
 will generalize (\ref{eq:190508c}).
-Finally note that the image |cata R . (conv (cata R))| of a catamorfism
+Finally note that the image |cata R . (conv (cata R))| of a catamorphism
 is a hylomorphism. By straight application of (\ref{eq:200828a},\ref{eq:200830a}) we obtain
 \begin{eqnarray*}
 	|cata R . (conv (cata R)) atmost id| & \implied & |R . (conv R)  atmost id|
@@ -21859,17 +22351,15 @@ The equivalence
 	|X = cata R| & \equiv & |pT X = cata(pT((R . fG ins)))|
 	\label{eq:210115a}
 \end{eqnarray}
-is known as the Eilenberg-Wright Lemma \cite{BM97}. The reasoning above shows that this lemma, which gives birth to relational catamorphisms, is yet another corollary of the adjoint catamorphism theorem. (\ref{eq:210115a}) gives one a path towards implementing relational catamorphisms as set-valued recursive functions. 
-Quite often, however, (\ref{eq:210115a}) is not enough and the more general (\ref{eq:210725a}) is required. A simple example of this is the list membership relation, |larrow (Seq A) inl A|, defined by
-\begin{code}
-a inl [] = False
-a inl (h:t) = (a = h) || a inl t 
-\end{code}
-which converts to the point-free
-\begin{code}
-inl . inT = either bot (cup p1 (inl . p2))
-\end{code}
-that is, the relational hylomorphism
+is known as the Eilenberg-Wright Lemma \cite{BM97}. The reasoning above shows
+that this lemma, which gives birth to relational catamorphisms, is yet another
+corollary of the adjoint catamorphism theorem. (\ref{eq:210115a}) gives one
+a path towards implementing relational catamorphisms as set-valued recursive
+functions. Quite often, however, (\ref{eq:210115a}) is not enough and the
+more general (\ref{eq:210725a}) is required.
+A simple example of this is the list membership relation |larrow (Seq A) inl A|,
+recall (\ref{eq:260301e}) and exercise \ref{ex:cf.csi22233q2}.
+Expanding, one gets the relational hylomorphism
 \begin{quote}
 |inl =	(underbrace (either bot (either id id)) R) .
 	(underbrace (id + (id + inl)) (fG inl)) .
@@ -21895,9 +22385,16 @@ and |R . fG inl . vPhi| factors |either bot (cup p1 (inl . p2))|, as above. By t
 	\label{eq:210826a}
 %
 \end{eqnarray}
-Hints: |pT bot = empty| and |pT((cup p1 (ins.p2))) = join|, cf.\ |pT ((cup R S)) a = { b || b R a |||| b S a } = cup ((pT R a)) ((pT S a))|, |pT ins = id| etc.
+Hints assumed above, recalling (\ref{eq:zzz}): |pT bot = empty| and |pT((cup p1 (ins.p2))) = join|, cf.\ |pT ((cup R S)) a = { b || b R a |||| b S a } = cup ((pT R a)) ((pT S a))|, |pT ins = id| etc.
 
-By (\ref{eq:180526a'}), |pT inl = elems| is the same as |inl = ins . elems|, which is a familiar way of expressing list membership: |a inl x <=> a ins elems x|.
+By (\ref{eq:180526a'}), |pT inl = elems| is the same as
+\begin{quote}
+ |inl = ins . elems|
+\end{quote}
+which is a familiar way of expressing list membership:
+\begin{quote}
+ |a inl x <=> a ins elems x|.
+\end{quote}
  
 
 \section{Bibliography notes}
